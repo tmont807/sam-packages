@@ -1,7 +1,7 @@
 """Daily SAM.gov package downloader for Projexian LLC.
 
 Finds new federal solicitations Projexian can bid (small business set-aside or
-unrestricted, due 12+ days out, US only) in its service NAICS codes, downloads
+unrestricted, due 7+ days out, US only) in its service NAICS codes, downloads
 every attached file, and saves them under packages/<due> | <solicitation> | <title>/.
 Uses the same public data the SAM.gov website loads; no API key needed.
 Standard library only.
@@ -120,10 +120,8 @@ def main():
             if country and country != "USA":
                 continue
             lists = ((att.get("_embedded") or {}).get("opportunityAttachmentList") or [{}])
-            files = [a for a in (lists[0].get("attachments") or []) if a.get("resourceId") and not a.get("deletedFlag")]
+            files = [a for a in (lists[0].get("attachments") or []) if a.get("resourceId") and str(a.get("deletedFlag") or "0") != "1"]
             if not files:
-                if skips["no_files"] < 2:
-                    print("  DEBUG att:", r.get("solicitationNumber"), json.dumps(att)[:600])
                 skips["no_files"] += 1
                 continue
             sol = r.get("solicitationNumber") or nid
