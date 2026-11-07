@@ -17,7 +17,7 @@ NAICS = ["561720", "561730", "561210", "561790", "561710", "562111", "562119",
 HERE = os.path.dirname(os.path.abspath(__file__))
 HEADERS = {"Accept": "application/hal+json", "User-Agent": "Mozilla/5.0 (Projexian site feed)"}
 GAZ = "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_place_national.zip"
-MAX_ITEMS = 220
+MAX_ITEMS = 450
 
 STATE_CENTER = {
     "AL": (32.8, -86.8), "AK": (61.4, -150.0), "AZ": (34.2, -111.6), "AR": (34.9, -92.4), "CA": (37.2, -119.5),
