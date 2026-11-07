@@ -131,17 +131,13 @@ def main():
         st = (pop.get("state") or {}).get("code", "")
         city = (pop.get("city") or {}).get("name", "")
         if not st:
-            off = d.get("officeAddress") or dd.get("officeAddress") or {}
-            st = off.get("state") or ""
-            city = city or (off.get("city") or "")
+            for org in reversed(r.get("organizationHierarchy") or []):
+                addr = org.get("address") or {}
+                if addr.get("state"):
+                    st, city = addr.get("state"), (addr.get("city") or "")
+                    break
         st = (st or "").upper()[:2]
         if st not in STATE_CENTER:
-            if not globals().get("_dbg"):
-                globals()["_dbg"] = 1
-                print("DEBUG row keys:", sorted(r.keys()))
-                print("DEBUG detail keys:", sorted(d.keys()), "data2 keys:", sorted(dd.keys()))
-                print("DEBUG pop:", json.dumps(pop)[:400], "| row pop:", json.dumps(r.get("placeOfPerformance"))[:400])
-                print("DEBUG office:", json.dumps(r.get("organizationHierarchy"))[:600])
             continue
         loc = places.get((norm(city), st))
         precise = bool(loc)
