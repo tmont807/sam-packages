@@ -3,7 +3,7 @@
 - recompetes: awards in Projexian's NAICS codes whose period of performance ends in the next 12 months
 Standard library only; runs in GitHub Actions.
 """
-import json, os, time, urllib.request
+import json, os, re, time, urllib.request
 from datetime import date, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -14,8 +14,14 @@ NAICS = ["561720", "561730", "561210", "561790", "561710", "562111", "562119", "
 
 def post(body):
     req = urllib.request.Request(API, data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "User-Agent": "ProjexianSiteBuild/1.0"})
-    with urllib.request.urlopen(req, timeout=90) as r:
-        return json.loads(r.read())
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=90) as r:
+                return json.loads(r.read())
+        except Exception:
+            if attempt == 2:
+                raise
+            time.sleep(6 * (attempt + 1))
 
 
 def clean(row):
@@ -30,7 +36,7 @@ def clean(row):
     return {"id": row.get("Award ID"), "r": (row.get("Recipient Name") or "").title()[:80], "amt": num(row.get("Award Amount")),
             "start": (row.get("Start Date") or "")[:10], "end": (row.get("End Date") or "")[:10],
             "ag": (row.get("Awarding Sub Agency") or row.get("Awarding Agency") or "")[:70],
-            "desc": (row.get("Description") or "")[:140], "st": row.get("Place of Performance State Code") or "", "n": naics or "",
+            "desc": re.sub(r"^IGF::\w+::IGF\s*", "", row.get("Description") or "")[:140], "st": row.get("Place of Performance State Code") or "", "n": naics or "",
             "gid": row.get("generated_internal_id") or ""}
 
 
