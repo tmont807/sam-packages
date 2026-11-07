@@ -96,6 +96,8 @@ def main():
             changed = r.get("modifiedDate") or r.get("publishDate")
             try:
                 if not due or datetime.fromisoformat(due) < min_due:
+                    if skips["due_soon"] < 3:
+                        print("  DEBUG due:", repr(due), {k: v for k, v in r.items() if "ate" in k.lower() or "esponse" in k.lower()})
                     skips["due_soon"] += 1
                     continue
                 if changed and datetime.fromisoformat(changed) < recent:
