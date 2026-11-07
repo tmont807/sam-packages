@@ -3,7 +3,12 @@ name: Daily SAM.gov packages
 on:
   schedule:
     - cron: "17 11 * * *"   # every day, about 5:17 AM Chicago time
-  workflow_dispatch: {}      # lets you run it by hand from the Actions tab
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+    inputs:
+      recent_days:
+        description: "Look back this many days (use 60 to catch up on everything open)"
+        required: false
+        default: "3"
 
 permissions:
   contents: write
@@ -18,6 +23,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Download new solicitation packages
+        env:
+          RECENT_DAYS: ${{ github.event.inputs.recent_days }}
         run: python fetch_sam_packages.py
       - name: Save them to the repo
         run: |

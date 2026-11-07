@@ -18,7 +18,7 @@ from datetime import datetime, timedelta, timezone
 NAICS = ["561720", "561730", "561210", "561790", "561710", "562111", "562119",
          "532490", "532120", "484110", "484220", "561990", "238990"]
 MIN_DAYS_TO_DUE = 12          # skip anything due sooner than this
-RECENT_DAYS = 3               # only notices posted/changed in the last N days
+RECENT_DAYS = int(os.environ.get("RECENT_DAYS") or 3)  # only notices posted/changed in the last N days
 MAX_FILE_MB = 95              # GitHub rejects files over 100 MB
 BLOCKED_SET_ASIDES = re.compile(r"SDVOSB|8A|HZ|WOSB|VSA|VSS|IEE|ISBEE", re.I)
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "packages")
@@ -71,6 +71,7 @@ def main():
     recent = now - timedelta(days=RECENT_DAYS)
     saved = already_saved()
     seen, new = set(), []
+    skips = {"type": 0, "due_soon": 0, "not_recent": 0, "set_aside": 0, "no_files": 0}
 
     for naics in NAICS:
         try:
@@ -89,13 +90,16 @@ def main():
             seen.add(nid)
             ntype = (r.get("type") or {}).get("value", "")
             if not re.search(r"Solicitation|Combined", ntype):
+                skips["type"] += 1
                 continue
             due = r.get("responseDate")
             changed = r.get("modifiedDate") or r.get("publishDate")
             try:
                 if not due or datetime.fromisoformat(due) < min_due:
+                    skips["due_soon"] += 1
                     continue
                 if changed and datetime.fromisoformat(changed) < recent:
+                    skips["not_recent"] += 1
                     continue
             except ValueError:
                 continue
@@ -109,6 +113,7 @@ def main():
             dd = d.get("data2") or {}
             set_aside = (dd.get("solicitation") or {}).get("setAside") or ""
             if BLOCKED_SET_ASIDES.search(set_aside):
+                skips["set_aside"] += 1
                 continue
             pop = dd.get("placeOfPerformance") or {}
             country = (pop.get("country") or {}).get("code")
@@ -117,6 +122,7 @@ def main():
             lists = ((att.get("_embedded") or {}).get("opportunityAttachmentList") or [{}])
             files = [a for a in (lists[0].get("attachments") or []) if a.get("resourceId") and not a.get("deletedFlag")]
             if not files:
+                skips["no_files"] += 1
                 continue
             sol = r.get("solicitationNumber") or nid
             folder = os.path.join(ROOT, f"{due[:10]} - {clean(sol, 40)} - {clean(r.get('title'))}")
@@ -152,6 +158,7 @@ def main():
             for n in new:
                 place = ", ".join(x for x in (n["city"], n["state"]) if x)
                 f.write(f"| {n['due'][:10]} | {n['solicitationNumber']} | {clean(n['title'], 70)} | {place} | {n['setAside']} | {len(n['files'])} |\n")
+    print(f"Skipped: {skips}")
     print(f"Done: {len(new)} new packages saved.")
 
 
