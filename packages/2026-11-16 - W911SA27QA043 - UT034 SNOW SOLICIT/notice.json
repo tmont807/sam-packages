@@ -1,0 +1,38 @@
+{
+  "noticeId": "31ced7f73c9d481088bfa38c2fb9eebe",
+  "solicitationNumber": "W911SA27QA043",
+  "title": "UT034 SNOW SOLICIT",
+  "naics": "561790",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-16T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > MISSION & INSTALLATION CONTRACTING COMMAND > 419TH CSB > W6QM MICC FT MCCOY (RC)",
+  "contacts": [
+    {
+      "name": "Dorothy Doughty",
+      "email": "dorothy.a.doughty.civ@army.mil",
+      "phone": "5207060572"
+    }
+  ],
+  "files": [
+    {
+      "name": "f325a6ecb37a424584897bf04cb91553",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "897c052d5b4f4c118040c89220f55e13",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bc18c61130804d9d93bfea0c4970287e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "41cb1ffd29584810ada6c670379047bc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

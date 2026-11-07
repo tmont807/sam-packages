@@ -1,0 +1,43 @@
+{
+  "noticeId": "2fab8cb02861430681be9a295a1e9014",
+  "solicitationNumber": "FA502527QA004",
+  "title": "Heavy Equipment Transportation BPA",
+  "naics": "484220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-25T01:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > PACIFIC AIR FORCES > FA5025  356 ECEG PK",
+  "contacts": [
+    {
+      "name": "Ronald Greig",
+      "email": "ronald.greig@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Daniel Callahan",
+      "email": "daniel.callahan.7@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "27d460d7ab534753ad6a2c8c419343ec",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "16a02e11c1d344429c241ed607a95fe0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b217a40c372845e29b90b96bba5fff80",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "16554c23164d40aab7ec82bd1afd144e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "noticeId": "8d73d2309bd7491b96461093c04da51a",
+  "solicitationNumber": "HQC00527QE002",
+  "title": "Trash removal services at Harrison Village, West Point, and Pittsburg commissaries.",
+  "naics": "562111",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-19T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE COMMISSARY AGENCY  (DECA) > DEFENSE COMMISSARY AGENCY",
+  "contacts": [
+    {
+      "name": "Marcella Simmons",
+      "email": "marcella.simmons@deca.mil",
+      "phone": "8047348000"
+    },
+    {
+      "name": "Robert French",
+      "email": "robert.french@deca.mil",
+      "phone": "804-734-8000 x86478"
+    }
+  ],
+  "files": [
+    {
+      "name": "f1fbbd0f14964bbea6a650ba4e327b70",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "89a62bca9f9a409d8bf5ca67e33a6a62",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0413f1d086cd43eb8237631234e525fc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8ae2760da1e94fe1b62213401df8fe08",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "noticeId": "3c84bdbb71e74fc89480840058a2333b",
+  "solicitationNumber": "W5168W26RA014",
+  "title": "Fort Stewart Base Operations - W5168W26RA014",
+  "naics": "561210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2027-01-15T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > W6QM MICC-FDO FT SAM HOUSTON",
+  "contacts": [
+    {
+      "name": "Jonathon Hecker",
+      "email": "jonathon.r.hecker.civ@army.mil",
+      "phone": "2104662271"
+    }
+  ],
+  "files": [
+    {
+      "name": "Attachment_Q2__Industry_Questions_Fort_Stewart.xlsx",
+      "result": "28 KB"
+    },
+    {
+      "name": "5f3d481b7c7142388b4e2bfc3eefc309",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "99059d4460b04f51926afbed45847c48",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "95c35fbc01fe4f479df5988a2411249f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7d99cd9866b1456f90e2db6cd452d2a4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

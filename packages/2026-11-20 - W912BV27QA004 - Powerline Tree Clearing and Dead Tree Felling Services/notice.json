@@ -1,0 +1,38 @@
+{
+  "noticeId": "48d66e2a729f40078d1c73ef3d02847c",
+  "solicitationNumber": "W912BV27QA004",
+  "title": "Powerline Tree Clearing and Dead Tree Felling Services",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-20T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST TULSA",
+  "contacts": [
+    {
+      "name": "Marcel Pruner",
+      "email": "marcel.l.pruner@usace.army.mil",
+      "phone": "9186697079"
+    }
+  ],
+  "files": [
+    {
+      "name": "8fdc2d6946324143b7248cd1076cfaae",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2b8b1eaf33454c35bbb83d96fc0df375",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "871694b53dfd44378486aec0a11f7fac",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3912605802324674ac57a7635ee29300",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "noticeId": "71a169fd5f174d60a045c2898e52064a",
+  "solicitationNumber": "W5168W26RA015",
+  "title": "Fort Benning Base Operations - W5168W26RA015",
+  "naics": "561210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2027-01-15T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > W6QM MICC-FDO FT SAM HOUSTON",
+  "contacts": [
+    {
+      "name": "Jonathon Hecker",
+      "email": "jonathon.r.hecker.civ@army.mil",
+      "phone": "2104662271"
+    }
+  ],
+  "files": [
+    {
+      "name": "TE H0002 - Army BUILDER SMS Inventory and Assessment Guide.pdf",
+      "result": "10770 KB"
+    },
+    {
+      "name": "Attachment_Q2__Industry_Questions_Fort_Benning.xlsx",
+      "result": "28 KB"
+    },
+    {
+      "name": "597c4f4ec7324f65b2eb113f62148fdc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "45d2bb4370f44c67b79f0848b09f51ab",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4e73396aad4e4e08a5b1bf2352c1d64a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "28273c3e6c554a9c8579989567899c4a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "noticeId": "d0066f1e540f447080b579bbdb5f85d0",
+  "solicitationNumber": "FA805127R0001",
+  "title": "Air Force Contract Augmentation Program (AFCAP) VI",
+  "naics": "561210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-03T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AF INSTALLATION & MISSION SUPPORT CENTER > FA8051  772 ESS PKD",
+  "contacts": [
+    {
+      "name": "Robert Ortegon",
+      "email": "robert.ortegon@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Drew English",
+      "email": "ellery.english@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "97ac6d81a44242ea97b9b22d54d62091",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d2d52bf0db2b41a694c0ae3f4959b794",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "86979106e34c49569b0589014916b838",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "095a2fd6b17e4136aca0b4599ed776bc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "noticeId": "5ec5868586084f4385a3c3b72175145d",
+  "solicitationNumber": "W9123827QA001",
+  "title": "Pine Flat Rodent Abatement",
+  "naics": "561710",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-08T19:00:00+00:00",
+  "state": "CA",
+  "city": "Piedra",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SPD > W075 ENDIST SACRAMENTO",
+  "contacts": [
+    {
+      "name": "LA Jefferson",
+      "email": "lachad.c.jefferson@usace.army.mil",
+      "phone": "916-557-5236"
+    },
+    {
+      "name": "Raymond R. Greenheck",
+      "email": "raymond.r.greenheck@usace.army.mil",
+      "phone": "9165577929"
+    }
+  ],
+  "files": [
+    {
+      "name": "6c75f003ef8142128b48e96a12435a61",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5d8d94cbd422452f9fdeb0b285a11f79",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4102859ca247426abcb4bddf120cf8a3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d83ed380bd56416e9bdce9511368a096",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}

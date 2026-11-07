@@ -1,0 +1,38 @@
+{
+  "noticeId": "5b462fbcde4c4c3994310dd438b06157",
+  "solicitationNumber": "W912DR27QA005",
+  "title": "Herbicide Application Services - Raystown Lake Project",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-18T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST BALTIMORE",
+  "contacts": [
+    {
+      "name": "Monique Euter",
+      "email": "monique.l.jones@usace.army.mil",
+      "phone": "4109620972"
+    }
+  ],
+  "files": [
+    {
+      "name": "2959d3ecebcf437d82b0693005f1fa8e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ecda2a8f5fa54f4180b49e66e7587050",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2a920824c0d34f8b917e684788665a3f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "89e5f9f97ff64cbd9fb7a22bf49f9033",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+}
