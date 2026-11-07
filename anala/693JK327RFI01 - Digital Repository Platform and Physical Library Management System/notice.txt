@@ -1,0 +1,16 @@
+Digital Repository Platform and Physical Library Management System
+693JK327RFI01
+Due: 2026-11-16T11:00:00-05:00
+Contacts: ['loni.chinn@dot.gov']
+
+ The Pipeline and Hazardous Materials Safety Administration is seeking information from interested parties and potential vendors and systems integrators to implement a web-based Digital Repository (Virtual Library) Platform integrated with specialized Physical Library Management functionality. The primary purpose of this platform is to serve as a centralized hub providing standardized access to industry consensus standards, regulatory documentation, and reference literature applicable to LNG facility safety. The platform should allow access through IP verification or username/password, support concurrent users, and not require any additional software to be installed on the user&rsquo;s computer or server. 
+
+ The solution must seamlessly handle distinct tier-based access controls across geographically dispersed stakeholder groups, support concurrent platform usage, enforce digital rights management (DRM), track visitor engagement, and provide administrative reporting for PHMSA management.&nbsp; 
+ 
+FAR Part 10, Market Research is hereby referenced and applies. 
+
+  DISCLAIMER: THIS NOTICE IS FOR MARKET RESEARCH AND PLANNING PURPOSES ONLY.  
+
+  This Request for Information (RFI) / Sources Sought notice is issued solely for information and planning purposes and does not constitute a formal solicitation, Request for Proposal (RFP), or Invitation for Bids (IFB). In accordance with FAR 15.201(e) and FAR 52.215-3, responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. Responding to this RFI is strictly voluntary. The Government will not pay or reimburse respondents for any information submitted, preparation costs, or administrative expenses incurred in responding to this notice. All information received will be treated as information only.  
+
+  See attached RFI Notification for more requirement details.  

@@ -1,0 +1,160 @@
+DLA-RFI-CT-2027-WBOS-MKTRES
+DLA-RFI-CT-2027-WBOS-MKTRES
+Due: 2026-11-27T16:00:00-05:00
+Contacts: ['Courtney.Hunter@dla.mil', 'Ryan.Zarkowski@dla.mil']
+
+  DEFENSE LOGISTICS AGENCY (DLA) TROOP SUPPORT  
+
+  CLOTHING AND TEXTILES DIRECTORATE &mdash; PHILADELPHIA, PA  
+
+  REQUEST FOR INFORMATION (RFI) &amp; SOURCES SOUGHT NOTICE  
+
+  Whole-of-Government Web-Based Ordering System (WBOS) &amp; Commercial eMarketplace Platform  
+
+  FEDERAL MARKET RESEARCH NOTICE (FAR 15.201(e) &amp; FAR Part 10): This Request for Information (RFI) is issued solely for market research, planning, and information-gathering purposes. It does not constitute a Request for Proposals (RFP), Commercial Solutions Opening (CSO), or an obligation on the part of the Government to acquire any products or services. The Government is seeking broad industry input on commercial capabilities, architectural options, and market readiness. Responses are strictly voluntary; the Government will not reimburse any costs associated with preparing or submitting responses to this notice.  
+
+  1. Executive Summary &amp; Purpose of Inquiry  
+
+ The Defense Logistics Agency (DLA) Troop Support Clothing and Textiles (C&amp;T) Directorate is conducting market research to explore commercial software solutions, digital eMarketplace architectures, and industry best practices for deploying a next-generation Web-Based Ordering System (WBOS). DLA&rsquo;s Troop Support C&amp;T organization serves as the Federal Government&rsquo;s primary enterprise manager for military clothing and textiles, working extensively with domestic industry. DLA is currently assessing the expansion of this shared-services procurement model to serve civilian Whole-of-Government (WOG) partner agencies, including the Department of the Interior (DOI), Department of Justice (DOJ), Department of Transportation (DOT), Department of State (DOS), and Department of Homeland Security (DHS). 
+
+ The primary objective of this RFI is to engage commercial e-commerce developers, SaaS providers, systems integrators, and domestic textile industry stakeholders. DLA seeks to understand what commercial off-the-shelf (COTS) and Software-as-a-Service (SaaS) capabilities exist today, how commercial technology can resolve complex federal supply chain and fiscal integration challenges, and what industry recommendations DLA should incorporate into its upcoming acquisition strategy. DLA is committed to adopting commercial best practices and avoiding custom development wherever commercial platforms can satisfy or be adapted to meet mission requirements. 
+
+  2. Administrative Overview &amp; Acquisition Milestones  
+
+  Market Research Parameter: Information &amp; Acquisition Guidance  
+
+  Document Identifier:  DLA-RFI-CT-2027-WBOS-MKTRES 
+
+  Anticipated Acquisition Approach: &nbsp;Commercial Solutions Opening (10 U.S.C. &sect; 3458) / Commercial Acquisition (FAR Part 12 / Agile Authorities) 
+
+  Primary NAICS Code:  541512 - Computer Systems Design Services (Small Business Size Standard: $34.0M) 
+
+  Secondary NAICS Codes:  518210 - Data Processing, Hosting, and Related Services ($40.0M), 541519 - Other Computer Related Services ($34.0M) 
+
+  Product Service Code (PSC): &nbsp;DA01 - IT and Telecom - Business Application/Application Development Software 
+
+  RFI Issuance Date: &nbsp;Friday, October 30, 2026 
+
+  Industry Questions &amp; Clarifications Due:  Friday, November 06, 2026, at 16:00 EST 
+
+  Government Formal Q&amp;A Responses Posted:  Friday, November 20, 2026 
+
+  RFI Capability Response Deadline:  Friday, November 27, 2026, at 16:00 EST 
+
+  Anticipated Pre-Solicitation Industry Day:  December 2, 2026 (Virtual) 
+
+  Primary Contract Specialist:  Courtney Hunter, Contract Specialist, DLA Troop Support C&amp;T (Courtney.Hunter@dla.mil) 
+
+  Primary Contracting Officer:  Ryan Zarkowski, Individual Protection and Commercial Solutions Division Chief, DLA Troop Support (Ryan.Zarkowski@dla.mil) 
+
+  Submission Channel:  Electronic submission via email to Government POCs (Subject: &#39;WBOS RFI Response - [Company Name]&#39;) 
+
+  3. Mission Needs &amp; Strategic Challenges  
+
+ The contemplated capability would enable Government-approved vendors to list and maintain Government-approved catalogs; enable authorized agency personnel to purchase authorized items; apply agency-specific eligibility, entitlement/allowance, item-authorization, approval, and management-control rules; support authorized payment methods; and provide auditable transaction, fulfillment, and program-management information. 
+
+ To modernize uniform procurement across DoD and civilian partner agencies, any future solution must address several interrelated operational and regulatory challenges. Rather than dictating prescriptive technical designs, DLA outlines the desired functional outcomes below to invite innovative, industry-driven solutions: 
+
+  Operational Domain:&nbsp;The Operational Challenge / Desired Outcome  
+
+ Commercial Marketplace &amp; User Experience: Deliver a modern, consumer-grade multi-tenant e-commerce experience with sub-second catalog search, faceted filtering, mobile responsiveness, and intuitive uniform selection, while supporting distinct tenant agency branding (DoD, DOI, DOJ, DOT, DOS, DHS) and role-based permissions. 
+
+ Domestic Provenance &amp; Supply Chain Integrity:&nbsp;Because DLA operates as a central procurement hub utilizing the Defense Working Capital Fund (DWCF), end-items transacted through DLA are subject to 100% domestic sourcing requirements under the Berry Amendment (10 U.S.C. &sect; 4862). DLA requires automated mechanisms to verify domestic origin down to the raw material/mill level, screen supply chains for forced labor or prohibited foreign entities, and prevent unverified items from being purchased. 
+
+ Statutory Competition &amp; Micro-Purchases: In a multi-vendor marketplace environment, transactions must respect federal competition mandates (such as CICA and simplified acquisition thresholds). The Government seeks automated, user-friendly marketplace workflows that promote fair competition, facilitate dynamic quoting between micro-purchase thresholds ($15k) and simplified acquisition threshold ($350k), and prevent improper order splitting without creating administrative bottlenecks. 
+
+ Uniform Customization &amp; Value-Added Logistics: Civilian law enforcement and military personnel require customized uniforms (e.g., branch tapes, badges, department patches, embroidery, reflective safety trims, and tailored sizing). The system must support interactive customization, dimensionally accurate digital proofing, supervisor approvals, and tracking of value-added tailoring services while ensuring all component materials remain compliant. 
+
+ Interagency Accounting &amp; Fiscal Guardrails: The system must handle interagency funding across diverse partner departments without risking Antideficiency Act (ADA) violations. This includes integrating with federal financial frameworks (such as Treasury G-Invoicing Form 7600A/B), managing annual individual officer uniform allowances (5 U.S.C. &sect; 5901), supporting multi-payment split tender (allowance + GPC + personal card overages), and reconciling DLA cost-recovery surcharges without contractor fee retention. 
+
+ Cybersecurity &amp; Enterprise Interoperability: The platform will process sensitive federal uniform requisitions, military supply chain data, and law enforcement personnel information. It must meet high federal cybersecurity baselines (such as FedRAMP and DoD Cloud Computing Security Requirements), support CAC/PIV single sign-on, and interface with federal backbones such as DLA Enterprise Business System (EBS/SAP), PIEE/WAWF, and SAM.gov. 
+
+ Training &amp; Performance Tracking: Provide general user training, program manager training, etc. Implement all necessary work and time management control processes to ensure timely accurate accomplishment of work requirements as well as to permit tracking work in progress. 
+
+  4. Areas of Inquiry &amp; Market Research Questionnaire  
+
+ Industry respondents are invited to address the following questions. Offerors may respond to all or selected inquiry areas based on their core competencies and commercial experience. 
+
+   4.1 Pillar 1: Market Position &amp; Differentiation   
+
+  Question 1.1 (Core Competencies):  Outline your primary services and expertise, such as previous projects in a similar scope, or any COTS options you currently offer. 
+
+  Question 1.2 (Value Proposition):  What are your differentiators or unique selling propositions? Are there any facets that make your company standout such as a superior development system, API integration experience with the platforms mentioned? 
+
+   4.2 Pillar 2: Commercial Marketplace Architecture &amp; User Experience   
+
+  Question 2.1 (Platform Scalability &amp; Multi-Tenancy):  How does, or could, your commercial platform support multi-tenant architectures where different cabinet agencies (e.g., FBI, Border Patrol, National Park Service, Diplomatic Security) require custom-branded storefronts, restricted role-based product catalogs, and agency-specific approval hierarchies within a unified infrastructure? 
+
+  Question 2.2 (Interactive Customization &amp; Proofing):  How do commercial e-commerce platforms handle complex item personalization (e.g., applying patches, rank insignia, name tapes, custom embroidery, and sizing alterations)? What self-service visual design canvas, dimensional 3D proofing, or digital mock-up capabilities exist in your solution to ensure buyer approval prior to order release? 
+
+  Question 2.3 (Two-Layer Decoupling):  In federal enterprise marketplaces, how can the core software platform (the technology gateway and catalog hosting) be effectively decoupled from third-party physical goods fulfillment, ensuring transparent supplier onboarding and open commercial competition without software scope overlap? 
+
+  Question 2.4 (Reporting):  Describe the Government&rsquo;s ability to access, export, retain, and transition data during and after contract performance. 
+
+  Question 2.5 (Proprietary Information):  Identify any proprietary data formats, licensing restrictions, third-party dependencies, or other factors that could affect transition to another provider. 
+
+   4.3 Pillar 3: Cost &amp; Timeline   
+
+  Question 3.1 (Cost):  What is the estimated cost associated with this WBOS/eMarketplace? What is the breakdown of the yearly upkeep costs? 
+
+  Question 3.2 (Timeline):  What is the timeline to provide a fully functional WBOS/ eMarketplace? What hurdles do you foresee that might extend the timeline? How close is your current system to being fully functional based on the Government&rsquo;s needs? 
+
+   4.4 Pillar 4: Competition Automation, Cart Gating &amp; Compliance Workflows   
+
+  Question 4.1 (Automated RFQ &amp; Simplified Competition):  How do, or could, commercial B2B marketplaces automate competitive quoting for order thresholds exceeding micro-purchase levels ($15,000)? What automated capabilities exist to broadcast quote requests to certified suppliers, enforce competitive response windows, and generate side-by-side price/technical evaluation matrices for buyers? 
+
+  Question 4.2 (Anti-Splitting Surveillance &amp; Purchasing Policy):  How can commercial platforms implement algorithmic controls to detect and prevent improper order splitting (e.g., monitoring repeated or related purchases within specific time windows per user, department, or billing code) in accordance with federal purchasing rules (FAR 13.003(c)(2))? 
+
+  Question 4.3 (Approval Workflows &amp; Audit Documentation):  How does the system compile and export tamper-evident, permanent requisition records (e.g., PDF/A or structured data packages) to support contract file audits? 
+
+   4.5 Pillar 5: Interagency Financial Mechanics, Split-Tender &amp; ERP Integration   
+
+  Question 5.1 (Treasury G-Invoicing &amp; Interagency Settlement):  How can commercial marketplace platforms interface with federal intergovernmental financial frameworks, specifically U.S. Treasury G-Invoicing (Forms 7600A and 7600B) and IPAC fund settlement? What is industry experience with automated obligation validation prior to cart release? 
+
+  Question 5.2 (Allowance Caps &amp; Multi-Payment Split Checkout):  Many civilian agencies provide statutory individual uniform allowances (e.g., under 5 U.S.C. &sect; 5901). How does your platform manage individual employee stipend balances, fiscal-year allowance expirations, and multi-payment split checkouts (e.g., funding an order partially through an agency allowance/GPC and allowing personal card payment for allowable employee out-of-pocket additions under PCI-DSS standards)? 
+
+  Question 5.3 (Cost-Recovery Surcharges &amp; Direct Cash Flow):  In a revolving fund model, DLA must recover operating costs through transparent customer surcharges. How do commercial platforms dynamically apply fee markups without inflating base contractor prices, and how can platforms route transaction settlement directly into government accounts without requiring third-party vendor escrow? 
+
+   4.6 Pillar 6: Cybersecurity, Cloud Accreditation &amp; Acquisition Strategy   
+
+  Question 6.1 (Cloud Hosting &amp; Security Baselines):  What is the current cybersecurity authorization level of your solution (e.g., FedRAMP Moderate, FedRAMP High, DoD Cloud SRG Impact Level 4 or 5)? For commercial platforms currently at FedRAMP Moderate or IL-4, what is the feasibility, operational impact, and timeline to achieve or inherit DoD IL-5 compliance for hosting sensitive supply chain and personnel data? 
+
+  Question 6.2 (Enterprise Identity &amp; Back-Office Integration):  Describe your platform&rsquo;s support for Federal PKI, Common Access Card (CAC), and Personal Identity Verification (PIV) single sign-on (SSO). What standard integration methods (e.g., RESTful APIs, ANSI X12 EDI 850/855/856/810, cXML) do you utilize to interface with legacy ERP backbones (such as SAP or Oracle) and SAM.gov vendor verification? 
+
+  Question 6.3 (Commercial Pricing &amp; Agile Acquisition Models):  What standard commercial pricing models (e.g., annual SaaS subscription, tiered Gross Merchandise Value (GMV) transaction fees, catalog size licensing, or managed service models) best optimize lifecycle value for the Government? What recommendations does industry have regarding the use of agile acquisition pathways&mdash;such as Commercial Solutions Openings (CSOs under 10 U.S.C. &sect; 3458) or Other Transaction Agreements (OTAs under 10 U.S.C. &sect; 4022)&mdash;to execute a phased prototype and rapid commercial deployment? 
+
+  Question 6.4 (Operational Capabilities):  Will your solution comply with NIST SP 800-53 security controls at the (moderate/high) impact level? Will your solution fully be compliant with Section 508 of the Rehabilitation Act (36 CFR 1194)? 
+
+   4.7 Pillar 7: Past Performance &amp; Notional Models   
+
+  Question 7.1 (Past Performance/Experience):  Include a list of relevant past or current contracts, especially with government clients, demonstrating successful execution of building a multiple source ingestion platform. 
+
+  Question 7.2 (Timelines/Pricing Model):  Include a notional implementation approach and timeline. What periods of performance would allow reasonable implementation, stabilization, and operations? Include a notional pricing model with cost drivers. 
+
+  5. Submission Instructions &amp; Response Format  
+
+ DLA Troop Support invites all interested commercial e-commerce developers, cloud providers, systems integrators, and domestic textile manufacturers to submit responses in accordance with the parameters below: 
+
+  Parameter:&nbsp;Submission Guideline  
+
+  Response Due Date:  Friday, November 27, 2026 at 16:00 EST 
+
+  Submission Format: &nbsp;Single searchable Adobe PDF or Microsoft Word (.docx) document, 8.5 x 11-inch format 
+
+  Page Limitation: &nbsp;Maximum of twenty (20) pages total (excluding Title Page, Executive Summary Cover Letter, and Acronym Table) 
+
+  Font &amp; Margins: &nbsp;Standard 11-point font minimum, 1-inch margins on all sides 
+
+  Proprietary Markings: &nbsp;Vendors must clearly mark any proprietary, commercial, or trade-secret information. The Government will protect properly marked information in accordance with applicable federal disclosure laws and FAR 3.104. 
+
+  Contact Information: &nbsp;RFI Whitepaper should provide the following company information: name, mailing address, phone number and e-mail of designated point of contact. 
+
+  Recommended Submission Structure:  
+
+  &bull; Section I: Corporate Profile &amp; Commercial Capabilities (Up to 2 pages):  Company name, CAGE code, SAM.gov Unique Entity Identifier (UEI), business size/socioeconomic status under NAICS 541512, existing federal contract vehicles (e.g., GSA MAS, NASA SEWP V), commercial marketplace product description, and status as a traditional or nontraditional defense contractor. 
+
+  &bull; Section II: Technical &amp; Operational Responses to Pillars 1 through 6 (Up to 13 pages):  Direct, detailed responses to the questions in Section 4. Highlight currently operational COTS/SaaS capabilities versus features that would require minor configuration or development. 
+
+  &bull; Section III: Commercial Experience, Pricing Models &amp; Past Performance Responses to Pillar 7 (Up to 5 pages):  Up to three (3) examples or case studies demonstrating similar commercial marketplace implementations in the public sector or regulated enterprise commercial environments, accompanied by high-level commercial pricing approaches and acquisition pathway recommendations. A staffing estimate based on labor categories and expertise levels for the team capable of performing each of the stated task(s), and from professional experience, what would a project of this magnitude generally cost in support of market research. 
+
+  
