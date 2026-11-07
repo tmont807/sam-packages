@@ -33,5 +33,5 @@ for nid, r in seen.items():
         "due": r.get("responseDate", "")[:10], "naics": dd.get("naics", [{}])[0].get("code") if dd.get("naics") else None,
         "setAside": (dd.get("solicitation") or {}).get("setAside"), "state": (pop.get("state") or {}).get("code"),
         "agency": " > ".join(o.get("name", "") for o in (r.get("organizationHierarchy") or []))[:120],
-        "poc": [p.get("email") for p in (dd.get("pointOfContact") or [])][:2], "desc": re.sub(r"\s+", " ", desc)[:700]}))
+        "poc": [p.get("email") for p in (dd.get("pointOfContact") or [])][:2], "desc": re.sub(r"\s+", " ", desc)[:3000]}))
 print("TOTAL", len(seen))
