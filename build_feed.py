@@ -136,6 +136,12 @@ def main():
             city = city or (off.get("city") or "")
         st = (st or "").upper()[:2]
         if st not in STATE_CENTER:
+            if not globals().get("_dbg"):
+                globals()["_dbg"] = 1
+                print("DEBUG row keys:", sorted(r.keys()))
+                print("DEBUG detail keys:", sorted(d.keys()), "data2 keys:", sorted(dd.keys()))
+                print("DEBUG pop:", json.dumps(pop)[:400], "| row pop:", json.dumps(r.get("placeOfPerformance"))[:400])
+                print("DEBUG office:", json.dumps(r.get("organizationHierarchy"))[:600])
             continue
         loc = places.get((norm(city), st))
         precise = bool(loc)
