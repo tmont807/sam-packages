@@ -1,0 +1,45 @@
+{
+  "noticeId": "bb6dcd005e7f4d819f21e615b1320a83",
+  "solicitationNumber": "N4008427R6301",
+  "title": "Custodial Services at Commander Fleet Activities, Sasebo (CFAS), Japan.",
+  "naics": "561720",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-01T01:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC FAR EAST > NAVFACSYSCOM FAR EAST",
+  "contacts": [
+    {
+      "name": "Hirokazu Toyofuku",
+      "email": "hirokazu.toyofuku.ln@us.navy.mil",
+      "phone": "011-81-956-50-2395"
+    },
+    {
+      "name": "Amy A. Wong",
+      "email": "amy.a.wong.civ@us.navy.mil",
+      "phone": "011-81-956-50-3469"
+    }
+  ],
+  "files": [
+    {
+      "name": "446da4737bf94cfda10da86515742b3f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "30679d62cbb141f2b9abdec4c5a9ff9f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1b51577f3af54b84be5ac80ac3149b31",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a35957e8ae864c968528cdd6ea291cc7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The intent of this notice is to identify potential offerors for market research purposes. The Naval Facilities Engineering Systems Command (NAVFAC) Far East, Resident Officer in Charge of Construction (ROICC) Sasebo, is currently seeking interested contractors who are willing and qualified to provide to perform Custodial Services at Commander Fleet Activities, Sasebo (CFAS), Japan. The Government is contemplating a multiple year (one year base period and seven one-year option periods) ordering period, single award Indefinite Delivery Indefinite Quantity (IDIQ) type performance based service contract comprised of Recurring Work and Non-Recurring Work Items. PWS for the contemplated renewal IDIQ(s) is still under development, but will be substantially similar. The Government is contemplating issuing a Commercial solicitation in accordance with FAR Part 12.The Government intends to issue the solicitation as an Invitation for Bids (IFB) in accordance with (IAW) FAR 14 or Request for Proposal (RFP) IAW FAR 15.  If you are capable of and interested in performing this requirement, please complete and submit Questions Comments and Market Research: Contractor Information. Please provide any comments/recommendations/questions in this form. The response will be used as market research to help determine the acquisition method utilized by the Government for this requirement. In order to be eligible for any U.S. Government award, a contractor must register in the System for Award Management at www.sam.gov and have a valid CAGE code. Interested contractors are encouraged to begin the registration process as soon as possible. Please submit the information to Hirokazu Toyofuku, Contract Specialist via e-mail at hirokazu.toyofuku.ln@us.navy.mil no later than 10:00 am on 30 November 2026, using the subject line Sources Sought Custodial Services at CFAS, Japan. Contracting Office  Address: NAVFAC Far East, ROICC Sasebo, PSC 476 BOX 71 FPO AP 96322-0066Point of Contact(s): Hirokazu Toyofuku, Contract Specialist, 81-956-50-2395, hirokazu.toyofuku.ln@us.navy.mil Amy A. Wong, Contracting Officer, 81-956-50-3469, amy.a.wong.civ@us.navy.mil ",
+  "savedAt": "2026-11-07T03:20:51.250109+00:00"
+}

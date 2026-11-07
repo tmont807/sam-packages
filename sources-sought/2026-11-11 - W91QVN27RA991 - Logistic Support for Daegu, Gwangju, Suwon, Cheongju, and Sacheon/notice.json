@@ -1,0 +1,40 @@
+{
+  "noticeId": "853ab75451ce4d85997fcbff0d8e2b8c",
+  "solicitationNumber": "W91QVN27RA991",
+  "title": "Logistic Support for Daegu, Gwangju, Suwon, Cheongju, and Sacheon",
+  "naics": "561210",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-11T04:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > ACC-OO > 411TH CSB > 0411 AQ HQ     CONTRACT AUG",
+  "contacts": [
+    {
+      "name": "Su Ok Yun",
+      "email": "suok.yun.ln@army.mil",
+      "phone": "315-755-3349"
+    }
+  ],
+  "files": [
+    {
+      "name": "3be49a3af35444a98fc6ff0160d77921",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a13e022f192842168d781bba87a8b321",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b8d1c13691684c3d9c3a93712400b023",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ee9306acf195412fb2e7cdbcf80ccd56",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This Sources Sought Notice is issued in accordance with Federal Acquisition Regulation (FAR) Part 10, specifically FAR 10.001(a)(2)(ii), for market research purposes only. The United States Air Force is seeking information from potential and eligible vendors capable of performing the logistic Support.Attachment 1-DRAFT Performance Work Statement. This announcement is not a request for proposals and does not obligate the Government to issue a solicitation or award a contract. THIS REQUIREMENT IS OPEN TO VENDORS THAT ARE LEGALLY AUTHORIZED TO CONDUCT BUSINESS IN THE REPUBLIC OF KOREA. 0001: Unprotected copy. 0002: Please thoroughly review the attached document: ELIGIBILITY FOR AWARD OF ROK MND CONTRACTS. ",
+  "savedAt": "2026-11-07T03:20:51.250109+00:00"
+}

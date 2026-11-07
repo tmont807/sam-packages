@@ -1,0 +1,40 @@
+{
+  "noticeId": "29b46eea9f354ac28277e85e738392d3",
+  "solicitationNumber": "W91QVN27RA993",
+  "title": "Vehicle Maintenance for Daegu, Gimhae, Gwangju, Suwon, and Cheongju",
+  "naics": "561210",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-11T04:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > ACC-OO > 411TH CSB > 0411 AQ HQ     CONTRACT AUG",
+  "contacts": [
+    {
+      "name": "Su Kyong Choe",
+      "email": "sukyong.choe.ln@army.mil",
+      "phone": "315-755-0638"
+    }
+  ],
+  "files": [
+    {
+      "name": "4e64c43dede147cd8ca5a6319dab29de",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3407c362a81a408d902baac37c18ff17",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f3763d16b6c2469eba5d9cee36573791",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "420d9e44693040bb95bbf509c6a49720",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "See the attached. This project is LCS fund. See the attachment, ELIGIBILITY FOR AWARD OF ROK MND CONTRACTS, for details.PWS is updated for the editable version. ",
+  "savedAt": "2026-11-07T03:20:51.250109+00:00"
+}

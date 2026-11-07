@@ -1,0 +1,32 @@
+{
+  "noticeId": "532eea45bfb74a0cad5c22fab8ad8af2",
+  "solicitationNumber": "36C25027Q0092",
+  "title": "W099--Sources Sought  Bulk Oxygen Rental & Support Services",
+  "naics": "532490",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-12T15:00:00+00:00",
+  "state": "",
+  "city": "Cincinnati",
+  "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > 250-NETWORK CONTRACT OFFICE 10 (36C250)",
+  "contacts": [
+    {
+      "name": "Ronald Heidemann",
+      "email": "ronald.heidemann@va.gov",
+      "phone": "513-559-3708"
+    }
+  ],
+  "files": [
+    {
+      "name": "36C25027Q0092.docx",
+      "result": "27 KB"
+    },
+    {
+      "name": "43699cc99e5e4e1fb5792b1fff9aba23",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "DESCRIPTION\nThe Cincinnati Veterans Administration Medical Center (VAMC) has a requirement to provide Temporary Bulk Oxygen Rental & Support Services for Medical Gas Line Repair.\nThe intention of this Sources Sought is to obtain information only.  Please do not send a proposal.\nRequested information: \nTo aid acquisition planning, we re seeking capable and interested firms for the information requested. If your firm meets the criteria please send the point of contract (ronald.heidemann@va.gov) the following, via email: \nFirm s Name  \nSocio-Economic Status \nWhether or not your company has a contract vehicle we can order against\nIf your company believes there is an alternative NAICS code please provide this\nIf your company has any questions please provide.\n1.  Contract Title.  Temporary Bulk Oxygen Rental & Support Services for Medical Gas Line Repair\n\n2.  Background.  Provide a turnkey temporary bulk oxygen supply and services (rental tank, transport, installation, line hookup, controlled shutdown/bleeding, monitoring, and removal) to maintain uninterrupted oxygen service while VA performs a pin hole leak repair in the hospital s piped oxygen system. Work shall comply with VHA Directive 7515(1) and NFPA 99 Health Care Facilities Code requirements for medical gas systems \n3. Scope: The Contractor shall furnish all rental equipment, labor, materials, transport, and qualified personnel to:\nDeliver and set a temporary bulk liquid oxygen (LOX) tank with vaporizers and regulators sized for hospital demand. \nConnect the temporary supply to the hospital oxygen pipeline (via EOSC/auxiliary connection or source valve), including gauges, check valves, and isolation devices; verify pressure, purity, and flow stability per NFPA 99 Chapter 5. \nCoordinate and execute a controlled shutdown and bleeding of affected lines, isolate zone valves, and validate alarm behavior with VA Clinical Engineering and Respiratory Therapy. \nMonitor supply, pressure, and alarms throughout the outage; maintain contingency oxygen cylinders for clinical areas at risk. \nSupport VA repair team during line replacement/brazing and re-qualification (e.g., leak tests, purity checks, pressure verification), then transition back to the permanent bulk system and remove temporary equipment. \n4. Specific Tasks :  \nTemporary LOX tank with vaporizers sized to meet peak hourly demand; provide pressure regulating, relief, and check devices; all oxygen service compatible, oil free. \n\nAuxiliary/EOSC connection hardware, hoses, and valves compliant with facility EOSC design; include filtration as required. (NFPA 99 2024 emphasizes auxiliary connections for emergency preparedness.) \n\nAlarm interface: ensure master and area alarms receive accurate signals during temporary supply (low pressure, source changeover).  \n\nPerformance. Delivery requirements are met:\n\nFollowing VA repair and verification, transition back to primary bulk supply; execute valve re opening sequence, purge procedures, re pressurization, and alarm validation; document test results. \nRemove temporary equipment and restore site; submit as left drawings, pressure logs, and certification reports if applicable. \n6.  Place of Performance. \nCincinnati VAMC, 3200 Vine Steet, Cincinnati, Ohio 45220\n7.  Delivery:  \n Cincinnati VAMC \n 3200 Vine Street\n Cincinnati Ohio 45220\n\n",
+  "savedAt": "2026-11-07T03:20:51.250109+00:00"
+}

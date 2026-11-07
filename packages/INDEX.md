@@ -57,3 +57,9 @@
 | 2026-12-05 | 1240LT27Q0025 | SNPLMA Kalamazoo Fence | Ely, NV | SBA | 7 |
 | 2027-12-03 | 1240LT27Q0029 | Lowline Area Burned Fence Construction Project | Gunnison, CO | SBA | 6 |
 | 2026-11-23 | 140RR027R0010 | 56--PGMB Security Gate |  | SBA | 8 |
+
+## 2026-11-07
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-23 | 36C25027Q0075 | P100--Facility Scrap and Recycling Services â€” VA Northeast Ohio Heal | Cleveland, OH | SBA | 4 |

@@ -1,0 +1,37 @@
+{
+  "noticeId": "74154e5cc41f41bf8d87f565b535f1e2",
+  "solicitationNumber": "70SBUR27FOR270005",
+  "title": "Home Country Support Services",
+  "naics": "561990",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-11T22:00:00+00:00",
+  "state": "DC",
+  "city": "Washington",
+  "agency": "HOMELAND SECURITY, DEPARTMENT OF > U.S. CITIZENSHIP AND IMMIGRATION SERVICES > USCIS CONTRACTING OFFICE(ERBUR)",
+  "contacts": [
+    {
+      "name": "Jeff Bulthuis",
+      "email": "jeffrey.s.bulthuis@uscis.dhs.gov",
+      "phone": "9526978555"
+    },
+    {
+      "name": "Rajan Dahal",
+      "email": "rajan.dahal@uscis.dhs.gov",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "Sources Sought Instructions.docx",
+      "result": "18 KB"
+    },
+    {
+      "name": "DRAFT PWS for SourcesSought.docx",
+      "result": "89 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " See attached draft PWS and Sources Sought Instructions&nbsp; \n",
+  "savedAt": "2026-11-07T03:20:51.250109+00:00"
+}
