@@ -1,0 +1,42 @@
+name: Website photos
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "search or get"
+        required: true
+        default: "search"
+      queries:
+        description: "search terms, | separated"
+        required: false
+        default: ""
+      picks:
+        description: "name=photoId pairs, comma separated"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          QUERIES: ${{ github.event.inputs.queries }}
+          PICKS: ${{ github.event.inputs.picks }}
+        run: python tools/photos.py ${{ github.event.inputs.mode }}
+      - run: |
+          git config user.name "sam-package-bot"
+          git config user.email "sam-package-bot@users.noreply.github.com"
+          git checkout --orphan site-assets-tmp
+          git rm -rq --cached .
+          git add out
+          git commit -qm "photos ${{ github.event.inputs.mode }}"
+          git push -f origin HEAD:site-assets-${{ github.event.inputs.mode }}
