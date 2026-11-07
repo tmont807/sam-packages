@@ -1,0 +1,32 @@
+name: Daily SAM.gov packages
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # every day, about 5:17 AM Chicago time
+  workflow_dispatch: {}      # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Download new solicitation packages
+        run: python fetch_sam_packages.py
+      - name: Save them to the repo
+        run: |
+          git config user.name "sam-package-bot"
+          git config user.email "sam-package-bot@users.noreply.github.com"
+          git add packages
+          if git diff --cached --quiet; then
+            echo "No new packages today."
+          else
+            git commit -m "New SAM.gov packages $(date -u +%Y-%m-%d)"
+            git push
+          fi
