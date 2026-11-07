@@ -17,7 +17,7 @@ from datetime import datetime, timedelta, timezone
 
 NAICS = ["561720", "561730", "561210", "561790", "561710", "562111", "562119",
          "532490", "532120", "484110", "484220", "561990", "238990"]
-MIN_DAYS_TO_DUE = 12          # skip anything due sooner than this
+MIN_DAYS_TO_DUE = 7           # skip anything due sooner than this
 RECENT_DAYS = int(os.environ.get("RECENT_DAYS") or 3)  # only notices posted/changed in the last N days
 MAX_FILE_MB = 95              # GitHub rejects files over 100 MB
 BLOCKED_SET_ASIDES = re.compile(r"SDVOSB|8A|HZ|WOSB|VSA|VSS|IEE|ISBEE", re.I)
@@ -96,8 +96,6 @@ def main():
             changed = r.get("modifiedDate") or r.get("publishDate")
             try:
                 if not due or datetime.fromisoformat(due) < min_due:
-                    if skips["due_soon"] < 3:
-                        print("  DEBUG due:", repr(due), {k: v for k, v in r.items() if "ate" in k.lower() or "esponse" in k.lower()})
                     skips["due_soon"] += 1
                     continue
                 if changed and datetime.fromisoformat(changed) < recent:
@@ -124,6 +122,8 @@ def main():
             lists = ((att.get("_embedded") or {}).get("opportunityAttachmentList") or [{}])
             files = [a for a in (lists[0].get("attachments") or []) if a.get("resourceId") and not a.get("deletedFlag")]
             if not files:
+                if skips["no_files"] < 2:
+                    print("  DEBUG att:", r.get("solicitationNumber"), json.dumps(att)[:600])
                 skips["no_files"] += 1
                 continue
             sol = r.get("solicitationNumber") or nid
