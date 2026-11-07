@@ -1,0 +1,25 @@
+name: One-off SAM scan
+on:
+  workflow_dispatch:
+    inputs:
+      queries:
+        description: "Keyword searches separated by ;"
+        required: false
+        default: ""
+      naics:
+        description: "NAICS codes separated by ,"
+        required: false
+        default: ""
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          QUERIES: ${{ github.event.inputs.queries }}
+          NAICS: ${{ github.event.inputs.naics }}
+        run: python scan.py
