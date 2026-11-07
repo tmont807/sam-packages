@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "sam-package-bot"
           git config user.email "sam-package-bot@users.noreply.github.com"
-          git add packages
+          mkdir -p sources-sought && git add packages sources-sought
           if git diff --cached --quiet; then
             echo "No new packages today."
           else

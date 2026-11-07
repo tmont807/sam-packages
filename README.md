@@ -8,3 +8,5 @@ downloads every attached file, and saves them here:
 - `packages/INDEX.md` lists what was added each day
 
 Run it by hand: **Actions** tab → **Daily SAM.gov packages** → **Run workflow**.
+
+It also saves **Sources Sought / RFI** notices (market research the government posts months before a contract) under `sources-sought/`, with the notice text in `notice.json` and any attachments. `sources-sought/INDEX.md` lists them.

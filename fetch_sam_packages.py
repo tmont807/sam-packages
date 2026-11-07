@@ -22,6 +22,8 @@ RECENT_DAYS = int(os.environ.get("RECENT_DAYS") or 3)  # only notices posted/cha
 MAX_FILE_MB = 95              # GitHub rejects files over 100 MB
 BLOCKED_SET_ASIDES = re.compile(r"SDVOSB|8A|HZ|WOSB|VSA|VSS|IEE|ISBEE", re.I)
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "packages")
+SS_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources-sought")
+SS_MIN_DAYS = 4             # sources sought / RFIs: skip if response due sooner than this
 HEADERS = {"Accept": "application/hal+json", "User-Agent": "Mozilla/5.0 (Projexian package fetcher)"}
 
 
@@ -54,9 +56,11 @@ def clean(s, n=80):
 
 def already_saved():
     ids = set()
-    if os.path.isdir(ROOT):
-        for d in os.listdir(ROOT):
-            p = os.path.join(ROOT, d, "notice.json")
+    for root in (ROOT, SS_ROOT):
+        if not os.path.isdir(root):
+            continue
+        for d in os.listdir(root):
+            p = os.path.join(root, d, "notice.json")
             if os.path.exists(p):
                 try:
                     ids.add(json.load(open(p))["noticeId"])
@@ -89,13 +93,15 @@ def main():
                 continue
             seen.add(nid)
             ntype = (r.get("type") or {}).get("value", "")
-            if not re.search(r"Solicitation|Combined", ntype):
+            title_txt = r.get("title") or ""
+            is_ss = bool(re.search(r"Sources Sought", ntype) or (re.search(r"Special Notice", ntype) and re.search(r"\bRFI\b|Request for Information|Sources Sought|Market Research", title_txt, re.I)))
+            if not is_ss and not re.search(r"Solicitation|Combined", ntype):
                 skips["type"] += 1
                 continue
             due = r.get("responseDate")
             changed = r.get("modifiedDate") or r.get("publishDate")
             try:
-                if not due or datetime.fromisoformat(due) < min_due:
+                if not due or datetime.fromisoformat(due) < (now + timedelta(days=SS_MIN_DAYS) if is_ss else min_due):
                     skips["due_soon"] += 1
                     continue
                 if changed and datetime.fromisoformat(changed) < recent:
@@ -121,11 +127,11 @@ def main():
                 continue
             lists = ((att.get("_embedded") or {}).get("opportunityAttachmentList") or [{}])
             files = [a for a in (lists[0].get("attachments") or []) if a.get("resourceId") and str(a.get("deletedFlag") or "0") != "1"]
-            if not files:
+            if not files and not is_ss:
                 skips["no_files"] += 1
                 continue
             sol = r.get("solicitationNumber") or nid
-            folder = os.path.join(ROOT, f"{due[:10]} - {clean(sol, 40)} - {clean(r.get('title'))}")
+            folder = os.path.join(SS_ROOT if is_ss else ROOT, f"{due[:10]} - {clean(sol, 40)} - {clean(r.get('title'))}")
             os.makedirs(folder, exist_ok=True)
             results = []
             for a in files:
@@ -144,6 +150,8 @@ def main():
                 "contacts": [{"name": p.get("fullName"), "email": p.get("email"), "phone": p.get("phone")}
                              for p in (dd.get("pointOfContact") or [])],
                 "files": [{"name": n, "result": res_} for n, res_ in results],
+                "kind": "sources_sought" if is_ss else "solicitation",
+                "description": re.sub(r"<[^>]+>", " ", ((d.get("description") or [{}])[0] or {}).get("body") or "")[:6000],
                 "savedAt": now.isoformat(),
             }
             json.dump(notice, open(os.path.join(folder, "notice.json"), "w"), indent=2)
@@ -152,10 +160,14 @@ def main():
             time.sleep(0.5)
 
     os.makedirs(ROOT, exist_ok=True)
-    if new:
-        with open(os.path.join(ROOT, "INDEX.md"), "a") as f:
-            f.write(f"\n## {now.strftime('%Y-%m-%d')}\n\n| Due | Solicitation | Title | Place | Set-aside | Files |\n|---|---|---|---|---|---|\n")
-            for n in new:
+    for root, kind in ((ROOT, "solicitation"), (SS_ROOT, "sources_sought")):
+        batch = [n for n in new if n["kind"] == kind]
+        if not batch:
+            continue
+        os.makedirs(root, exist_ok=True)
+        with open(os.path.join(root, "INDEX.md"), "a") as f:
+            f.write(f"\n## {now.strftime('%Y-%m-%d')}\n\n| Due | Notice | Title | Place | Set-aside | Files |\n|---|---|---|---|---|---|\n")
+            for n in batch:
                 place = ", ".join(x for x in (n["city"], n["state"]) if x)
                 f.write(f"| {n['due'][:10]} | {n['solicitationNumber']} | {clean(n['title'], 70)} | {place} | {n['setAside']} | {len(n['files'])} |\n")
     print(f"Skipped: {skips}")
