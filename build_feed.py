@@ -2,6 +2,7 @@
 NAICS codes with a map location, plus a few live counts. No bid numbers or
 contacts are published. Standard library only; runs in GitHub Actions.
 """
+import html
 import io
 import json
 import os
@@ -148,6 +149,11 @@ def main():
             "c": city.title() if city.isupper() else city, "s": st,
             "lat": round(loc[0], 3), "lon": round(loc[1], 3), "p": precise,
             "due": due[:10], "n": naics, "k": "ss" if re.search("Sources|Presol", ntype) else "sol",
+            "id": r["_id"], "sol": (r.get("solicitationNumber") or "")[:40],
+            "posted": (r.get("publishDate") or "")[:10],
+            "sa": ((dd.get("solicitation") or {}).get("setAside") or "")[:40],
+            "ty": ntype[:40],
+            "d": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(((d.get("description") or [{}])[0] or {}).get("body") or ""))).strip()[:900],
         })
         time.sleep(0.25)
 

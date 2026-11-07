@@ -28,11 +28,13 @@ jobs:
         run: python fetch_sam_packages.py
       - name: Build website feed
         run: python build_feed.py || echo "feed build failed"
+      - name: Build past awards and recompetes
+        run: python build_awards.py || echo "awards build failed"
       - name: Save them to the repo
         run: |
           git config user.name "sam-package-bot"
           git config user.email "sam-package-bot@users.noreply.github.com"
-          mkdir -p sources-sought && git add packages sources-sought && (git add feed.json || true)
+          mkdir -p sources-sought && git add packages sources-sought && (git add feed.json awards.json || true)
           if git diff --cached --quiet; then
             echo "No new packages today."
           else
