@@ -15,8 +15,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-NAICS = ["561720", "561730", "561210", "561790", "561710", "562111", "562119",
-         "532490", "532120", "484110", "484220", "561990", "238990"]
+from naics_codes import NAICS  # all registered codes
 MIN_DAYS_TO_DUE = 7           # skip anything due sooner than this
 RECENT_DAYS = int(os.environ.get("RECENT_DAYS") or 3)  # only notices posted/changed in the last N days
 MAX_FILE_MB = 95              # GitHub rejects files over 100 MB
@@ -69,8 +68,23 @@ def already_saved():
     return ids
 
 
+def prune(now):
+    """Delete package folders whose due date passed more than 3 days ago, to keep the repo small."""
+    import shutil
+    cutoff = (now - timedelta(days=3)).strftime("%Y-%m-%d")
+    n = 0
+    for root in (ROOT, SS_ROOT):
+        if not os.path.isdir(root):
+            continue
+        for d in os.listdir(root):
+            if re.match(r"\d{4}-\d{2}-\d{2} - ", d) and d[:10] < cutoff:
+                shutil.rmtree(os.path.join(root, d), ignore_errors=True); n += 1
+    print(f"pruned {n} expired folders")
+
+
 def main():
     now = datetime.now(timezone.utc)
+    prune(now)
     min_due = now + timedelta(days=MIN_DAYS_TO_DUE)
     recent = now - timedelta(days=RECENT_DAYS)
     saved = already_saved()

@@ -16,7 +16,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "sam-package-bot"
           git config user.email "sam-package-bot@users.noreply.github.com"
-          mkdir -p sources-sought && git add packages sources-sought && (git add feed.json awards.json || true)
+          mkdir -p sources-sought && git add -A packages sources-sought && (git add feed.json awards.json || true)
           if git diff --cached --quiet; then
             echo "No new packages today."
           else
