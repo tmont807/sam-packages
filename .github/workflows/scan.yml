@@ -1,25 +1,30 @@
-name: One-off SAM scan
+name: Full contract scan
+
 on:
   workflow_dispatch:
-    inputs:
-      queries:
-        description: "Keyword searches separated by ;"
-        required: false
-        default: ""
-      naics:
-        description: "NAICS codes separated by ,"
-        required: false
-        default: ""
+
+permissions:
+  contents: write
+
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - env:
-          QUERIES: ${{ github.event.inputs.queries }}
-          NAICS: ${{ github.event.inputs.naics }}
-        run: python scan.py
+      - run: sudo apt-get install -y -qq poppler-utils >/dev/null
+      - run: python tools/scan_big.py
+      - name: Save results to the scan-results branch
+        run: |
+          git config user.name "sam-package-bot"
+          git config user.email "sam-package-bot@users.noreply.github.com"
+          cp scan/results.json /tmp/results.json
+          git checkout --orphan scan-tmp
+          git rm -rq --cached .
+          rm -rf scan && mkdir scan && cp /tmp/results.json scan/results.json
+          git add scan/results.json
+          git commit -qm "scan $(date -u +%F)"
+          git push -f origin HEAD:scan-results
