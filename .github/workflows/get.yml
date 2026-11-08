@@ -1,0 +1,29 @@
+name: Get specific packages
+
+on:
+  workflow_dispatch:
+    inputs:
+      notice_ids:
+        description: "SAM notice IDs, comma separated"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  get:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          NOTICE_IDS: ${{ github.event.inputs.notice_ids }}
+        run: python tools/get_packages.py
+      - run: |
+          git config user.name "sam-package-bot"
+          git config user.email "sam-package-bot@users.noreply.github.com"
+          git add packages
+          git diff --cached --quiet || (git commit -qm "Requested packages" && git push)
