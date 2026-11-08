@@ -46,7 +46,7 @@ if mode == "search":
 else:
     credits = {}
     os.makedirs("out/full", exist_ok=True)
-    for pair in os.environ["PICKS"].split(";"):
+    for pair in re.split(r";(?=\s*\w+=[cu]:)", os.environ["PICKS"]):
         if not pair.strip():
             continue
         name, src = pair.strip().split("=", 1)
