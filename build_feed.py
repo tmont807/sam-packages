@@ -34,6 +34,17 @@ STATE_CENTER = {
 }
 
 
+EMAIL_RE = re.compile(r"[A-Za-z0-9._%+\-]+\s*(?:@|\(at\)|\[at\])\s*[A-Za-z0-9.\-]+\.(?:gov|mil|com|org|net|edu|us)\b", re.I)
+PHONE_RE = re.compile(r"(?<!\d)(?:\+?1[\s.\-]?)?\(?\d{3}\)?[\s.\-]\d{3}[\s.\-]\d{4}(?:\s*(?:x|ext\.?)\s*\d+)?(?!\d)", re.I)
+
+
+def scrub(text):
+    """Remove email addresses and phone numbers (contact details stay on SAM.gov)."""
+    text = EMAIL_RE.sub("[contact on SAM.gov]", text or "")
+    text = PHONE_RE.sub("[contact on SAM.gov]", text)
+    return re.sub(r"(\[contact on SAM\.gov\][\s,;/]*){2,}", "[contact on SAM.gov] ", text)
+
+
 def get_json(url, params=None):
     if params:
         url += ("&" if "?" in url else "?") + urllib.parse.urlencode(params)
@@ -152,7 +163,7 @@ def main():
             "posted": (r.get("publishDate") or "")[:10],
             "sa": ((dd.get("solicitation") or {}).get("setAside") or "")[:40],
             "ty": ntype[:40],
-            "d": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(((d.get("description") or [{}])[0] or {}).get("body") or ""))).strip()[:900],
+            "d": scrub(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(((d.get("description") or [{}])[0] or {}).get("body") or ""))).strip())[:900],
         })
         time.sleep(0.25)
 
