@@ -160,7 +160,7 @@ def main():
                 "noticeId": nid, "solicitationNumber": sol, "title": r.get("title"), "naics": naics,
                 "type": ntype, "setAside": set_aside or "Unrestricted", "due": due,
                 "state": (pop.get("state") or {}).get("code", ""), "city": (pop.get("city") or {}).get("name", ""),
-                "agency": " > ".join(o.get("name", "") for o in (r.get("organizationHierarchy") or [])),
+                "agency": " > ".join((o.get("name") or "") for o in (r.get("organizationHierarchy") or [])),
                 "contacts": [{"name": p.get("fullName"), "email": p.get("email"), "phone": p.get("phone")}
                              for p in (dd.get("pointOfContact") or [])],
                 "files": [{"name": n, "result": res_} for n, res_ in results],
