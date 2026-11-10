@@ -28,16 +28,28 @@ jobs:
         run: python fetch_sam_packages.py
       - name: Build website feed
         run: python build_feed.py || echo "feed build failed"
-      - name: Build past awards and recompetes
-        run: python build_awards.py || echo "awards build failed"
-      - name: Save them to the repo
+      - name: Save packages to the repo
         run: |
           git config user.name "sam-package-bot"
           git config user.email "sam-package-bot@users.noreply.github.com"
-          mkdir -p sources-sought && git add -A packages sources-sought && (git add feed.json awards.json || true)
+          mkdir -p sources-sought && git add -A packages sources-sought && (git add feed.json || true)
           if git diff --cached --quiet; then
             echo "No new packages today."
           else
             git commit -m "New SAM.gov packages $(date -u +%Y-%m-%d)"
             git push
+          fi
+      - name: Build past awards and recompetes
+        timeout-minutes: 20
+        continue-on-error: true
+        run: python build_awards.py || echo "awards build failed"
+      - name: Save awards to the repo
+        if: always()
+        run: |
+          git add awards.json || true
+          if git diff --cached --quiet; then
+            echo "No awards changes."
+          else
+            git commit -m "Awards update $(date -u +%Y-%m-%d)"
+            git pull --rebase && git push
           fi
