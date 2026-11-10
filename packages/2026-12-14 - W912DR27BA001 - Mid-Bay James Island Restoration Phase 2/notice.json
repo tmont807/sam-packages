@@ -1,0 +1,40 @@
+{
+  "noticeId": "65860308e16e48b6b8f803637976a0c6",
+  "solicitationNumber": "W912DR27BA001",
+  "title": "Mid-Bay James Island Restoration Phase 2",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-14T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST BALTIMORE",
+  "contacts": [
+    {
+      "name": "Aisha Boykin",
+      "email": "aisha.r.boykin@usace.army.mil",
+      "phone": "4109624978"
+    }
+  ],
+  "files": [
+    {
+      "name": "6f0e89e6bdaf4e438c4e2f0816c84789",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "70f3c0953ba240d98694dd933af78ab3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "84461536b6e246bc8cbf52f48c79cad8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e69d136b26054d9fb216d7e103db4f53",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This Invitation for Bid (IFB) solicitation is for the restoration work at James Island, Dorchester County, Maryland. James Island is an ecosystem restoration project (part of the Mid-Chesapeake Bay Island Ecosystem Restoration project, commonly referred to as Mid-Bay) located in the middle Chesapeake Bay in Dorchester County, Maryland, approximately 56 miles south-southeast of the Port of Baltimore and one mile north of Taylors Island. **Amendment 0001, dated 29 October 2026, The purpose of this amendment is to provide the James Island Phase 2 plans, and provide revisions to the CLINs structure  in section 00 10 00.   Bidders are encouraged to utilize the bid schedule provided in the list of attachments in lieu of the bid schedule provided in section 00 10 00.  Please note, the awardee of this action will not be permitted to mobilize  before 15 September 2027, per the formal Notice to Proceed.  All other terms and conditions of this solicitation remain unchanged.****Amendment 0002, dated 9 November 2026, the purpose of this amendment is to change the RFI close date from 10 November 2026 at 1100 am (EST) to 24 November 2026 at 1100 am (EST) and to change the bid opening date from 30 November 2026 at 1100 am (EST) to 14 December 2026 at 1100 am (EST). Please note that payment and performance bonds are to be provided within 10 days after award, but due to site mobilization, work may not begin until on or before 15 September 2027.  All other terms and conditions remain unchanged.****  ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

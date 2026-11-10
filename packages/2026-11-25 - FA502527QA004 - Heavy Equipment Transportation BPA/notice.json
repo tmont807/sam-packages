@@ -1,5 +1,5 @@
 {
-  "noticeId": "2fab8cb02861430681be9a295a1e9014",
+  "noticeId": "52285c89fb6e46de960c358c33160f21",
   "solicitationNumber": "FA502527QA004",
   "title": "Heavy Equipment Transportation BPA",
   "naics": "484220",
@@ -39,5 +39,7 @@
       "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "Heavy Equipment Transportation BPA for the 356 ETSG on Andersen AFB Guam ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
 }

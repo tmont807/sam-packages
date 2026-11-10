@@ -1,0 +1,40 @@
+{
+  "noticeId": "5cc099a662c74ba1a59532a34d6f03e2",
+  "solicitationNumber": "W912P627MR027755",
+  "title": "Commercial Gear Backup Power (CGBP) and Control System Improvements at Fish Barrier",
+  "naics": "238210",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-02T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST CHICAGO",
+  "contacts": [
+    {
+      "name": "Sara King",
+      "email": "sara.t.king@usace.army.mil",
+      "phone": "3128465376"
+    }
+  ],
+  "files": [
+    {
+      "name": "a69704192e4d4d0a8b2ed1054099f526",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f51e9385a06649febdd08973e6ab32f3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "51b0821bbb6c4c2ab165866e68b8c9cf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "dc63b238ffb64a03a6d6c49b7c6ef615",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "I. PURPOSE AND DISCLAIMER**********************The U.S. Army Corps of Engineers (USACE), Chicago District, is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support the requirement for upgrading our Commercial Gear Backup Power (CGBP) and associated control system at our electronic fish barrier located in Romeoville, Illinois. We are seeking to identify qualified Small Business concerns (including 8(a), HUBZone, SDVOSB, WOSB, and Small Business Joint Ventures/Teaming Arrangements) and Other-Than-Small Business concerns capable of performing this requirement. The intention is to procure these services on a competitive basis.**********************BASED ON THE RESPONSES TO THIS SOURCES SOUGHT NOTICE/MARKET RESEARCH, THIS REQUIREMENT MAY BE SET-ASIDE FOR SMALL BUSINESSES (IN FULL OR IN PART) OR PROCURED THROUGH FULL AND OPEN COMPETITION, and multiple awards MAY be made. All Small Business Set-Aside categories will be considered. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions.**********************DISCLAIMER**********************THIS SOURCES SOUGHT IS FOR INFORMATIONAL PURPOSES ONLY. THIS IS NOT A REQUEST FOR PROPOSAL (RFP) TO BE SUBMITTED. IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT. RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT. NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT. ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS TECHNICAL DESCRIPTION IS STRICTLY VOLUNTARY. RESPPONSES WILL NOT BE RETURNED TO THE RESPONDER. NOT RESPONDING TO THIS NOTICE DOES NOT PRECLUDE PARTICIPATION IN ANY FUTURE REQUEST FOR QUOTE (RFQ) OR INVITATION FOR BID (IFB) OR RFP, IF ANY ISSUED. IF A SOLICITATION IS RELEASED, IT WILL BE SYNOPSIZED ON THE GOVERNMENT-WIDE POINT OF ENTRY (GPE). IT IS THE RESPONSIBILITY OF POTENTIAL OFFERORS TO MONITOR THE GPE FOR ADDITIONAL INFORMMATION PERTAINING TO THIS REQUIREMENT. The Government is not committed nor obligated to pay for the information provided, and no basis for claims against the Government shall arise as a result of a response to this Sources Sought.********************************************II. COMPREHENSIVE TECHNICAL DESCRIPTION and PROJECT SCOPE********************************************The Chicago Sanitary and Ship Canal (CSSC) Electric Dispersal Barrier facility requires a complex industrial electrical power generation, backup power, and automation and control system modernization project. This system is a critical component of the federal effort to prevent the movement of invasive aquatic species between the Great Lakes and Mississippi River basins. **********************Specifically, USACE needs to upgrade the backup generator and switchgear control systems at Permanent Barrier 1 (PB1) to correct unreliable operation caused by deficiencies in the original design, configuration, and wiring.  The project requires replacing generator controllers, modernizing breaker controls and communications, and rebuilding the control software and operator interfaces to improve reliable operation on utility and backup power. Work will require testing, operator training, and a phased changeover to maintain continuous barrier operations. Work will be performed at an active, mission-critical facility requiring careful coordination with ongoing operations, planned equipment outages, and system changeovers to maintain operational readiness and minimize disruptions. A critical requirement is the integration of new equipment into an active industrial facility while protecting existing operations. The anticipated work may include engineering, design review, equipment upgrades and replacement, control system programming, integration, testing, and commissioning of interconnected electrical and industrial automation systems. ******************************************************************TECHNICAL CAPABILITIES:******************************************************************The project requires specialized expertise in: a) generator synchronization and load management, b) switchgear automation, c) protective relaying, d) programmable logic controllers (PLCs), e) human-machine interfaces (HMIs), industrial communications, and associated monitoring and data management systems.**********************Contractors must possess the technical capabilities necessary to work with the existing systems and integrate new equipment while maintaining compatibility and functionality. The existing facility incorporates Rockwell Automation ControlLogix PLCs, FactoryTalk View SE, FactoryTalk Transaction Manager, Microsoft SQL Server, Basler generator synchronization and control equipment, Schweitzer Engineering Laboratories (SEL) protective relays and RTAC equipment, and DEIF generator controllers. ATTACHMENT NOTICE: Interested parties must carefully review Attachment 1 (Equipment_SOW.xlsx \ufffd\ufffd\ufffd PB1 Equipment Modernization and SOW Matrix) attached to this notice in PIEE, the DoW Procurement Integrated Enterprise Environment, which details the specific equipment removals, modifications, additions, hard-wired control conversions, I/O transitions, and as-built drawing updates (across four separate contractor drawing sets) required under our anticipated scope.**********************Contractors must demonstrate their capability of obtaining a specialized Master Systems Integrator (MSI) or Industrial Automation and Control Systems (IACS) engineering firm to perform any needed engineering, programming, integration, testing, commissioning, and troubleshooting of the complex interconnected industrial control systems.**********************Contractors must demonstrate their ability to obtain qualified personnel. Qualified personnel include Electrical Gener",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

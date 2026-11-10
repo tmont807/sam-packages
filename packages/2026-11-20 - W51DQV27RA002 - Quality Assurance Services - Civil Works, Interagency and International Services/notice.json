@@ -1,0 +1,45 @@
+{
+  "noticeId": "f92f3fe04a634104983ae6000b842af1",
+  "solicitationNumber": "W51DQV27RA002",
+  "title": "Quality Assurance Services - Civil Works, Interagency and International Services (IIS), and Military Construction Projects in Puerto Rico and U.S. Virgin Islands",
+  "naics": "541990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-20T18:30:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > W2SR TF VIPR",
+  "contacts": [
+    {
+      "name": "Erica J. Taylor ",
+      "email": "erica.j.taylor@usace.army.mil",
+      "phone": "9393487017"
+    },
+    {
+      "name": "Jose Vazquez-Torres ",
+      "email": "jose.o.vazquez-torres@usace.army.mil",
+      "phone": "9393489534"
+    }
+  ],
+  "files": [
+    {
+      "name": "278e2fd1980a4e109a9710c0d4585fc9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "491b0793f12b441b815249e9640c57a7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "40f17753544f4bf0b5e733bad8d30058",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "87162ad831854ce8a5f1709e2dda0734",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers (USACE), Caribbean District issues this Request for Proposals (RFP) to award an Indefinite Delivery Indefinite Quantity (IDIQ) Single Award Task Order Contract (SATOC) for Quality Assurance Services across Puerto Rico and the U.S. Virgin Islands. This procurement follows the presolicitation notice previously synopsized under solicitation number W51DQV26RA007. The contractor shall provide comprehensive quality assurance oversight supporting Civil Works, International and Interagency Services (IIS), and Military Construction (MILCON) projects, including navigation, flood risk management, coastal protection, environmental restoration, water resources, and military or federal installations. Services encompass monitoring contractor compliance with plans and specifications, reviewing engineering submittals and technical reports, conducting on-site field inspections of dams, levees, berms, cutoff walls, pump stations, flood control gates, and electrical systems, and performing certified sampling and laboratory testing of soil, concrete, and water. Contract personnel shall also perform daily safety monitoring and prepare daily quality assurance inspection reports. This action is a total small business set-aside under NAICS code 541990 (All Other Professional, Scientific, and Technical Services) with an applicable small business size standard of $19.5 million. The contract ordering period comprises a one-year base period, four 12-month option periods, and one six-month option period, not to exceed a total duration of five years and six months, with a maximum program capacity of $35 million across the contract life. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

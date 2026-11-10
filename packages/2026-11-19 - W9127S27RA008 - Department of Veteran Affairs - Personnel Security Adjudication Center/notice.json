@@ -1,0 +1,45 @@
+{
+  "noticeId": "38bc1cb65d984189adfb41551e7f5c59",
+  "solicitationNumber": "W9127S27RA008",
+  "title": "Department of Veteran Affairs - Personnel Security Adjudication Center",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-19T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST LITTLE ROCK",
+  "contacts": [
+    {
+      "name": "Telia Mahomes",
+      "email": "telia.r.mahomes@usace.army.mil",
+      "phone": "5013401274"
+    },
+    {
+      "name": "Ricky Brown",
+      "email": "Ricky.A.Brown@usace.army.mil",
+      "phone": "(501) 340-1304"
+    }
+  ],
+  "files": [
+    {
+      "name": "c1da346e73994ec98232aab84ccf57f7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "854736531960431f922a17fea5fbc5e7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cb40a12e9dd74bcc9f57d9fddf1570de",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4db3f1ee45e64450aa42d2f28862e976",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "VA Personnel Security Adjudication Center (PSAC): Work includes Design-Build (DB) construction of VA Personnel Security Adjudication Center (PSAC) facility next to Bldg. #192 facility at the Eugene J. Towbin VA Healthcare Center campus in North Little Rock, AR.The new building must be designed to serve approximately 75 Full-Time Equivalents (FTEs).The Government will award a base contract for an approximate 10,000 SF, two-story building supported by a parking lot with a capacity for minimum 25 vehicles with the total number of parking spaces maximized during design. Contingent upon funding availability at the time of award, the Government may exercise an option for the building and parking lot to be supported by a physical security fence including automated gate access and controls. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

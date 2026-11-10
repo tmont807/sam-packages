@@ -1,0 +1,40 @@
+{
+  "noticeId": "e1b85e3c131d446fbd01b44cbe5a6859",
+  "solicitationNumber": "N0018927RD003",
+  "title": "Undersea Program Analyses Support",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-30T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP GLOBAL LOGISTICS SUPPORT > NAVSUP FLC NORFOLK > NAVSUP FLT LOG CTR NORFOLK",
+  "contacts": [
+    {
+      "name": "Paul Pepi",
+      "email": "paul.j.pepi.civ@us.navy.mil",
+      "phone": "7608021700"
+    }
+  ],
+  "files": [
+    {
+      "name": "735dacc0319c40fb91801234ab7ca165",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "99847ec7970c4fcb8e10e362694ec478",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2e6aae998a98408583798b6b9f19f43a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8fe3fcb18a964686ac4ed32bf1e31669",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "SEE PWS (SECTION C) FOR FULL DESCRIPTION. THIS IS A SMALL BUSINESS SET-ASIDE FOR SEAPORT MAC HOLDERS ONLY.The support under this PWS will facilitate overall objectives for N97 USE Program Analyst Support; primarilyfor N9741, N9742, N977 and N978. The support will require direct liaison with program analysts, requirementsofficers, technical Subject Matter Experts (SMEs), and program managers across the OPNAV organization aswell as all other Department of the Navy (DON) stakeholders in support of the development and refinement ofexecutable programs and policies. An in-depth, working knowledge of existing tools and decision supportsystems employed within the enterprise will contribute to this objective. The contractor shall provide acontinuum of on-site support to various N977 efforts. The same level of support shall also be provided to N974requirement officers, managers, and analysts through analytical, technical, and administrative services insupport of N974 SSW requirements. The N978 support will predominantly work on-site, but will likelyexperience more seasonal workload. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

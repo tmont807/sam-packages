@@ -1,0 +1,28 @@
+{
+  "noticeId": "6e715e263304406a98e85dcdaa99cd7c",
+  "solicitationNumber": "SPE7L127Q0181",
+  "title": "61--BATTERY,STORAGE",
+  "naics": "335910",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-18T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "0cb441ca51f24c99a1c4ebfdfd2562de",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 6140015485478 BATTERY,STORAGE:\nLine 0001 Qty 33     UI EA  Deliver To: DLA DISTRIBUTION PUGET SOUND By: 0113 DAYS ADO\nApproved source is 0XBF7 ETI0002-0801.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes may be submitted electronically.\n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

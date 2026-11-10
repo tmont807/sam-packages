@@ -1,0 +1,28 @@
+{
+  "noticeId": "9a4038871cd24bf8ad6bb2c790a01373",
+  "solicitationNumber": "SPE7L727T0606",
+  "title": "61--BATTERY ASSEMBLY",
+  "naics": "335910",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-20T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "6f090ff04ef2467da6ccd8b3bbde535f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 6140016818160 BATTERY ASSEMBLY:\nLine 0001 Qty 29     UI EA  Deliver To: W1A8 DLA DIST SAN JOAQUIN By: 0037 DAYS ADO\nApproved source is 1MXA1 100-10685-00.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

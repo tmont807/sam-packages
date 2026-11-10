@@ -1,5 +1,5 @@
 {
-  "noticeId": "d0066f1e540f447080b579bbdb5f85d0",
+  "noticeId": "34d2b95fb5e24584877e7203f17213cd",
   "solicitationNumber": "FA805127R0001",
   "title": "Air Force Contract Augmentation Program (AFCAP) VI",
   "naics": "561210",
@@ -39,5 +39,7 @@
       "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "The 772nd Enterprise Sourcing Squadron (772 ESS/PKD) is issuing this solicitation for the Air Force Contract Augmentation Program VI (AFCAP VI). This is a Multiple-Award Indefinite-Delivery/Indefinite-Quantity (IDIQ) contract designed to provide rapid, global contingency planning, logistics, and emergency construction capabilities to the Department of the Air Force, other DoD components, and Federal agencies. The AFCAP serves as a responsive, global force multiplier for commanders and Government agencies, supporting contingencies both within the contiguous United States (CONUS) and outside the contiguous United States (OCONUS).The AFCAP supports United States (U.S.) national interests and security objectives by providing rapid-response capabilities for contingency planning, deployment, training/equipping of forces, emergency/contingency construction, logistics/commodities, and services. These capabilities align with definitions in the DOD Dictionary of Military and Associated Terms. AFCAP provides a full range of Base Operating/Life Support (BOS/BLS) and logistical support on an as-required basis to support a wide spectrum of activities, including, but are not limited to: Major Theater War(s); Small Scale Contingencies; Irregular Warfare; responses to Violent Extremist Organizations (VEO); foreign assistance, developmental assistance, humanitarian assistance, and security assistance (including Foreign Military Sales); peacekeeping; counterinsurgency, counterdrug and counterterrorism operations; maritime security operations; recovery operations and denial measures; domestic/international emergency support; infrastructure/facility design/build, design/build/operate, demolition, and site restoration; deliberate and crisis action planning; and military exercises (including Joint Chiefs of Staff sponsored) authorized by the National Command Authority. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
 }

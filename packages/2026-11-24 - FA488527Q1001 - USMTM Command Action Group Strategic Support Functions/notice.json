@@ -1,0 +1,32 @@
+{
+  "noticeId": "1f88ae7f8a1246fdbf2b2234d0f13722",
+  "solicitationNumber": "FA488527Q1001",
+  "title": "USMTM Command Action Group Strategic Support Functions",
+  "naics": "541611",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "NONE",
+  "due": "2026-11-24T21:00:00+00:00",
+  "state": "DC",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR COMBAT COMMAND > FA4885  HQ USMTM LGC",
+  "contacts": [
+    {
+      "name": "USMTM CONTRACTING ",
+      "email": "centcom.al-nakhla-fol.usmtm.list.contracting@army.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "Statement of Objective.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Services Combo 1OCT2026.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Establish a contractor-supported  non-personal services  capability to provide the Chief, USMTM with  decision advantage  and  predictable executive support  across (1) NCR/DoD/Interagency &ldquo;atmospherics,&rdquo; (2) security cooperation/FMS posture and engagement planning, (3) strategic communications, and (4) organizational effectiveness (OE) assessment and implementation support. \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

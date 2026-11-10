@@ -1,0 +1,40 @@
+{
+  "noticeId": "c13bfbaac9d2455da93ae9e29cbda29a",
+  "solicitationNumber": "N6600127Q6004",
+  "title": "Maintenance support on (1) MTU Diesel Generator, (1) Kohler Diesel Generator, and one (1) Caterpillar (CAT) Diesel Generator",
+  "naics": "811310",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-18T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR PACIFIC > NIWC PACIFIC",
+  "contacts": [
+    {
+      "name": "Andrew Cornwell",
+      "email": "andrew.d.cornwell.civ@us.navy.mil",
+      "phone": "6195532556"
+    }
+  ],
+  "files": [
+    {
+      "name": "87db851f53a141418110fe38247a4db1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "01a2dd2f4f0442a9a23992e31e3f394f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9e03ff6aeb904db9814a4ed7373ab643",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "055b5cd8f156450a87f8b70c6c056544",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is a combined synopsis/solicitation for commercial products and commercial services. This announcement constitutes the only solicitation; quotes are being requested and a separate written solicitation will not be issued. This enclosure is an addendum to FAR provision 52.212-1, Instructions to Offerors \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Commercial Products and Commercial Services, which applies to this acquisition. Competitive quotes are being requested under Request for Quote (RFQ) Number N66001-27-Q-6004. The North American Industry Classification System (NAICS) code applicable to this acquisition is 811310, Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance and the small business size standard is $12.5 Million. This procurement is not a Set-Aside. Quotes submitted by Small Business and Large Businesses will be accepted by the Government. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

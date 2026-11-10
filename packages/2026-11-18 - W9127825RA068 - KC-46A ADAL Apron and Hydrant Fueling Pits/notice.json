@@ -1,0 +1,40 @@
+{
+  "noticeId": "f9a125ded12b4dffaed5d0888a72a1d2",
+  "solicitationNumber": "W9127825RA068",
+  "title": "KC-46A ADAL Apron and Hydrant Fueling Pits",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-18T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT MOBILE",
+  "contacts": [
+    {
+      "name": "James Tyler Sosebee",
+      "email": "james.t.sosebee@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "368caedd37034d4eb188624d217045e7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "08bac0ce12e4484e821d840f0c6422ba",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c2189a7948524bf4a1aaeb9443a9490d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fd1f04967ff643ffb183d19aa8cb0315",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "AM04** KC-46A ADAL Apron and Hydrant Fueling Pits at MacDill AFB, FL ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "ac6d64aab0c8440b9dc827282cf06614",
+  "solicitationNumber": "1305M327Q0004",
+  "title": "Z--Security Fence and Gate Replacement",
+  "naics": "238990",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-23T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "COMMERCE, DEPARTMENT OF > NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION > DEPT OF COMMERCE NOAA",
+  "contacts": [
+    {
+      "name": "HERTEL, DANYELL",
+      "email": "DANYELL.HERTEL@NOAA.GOV",
+      "phone": "206-526-4423"
+    }
+  ],
+  "files": [
+    {
+      "name": "014380d372f346c6bf510c54fa257772",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Security Fence and Gate Replacement for the Automated Surface Observation System (ASOS) at the Billy Mitchell Airport (HSE) in Hatteras, NC (MHX) ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

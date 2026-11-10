@@ -1,0 +1,45 @@
+{
+  "noticeId": "05be123fb71c4956bbe8e75a27210ab7",
+  "solicitationNumber": "N6247327R0012",
+  "title": "MCI West Barracks Industrialized Construction Projects for Barracks via Other Transaction Authority (10 USC 2808a)",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-10T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "Chad Slade",
+      "email": "chad.a.slade.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Hal Hayes",
+      "email": "harold.w.hayes10.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "bc09a86b43e143029dcd6101d3bbf94b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "68dee7dcc4f24c519abec71af5754e30",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "449b236f25314e1d8618f5b2896a789c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bceff3e918a14308b11e298ff4e94fca",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Area of Interest (AOI) Number: N6247327R0012; Title: MCI West Barracks Industrialized Construction Projects for Barracks via Other Transaction Authority (10 USC 2808a). This AOI is in reference to mentioned in the NAVFAC Special Notice posted to SAM.gov on 1 July 26. Please see attached AOI document for details/requirements regarding Statement of Need, Desired Solution Objectives, Vendor White Paper Submission Requirements, Evaluation Criteria, Award Objective, NAVFAC OTA Process for Construction Projects under 10 U.S.C. Section 2808a, Follow-on Production, Requests for Information (RFI) Process, Interested Parties List Inclusion, Special Considerations and Phase I White Paper Submission Instructions.   ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

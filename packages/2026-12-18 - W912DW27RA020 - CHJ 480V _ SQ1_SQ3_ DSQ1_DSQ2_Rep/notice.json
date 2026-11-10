@@ -1,0 +1,40 @@
+{
+  "noticeId": "626e254bf5874ef0ac0a9ad3b1817857",
+  "solicitationNumber": "W912DW27RA020",
+  "title": "CHJ 480V _ SQ1_SQ3_ DSQ1_DSQ2_Rep",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-18T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NWD > W071 ENDIST SEATTLE",
+  "contacts": [
+    {
+      "name": "Xuejiao Sun",
+      "email": "Xuejiao.Sun@usace.army.mil",
+      "phone": "2539664384"
+    }
+  ],
+  "files": [
+    {
+      "name": "688b50e937e24514b1a5de9647f99e87",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "32e9ce0ee78c45e5afe83984725d7e69",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "aca098cca43847ff8ced47b7ecaff24b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3a0ca5f459d742a085db055b87e19a4a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "CHJ 480V _ SQ1_SQ3_ DSQ1_DSQ2_Rep. Amend 0001 - 1. Update the solicitation number from W912DW26RA053 to W912DW27RA020 on Chief Joseph 480V SQ1 - SQ3, DSQ1 - DSQ2 Replacement Drawings and Chief Joseph 480V SQ1 - SQ3, DSQ1 - DSQ2 Replacement Specs. 2. Add Request for Visitation Authority (RVA). ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "noticeId": "67428bcce0ed40d7a5a00f7c78950776",
+  "solicitationNumber": "W911XK27BA006",
+  "title": "Great Lakes Restoration Initiative (GLRI) Monguagon Creek Upper Trenton Channel (MCUTC)",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-10T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST DETROIT",
+  "contacts": [
+    {
+      "name": "Marna Rockwell",
+      "email": "Marna.L.Rockwell@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "229f63dc4651418c80ce9cec47a3e0ca",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bd058a8562ff4e3d80bbd8e81739cbbd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d18404511ec54f9e93a4ef75cbb0b96f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c129a4b17a7b409c8b247041367267a3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "****Related Prior Solicitation Number W911XK26RA012 and W911XK27BA002**** The U.S. Army Corps of Engineers (USACE) Detroit District is seeking contractors with the capability to provide environmental (mechanical) dredging and placement of contaminated sediment construction services in the Monguagon Creek Upper Trenton Channel (MCUTC) located in Riverview, Michigan. The project consist of work associated with the environmental maintenance dredging of the Monguagon Creek Upper Trenton Channel located in Riverview, Michigan. There are no options included with the solicitation. The channel is situated just south of Bridge Road and the Grosse Ile Toll Bridge. The primary goal of the project is to remove contaminated sediment from Sediment Management Area 1 (maximum 4 feet depth) and Area 2 (maxi-mum 25 feet depth). Approximately 28,100 cubic yards of material is planned to be re-moved using mechanical dredging means with transport and placement of the contaminated dredged material into Cell 5 of the Pointe Mouillee Confined Disposal Facility (CDF). ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

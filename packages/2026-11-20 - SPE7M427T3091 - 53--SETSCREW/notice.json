@@ -1,0 +1,28 @@
+{
+  "noticeId": "4b42533f25004f428b5676f3d8b197d3",
+  "solicitationNumber": "SPE7M427T3091",
+  "title": "53--SETSCREW",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-20T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA MARITIME > DLA MARITIME COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "402cbc8cf44f4165b3272ae045869648",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5305016099986 SETSCREW:\nLine 0001 Qty 1490   UI EA  Deliver To: DLA DISTRIBUTION WARNER ROBINS By: 0017 DAYS ADO\nApproved sources are 99251 122-10935-1; B6577 122-10935-1.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

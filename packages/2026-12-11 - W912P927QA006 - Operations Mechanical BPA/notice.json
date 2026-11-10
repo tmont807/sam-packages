@@ -1,0 +1,40 @@
+{
+  "noticeId": "dd9518d8b73244edabd578461405c03d",
+  "solicitationNumber": "W912P927QA006",
+  "title": "Operations Mechanical BPA",
+  "naics": "238220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-11T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > MVD > W07V ENDIST ST LOUIS",
+  "contacts": [
+    {
+      "name": "IVY SAKYI",
+      "email": "ivy.a.sakyi@usace.army.mil",
+      "phone": "(314)331-8089"
+    }
+  ],
+  "files": [
+    {
+      "name": "8a9d21dfda274b049cb2850544ccd994",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "af5e08025d484598a51b59928e184c43",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "11b84b40d4f64ceabae8d29b9f28ff51",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "75446223b93e472d97bf72fed1a344f9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Operations Mechanical BPA ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

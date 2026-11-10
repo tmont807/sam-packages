@@ -1,0 +1,45 @@
+{
+  "noticeId": "3f6466922b68496a9d8dec7e10d99885",
+  "solicitationNumber": "N6945027R0004",
+  "title": "RFP - P1050 MAINTENANCE HANGAR AT NAS JRB FORT WORTH, TEXAS",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-08T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC ATLANTIC CMD > NAVFAC SOUTHEAST > NAVFACSYSCOM SOUTHEAST",
+  "contacts": [
+    {
+      "name": "Cynthia McMonigle",
+      "email": "cynthia.a.mcmonigle.civ@us.navy.mil",
+      "phone": "9045426606"
+    },
+    {
+      "name": "Aimee Johnson",
+      "email": "aimee.n.johnson2.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "adccb6a2602540c291782a5f3ea98f72",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f2ed675f230f489f913cadead937bce4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "210bc44a2ac0495c8f39681b5458b609",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a84fee2fd50b43e0a5fb3f6a3a425eae",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "P1050 MAINTENANCE HANGAR AT NAS JRB FORT WORTH, TEXAS ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

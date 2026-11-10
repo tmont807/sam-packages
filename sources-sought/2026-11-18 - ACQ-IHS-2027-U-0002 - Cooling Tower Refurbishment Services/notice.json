@@ -1,0 +1,32 @@
+{
+  "noticeId": "62ea21e641dd4ccd9f8ae1786761a1b0",
+  "solicitationNumber": "ACQ-IHS-2027-U-0002",
+  "title": "Cooling Tower Refurbishment Services",
+  "naics": "238220",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-11-18T18:00:00+00:00",
+  "state": "CA",
+  "city": "Winterhaven",
+  "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF > INDIAN HEALTH SERVICE > PHOENIX AREA INDIAN HEALTH SVC",
+  "contacts": [
+    {
+      "name": "Patrick Ferguson",
+      "email": "patrick.ferguson@ihs.gov",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "A1-Sources Sought-Total Small Business.docx",
+      "result": "17 KB"
+    },
+    {
+      "name": "Fort_Yuma_Cooling_Tower_SOW-Posted.docx",
+      "result": "50 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Fort Yuma Health Center operates three EVAPCO cooling tower cells that require refurbishment of internal heat-transfer and drift-control components. The existing fill supports support the tower media/packing, which promotes even water and air distribution for heat transfer. The Government requires replacement of the fill media, fill supports, and eliminator assemblies in all three cooling tower cells to restore and maintain reliable cooling tower performance. \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

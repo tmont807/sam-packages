@@ -1,0 +1,28 @@
+{
+  "noticeId": "e26a531c50574d94b5a8a780adb1d5fa",
+  "solicitationNumber": "SPE7L127T4389",
+  "title": "53--HOLDER,ROLLER",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-19T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "795acb34810b4906a3a740519877f395",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5340014259576 HOLDER,ROLLER:\nLine 0001 Qty 59     UI EA  Deliver To: W1A8 DLA DIST SAN JOAQUIN By: 0074 DAYS ADO\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available.  Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

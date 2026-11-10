@@ -1,5 +1,5 @@
 {
-  "noticeId": "e11dc80cc2494d43813ebb13c58e50b6",
+  "noticeId": "f7e724fe7085452baac8ab61fdcbca79",
   "solicitationNumber": "15F06727Q0000010",
   "title": "Window Cleaning and Maintenance",
   "naics": "561720",
@@ -18,20 +18,20 @@
   ],
   "files": [
     {
-      "name": "CJIS Window Cleaning and Maintenance Services - RFQ.pdf",
-      "result": "260 KB"
-    },
-    {
-      "name": "Window Cleaning and Maint - SOW - 10.29.2026.pdf",
-      "result": "453 KB"
+      "name": "CJIS Window Cleaning and Maintenance Services - RFQ - R2.pdf",
+      "result": "281 KB"
     },
     {
       "name": "Attachment_2_CJIS_Window_Price_Schedule.xlsx",
       "result": "12 KB"
     },
     {
-      "name": "15F06727Q0000010 - SF1449 - R1.pdf",
-      "result": "300 KB"
+      "name": "Window Cleaning and Maint - SOW - 10.29.2026.pdf",
+      "result": "453 KB"
+    },
+    {
+      "name": "15F06727Q0000010 - SF1449 - R2.pdf",
+      "result": "347 KB"
     },
     {
       "name": "Service Contract Act WD 2015-4353.pdf",
@@ -42,9 +42,11 @@
       "result": "810 KB"
     },
     {
-      "name": "Questions - Responses - R1 -10.29.26.xlsx",
-      "result": "13 KB"
+      "name": "Questions - Responses - R2.xlsx",
+      "result": "29 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "  Amendment 1: Site visit has been moved from 11/04/2026 to 11/06/2026 at 9AM, ET.&nbsp; Quotations are due November 24, 2026, at 10:00 AM Eastern Time. Please see ALL updated attachements for all other updates indicated in &quot;blue&quot;.  \n\n  Amendment 2: (1) The quantities have been changed/added to SF1449 attachment; (2) FAR 52.219-14(f)(1) - Sub-contracting Limitations has been changed per Q&amp;A; (3) Questions and Responses (Q&amp;A) spreadsheet has been updated as of 11/09/2026; (4) Added Sheet 2 on (Q&amp;A) has been added with updated sq. ft.  \n\n The Federal Bureau of Investigation (FBI), Criminal Justice Information Services (CJIS) Division, located in Clarksburg, West Virginia, is issuing this Request for Quotations (RFQ) for commercial Window Maintenance and Cleaning Services. \n\n The requirement includes scheduled interior and exterior window cleaning, annual window inspections, specialized glazing maintenance, and as-needed emergency response and window repairs, as described in the attached Statement of Work (SOW). \n\n This acquisition is a  100% Small Business Set-Aside.&nbsp; The Government anticipates awarding a single Firm-Fixed-Price contract consisting of a base year and four one-year option periods. \n\n Interested vendors shall review the attached RFQ and supporting documents for the complete requirements, site visit information, quotation instructions, evaluation criteria, and submission deadline. \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
 }

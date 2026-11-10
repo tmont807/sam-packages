@@ -1,5 +1,5 @@
 {
-  "noticeId": "81c1fdee704740ec817277939bbe63c9",
+  "noticeId": "e96f16e22b2b4a2a908658d78f41fa6a",
   "solicitationNumber": "N4008527R0004",
   "title": "RANGE MAINTENANCE AND REPAIR SUPPORT",
   "naics": "561210",
@@ -22,6 +22,26 @@
     }
   ],
   "files": [
+    {
+      "name": "Amendment 27R00040002.pdf",
+      "result": "884 KB"
+    },
+    {
+      "name": "Amendment 27R00040001.pdf",
+      "result": "2537 KB"
+    },
+    {
+      "name": "Revised ELINS J-0200000-07.pdf",
+      "result": "464 KB"
+    },
+    {
+      "name": "Past Performance Questionnaire (PPQ).pdf",
+      "result": "504 KB"
+    },
+    {
+      "name": "L2 Cert. of Cost & Pricing Data.pdf",
+      "result": "271 KB"
+    },
     {
       "name": "Sol - N4008527R0004.pdf",
       "result": "2527 KB"
@@ -67,5 +87,7 @@
       "result": "2600 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": " Amendment 0002 \n\n Participation Site Visit&nbsp; \n\n Amendment 0001 \n\n Solicitation N4008527R0004: This amendment should be acknowledged when your proposal is submitted. Failure to acknowledge may constitute grounds for rejection of your proposal. \nRFI&#39;s Questions and Answers \nAttachments Revised Pricing ELINS Sheet, Past Performance questionnaire (PPQ), Certification Cost and Pricing Data and Changes for Section (M) and Section (L) is included. \n\n The work includes, but is not limited to, furnishing all labor, supervision, management, tools, materials, equipment, transportation, incidental engineering, and other items necessary to provide general repairs necessary to keep training areas in usable condition for the Range and Maintenance Services \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
 }

@@ -1,0 +1,40 @@
+{
+  "noticeId": "7a83e818fca94abba92c7a6877609c12",
+  "solicitationNumber": "N6523627R0007",
+  "title": "Navy Shore Sustainment Support (N3S)",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-09T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR LANT > NIWC ATLANTIC",
+  "contacts": [
+    {
+      "name": "Jessica Glisson",
+      "email": "jessica.k.glisson.civ@us.navy.mil",
+      "phone": "8436098607"
+    }
+  ],
+  "files": [
+    {
+      "name": "9ef232015b09405ca77cb056aefc59c6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4a246d16d9ae4b40b566670b93c98e77",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e5bfd228473e48bba95f2897669dd4ea",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "72590601bb274fca9f1c945dbf1e2d7e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "*This RFP was originally drafted with the document identifier of N6523626RE088. Due to system limitations, the document identifier changed to N6523627R0007 to reflect the document s FY27 release. This amendment is issued to update any reference to the original document identifier and extend the Question and Answer period and proposal submission date.* ** This opportunity is for SeaPort-NxG MAC HOLDERS ONLY.** No other offers will be considered. SeaPort-NxG MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers. Naval Information Warfare Center Atlantic (NIWC Atlantic) Charleston, SC requires Navy Shore Sustainment Support (N3S) for the Engineering Services and Cyber Authorization (ESCA) Integrated Product Team (IPT). The contractors will be tasked to accomplish the work as specified in the Performance Work Statement (PWS). The PWS and Contract Data Requirements List (CDRL) include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to the PWS and CDRL, the offeror shall download, complete, and submit a Non-Disclosure Agreement (NDA) for each individual requiring access to the non-public documents to jessica.k.glisson.civ@us.navy.mil. Questions are due to jessica.k.glisson.civ@us.navy.mil by 12:00 pm Eastern Standard Time on 23 November 2026.  ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

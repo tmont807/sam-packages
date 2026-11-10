@@ -1,0 +1,28 @@
+{
+  "noticeId": "11970aad794f4182913cf7dee0da7044",
+  "solicitationNumber": "N00024-27-R-0200",
+  "title": "Enterprise Workspace Management Support",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "NONE",
+  "due": "2026-12-04T19:00:00+00:00",
+  "state": "DC",
+  "city": "Washington Navy Yard",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA HQ > NAVSEA HQ",
+  "contacts": [
+    {
+      "name": "Lee E. Troope, Jr.",
+      "email": "lee.e.troope.civ@us.navy.mil",
+      "phone": "2027811254"
+    }
+  ],
+  "files": [
+    {
+      "name": "WSM Sources Sought - 101526.docx",
+      "result": "42 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "  THIS IS A SOURCES SOUGHT NOTICE ONLY. THIS IS NOT A REQUEST FOR PROPOSALS. THIS SOURCES SOUGHT NOTICE IS PUBLISHED FOR MARKET RESEARCH PURPOSES ONLY.  \n\n This notice is issued by the Department of the Navy, Naval Sea Systems Command (NAVSEA HQ), on behalf of NAVSEA Facilities (Enterprise Workspace Management). NAVSEA is comprised of Headquarters (HQ) activities located at the Washington Navy Yard (WNY) and technical/industrial field organizations across more than 40 geographically dispersed activities spanning over 34 million gross square feet of facilities and supporting approximately 80,200 personnel. \n\n NAVSEA Facilities seeks to identify potential sources interested in and capable of fulfilling the requirements for enterprise workspace management support services to implement, sustain, expand, configure, and improve the ARCHIBUS Workplace Management System (IWMS) / Computer-Aided Facility Management (CAFM) platform. The current baseline utilizes ARCHIBUS version 25.2 (and approved upgrades) hosted across staging, testing, training, and production environments by the Enterprise Digital Capabilities (EDC) team at NSWC Dahlgren, VA. The requirement encompasses NAVSEA HQ, Program Executive Offices (PEOs), and participating field activities, including Naval Warfare Centers (NSWC/NUWC), Naval Shipyards (Norfolk, Pearl Harbor, Portsmouth, Puget Sound), Regional Maintenance Centers (CNRMC, MARMC, SERMC, SWRMC), Supervisors of Shipbuilding (SUPSHIP Bath, Groton, Gulf Coast, Newport News), and related naval commands. (Incumbent Contract Reference: Currently satisfied under SeaPort Task Order N00178-14-D-8048-EH01 by BlueWater Federal Solutions, Inc. Estimated LOE is approximately 240,910 Direct Labor Hours over a 5-year period of performance: one 12-month base year plus four 12-month option years). \n\n This requirement may include the following efforts: \n\n \n\t Provide full lifecycle day-to-day ARCHIBUS system administration, user account lifecycles, security groups, Virtual Private Archives (VPAs), user roles, dashboard design, workflows, and Standard Operating Procedures (SOPs). \n\t Execute field-activity site rollout plans using Agile processes to incorporate stakeholder requirements, assess site constraints, deploy licensed modules, and deliver formal Site Rollout Completion Packages. \n\t Maintain capacity to execute rollouts at up to five (5) field activities simultaneously when surge capacity is required. \n\t Establish and validate data integrity, GeoHierarchies, and organizational structures linking personnel, room/cubicle space, telecommunications, and IT hardware assets. \n\t Perform authorized interior and exterior LiDAR/3D laser scanning, building feature surveys, and facility asset verification in accordance with Government CAD/BIM standards (e.g., USACE CAD Standards). \n\t Execute CAD polylining, drawing conversion, layer standardizations, and Building Information Modeling (BIM) publishing and integration into ARCHIBUS. \n\t Provide robust prime-contractor quality control, oversight, and deliverable validation for any subcontractor-performed survey, scanning, or CAD/BIM efforts prior to Government submission. \n\t Develop, test, and sustain automated daily data feeds between source systems, legacy databases, and the ARCHIBUS production database hosted in the Enterprise Digital Capabilities (EDC) environment. \n\t Prepare, package, and document Configuration Change Requests (CCRs), staging test scripts, release notes, user-impact assessments, and rollback plans, supporting testing and deployment from Navy Marine Corps Intranet (NMCI) client environments. \n\t Facilitate stakeholder alignment sessions, business process mapping, and change-readiness activities across enterprise leadership and field activity commands. \n\t Develop role-based training curriculums, interactive guides, quick-reference aids, and SOPs; conduct hands-on training within the dedicated ARCHIBUS training environment prior to local go-live events. \n\t Accomplish full operational transition within a six (6) week phase-in period post-award, maintaining an Integrated Master Schedule (IMS), Quality Control Plan (QCP), and structured risk/issue registers. \n\t Ensure all personnel are U.S. citizens possessing a favorably adjudicated Federal Background Investigation at the Tier 3 (T3) level for Common Access Card (CAC) credentials and Navy IT network access. \n\t Maintain an adequate cost accounting system approved by DCAA/DCMA (FAR 16.301-3 / SF 1408) to support a CPFF task order. \n \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

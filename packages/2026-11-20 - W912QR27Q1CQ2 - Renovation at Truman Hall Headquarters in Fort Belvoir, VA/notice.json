@@ -1,0 +1,36 @@
+{
+  "noticeId": "4c3d5c2be79840d683e7bc36bcd8a280",
+  "solicitationNumber": "W912QR27Q1CQ2",
+  "title": "Renovation at Truman Hall Headquarters in Fort Belvoir, VA",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-20T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST LOUISVILLE",
+  "contacts": [
+    {
+      "name": "ETHAN PHILLIPS",
+      "email": "ethan.s.phillips@usace.army.mil",
+      "phone": "5023156545"
+    }
+  ],
+  "files": [
+    {
+      "name": "875d6d4467dd4287a13b10d41b822c8a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "931b70eba47c4fa2851dc0074b2c1740",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0567da5bd1144586aa00397b7f044f92",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " ****This Solicitation is for Northeast Construction MATOC Only**** \n\n ****Amendment 0001 posted on 29 October 2026**** \n\n ****Amendment 0002 posted on 10 November 2026**** \n\n Login at https://piee.eb.mil and search for &#39;W912QR27Q1CQ2&#39; to obtain more details.* \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

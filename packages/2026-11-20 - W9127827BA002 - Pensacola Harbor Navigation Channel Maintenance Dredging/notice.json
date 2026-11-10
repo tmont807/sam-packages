@@ -1,0 +1,45 @@
+{
+  "noticeId": "6a5e6ba38cac4f33a896f424b409a83f",
+  "solicitationNumber": "W9127827BA002",
+  "title": "Pensacola Harbor Navigation Channel Maintenance Dredging",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-20T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT MOBILE",
+  "contacts": [
+    {
+      "name": "Jeffrey Donaldson",
+      "email": "jeffrey.m.donaldson@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Elizabeth Trimble",
+      "email": "elizabeth.m.trimble@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "3570ceaca25f40bd949c9dc957d5b223",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7d0635cd7cd84f7eb2b27f12eb2c601d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5a4f6c38df3f435a80770090442bd6c2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cd71add0f960476ca4249a8f6940861f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This requirement is for hydraulic cutterhead pipeline dredges, trailing suction hopper dredges, and/or mechanical dredges with scows. Dredges must be capable of dredging to a depth of 30 feet and be complete with crew, management staff and support equipment including tugs and various other floating plants as would normally be expected to support a large dredging operation. The material type expected for this requirement will be maintenance material typical for Pensacola Entrance Channel composed of sand. Material dredged will be placed west of the Pensacola Entrance Channel along Perdido Key Beach.  ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

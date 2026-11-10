@@ -1,0 +1,45 @@
+{
+  "noticeId": "87167b40ad8a404484639e3db2ebfa21",
+  "solicitationNumber": "FA860127R0004",
+  "title": "2027-2034 Wright-Patterson Air Force Base Multiple Award Construction Contract (MACC)",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-11T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE LIFE CYCLE MANAGEMENT CENTER > FA8601  AFLCMC PZIO",
+  "contacts": [
+    {
+      "name": "Max McCloughan",
+      "email": "max.mccloughan@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Ryan Prickett",
+      "email": "ryan.prickett@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "e01c44be11744f04930632b43a07ba7d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "13934323ca324307a91d494c236ecd24",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b90ac89d02624dc3a31628a204f77f68",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "13cc033cd1d34b0591f0b647621b30c8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is a follow-on Multiple Award Construction Contract (MACC) Indefinite-Delivery Indefinite-Quantity (IDIQ) contract for design-build, design-bid-build, and Progressive Design Build (PDB) construction projects, which are specific to WPAFB, and applicable to individual Task Orders. Work will consist of a broad range of maintenance, repair, alteration and/or new construction work on various real property. Type of work the contractor can expect (not inclusive): new construction of buildings and structures; alteration and repair of buildings, structures, roads, airfields, ground, roofs; specialty construction; utilities; and miscellaneous services including remediation/hazardous waste removal (i.e. asbestos, lead paint etc.). Contractor efforts may also include design/build from concept to 100% design. Amendment 0001 incorporates the most recent round of Requests for Information (RFIs) and updates Attachments 1, 2, 3, 5, 8, 9, 10. Attachment 4 is removed from the solicitation. Remaining open and unanswered RFIs will be addressed in another amendment to the solicitation. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

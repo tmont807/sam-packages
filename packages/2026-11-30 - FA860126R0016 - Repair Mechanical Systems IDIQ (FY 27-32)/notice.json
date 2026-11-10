@@ -1,0 +1,45 @@
+{
+  "noticeId": "70d4c1748eb241b197c5b0a0e58fbcd0",
+  "solicitationNumber": "FA860126R0016",
+  "title": "Repair Mechanical Systems IDIQ (FY 27-32)",
+  "naics": "238220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE LIFE CYCLE MANAGEMENT CENTER > FA8601  AFLCMC PZIO",
+  "contacts": [
+    {
+      "name": "Brittany Peterson",
+      "email": "Brittany.peterson.4@us.af.mil",
+      "phone": "9372551240"
+    },
+    {
+      "name": "Nancy Brockert",
+      "email": "Nancy.Brockert@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "897f7dbad60d4c5c83f1576cd71b8a9b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ee683ad74b3542d7b251be0e847f73a7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "56c35ac52bb34399b86d854010bd50fc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "670a926f18ec4bf78106f154423b0588",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Repair Mechanical Systems IDIQ (FY 27-32) ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

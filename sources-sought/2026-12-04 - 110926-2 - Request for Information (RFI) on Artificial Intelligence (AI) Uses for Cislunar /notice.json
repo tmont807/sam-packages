@@ -1,0 +1,33 @@
+{
+  "noticeId": "2be442c5e19a4c3cb2aafe6522843256",
+  "solicitationNumber": "110926-2",
+  "title": "Request for Information (RFI) on Artificial Intelligence (AI) Uses for Cislunar Space Vehicle Operations",
+  "naics": "541512",
+  "type": "Special Notice",
+  "setAside": "NONE",
+  "due": "2026-12-04T17:00:00+00:00",
+  "state": "VA",
+  "city": "Arlington",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE",
+  "contacts": [
+    {
+      "name": "Shelby C. Sommer",
+      "email": "shelby.sommer@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Joseph DeRienzo",
+      "email": "joseph.derienzo@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Cislunar_SI_RFI_018_6nov26_dcc_Final.pdf",
+      "result": "180 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " (U) The Department of the Air Force (DAF) is seeking market research information on the potential utility of Artificial Intelligence (AI) (hereafter referred to as Super Intelligence (SI)) and Machine Learning (ML) algorithms in support of the autonomous operation of space vehicles (SVs) in the cislunar environment. This information may be used to inform the potential development of DAF requirements for future cislunar space systems. \n\n (U) Based on the market information collected with this RFI and all other sources of information relevant to the effort DAF may invest in future studies to mature operationally relevant concepts. Failure to respond to this RFI may result in loss of the ability to participate in future study contracts for this mission area. \n\n (U) This RFI does not constitute a Request for Proposal (RFP), and industry should not construe it as a commitment by the Government. In accordance with Revolutionary FAR Overhaul (RFO) provision 15.101, Early Exchanges with Industry, be advised that this is only an RFI, and does not obligate the Government to reimburse any cost associated with preparation and/or submission of a RFI response. This RFI does not guarantee that the Government will issue an RFP or award a contract to provide these supplies or services. \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

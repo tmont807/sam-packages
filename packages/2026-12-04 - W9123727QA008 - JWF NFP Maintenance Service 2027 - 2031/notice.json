@@ -1,0 +1,40 @@
+{
+  "noticeId": "936ea23cc5a149ef82f73cfedc2aedd1",
+  "solicitationNumber": "W9123727QA008",
+  "title": "JWF/NFP Maintenance Service 2027 - 2031",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "Ellec Robinette",
+      "email": "ellec.t.robinette@usace.army.mil",
+      "phone": "304-399-5226"
+    }
+  ],
+  "files": [
+    {
+      "name": "50dd69d9dc314d4aa179fde42f27716a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c68731f8a4de455d9e63507081ff8fe1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0da6de906ea04cccb04444cb35064665",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4917b296fb124d838c171125a08635a0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Contractor shall furnish all necessary management, personnel, materials, supplies, tools, equipment, fuel, and vehicles, except as otherwise noted in the Performance Work Statement, required to perform the Mowing and Maintenance Services for John W. Flannagan Dam Reservoir and North Fork of Pound River Lake, VA. All work shall be completed in accordance with the Performance Work Statement and terms and conditions of the contract. The not-to-exceed amount of $3,000,000.00 includes the base year and all options exercised. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

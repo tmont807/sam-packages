@@ -1,0 +1,36 @@
+{
+  "noticeId": "9e36b34d0e1d48d494fcd19d70cdcbcf",
+  "solicitationNumber": "N6247327R0014",
+  "title": "IDIQ JOC 8(a) SMALL BUSINESS SET-ASIDE UNDER NAICS 238210 FOR ELECTRICAL CONTRACTORS AND OTHER WIRING INSTALLATION CONTRACTORS AT VARIOUS GOVERNMENT FACILITIES LOCATED WITHIN THE MCAGCC 29 PALMS AOR",
+  "naics": "238210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-09T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "Esmeralda Raggio",
+      "email": "esmeralda.l.raggio.civ@us.navy.mil",
+      "phone": "N/A"
+    }
+  ],
+  "files": [
+    {
+      "name": "0e2dc3f0f9684b9cbade2d1371461b27",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "387bd763f9a9438582ccf887768d327e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b38da0b64ad044d49e1743142150acff",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Login at https://piee.eb.mil and search for 'N6247327R0014' to obtain more details.*",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

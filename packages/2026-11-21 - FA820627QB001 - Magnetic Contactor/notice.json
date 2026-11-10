@@ -1,0 +1,61 @@
+{
+  "noticeId": "8df12170d0ec45b192ca0dfd1795f396",
+  "solicitationNumber": "FA820627QB001",
+  "title": "Magnetic Contactor",
+  "naics": "423610",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-21T11:30:00+00:00",
+  "state": "UT",
+  "city": "Hill AFB",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE SUSTAINMENT CENTER > FA8206  AFSC PZAAA2",
+  "contacts": [
+    {
+      "name": "Rannon Chapman",
+      "email": "rannon.chapman@us.af.mil",
+      "phone": "8015860687"
+    },
+    {
+      "name": "David Sanders",
+      "email": "david.sanders.41@us.af.mil",
+      "phone": "801586240"
+    }
+  ],
+  "files": [
+    {
+      "name": "Solicitation Amendment - FA820627QB0010001.pdf",
+      "result": "543 KB"
+    },
+    {
+      "name": "10-22431_81205_2D Drawing_C.zip",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "EDL.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Item Description.pdf",
+      "result": "57 KB"
+    },
+    {
+      "name": "QA.pdf",
+      "result": "83 KB"
+    },
+    {
+      "name": "SOW.pdf",
+      "result": "128 KB"
+    },
+    {
+      "name": "Packaging Report.pdf",
+      "result": "67 KB"
+    },
+    {
+      "name": "Transportation Report.pdf",
+      "result": "85 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " The government is procuring 11 magnetic contactors with the following information: \n\n NSN:6110-01-043-2504 \n\n PN:22792.16-1 \n\n FOB: Origin - include shipping costs \n\n Need Date: December 31, 2026 \n\n No First Article or other Data required \n\n CMMC Level 2 Self Certification is required for manufactures AND distributors involved. JCP certification is required to see the TDP.&nbsp; \n\n Please email Rannon Chapman and David Sanders of a valid quote or a completed SF1449 and have the information be valid for 60 days.- rannon.chapman@us.af.mil&nbsp; &nbsp;david.sanders.41@us.af.mil \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

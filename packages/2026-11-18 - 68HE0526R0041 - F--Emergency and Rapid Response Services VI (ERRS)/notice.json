@@ -1,0 +1,28 @@
+{
+  "noticeId": "6ebf2bdaaa7f43f9bddb3d8397682bf1",
+  "solicitationNumber": "68HE0526R0041",
+  "title": "F--Emergency and Rapid Response Services VI (ERRS)",
+  "naics": "562910",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-18T22:00:00+00:00",
+  "state": "TX",
+  "city": "Dallas",
+  "agency": "ENVIRONMENTAL PROTECTION AGENCY > ENVIRONMENTAL PROTECTION AGENCY > REGION 5 CONTRACTING OFFICE",
+  "contacts": [
+    {
+      "name": "Ventura, Marisol",
+      "email": "Ventura.Marisol@epa.gov",
+      "phone": "(312) 353-8034"
+    }
+  ],
+  "files": [
+    {
+      "name": "335c97c5b709461a8b99006818e1f7ac",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Region 6; Emergency and Rapid Response Services (ERRS) VI",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

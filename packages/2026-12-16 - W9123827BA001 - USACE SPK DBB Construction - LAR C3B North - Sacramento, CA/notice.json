@@ -1,0 +1,40 @@
+{
+  "noticeId": "0a24efc981df470492f86472ce9c0cb3",
+  "solicitationNumber": "W9123827BA001",
+  "title": "USACE SPK DBB Construction - LAR C3B North - Sacramento, CA",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-16T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SPD > W075 ENDIST SACRAMENTO",
+  "contacts": [
+    {
+      "name": "Antonina Beal",
+      "email": "antonina.beal@usace.army.mil",
+      "phone": "9165577543"
+    }
+  ],
+  "files": [
+    {
+      "name": "7da398abee2f42999afa5806eb85733e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "dd568dde08be4bbdbdca5df3e5c61621",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "533e596eff1b4689906e3c2c2bc25a0a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0e62ff66da874beabf9ee95fd70ff1a1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Project Title: Lower American River Contract 3B North (LAR C3B North). Project Location: Lower American River from Howe Avenue upstream to near Harrington Way. Work under fully designed government specifications entails excavation, material placement, and embankment regrading; installation of soil-filled rock slope protection along the waterside levee face; construction of buried launchable rock toes and launchable overbank trenches; development of planting benches integrated with instream woody material; import and placement of riprap; structural tie-ins with existing rock revetment features; and complete temporary site stabilization across disturbed soil areas. North American Industry Classification (NAICS) code: 237990, Other Heavy and Civil Engineering Construction. Product or Service Code: Y1LC, Construction of Tunnels and Subsurface Structures. Small Business Administration (SBA) size standard: $45,500,000.00 annual revenue. The target price range is estimated to be $45,000,000.00 to $60,000,000.00.Requirement is a total (100%) Small Business set-aside. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

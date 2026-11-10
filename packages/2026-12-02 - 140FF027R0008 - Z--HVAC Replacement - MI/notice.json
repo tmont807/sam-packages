@@ -1,0 +1,56 @@
+{
+  "noticeId": "3f7acea6fbde4b528ac78ce4030e0dff",
+  "solicitationNumber": "140FF027R0008",
+  "title": "Z--HVAC Replacement - MI",
+  "naics": "238220",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-02T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Beauregard, Christine",
+      "email": "Christine_Beauregard@fws.gov",
+      "phone": "4132538232"
+    }
+  ],
+  "files": [
+    {
+      "name": "Sol_140FF027R0008_Amd_0003.pdf",
+      "result": "201 KB"
+    },
+    {
+      "name": "Sol_140FF027R0008_Amd_0002.pdf",
+      "result": "202 KB"
+    },
+    {
+      "name": "Sol_140FF027R0008_Amd_0001.pdf",
+      "result": "203 KB"
+    },
+    {
+      "name": "Sol_140FF027R0008.pdf",
+      "result": "371 KB"
+    },
+    {
+      "name": "Wages.pdf",
+      "result": "38 KB"
+    },
+    {
+      "name": "A04_SOW.pdf",
+      "result": "127 KB"
+    },
+    {
+      "name": "A06_Shiawassee_Maintenance_Shop_Drawings.pdf",
+      "result": "13734 KB"
+    },
+    {
+      "name": "BID_SCHED.pdf",
+      "result": "114 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Amendment three - HVAC Replacement - MI",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

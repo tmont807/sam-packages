@@ -1,0 +1,40 @@
+{
+  "noticeId": "1ac4c1e8a3cc4a37827473312d90fdfd",
+  "solicitationNumber": "W912HP27RA011",
+  "title": "Construction of the Charleston Peninsula Coastal Storm Risk Management (CSRM) - Westside",
+  "naics": "237990",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-23T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT CHARLESTO",
+  "contacts": [
+    {
+      "name": "Evelyn HALLIBURTON",
+      "email": "EVELYN.I.HALLIBURTON@USACE.ARMY.MIL",
+      "phone": "8433298208"
+    }
+  ],
+  "files": [
+    {
+      "name": "0dfde5b38c47428e98a1d52845cb1372",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "05ce1904cc4e4551935ce1b6c9e6acfd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "88536fb44dd246a5945dcdb55b1e42f2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e468a26afe194cc3af2e7184cd11dd5b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Sources Sought - The U.S. Army Corps of Engineers, Charleston District (SAC) is conducting market research to identify qualified and interested contractors capable of performing complex heavy-civil and coastal  flood-risk-management construction under a Single-Award Task Order Contract (SATOC). This notice is issued solely for information and planning purposes. It does not constitute a Request for Proposal (RFP), Invitation for Bid (IFB), or a commitment by the Government to issue a solicitation or award a contract. Responses will be used to assess industry interest, capability, bonding capacity, preferred delivery methods, and small business subcontracting opportunities.No proposals or offers are requested or will be accepted under this Sources Sought. ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

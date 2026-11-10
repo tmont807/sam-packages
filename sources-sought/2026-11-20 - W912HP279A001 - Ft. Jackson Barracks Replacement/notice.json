@@ -1,0 +1,45 @@
+{
+  "noticeId": "879a0c08f26543fc84c4977e2d1b67d3",
+  "solicitationNumber": "W912HP279A001",
+  "title": "Ft. Jackson Barracks Replacement",
+  "naics": "236220",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-20T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT CHARLESTO",
+  "contacts": [
+    {
+      "name": "Lauren Minzenberger",
+      "email": "LAUREN.O.MINZENBERGER@USACE.ARMY.MIL",
+      "phone": "8433298020"
+    },
+    {
+      "name": "Brandon Lewis",
+      "email": "BRANDON.H.Lewis@USACE.ARMY.MIL",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "14c8e49716a54a3693d223409373f902",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "58f53be15bb6498aadb483c2d569cd59",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fc29f7af4480438b8deb0e03f6e5b1d8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "588dd44713874a5b8966d4918377619b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The U.S. Army Corps of Engineers (USACE), CHARLESTON District, is requesting market intelligence information to identify qualified industry partners capable of supporting a potential Repair and Replace, Design Build to Budget, Other Transaction (OT) Agreement under 10 U.S.C. 2808a for the stated Fort Jackson Barracks Replacement, Columbia, SC. See attachments.  ",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

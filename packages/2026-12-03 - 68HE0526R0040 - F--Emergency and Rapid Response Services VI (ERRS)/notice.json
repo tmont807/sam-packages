@@ -1,0 +1,28 @@
+{
+  "noticeId": "1ad81878a6fa4063babc11b56120f098",
+  "solicitationNumber": "68HE0526R0040",
+  "title": "F--Emergency and Rapid Response Services VI (ERRS)",
+  "naics": "562910",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-03T17:00:00+00:00",
+  "state": "GA",
+  "city": "Atlanta",
+  "agency": "ENVIRONMENTAL PROTECTION AGENCY > ENVIRONMENTAL PROTECTION AGENCY > REGION 5 CONTRACTING OFFICE",
+  "contacts": [
+    {
+      "name": "Ventura, Marisol",
+      "email": "Ventura.Marisol@epa.gov",
+      "phone": "(312) 353-8034"
+    }
+  ],
+  "files": [
+    {
+      "name": "2092ed8601fc4acc96aab8f7674fd52a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Region 4; Emergency and Rapid Response Services (ERRS) VI",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

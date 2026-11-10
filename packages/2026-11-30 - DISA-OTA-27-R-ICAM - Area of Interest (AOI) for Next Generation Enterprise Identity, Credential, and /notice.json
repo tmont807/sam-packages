@@ -1,0 +1,44 @@
+{
+  "noticeId": "d0c73a8627284f03b3c9474b7796ee5b",
+  "solicitationNumber": "DISA-OTA-27-R-ICAM",
+  "title": "Area of Interest (AOI) for Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) Prototype Other Transaction (OT)",
+  "naics": "541519",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T23:00:00+00:00",
+  "state": "MD",
+  "city": "Fort George G Meade",
+  "agency": "DEPT OF DEFENSE > DEFENSE INFORMATION SYSTEMS AGENCY (DISA) > IT CONTRACTING DIVISION - PL84",
+  "contacts": [
+    {
+      "name": "DITCO OTA Mailbox",
+      "email": "disa.scott.ditco.mbx.ps84-other-transaction-authority@mail.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "AOI - NG E-ICAM - Amendment 0001.pdf",
+      "result": "391 KB"
+    },
+    {
+      "name": "Attachment 1 - Desired Solution Attributes.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Attachment 2 Affirmation_of_Business_Status_Certification.pdf",
+      "result": "258 KB"
+    },
+    {
+      "name": "Appendix A - DoW ICAM Governing Authorities List.pdf",
+      "result": "199 KB"
+    },
+    {
+      "name": "Appendix B - DoD_Enterprise_ICAM_Reference_Design.pdf",
+      "result": "2280 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "  Amendment 0001 -&nbsp; The purpose of this amendment is to clarify the Area of Interest (AOI) requirements for accessing the controlled Attachment 1 - Desired Solution Attributes.&nbsp; \n\n The Defense Information Systems Agency (DISA) seeks solutions to prototype a Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) capability for the Department of War. This effort will modernize legacy identity infrastructure with a modular, cloud-hosted commercial off-the-shelf/software-as-a-service solution operating across IL5 and IL6 environments. The prototype must address the Federated Identity Provider, Automated Account Provisioning, Master Entitlement Record, and Federation Hub core capabilities. \n\n Interested parties are encouraged to review the full Area of Interest solicitation for detailed requirements. \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

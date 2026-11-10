@@ -1,0 +1,45 @@
+{
+  "noticeId": "34d4dcc89874404aae17ea2cc134b9d1",
+  "solicitationNumber": "W912HN27BA001",
+  "title": "Tybee Island Shoreline Protection Project",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-10T18:00:00+00:00",
+  "state": "GA",
+  "city": "Tybee Island",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > W074 ENDIST SAVANNAH",
+  "contacts": [
+    {
+      "name": "Jeffrey Francisco",
+      "email": "jeffrey.o.francisco@usace.army.mil",
+      "phone": "9126526046"
+    },
+    {
+      "name": "Preston E. Jones",
+      "email": "Preston.E.Jones@usace.army.mil",
+      "phone": "9126525074"
+    }
+  ],
+  "files": [
+    {
+      "name": "d1abcb2cfee44050b2887c53452840d4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "25d5850342d54d55b1174db8531e9fdd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "54966bd20e904267a89ecbb30cc1518a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1dc9d7511c2548a589db5acfb5e2e8cd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " This solicitation is for the Tybee Island Shoreline Protection Project. This acquisition is being offered as an unrestricted full and open competitive solicitation and will result in a single Firm Fixed- Price Contract Award. The construction magnitude for this project is between $10,000,000.00 and $25,000,000.00. \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+}

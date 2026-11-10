@@ -1,5 +1,5 @@
 {
-  "noticeId": "257f9c3bf02e4a419694e718a686cac1",
+  "noticeId": "7ae8524194814199a5097befb063ca6c",
   "solicitationNumber": "36C24127Q0048",
   "title": "S201--Aseptic Janitorial/or Custodial Services WRJ  White River J",
   "naics": "561720",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "36C24127Q0048 0006.docx",
+      "result": "30 KB"
+    },
+    {
+      "name": "36C24127Q0048 0005.docx",
+      "result": "36 KB"
+    },
     {
       "name": "36C24127Q0048 0004.docx",
       "result": "19 KB"
@@ -38,5 +46,7 @@
       "result": "210 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "Aseptic Janitorial/or Custodial Services White River Junction\nAmendment 006\n\n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
 }

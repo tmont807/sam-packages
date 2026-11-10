@@ -1,5 +1,5 @@
 {
-  "noticeId": "6c3b66c3374147d7a8438202ae4908a3",
+  "noticeId": "7c62b9d76576408181274c7dc79ae5cc",
   "solicitationNumber": "1332KP26R0041",
   "title": "Fairbanks Command and Data Acquisition Station (FCDAS) for Operations and Maintenance Services",
   "naics": "561210",
@@ -23,6 +23,14 @@
   ],
   "files": [
     {
+      "name": "1332KP26R0041 AMD 4.pdf",
+      "result": "246 KB"
+    },
+    {
+      "name": "Attachment J-2. Price Proposal_Template_V2 11.10.26 .xlsx",
+      "result": "203 KB"
+    },
+    {
       "name": "Attachment J-9. Managed Personal Property 10.29.26.pdf",
       "result": "1072 KB"
     },
@@ -37,10 +45,6 @@
     {
       "name": "Attachment J-10. Past Performance Questionnaire 10.29.26.docx",
       "result": "42 KB"
-    },
-    {
-      "name": "Attachment J-2. Price Proposal_Template_FCDAS OM 10.29.26.xlsx",
-      "result": "204 KB"
     },
     {
       "name": "1332KP26R0041 AMD 3.pdf",
@@ -99,13 +103,11 @@
       "result": "641 KB"
     },
     {
-      "name": "Attachment J-2. Price Proposal_Template_FCDAS OM.xlsx",
-      "result": "296 KB"
-    },
-    {
       "name": "Attachment J-3. Overtime Labor Hours Breakout Worksheet_FCDAS OM.xlsx",
       "result": "70 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "   Amendment 4:    The purpose of this amendment is to issue a corrected version of Attachment J-2, Price Proposal Template, and document the resolution of formula and referencing errors identified by offerors following the release of Amendment 0003.  \n\n   Amendment 3:&nbsp; The purpose of this amendment is to: &nbsp; 1) Revise Sections L and M of the RFP. 2) Revise a sub-bullet in Amendment 2 to clarify the deadline for scheduling oral presentations. 3) Provide Government responses to questions regarding the RFP (attached separately). 4) Provide a revised Attachment J-1: Performance Work Statement (PWS) (attached separately). The list of changes to Attachment J-1 PWS is documented in the amendment. 5) Provide a revised Attachment J-2: Price Proposal Template (attached separately). 6) Provide a revised Attachment J-9: Managed Personal Property and Capital Equipment List (attached separately). 7) Provide a revised Attachment J-10: Past Performance Questionnaire (attached separately).  \n\n   Amendment 2: &nbsp;The purpose of this amendment is to update the Oral Presentation schedule, time slots, and slot selection process, extend the deadline for Technical Library access requests, and extend the proposal submission due date.  \n\n   Amendment 1: &nbsp;The purpose of this amendment is to formally transition the previously posted draft Combined Synopsis/Solicitation into an approved, final, and binding solicitation, remove the draft RFP disclaimer, update submission instructions for Attachment J-10, reiterate key schedule milestones, and confirm that all published deadlines remain unchanged.  \n\n This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. \n\n Solicitation number  1332KP26R0041  is issued as a Request for Proposal (RFP) for Fairbanks Command and Data Acquisition Station (FCDAS) for Operations and Maintenance Services.&nbsp; \n\n This acquisition is&nbsp;set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov. \n\n The following information is incorporated in the attached RFP: \n\n \n\t A list of line-item number(s) and items, quantities, and units of measure (including options) \n\t Description of requirements for the items to be acquired \n\t Date(s) and place(s) of delivery and acceptance and f.o.b. point (see part 47). \n\t A list of solicitation provisions that apply to the acquisition (see 12.205(a)). \n\t A list of contract clauses that apply to the acquisition (see 12.205(b)). \n\t The date, time, and place for receipt of offer and point of contact. \n \n\n Other additional information required by 5.101(c). \n\n \n\t Please refer to Section L.11 Technical Library Access Instructions of the Attached RFP for&nbsp;technical data required to respond will not be furnished as part of the solicitation \n\t All responsible sources may submit a quotation, bid, or proposal, as appropriate, which will be considered by the agency. \n\t Offerors must meet hold an active Facility Clearance with&nbsp;Defense Counterintelligence and Security Agency   (DCSA) in order to be eligible for award. \n \n",
+  "savedAt": "2026-11-10T22:46:42.615094+00:00"
 }
