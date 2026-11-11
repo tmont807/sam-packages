@@ -1,5 +1,5 @@
 {
-  "noticeId": "2e7e53cb9f7046b4bbd1b4401e1208c1",
+  "noticeId": "3696c365ec9945948ae217c360f8b278",
   "solicitationNumber": "69056727Q000005",
   "title": "Modular Buildings & Restroom Rental with Ancillary Services",
   "naics": "532490",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "69056727Q000005_Amend 0003.pdf",
+      "result": "675 KB"
+    },
+    {
+      "name": "69056727Q000005 QandA_2026-11-10.pdf",
+      "result": "159 KB"
+    },
     {
       "name": "69056727Q000005_Amend 0002.pdf",
       "result": "422 KB"
@@ -38,5 +46,7 @@
       "result": "1032 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": " This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with FAR 12.201 Solicitation procedures.&nbsp; This announcement constitutes the only solicitation.&nbsp; Quotations are being requested and a written solicitation will not be issued. \n\n Solicitation number 69056727Q000005 is issued as an (RFQ) for Modular Buildings &amp; Restroom Rental with Ancillary Services.&nbsp; This requirement is to support and maintain WFLHD operations during the Division Office Facility Renovation by obtaining prefabricated modular office building(s), single-wide container/modular office units, and an executive restroom trailer on a temporary lease basis, including professional delivery, site preparation, installation, utility connection, preventative maintenance, weekly septic pumping maintenance, technical troubleshooting support, and eventual teardown/demobilization. \n\n Additional information as required in FAR 12.202(b)(1) is provided in the RFQ document attached herein. \n\n This acquisition is UNRESTRICTED FULL &amp; OPEN and incorporates provisions and clauses by reference.&nbsp; The full text of&nbsp; provisions and clauses may be accessed electronically at https://www.acquisition.gov/faroverhaul/far-part-deviation-guide/far-overhaul-part-52.&nbsp;&nbsp;The North American Industry Classification System (NAICS) code is 532490 with an industry size standard of $40.0 million and the associated Product Service Code (PSC) is W054. \n\n All interested vendors shall refer to Section E for full-text FAR Provision 52.212-1, Instructions to Offerors, and its Addendum. \n",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
 }

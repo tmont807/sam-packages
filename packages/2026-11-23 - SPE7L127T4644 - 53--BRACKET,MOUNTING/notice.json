@@ -1,0 +1,28 @@
+{
+  "noticeId": "846bc733352840c295e4aa77fac4cb9f",
+  "solicitationNumber": "SPE7L127T4644",
+  "title": "53--BRACKET,MOUNTING",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-23T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "72a071ed1a1042869279b0c4a6506dd2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5340016076820 BRACKET,MOUNTING:\nLine 0001 Qty 17     UI EA  Deliver To: W0LX ANNISTON DEPOT PROP DIV By: 0005 DAYS ADO\nLine 0002 Qty 10     UI EA  Deliver To: W0LX ANNISTON DEPOT PROP DIV By: 0005 DAYS ADO\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available.  Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}

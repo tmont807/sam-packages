@@ -1,0 +1,45 @@
+{
+  "noticeId": "5cea338de5d14ff69abd79d2e3d4e4c5",
+  "solicitationNumber": "W911KB27RWP01",
+  "title": "ACC003 Weapons Generation Complex and Northern Flightline",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-24T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST ALASKA",
+  "contacts": [
+    {
+      "name": "Mark Corn",
+      "email": "mark.r.corn@usace.army.mil",
+      "phone": "9077532817"
+    },
+    {
+      "name": "Theresa Afrank",
+      "email": "theresa.m.afrank@usace.army.mil",
+      "phone": "9077532739"
+    }
+  ],
+  "files": [
+    {
+      "name": "24b118ccaf8b4f83baf9c8a08bedce44",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bdc88dda0f804f7c88ec5ccd1aadc85b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1ae2e65c8f2147edb8914d65966af2d3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "63c8ec4c706c44d4ade69a4558270e2f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers USACE, Alaska District, is seeking to identify a Design-Build Team or Design-Builder for ACC003 Weapons Generation Complex and Northern Flightline, a major project in support of the Fighter Town Recapitalization FTR Program at Joint Base Elmendorf-Richardson JBER, Alaska. The FTR Program is a multiphase initiative to redevelop a significant portion of JBER with modern, resilient, and expanded infrastructure while maintaining mission continuity for active base and airfield operations throughout all phases of construction and facility turnover. Within this broader program, the ACC003 project will encompass construction of the new Weapons Generation Complex and associated Northern Flightline facilities at JBER, Alaska. The scope includes approximately sixteen new facilities, comprising hangars, operations buildings, and munitions storage magazines. A key constraint is the requirement for the new WGC to be operational before the existing facility can be decommissioned, ensuring zero operational downtime for this mission. The project will be constructed on pre-excavated sites with preconstructed utilities delivered under a separate, preceding agreement. ",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}

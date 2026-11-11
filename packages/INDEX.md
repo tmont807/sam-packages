@@ -211,3 +211,41 @@
 | 2026-11-20 | W9124C27QA005 | OmniMetrix Cellular Generator Monitors | Columbia, SC | SBA | 11 |
 | 2026-11-18 | HQ042327QE009 | Preventative Maintenance for Wide Format Printer and Scanner | OH | SBA | 2 |
 | 2026-11-18 | N6600127Q6004 | Maintenance support on (1) MTU Diesel Generator, (1) Kohler Diesel Gen |  | Unrestricted | 4 |
+
+## 2026-11-11
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-24 | W911KB27RWP01 | ACC003 Weapons Generation Complex and Northern Flightline |  | Unrestricted | 4 |
+| 2026-11-21 | 140P2026R0098 | Y--GRTE 237343 - Rehab 4 Lazy F Ranch |  | SBA | 18 |
+| 2026-11-20 | 1240LR27Q0002 | ANF Duchesne Bunkhouse AC Replacement | UT | SBA | 12 |
+| 2026-12-15 | 89503511102026 | SEPA PARKING LOT REPAVING AND REPAIRS | Elberton, GA | NONE | 3 |
+| 2026-11-23 | SPE8E827T0676 | 44--COOLER,FLUID,INDUSTRIA |  | SBA | 1 |
+| 2026-11-23 | SPE8E827T0589 | 44--COOLER,FLUID,INDUSTRIA |  | SBA | 1 |
+| 2026-11-23 | SPE8E827T0531 | 44--COOLER,FLUID,INDUSTRIA |  | SBA | 1 |
+| 2026-11-23 | SPE8E827T0569 | 44--BAFFLE,FLUID COOLER,IN |  | SBA | 1 |
+| 2026-11-23 | SPE8E827T0546 | 44--GASKET AND RING ASSEMB |  | SBA | 1 |
+| 2026-11-23 | SPE8E827T0527 | 44--COOLER FLUID |  | Unrestricted | 1 |
+| 2026-11-23 | SPE8E827T0542 | 44--COOLER,FLUID,INDUSTRIA |  | SBA | 1 |
+| 2026-11-27 | SPE7M127U1192 | 53--CASTER,SWIVEL |  | SBA | 1 |
+| 2026-11-27 | SPE7L427U0173 | 53--DOOR,ACCESS,UTILITY |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7L127U0204 | 53--SCREW,CAP,HEXAGON HEAD |  | Unrestricted | 1 |
+| 2026-11-23 | SPE7L127T4644 | 53--BRACKET,MOUNTING |  | SBA | 1 |
+| 2026-11-19 | SPE4A627T049T | 53--SCREW,CAP,SOCKET HEAD |  | SBA | 1 |
+| 2026-11-19 | SPE4A627T047N | 53--NUT,SELF-LOCKING,HEXAG |  | SBA | 1 |
+| 2026-11-19 | SPE4A127T0350 | 53--BOLT,MACHINE |  | Unrestricted | 1 |
+| 2026-11-19 | SPE4A627T043U | 53--NUT,SELF-LOCKING,CLINC |  | SBA | 1 |
+| 2026-11-19 | SPE4A627T047Q | 53--SCREW,CLOSE TOLERAN |  | SBA | 1 |
+| 2026-11-27 | SPE7L327U0060 | 53--CLAMP,SYNCHRO |  | Unrestricted | 1 |
+| 2026-11-19 | SPE4A627T043Q | 53--BOLT,SHEAR |  | SBA | 1 |
+| 2026-11-23 | SPE7M027T1201 | 46--CELL,SALINITY DETECTOR |  | Unrestricted | 1 |
+| 2026-11-23 | SPE8E927T0512 | 46--CELL AND VALVE ASSEMBL |  | SBA | 1 |
+| 2026-11-23 | SPE7L727T0630 | 61--BATTERY,STORAGE |  | SBA | 1 |
+| 2026-11-27 | SPE7L427U0162 | 61--COVER,BATTERY |  | SBA | 1 |
+| 2026-11-23 | SPE7L727T0621 | 61--BATTERY ASSEMBLY |  | SBA | 1 |
+| 2026-12-08 | 69056727Q000005 | Modular Buildings & Restroom Rental with Ancillary Services | WA | NONE | 7 |
+| 2026-12-11 | N0025327R3001 | Keyport Infrastructure Security Support Services Solicitation |  | SBA | 4 |
+| 2026-11-21 | 36C26127Q0140 | H961--Tri-Annual Electrical Inspection | Fresno | SBA | 6 |
+| 2026-12-01 | N6247326R9953 | Base Operations Support Contract (BOSC) for Naval Air Weapons Station  |  | SBA | 4 |
+| 2026-11-27 | FA452827Q0005 | FY 27 Fire Department Trainer Maintenance & Winterization De-Winteriza | Minot AFB, ND | SBA | 12 |
+| 2026-11-19 | N6893627Q0026 | Malvern Diffractometer Maintenance Agreement |  | Unrestricted | 1 |

@@ -1,0 +1,28 @@
+{
+  "noticeId": "6e9a6871b6fc4ed08518d43d479b87f6",
+  "solicitationNumber": "SPE8E827T0589",
+  "title": "44--COOLER,FLUID,INDUSTRIA",
+  "naics": "332410",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-23T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > TROOP SUPPORT CONSTRUCTION & EQUIPMENT > DLA TROOP SUPPORT",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "825690a4328643c0b9678eeba0c4ce49",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 4420013767138 COOLER,FLUID,INDUSTRIA:\nLine 0001 Qty 2      UI EA  Deliver To: W1A8 DLA DISTRIBUTION By: 0166 DAYS ADO\nApproved source is 28953 A71-D2376.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}

@@ -80,3 +80,9 @@
 | 2026-11-19 | FA462027QC001 | MXS Crane Load Test | Fairchild AFB, WA | SBA | 1 |
 | 2026-12-14 | N68520-27-RFPREQ-KN00000-0154 | FRCSW Hoist Requirement | San Diego, CA | Unrestricted | 3 |
 | 2026-11-17 | PANNGB-27-P-0000042953 | 129 CEF - AVB Maintenance Services | Moffett Field, CA | SBA | 1 |
+
+## 2026-11-11
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-01 | Ford_Island_Hawaii_Roll_Up_Door | Ford Island Hawaii Roll Up Door | Honolulu, HI | Unrestricted | 2 |

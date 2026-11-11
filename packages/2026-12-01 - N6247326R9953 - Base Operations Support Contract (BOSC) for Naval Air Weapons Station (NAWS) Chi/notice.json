@@ -1,0 +1,40 @@
+{
+  "noticeId": "628c3021e87d46689c75ec9758458668",
+  "solicitationNumber": "N6247326R9953",
+  "title": "Base Operations Support Contract (BOSC) for Naval Air Weapons Station (NAWS) China Lake, California and Other Locations as Approved",
+  "naics": "561210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-01T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "Christopher Jennen",
+      "email": "christopher.j.jennen.civ@us.navy.mil",
+      "phone": "6197054920"
+    }
+  ],
+  "files": [
+    {
+      "name": "57f5cf9ad81b43f6bf94f67465cf9d05",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "276b9f97b3904f7c958154d2e818ea82",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1c1892fbab99488fb5dc98e13e2ded47",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "75a97c788a884d3581a550f8f0f06164",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "SOLICITATION NUMBER: N6247326R0053 (PIEE Alias: N6247326R9953) PROJECT: NAWSCL Base Operations Support Contract (BOSC), AMENDMENT: 0004 This amendment extends the RFP deadline, provides Government RFI responses, revise solicitation attachments, advise offerors of forthcoming Section L and M revisions, add and delete FAR and DFARS clauses as shown in the attached amendment 0004. ",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}

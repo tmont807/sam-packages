@@ -1,0 +1,45 @@
+{
+  "noticeId": "8f2f33b8cbc04da0ae0ed2fdc42eb1de",
+  "solicitationNumber": "N0025327R3001",
+  "title": "Keyport Infrastructure Security Support Services Solicitation",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-11T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NAVAL UNDERSEA WARFARE CENTER",
+  "contacts": [
+    {
+      "name": "Dane Jacobson",
+      "email": "dane.a.jacobson3.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Matt McLean",
+      "email": "matthew.a.mclean8.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "a4bc223d81b242189c9158e4dcc41c05",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ae3b2685b95b4f5ba3e593b35825705f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8b09be2a9aa540d18e75d93d640a354e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "aa9d416691bd4820af4d4a35060bc7c4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "*This Solicitation is for SEAPORT NXG MAC HOLDERS ONLY.  No other offers will be considered.  Seaport MAC Holders will need to register for PIEE accounts in order to submit offers.*Naval Undersea Warfare Center (NUWC) Division Keyport is soliciting a task order for Keyport Infrastructure Security Support Services (KISSS).  This requirement supports the Infrastructure Services Division (Code 102) and the Security Division (Code 105).The scope of work includes, but is not limited to: Safety Compliance, Environmental Compliance, Facilities Engineering, Facilities Planning, Facilities Management, Facilities Maintenance, Security Operations Support, and Monitoring Support.  The selected contractor will support Code 102 in its mission to plan, manage, and maintain NUWC Division Keyports safety, environmental, and facilities programs, while also providing security services under the direction of the Code 105 Security Office.  The contemplated task order will be a Cost-Plus-Fixed-Fee (CPFF) under the SeaPort NxG allowing any small business company in SeaPort to propose.  It will be awarded on a best value basis to the Government.  A trade-off analysis will be carried out, taking into consideration technical capability, past performance, and cost/price.  It will include a base period of twelve (12) months and may include up to four (4) option years.  The solicitation is set aside for Seaport Small businesses.  The applicable PSC code for this requirement is R499 and the applicable NAICS code is 541330. The task order is predicted to be awarded in November 2027 with a predicted start date of January 2028.  The support services are currently being performed under SeaPort-NxG task order N0025322F3001 by McLaughlin Research Corporation. ",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "95b3dbb8df3a433aaffbae1d23d129ab",
+  "solicitationNumber": "SPE4A627T047N",
+  "title": "53--NUT,SELF-LOCKING,HEXAG",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-19T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "32cba243cf0a4d8ab0e29ec3ec970f50",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5310014667088 NUT,SELF-LOCKING,HEXAG:\nLine 0001 Qty 837    UI EA  Deliver To: DLA DISTRIBUTION SAN DIEGO By: 0531 DAYS ADO\nLine 0002 Qty 1      UI EA  Deliver To: DLA DISTRIBUTION SAN DIEGO By: 0090 DAYS ADO\nLine 0003 Qty 1      UI EA  Deliver To: DLA DISTRIBUTION SAN DIEGO By: 0381 DAYS ADO\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "8fbbbbdcc445478299fcf95fd2c3c643",
+  "solicitationNumber": "SPE4A627T043U",
+  "title": "53--NUT,SELF-LOCKING,CLINC",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-19T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "7815bf6b839c4fcd84c5e326e83cd481",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5310001245285 NUT,SELF-LOCKING,CLINC:\nLine 0001 Qty 5374   UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0319 DAYS ADO\nThis is a source controlled drawing item.  Approved sources are 15653 K49502-3-1; 56878 73973-1032; 77445 4021904; 77445 4021906; 92215 VN4818DF02-1.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. The items furnished must meet the requirements of the drawing cited in the solicitation. Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-11T12:07:33.819165+00:00"
+}
