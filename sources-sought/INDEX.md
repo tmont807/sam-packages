@@ -86,3 +86,9 @@
 | Due | Notice | Title | Place | Set-aside | Files |
 |---|---|---|---|---|---|
 | 2026-12-01 | Ford_Island_Hawaii_Roll_Up_Door | Ford Island Hawaii Roll Up Door | Honolulu, HI | Unrestricted | 2 |
+
+## 2026-11-12
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-19 | 15B21727PR000047 | Replace Boilers at FDC Philadelphia | Philadelphia, PA | SBA | 3 |

@@ -249,3 +249,15 @@
 | 2026-12-01 | N6247326R9953 | Base Operations Support Contract (BOSC) for Naval Air Weapons Station  |  | SBA | 4 |
 | 2026-11-27 | FA452827Q0005 | FY 27 Fire Department Trainer Maintenance & Winterization De-Winteriza | Minot AFB, ND | SBA | 12 |
 | 2026-11-19 | N6893627Q0026 | Malvern Diffractometer Maintenance Agreement |  | Unrestricted | 1 |
+
+## 2026-11-12
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-24 | FA488527Q1001 | USMTM Command Action Group Strategic Support Functions | DC | NONE | 2 |
+| 2026-12-09 | 385515GMK | Wilson Hall Floor 16 Electric and Elevator Machine Rooms Fire Rating a | IL | SBA | 2 |
+| 2026-11-27 | SPE7LX27U0566 | 53--PANEL,BLANK |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7L127U0206 | 53--BRACKET,SPECIAL |  | Unrestricted | 1 |
+| 2026-11-21 | 36C26127Q0140 | H961--Tri-Annual Electrical Inspection | Fresno | SBA | 6 |
+| 2026-11-19 | 88310327Q00012 | Artifact Conservation Project Coordinator | College Park, MD | SBA | 1 |
+| 2026-11-23 | W912WJ27QA005 | Snow Removal Services, Blackwater Dam, Webster, NH |  | SBA | 3 |

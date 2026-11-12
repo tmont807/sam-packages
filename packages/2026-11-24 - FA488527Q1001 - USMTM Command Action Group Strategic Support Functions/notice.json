@@ -1,5 +1,5 @@
 {
-  "noticeId": "1f88ae7f8a1246fdbf2b2234d0f13722",
+  "noticeId": "93179dba7f2143e3bce7685c8b242d8c",
   "solicitationNumber": "FA488527Q1001",
   "title": "USMTM Command Action Group Strategic Support Functions",
   "naics": "541611",
@@ -19,14 +19,14 @@
   "files": [
     {
       "name": "Statement of Objective.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "158 KB"
     },
     {
       "name": "Services Combo 1OCT2026.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "483 KB"
     }
   ],
   "kind": "solicitation",
   "description": " Establish a contractor-supported  non-personal services  capability to provide the Chief, USMTM with  decision advantage  and  predictable executive support  across (1) NCR/DoD/Interagency &ldquo;atmospherics,&rdquo; (2) security cooperation/FMS posture and engagement planning, (3) strategic communications, and (4) organizational effectiveness (OE) assessment and implementation support. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-12T12:10:24.769623+00:00"
 }
