@@ -1,0 +1,40 @@
+{
+  "noticeId": "4704070b6aeb426c888af9b8d30a5c83",
+  "solicitationNumber": "W912L527QA101",
+  "title": "Regional Training Institute (RTI) Food Catering Service",
+  "naics": "722310",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-08T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > NGB > W7M0 USPFO ACTIVITY DE ARNG",
+  "contacts": [
+    {
+      "name": "Nyron Cameron",
+      "email": "nyron.h.cameron.civ@army.mil",
+      "phone": "3023267465"
+    }
+  ],
+  "files": [
+    {
+      "name": "0b21b22064be4ca29302e347eacbc43a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "64da9786f0a94b1cbaef9e60d82363e9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d7e6a87395d7438ea9fca0abeb7549c1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2dec184bd1ec4755b1ffd977b3d9edab",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The contractor shall provide all subsistence, paper goods, sanitation supplies, and labor required to accomplish meal preparation and serving in accordance with this PWS. Contracted personnel will prepare meals at their facility, transport and serve prepared meals at Bethany Beach Training Site. The Meals will be prepared utilizing fresh ingredients, and menu may consist of Hot, Cold (Sandwich Meal) or both types of meals as Outlined in Technical Exhibit 1 Menu Minimums and Requirements. Emphasis should be placed on nutritional value. ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

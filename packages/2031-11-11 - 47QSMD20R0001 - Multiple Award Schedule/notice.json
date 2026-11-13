@@ -1,0 +1,88 @@
+{
+  "noticeId": "9e966a416a40493b9ece3952de8241d0",
+  "solicitationNumber": "47QSMD20R0001",
+  "title": "Multiple Award Schedule",
+  "naics": "541990",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2031-11-11T16:12:13+00:00",
+  "state": "",
+  "city": "PHILADELPHIA",
+  "agency": "GENERAL SERVICES ADMINISTRATION > FEDERAL ACQUISITION SERVICE > GSA/FAS FURNITURE SYSTEMS MGT DIV",
+  "contacts": [
+    {
+      "name": "National Customer Service Center",
+      "email": "NCSCcustomer.service@gsa.gov",
+      "phone": "800-488-3111"
+    }
+  ],
+  "files": [
+    {
+      "name": "SF30 Attachment for Refresh Mod 47QSMD20R0001.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "MAS Available Offerings Refresh 34",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "IBRAttcahment_47QSMD20R0001_Ref_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Travel_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Transportation and Logistics Services_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Security and Protection_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Scientific Management and Solutions_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Professional Services_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Miscellaneous_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Information Technology_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Industrial Products and Services_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Human Capital_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Furniture and Furnishings_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Facilities_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Office Management_Category_Attachment_Sol_47QSMD20R0001_Amd_34.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "SOLICITATION DOCUMENT FOR 47QSMD20R0001.pdf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued.",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

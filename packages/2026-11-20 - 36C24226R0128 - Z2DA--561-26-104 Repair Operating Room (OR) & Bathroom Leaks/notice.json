@@ -1,5 +1,5 @@
 {
-  "noticeId": "435f6e1d1c9c41e9982c039c3e836991",
+  "noticeId": "5b7d6436d24d4e2d84f18895c363b7d1",
   "solicitationNumber": "36C24226R0128",
   "title": "Z2DA--561-26-104 Repair Operating Room (OR) & Bathroom Leaks",
   "naics": "236220",
@@ -11,12 +11,21 @@
   "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > 242-NETWORK CONTRACT OFFICE 02 (36C242)",
   "contacts": [
     {
-      "name": "Delfo R Saco-mizhquiri (Contractor)",
-      "email": "delfo.saco-mizhquiri@va.gov",
-      "phone": null
+      "name": "Nicholas Muro",
+      "email": "nicholas.muro@va.gov",
+      "phone": ""
+    },
+    {
+      "name": "Dayna Dickson-Miller",
+      "email": "Dayna.Dickson-Miller@VA.GOV",
+      "phone": ""
     }
   ],
   "files": [
+    {
+      "name": "36C24226R0128 0004.pdf",
+      "result": "238 KB"
+    },
     {
       "name": "561-26-104_A102_Addendum1.pdf",
       "result": "313 KB"
@@ -75,6 +84,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "561-26-104 Repair OR & Bathroom\n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "description": " 561-26-104 Repair OR &amp; Bathroom \n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
 }

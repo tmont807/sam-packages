@@ -1,0 +1,40 @@
+{
+  "noticeId": "10f9a49cd2f34e9ca3b60c23353a84cb",
+  "solicitationNumber": "W911S826QA033",
+  "title": "Master BPA for Firefighter Personal Protective Equipment (PPE) Cleaning, Inspection, Repair, and Maintenance Services",
+  "naics": "812332",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-23T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > MISSION & INSTALLATION CONTRACTING COMMAND > 418TH CSB > W6QM MICC-JB LEWIS-MC CHORD",
+  "contacts": [
+    {
+      "name": "Tonya Martinez",
+      "email": "tonya.r.martinez6.civ@army.mil",
+      "phone": "5207148386"
+    }
+  ],
+  "files": [
+    {
+      "name": "76227430c1e641e9b8c1b6734c2f3666",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "240ce138f72e4bde94712b9391604126",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "612120247fd540a2be9c35a00506e2d6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2f007d3a28c8431d988b058c9547144a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is a combined synopsis/solicitation for commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued. Solicitation number W911S826QA033 is issued as a Request for Quote (RFQ) for Joint Base Lewis-McChord, WA. This acquisition is set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov.Please see the attached solicitation for the following information: A list of line-item number(s) and items, quantities, and units of measure (including option(s), if applicable). Description of requirements for the services to be acquired. Date(s) and place(s) of delivery and acceptance and f.o.b. point. A list of solicitation provisions that apply to the acquisition. A list of contract clauses that apply to the acquisition. The date, time, and place for receipt of offer and point of contact. Any other additional information. JBLM Fire and Emergency Services (FES) requires a Firm-Fixed Price Master BPA for Cleaning and Inspection of Firefighter PPE services. This includes cleaning, advanced inspection, decontamination, testing, and specialized repair for structural firefighting turnout gear, jackets, protective coveralls, and related ensemble elements assigned to JBLM fire stations in Pierce County, WA. All services must be performed in strict compliance with National Fire Protection Association (NFPA) 1851 standards (Chapters 6, 7, and 8). ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

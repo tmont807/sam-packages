@@ -1,0 +1,49 @@
+{
+  "noticeId": "3ff3d2a803034644b23d2981e2b4a866",
+  "solicitationNumber": "W912HY27RA001",
+  "title": "Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP) 11, Package 9, Segment 4 Boggy Bayou to Sims Bayou",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-01T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > US ARMY ENGINEER DISTRICT GALVESTON",
+  "contacts": [
+    {
+      "name": "Teakeishia Sewell",
+      "email": "teakeishia.m.sewell@usace.army.mil",
+      "phone": "4097663145"
+    },
+    {
+      "name": "Carol Hodges",
+      "email": "Carol.W.Hodges@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Site Visit sign in sheet 10NOV2026.pdf",
+      "result": "415 KB"
+    },
+    {
+      "name": "7b772f7f8c194197ba7c7cdafa16e03f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "705a2d1b4a174d79aeac1a98d6e9b1f7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "200c376430e2400c811692d23b858345",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e473a2f478814a368d2bc394547465b0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP) 11, Package 9, Segment 4 Boggy Bayou to Sims Bayou located in Harris County, Texas ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

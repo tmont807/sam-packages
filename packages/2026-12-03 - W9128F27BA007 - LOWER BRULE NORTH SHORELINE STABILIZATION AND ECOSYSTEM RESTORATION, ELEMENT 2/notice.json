@@ -1,0 +1,45 @@
+{
+  "noticeId": "fbdbd40ab8e84813bf6bacd66370f3ea",
+  "solicitationNumber": "W9128F27BA007",
+  "title": "LOWER BRULE NORTH SHORELINE STABILIZATION AND ECOSYSTEM RESTORATION, ELEMENT 2",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-03T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NWD > W071 ENDIST OMAHA",
+  "contacts": [
+    {
+      "name": "Grant Hibbs",
+      "email": "Grant.M.Hibbs@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Nadine Catania",
+      "email": "Nadine.L.Catania@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "0b0cd7a0cd0a4c96aaf14a84147625e7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cadcc7cae5df417daa7fee34d78b71aa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "55276a3ce7c54d5cbf12dd9642f104ae",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ea4d8d57b1e54f6cafebeb19edf99ef2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The project is located along the right descending bank of Lake Sharpe near the Lower Brule, SD town site. Lower Brule North Element 2 includes a 100-foot-wide riparian planting bench, a gravel maintenance path along the entire reach, a riprap revetment to protect the shoreline and island from erosion, and the creation of a 200-by-1,500-foot island constructed in water up to three feet deep. The sheltered open water area between the island and the shoreline will develop into approximately 5.17 acres of emergent wetland, and this will also create approximately 32 acres of riparian habitat. Related tasks include earth moving, grading, bank shaping, rock installation, water management, fill, and topsoil placement. ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

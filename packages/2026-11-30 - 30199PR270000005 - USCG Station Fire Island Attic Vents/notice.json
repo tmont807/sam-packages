@@ -1,0 +1,45 @@
+{
+  "noticeId": "a37c91c7038d41dd8ec2696c1222850e",
+  "solicitationNumber": "30199PR270000005",
+  "title": "USCG Station Fire Island Attic Vents",
+  "naics": "811310",
+  "type": "Solicitation",
+  "setAside": "NONE",
+  "due": "2026-11-30T05:00:00+00:00",
+  "state": "NY",
+  "city": "Babylon",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Jeff Center",
+      "email": "jeffery.a.center2@uscg.mil",
+      "phone": ""
+    },
+    {
+      "name": "Kyle Swann",
+      "email": "Kyle.D.Swann2@uscg.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "WAR Clauses.docx",
+      "result": "93 KB"
+    },
+    {
+      "name": "DEI_FAR_Clause.docx",
+      "result": "15 KB"
+    },
+    {
+      "name": "Wage Rates 15-4157.txt",
+      "result": "43 KB"
+    },
+    {
+      "name": "Station_Fire_Island_Exhaust_Fan_SOW.docx",
+      "result": "4700 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Removal and placement of attic ventalation fans in accordance with the attached Statement Of Work (SOW) \n\n All wages and benefits must be in accordance with the wage rates for the Place of Preformance and Period Of Preformance. Wage rates attached. \n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

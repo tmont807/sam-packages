@@ -1,0 +1,28 @@
+{
+  "noticeId": "67511a5765b74a56b1b4ed5f92cb6c8e",
+  "solicitationNumber": "SPE7LX27U0594",
+  "title": "53--LEAF,BUTT HINGE",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-27T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "a9f49c7c57884bf4ab8902d151232c8f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5340003454105 LEAF,BUTT HINGE:\nLine 0001 Qty 26     UI EA  Deliver To:  By: 0173 DAYS ADO\nThis Solicitation may result in an Automated IDC (Indefinite Delivery Contract). The term of the contract/order will be one year or until the aggregate total of orders placed against the contract/order reach 350000.00. The estimated number of orders per year is 1. The Guaranteed Minimum quantity will be 3. Items will be shipped to various CONUS and OCONUS (via consolidation and containerization point) DLA Depots.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available.  Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

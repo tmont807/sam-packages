@@ -1,0 +1,45 @@
+{
+  "noticeId": "ecff67db7fec4d359f3d9cd4d1a87b14",
+  "solicitationNumber": "N0016727R3103",
+  "title": "Weapons Effect Solicitation",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "NONE",
+  "due": "2026-12-01T15:00:00+00:00",
+  "state": "MD",
+  "city": "Bethesda",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC CARDEROCK",
+  "contacts": [
+    {
+      "name": "Shelby O'NEILL",
+      "email": "shelby.b.oneill.civ@us.navy.mil",
+      "phone": "2404454808"
+    },
+    {
+      "name": "Esterlena D Unger",
+      "email": "esterlena.d.unger.civ@us.navy.mil",
+      "phone": "3015033983"
+    }
+  ],
+  "files": [
+    {
+      "name": "PIEE Solicitation Module Link for N0016727R3103",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Web Based Training for the PIEE Solicitation Module",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Registration Instructions for the PIEE Solicitation Module",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Department of Defense Procurement Toolbox",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " This solicitation is related to Notice IDs: N00167-25-RFP-CD-66-0014 and N00167-25-RFP-CD-66-0014_Rev1. The contractor shall provide scientific and technical services with experts in UNDEX and AIREX analysis of undersea and surface vessels to develop and utilize specialized software codes that: 1) Aid in the selection of live fire events and provide support to live fire test and evaluation programs; 2) Simulate an underwater shock environment from a far field or near miss location; 3) Simulate the response of Navy platforms to UNDEX and AIREX for far field, near miss, contact, and internally detonating weapon attacks; 4) Check the integrity of computational models; 5) Solve finite element models elastic-plastic response and reduced order engineering tools to UNDEX and AIREX events; and 6) Simulate a nuclear underwater shock environment or nuclear air blast environment from a far field location. This opportunity is for SEAPORT-NxG MAC HOLDERS ONLY- UNRESTRICTED. No other offers will be considered. Proposals submitted by non-MAC holders will not be evaluated. Please note the Navy has transitioned from the legacy SeaPort portal to the PIEE Solicitation Module for the submission of offers, proposals, and awards under SeaPort-NxG. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers. Please reference the official Department of Defense registration guide for vendors on how to set up accounts in PIEE:https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf.Provision L-215-H006 (c) states that all questions shall be submitted via email to the Primary and Secondary Solicitation Managers identified in the Solicitation Module HOWEVER all questions shall be submitted via the PIEE Solicitation Module Question and Answer Function. Responses will be posted within the PIEE Solicitation Module. The solicitation will be amended to reflect the correct submission procedures for questions. See Amendment 0001, effective 21 Oct 26. See Amendment 0002, effective 12 Nov 2026. \n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

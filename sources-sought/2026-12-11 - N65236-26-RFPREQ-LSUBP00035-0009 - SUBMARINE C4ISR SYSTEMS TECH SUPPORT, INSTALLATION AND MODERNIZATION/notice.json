@@ -1,0 +1,40 @@
+{
+  "noticeId": "ee546000a16e4fc68f9cd36002e60331",
+  "solicitationNumber": "N65236-26-RFPREQ-LSUBP00035-0009",
+  "title": "SUBMARINE C4ISR SYSTEMS TECH SUPPORT, INSTALLATION AND MODERNIZATION",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-11T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR LANT > NIWC ATLANTIC",
+  "contacts": [
+    {
+      "name": "Norma REHBEIN-HILL",
+      "email": "norma.z.rehbein-hill.civ@us.navy.mil",
+      "phone": "7574034621"
+    }
+  ],
+  "files": [
+    {
+      "name": "318729c123f04cd59bbbebaa1498856f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a99757801ba7404ba0bdfb714ea147c3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7ab69efa539f4387a5f2dd5b2ac069de",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f6c9d818251b46758f3e9bb5ed2928f7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Market Survey (MS) for Services Procurements -- Large Businesses Need not to apply***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and no other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.  This Market Survey is issued for the purpose of assessing Small Business capabilities. See accompanying Draft PWS and attachment for more information The Naval Information Warfare Center (NAVWAR) Naval Information Warfare Center (NIWC) Atlantic (NIWC-Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide provide core systems focus on the Common Submarine Radio Room (CSRR) and related gear (radios, networks, antennas, crypto, CANES, ADNS, TFDS, Link-16, etc.), plus future C4ISR/C5ISR/C6ISR capabilities. Support will occur (potentially) world-wide in all U.S. Navy Submarines, all U.S. territories, Guam, Diego Garcia, Souda Bay Greece, Japan, South Korea, Germany, Australia, Italy, and Scotland. ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

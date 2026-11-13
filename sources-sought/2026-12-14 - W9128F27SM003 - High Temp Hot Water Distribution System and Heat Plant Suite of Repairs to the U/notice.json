@@ -1,0 +1,40 @@
+{
+  "noticeId": "bc345aa9229c4aa99ca91245e13614d9",
+  "solicitationNumber": "W9128F27SM003",
+  "title": "High Temp Hot Water Distribution System and Heat Plant Suite of Repairs to the US Air Force Academy COLORADO",
+  "naics": "236220",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-14T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NWD > W071 ENDIST OMAHA",
+  "contacts": [
+    {
+      "name": "Gloria Garside",
+      "email": "gloria.garside@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "0ed5e1b11a1d4c058674af9d23693ff7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "553fd497790d47eda42f33484ba3a319",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "930c08f772b9499992d92764d5da6824",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "be7bf9c040444a2ba934afc88598e570",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "High Temp Hot Water Distribution System and Heat Plant Suite of Repairs to the US Air Force Academy COLORADO SEE ATTACHED DOCUMENTS FOR COMPLETE AND MORE INFORMATION ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

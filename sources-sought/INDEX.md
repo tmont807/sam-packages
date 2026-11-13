@@ -92,3 +92,37 @@
 | Due | Notice | Title | Place | Set-aside | Files |
 |---|---|---|---|---|---|
 | 2026-11-19 | 15B21727PR000047 | Replace Boilers at FDC Philadelphia | Philadelphia, PA | SBA | 3 |
+
+## 2026-11-13
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-24 | CTP-2027-136871 | U.S. Food and Drug Administration Regulatory Support Services BPA | Silver Spring, MD | Unrestricted | 2 |
+| 2026-12-14 | W9128F27SM003 | High Temp Hot Water Distribution System and Heat Plant Suite of Repair |  | Unrestricted | 4 |
+| 2026-12-03 | LPOE_LYNDEN_SS | Design-Build Modernization of the LPOE in Lynden, Washington Sources S | Lynden, WA | Unrestricted | 1 |
+| 2026-11-24 | W912QR-PDB-FTBELVOIR | Market Intelligence Notice - Ft. Belvoir, VA Bldg 1809 PDB | Fort Belvoir, VA | NONE | 1 |
+| 2026-11-26 | HARBSS-2027-01 | Outdoor Fitness Facility, Building 389— Supply, Delivery, and Limited  | Homestead, FL | Unrestricted | 3 |
+| 2026-11-24 | W912QR-PDB-FORTHOOD | Market Intelligence Notice Fort Hood Bldg 410 General Stilwell Army Re | Fort Hood, TX | Unrestricted | 1 |
+| 2026-11-23 | 140PP027R0019 | Z--MACA - VC BRIDGE REPAIR | Mammoth Cave, KY | Unrestricted | 1 |
+| 2026-11-27 | W912HN27RA006 | Dredged Material Containment Area (DMCA) O&M Construction IDC | Savannah, GA | Unrestricted | 0 |
+| 2026-12-04 | W912DS27S0006 | RFI USMMA Campus Modernization Program SATOC Seawall Project | Kings Point, NY | Unrestricted | 4 |
+| 2026-11-19 | SSN-2027-32995 | A&E Design Services - EV Battery Fire Protection Upgrade | Golden, CO | Unrestricted | 1 |
+| 2026-12-11 | N65236-26-RFPREQ-LSUBP00035-0009 | SUBMARINE C4ISR SYSTEMS TECH SUPPORT, INSTALLATION AND MODERNIZATION |  | Unrestricted | 4 |
+| 2026-11-20 | A031392 | Enterprise Wide IT Services | Washington, DC | SBA | 1 |
+| 2026-12-08 | 1106202612072026 | Post Quantum Cryptography (PQC) Readiness and Validation Status | Washington, DC | Unrestricted | 1 |
+| 2026-12-12 | NGA-SRW | Sustainment for SRW | Springfield, VA | Unrestricted | 1 |
+| 2026-11-30 | 36C10B27Q0056 | DA01--Veterans Health Information Systems and Technology (VISTA) Blood |  | Unrestricted | 3 |
+| 2026-11-30 | 36C10B27Q0056 | DA01--Veterans Health Information Systems and Technology (VISTA) Blood |  | Unrestricted | 3 |
+| 2026-11-17 | 36C10B27Q0089 | DF01--RFI - F5 Load Balancer Replacement (VA-27-00017931) |  | Unrestricted | 5 |
+| 2026-11-30 | 140LL027Q0027 | B--NV AIM TERRESTRIAL DATA COLLECTION PERMITTING |  | Unrestricted | 1 |
+| 2026-11-25 | W912HY27X1CX7 | USACE - SWG Environmental Services for Evaluation of Dredged Material | Galveston, TX | Unrestricted | 0 |
+| 2026-11-23 | 75F40127R00007 | FDA Scientific & Regulatory Support Services(SRS) | Silver Spring, MD | SBA | 2 |
+| 2026-11-27 | M0068127R0002 | Parachute Rigger Sources Sought | Yuma Proving Ground, AZ | NONE | 2 |
+| 2026-11-18 | N6883627BombingRange | Bombing Range Operation | FL | SBA | 2 |
+| 2026-11-20 | HoodsDucts12NOV26 | Hoods & Ducts - Buckley SFB | Aurora, CO | SBA | 1 |
+| 2026-11-27 | PANMCC_26_P_0000_056530 | Refuse Collection | Fort Buchanan, PR | SBA | 1 |
+| 2026-11-18 | 36C24827Q0037 | S299--FY27 Pharmaceutical Reverse Distribution Services | Orlando, FL | Unrestricted | 1 |
+| 2026-11-30 | W9127N27B1CXI | USACE Portland District Dredges Slops Services |  | Unrestricted | 0 |
+| 2026-11-27 | FA4484XXC0001 | JB MDL, NJ Oil Water Separator Services | Joint Base MDL, NJ | SBA | 1 |
+| 2027-01-01 | FA5000-27-R-TCCC | JBER TCCC Training Services | JBER, AK | NONE | 0 |
+| 2026-11-17 | HT941027QE008 | Maintenance and Repair of Evotech and Sterrad NX Plasma Sterilizing Un | Tripler Army Medical Center, HI | Unrestricted | 0 |

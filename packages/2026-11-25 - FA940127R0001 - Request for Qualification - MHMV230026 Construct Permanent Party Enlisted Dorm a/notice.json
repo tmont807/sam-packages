@@ -1,0 +1,45 @@
+{
+  "noticeId": "8f3da228af8f4a67983c91dbf2dbef9b",
+  "solicitationNumber": "FA940127R0001",
+  "title": "Request for Qualification - MHMV230026 Construct Permanent Party Enlisted Dorm at Kirtland AFB, New Mexico",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-25T23:30:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE GLOBAL STRIKE COMMAND > FA9401  377 MSG PK",
+  "contacts": [
+    {
+      "name": "Emmanuel Cobian",
+      "email": "emmanuel.cobian@us.af.mil",
+      "phone": "5058464914"
+    },
+    {
+      "name": "2d Lt. Jeffrey S. Tuscany, USAF",
+      "email": "jeffrey.tuscany@us.af.mil",
+      "phone": "5058537217"
+    }
+  ],
+  "files": [
+    {
+      "name": "7776e0345d2e4fd8b9f3b9c3cd73f431",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "40d99f0d366b47168d812a28161a3e4f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "addddb704ead4e34bd218889130258cd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a917060984684783a64be65149b1d80d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This Request for Qualification (RFQ) will be awarded in accordance with 10 U.S.C. 2808a - Other Transaction Authority (OTA). Your attention is directed to this RFQ for site visit information, preparation instructions, and evaluation criteria for award. Offerors are responsible for reviewing the entirety of the RFQ, the OTA PDB Agreement Articles, attachments, and submitting Qualification Packages no later than the date/time specified. Offerors shall submit Qualification Packages through the Procurement Integrated Enterprise Environment (PIEE) Solicitation Module. Any Qualification Packages received outside the PIEE Solicitation Module will not be accepted by the U.S. Government. Amendment 0001: This amendment adds both Market Research and RFQ Site Visit Sign-In Sheet information. Replaces the previous Vendors Questions and Answers Consolidation posted with the RFQ with the new Consolidated Vendors Questions with Government Answers to include the DBIDS Process. Clarifying in the RFQ solicitation document under paragraph 5.3 should read, 5.3. The OTA agreement Line Items Number (LIN) structure. ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

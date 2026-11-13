@@ -1,0 +1,45 @@
+{
+  "noticeId": "6223369e0b41400b8bee60525b5711d3",
+  "solicitationNumber": "W9128A27RWP01",
+  "title": "FY29 PN108808 Nonorganizational Vehicle Parking Garage at Tripler Army Medical Center on Oahu, Hawaii",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-05T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST HONOLULU",
+  "contacts": [
+    {
+      "name": "Kristin Schultz",
+      "email": "kristin.e.schultz@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Mariah Chan",
+      "email": "Mariah.H.Chan@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "d339d975cdf24324b7fd6732b2a47a7a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1a83692635dd4319b28492c2199cabd4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "95fe568144964e79b6dcde4402ec882f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d64dcc164c06425692f1c88b09d431a7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "PROGRAM SOLICITATION: Progressive Design-Build under Other Transaction Authority, pursuant to 10 U.S.C. 2808a for the delivery of the FY29 PN108808 Nonorganizational Vehicle Parking Garage, Tripler Amry Medical Center (TAMC), HI. ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

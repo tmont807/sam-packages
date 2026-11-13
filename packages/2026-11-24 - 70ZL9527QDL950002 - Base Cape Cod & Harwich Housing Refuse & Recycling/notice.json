@@ -1,5 +1,5 @@
 {
-  "noticeId": "7d89f1e1cf7b4b02b179473728b1dd33",
+  "noticeId": "6ad3d507f9a443918d3e251d0696213b",
   "solicitationNumber": "70ZL9527QDL950002",
   "title": "Base Cape Cod & Harwich Housing Refuse & Recycling",
   "naics": "562111",
@@ -23,6 +23,14 @@
   ],
   "files": [
     {
+      "name": "Amendment 0003_70ZL9527QDL950002.pdf",
+      "result": "972 KB"
+    },
+    {
+      "name": "RFQ Questions and Answers_70ZL9527QDL950002.pdf",
+      "result": "248 KB"
+    },
+    {
       "name": "Amendment 0002_70ZL9527QDL950002_Revised RFQ Period of Performance.pdf",
       "result": "982 KB"
     },
@@ -36,11 +44,11 @@
     },
     {
       "name": "PWS_BCC and Harwich Housing Refuse and Recycling Services.pdf",
-      "result": "410 KB"
+      "result": "8542 KB"
     },
     {
       "name": "Attachment 1 - Support Buildings Container Service List.pdf",
-      "result": "73 KB"
+      "result": "94 KB"
     },
     {
       "name": "Attachment 2 - Residential Housing Container Service List.pdf",
@@ -51,7 +59,7 @@
       "result": "2485 KB"
     },
     {
-      "name": "Attachment 4 - Estimated Monthly Tonnage.pdf",
+      "name": "Attachment 4 - Estimated Monthly Refuse Tonnage.pdf",
       "result": "67 KB"
     },
     {
@@ -75,9 +83,11 @@
       "result": "4321 KB"
     },
     {
-      "name": "Attachment 10 - Schedule B_BCC and Harwich Housing Refuse and Recycling.xlsx",
+      "name": "Attachment 10 - Schedule B_BCC and Harwich Refuse and Recycling Services.xlsx",
       "result": "30 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "  Amendment 0003 - is issued to revise the RFQ, PWS, and Attachment 1, 2, 4, and 10. RFQ Questions and Answers are also uploaded via PDF titled, &quot;RFQ Questions and Answers_70ZL950002&quot;.&nbsp;  \n\n  Amendment 0002 - is issued to correct the Period of Performance in the RFQ.   \n\n  Amendment 0001 -&nbsp;is issued to correct the RFQ, upload the PWS, correct information in Attachment 1, 2, and 10, and post answers to questions submitted.  \n\n The USCG is procuring Refuse and Recycling Collection and Disposal services at Base Cape Cod, MA and USCG owned housing in Harwich, MA. \n\n The contractor shall provide all labor, supervision, transportation, equipment, contractor-furnished containers and totes, disposal, recycling, permits, and incidental services necessary to collect, transport, recycle, and dispose of refuse generated at USCG Base Cape Cod, Massachusetts, and USCG-owned housing in Harwich, Massachusetts. \n\n  \n\n Please review RFQ 70ZL9527QDL950002 and all attachments for more details.&nbsp; \n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
 }

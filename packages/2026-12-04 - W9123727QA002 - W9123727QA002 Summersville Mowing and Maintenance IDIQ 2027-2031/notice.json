@@ -1,0 +1,40 @@
+{
+  "noticeId": "796d62d510f24b5ab165767683791504",
+  "solicitationNumber": "W9123727QA002",
+  "title": "W9123727QA002 Summersville Mowing and Maintenance IDIQ 2027-2031",
+  "naics": "561730",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "NICHOLE JERVIS",
+      "email": "nichole.d.jervis@usace.army.mil",
+      "phone": "3043995286"
+    }
+  ],
+  "files": [
+    {
+      "name": "2261b2d2d7ab4f39b7db0f867d4dd0fb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1eec5ad73f0941958beef2b55397e14f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ef9b9a2a0be74ce594aa058134f4b04e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c93abf2980304e5d80718d5b2947a117",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Mowing and Maintenance Service IDIQ for Summersville Lake, Summersville, WV 2027-2031 ",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

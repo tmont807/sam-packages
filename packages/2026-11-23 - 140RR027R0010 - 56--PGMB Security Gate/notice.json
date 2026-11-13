@@ -1,5 +1,5 @@
 {
-  "noticeId": "7c57681a0efb4d8f916d6f9e0c3ee3c9",
+  "noticeId": "5ba7eaeb505c4db79656512be7538248",
   "solicitationNumber": "140RR027R0010",
   "title": "56--PGMB Security Gate",
   "naics": "238990",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "Sol_140RR027R0010_Amd_0004.pdf",
+      "result": "200 KB"
+    },
+    {
+      "name": "Amendment_4_Questions_and_Answers_Document_140RR027R0010_0004.pdf",
+      "result": "193 KB"
+    },
     {
       "name": "Sol_140RR027R0010_Amd_0003.pdf",
       "result": "200 KB"
@@ -50,5 +58,7 @@
       "result": "705 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "PGMB Security Gate - Amendment 4 provides the questions and answers collected following the site visit conducted on 10/26/2026. Quotes remain due on November 23, 2026, at 2:00 PM MST.",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
 }

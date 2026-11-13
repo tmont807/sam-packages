@@ -261,3 +261,91 @@
 | 2026-11-21 | 36C26127Q0140 | H961--Tri-Annual Electrical Inspection | Fresno | SBA | 6 |
 | 2026-11-19 | 88310327Q00012 | Artifact Conservation Project Coordinator | College Park, MD | SBA | 1 |
 | 2026-11-23 | W912WJ27QA005 | Snow Removal Services, Blackwater Dam, Webster, NH |  | SBA | 3 |
+
+## 2026-11-13
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-24 | W9128F27QA007 | MISSOURI RIVER RECOVERY IMPLEMENTATION COMMITTEE CHAIR PROFESSIONAL SE | Omaha, NE | SBA | 7 |
+| 2026-11-24 | FA488527Q1001 | USMTM Command Action Group Strategic Support Functions | DC | NONE | 3 |
+| 2026-11-27 | 1284LM27Q0007 | Haycamp Common Stand Exam Service Contract | CO | SBA | 13 |
+| 2026-12-05 | W9128A27RWP01 | FY29 PN108808 Nonorganizational Vehicle Parking Garage at Tripler Army |  | Unrestricted | 4 |
+| 2026-11-20 | 36C26126Q1297 | Z2DA--654-24-004 Remediate Old Parking Garage |  | Unrestricted | 9 |
+| 2026-12-07 | W912DS27BA004 | Demolition of an existing building, Site Improvements and construction |  | SBA | 4 |
+| 2026-12-02 | W912QR25RA013 | Design-Build Maintenance and Repair Army Reserve (MRAR) of Equipment C | Gatesville, TX | SBA | 8 |
+| 2026-12-07 | 1305M327Q0034 | Seawater Pump Renovation | Milford, CT | SBA | 7 |
+| 2026-11-23 | 36C26027R0020 | Z2DA--Copy of FY27Q1-CON 668-24-106 Renovate CLC East Wing and Courtya |  | Unrestricted | 13 |
+| 2026-12-10 | W912QR27BA004 | Renovate Building 1203-DOAS AHU and Fire Suppression Water System, Mar |  | SBA | 4 |
+| 2026-11-25 | FA940127R0001 | Request for Qualification - MHMV230026 Construct Permanent Party Enlis |  | Unrestricted | 4 |
+| 2026-11-23 | FA664827R0001 | Design-Build Renovation of Building 164, Outdoor Recreation Center, Ho | Homestead, FL | Unrestricted | 9 |
+| 2026-12-07 | 36C24227B0008 | Y1DA--NRM-CONST 528A4-27-202 Salt Barn Batavia FY27 NRM |  | Unrestricted | 8 |
+| 2026-12-10 | W50S8R27BA002 | B422 BREAKROOM, B300 BDOC | Mansfield, OH | SBA | 10 |
+| 2026-12-11 | 36C24627B0002 | Z2DA--FY27 NRM RENOVATE SURGICAL SUITE PHASE II | VA | NONE | 12 |
+| 2026-11-20 | 36C24226R0128 | Z2DA--561-26-104 Repair Operating Room (OR) & Bathroom Leaks |  | Unrestricted | 15 |
+| 2026-12-14 | N4008527R0038 | MULTIPLE BARRACKS BUILDING 1245 and 1246 RENOVATIONS BEAUFORT SOUTH CA |  | Unrestricted | 5 |
+| 2026-12-11 | 2031ZA26R00027 | Cooling Tower, Roofing, and Structural Construction | DC | SBA | 37 |
+| 2026-12-15 | 693C73-27-B-000005 | NJ-NY ERFO FW WARI 2019-1(1) - Wallkill River National Wildlife Refuge | NJ | SBA | 9 |
+| 2026-11-30 | W9127N27BA009 | JOHN DAY DAM NAVIGATION LOCK TAINTER VALVE (TV) REPAIRS TV3 AND TV4 |  | Unrestricted | 4 |
+| 2026-12-03 | W9128F27BA007 | LOWER BRULE NORTH SHORELINE STABILIZATION AND ECOSYSTEM RESTORATION, E |  | SBA | 4 |
+| 2026-12-09 | W912P926RA004 | LOCK AND DAM 25 NEW 1,200 FT LOCK NAVIGATION AND ECOSYSTEM SUSTAINABIL |  | Unrestricted | 4 |
+| 2026-12-01 | W912HY27RA001 | Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP |  | Unrestricted | 5 |
+| 2026-12-09 | SP330027Q0012 | Electric Power Resiliency Building 56 |  | SBA | 4 |
+| 2026-12-01 | 12445127Q0005 | Womble Work Center Fiber Optic Installation | Mount Ida, AR | SBA | 7 |
+| 2026-12-11 | W912P927QA006 | Operations Mechanical BPA |  | Unrestricted | 4 |
+| 2026-11-20 | 36C26026Q0827 | Grout Maintenance for the Puget Sound VA |  | SBA | 5 |
+| 2026-12-03 | FA465927Q0001 | Flooring Requirement Contract Solicitation | Grand Forks AFB, ND | SBA | 10 |
+| 2026-12-15 | 89503511102026 | SEPA PARKING LOT REPAVING AND REPAIRS | Elberton, GA | NONE | 4 |
+| 2026-11-23 | 140RR027R0010 | 56--PGMB Security Gate |  | SBA | 10 |
+| 2026-11-27 | SPE7L127U0210 | 53--FASTENER,FLARE LOCK |  | Unrestricted | 1 |
+| 2026-11-27 | SPE4A627U0226 | 53--NUT,PLAIN,EXTENDED WAS |  | SBA | 1 |
+| 2026-11-27 | SPE4A627U0208 | 53--STUD,TURNLOCK FASTENER |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U1000 | 53--PACKING ASSEMBLY |  | Unrestricted | 1 |
+| 2026-11-27 | SPE4A627U0210 | 53--RIVET,BLIND |  | SBA | 1 |
+| 2026-11-27 | SPE4A627U0211 | 53--ROD,THREADED END |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0963 | 53--PLUNGER,QUICK RELEASE |  | SBA | 1 |
+| 2026-11-27 | SPE7LX27U0814 | 53--WASHER,FLAT |  | Unrestricted | 1 |
+| 2026-11-27 | SPE4A627U0204 | 53--FASTENER TAPE,HOOK AND |  | SBA | 1 |
+| 2026-11-27 | SPE7L427U0181 | 53--SCREW,CAP,HEXAGON HEAD |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0795 | 53--SCREW,CAP,HEXAGON HEAD |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0762 | 53--NUT,CASTLE |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0750 | 53--BRACKET,MOUNTING |  | SBA | 1 |
+| 2026-11-27 | SPE4A627U0203 | 53--BOLT,SHEAR |  | SBA | 1 |
+| 2026-11-27 | SPE4A627U0199 | 53--PIN-RIVET |  | SBA | 1 |
+| 2026-11-20 | SPMYM327Q5007 | Socket Head Cap Screws | Kittery, ME | SBA | 5 |
+| 2026-11-27 | SPE7LX27U0683 | 53--LOCKING PLATE,NUT AND |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0645 | 53--SEAL RING,METAL |  | SBA | 1 |
+| 2026-11-27 | SPE7LX27U0594 | 53--LEAF,BUTT HINGE |  | SBA | 1 |
+| 2026-11-27 | SPE7LX27U0604 | 53--SEAL RING,METAL |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0610 | 53--RETAINER,PACKING |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7LX27U0581 | 53--RETAINER,PACKING |  | SBA | 1 |
+| 2026-11-27 | SPE7L427U0176 | 53--SCREW,CAP,HEXAGON HEAD |  | Unrestricted | 1 |
+| 2026-11-27 | SPE4A627U0227 | 66--INDICATOR,TEMPERATURE, |  | SBA | 1 |
+| 2026-11-27 | SPE7LX27U0903 | 30--BALL JOINT |  | SBA | 1 |
+| 2026-11-27 | SPE7LX27U0794 | 61--VENT TUBE,BATTERY |  | SBA | 1 |
+| 2026-12-04 | FA252127QB028 | Cape Canaveral Moving Services | Cape Canaveral, FL | SBA | 6 |
+| 2026-12-07 | W912JA-27-Q-A002 | BPA for Crane and Heavy Forklift Rental Services | Montgomery, AL | SBA | 2 |
+| 2026-11-30 | W15P7T-26-R-A006 | Marketplace for Acquisition of Professional Services (MAPS) | Aberdeen Proving Ground, MD | Unrestricted | 25 |
+| 2026-12-18 | W912BU26RA036 | INDEFINITE DELIVERY INDEFINITE QUANTITY CONTRACT FOR INLAND AND COASTA |  | SBA | 4 |
+| 2026-12-01 | N0016727R3103 | Weapons Effect Solicitation | Bethesda, MD | NONE | 4 |
+| 2026-11-21 | 36C26127Q0140 | H961--Tri-Annual Electrical Inspection | Fresno | SBA | 6 |
+| 2026-11-20 | N0018927QL015 | Security Equipment for the United States Naval Academy | MD | NONE | 1 |
+| 2026-11-20 | W519TC27QA031 | Pine Bluff Arsenal Testing, Lab and Engineering Services | White Hall, AR | SBA | 13 |
+| 2031-11-11 | 47QSMD20R0001 | Multiple Award Schedule | PHILADELPHIA | Unrestricted | 16 |
+| 2026-12-01 | N6247326R9953 | Base Operations Support Contract (BOSC) for Naval Air Weapons Station  |  | SBA | 4 |
+| 2026-11-30 | 36C24527Q0061 | J065--KG - HVAC upgrades (VA-27-00018970 36C245-27-AP-1028 512-27-1-44 |  | Unrestricted | 1 |
+| 2026-11-30 | 3030127RFQ000001 | USCG Station Wachapreague Alarm Monitoring Service | Wachapreague, VA | SBA | 5 |
+| 2026-12-18 | 052917 | W9124G26CBARRACKS | Fort Rucker, AL | SBA | 6 |
+| 2026-12-04 | 140RR027Q0001 | S--BGNDRF CUSTODIAL SERVICES |  | SBA | 10 |
+| 2026-12-14 | 47PF5327R0001   | Custodial and Related Services for TSA Location-Dane County Regional A | Madison, WI | SBA | 19 |
+| 2026-12-10 | 140LL027Q0019 | BARSTOW DUMONT JANITORIAL SERVICES |  | SBA | 4 |
+| 2026-12-04 | W9123727QA002 | W9123727QA002 Summersville Mowing and Maintenance IDIQ 2027-2031 |  | SBA | 4 |
+| 2026-11-20 | W912WJ27QA004 | Snow Removal and Sanding Services, Franklin Falls Dam, Franklin, NH | Franklin, NH | SBA | 5 |
+| 2026-11-20 | 1305M327Q0037 | S--Snow Removal Services Green Bay, WI |  | Unrestricted | 6 |
+| 2026-11-23 | 1305M327Q0041 | S--Snow Removal Services Gaylord, MI |  | Unrestricted | 3 |
+| 2026-11-24 | 70ZL9527QDL950002 | Base Cape Cod & Harwich Housing Refuse & Recycling | Buzzards Bay, MA | SBA | 16 |
+| 2026-11-26 | W912EK27QA006 | Lake Red Rock Refuse Removal Services | Knoxville, IA | Unrestricted | 2 |
+| 2026-11-20 | 36C24227R0010 | F108--620-26-206 Asbestos Abatement |  | Unrestricted | 9 |
+| 2026-12-08 | W912L527QA101 | Regional Training Institute (RTI) Food Catering Service |  | SBA | 4 |
+| 2027-01-08 | W91RUS-27-R-A002 | Elevator Repair and Maintenance Support Services | Fort Huachuca, AZ | SBA | 13 |
+| 2026-11-30 | 30199PR270000005 | USCG Station Fire Island Attic Vents | Babylon, NY | NONE | 4 |
+| 2026-11-23 | W911S826QA033 | Master BPA for Firefighter Personal Protective Equipment (PPE) Cleanin |  | SBA | 4 |

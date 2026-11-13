@@ -1,0 +1,49 @@
+{
+  "noticeId": "26a60a3a5b1c4f018f762d9ebf348e5b",
+  "solicitationNumber": "N4008527R0038",
+  "title": "MULTIPLE BARRACKS BUILDING 1245 and 1246 RENOVATIONS BEAUFORT SOUTH CAROLINA MARINE CORPS BASES",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-14T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC ATLANTIC CMD > NAVFAC MID-ATLANTIC > NAVFACSYSCOM MID-ATLANTIC",
+  "contacts": [
+    {
+      "name": "Karen Richardson",
+      "email": "karen.y.richardson@navy.mil",
+      "phone": "7573411654"
+    },
+    {
+      "name": "Brittany Cristelli",
+      "email": "brittany.n.cristelli.civ@us.navy.mil",
+      "phone": "(757) 341-1978"
+    }
+  ],
+  "files": [
+    {
+      "name": "Attachment A - Specs Bldg 1245 and 1246.pdf",
+      "result": "9003 KB"
+    },
+    {
+      "name": "Attachment J1 - Drawings 1246.pdf",
+      "result": "29304 KB"
+    },
+    {
+      "name": "c53526a8359847eda832d5c0c0964d95",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1775b981ac7a4e26b2c6aaa79a2b4405",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "218e11ca4b444d4d8fab2fbc8dd9c179",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Login at https://piee.eb.mil and search for 'N4008527R0038' to obtain more details.*",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

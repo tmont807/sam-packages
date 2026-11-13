@@ -1,0 +1,33 @@
+{
+  "noticeId": "1daad770de79423cb05c361a706d9740",
+  "solicitationNumber": "NGA-SRW",
+  "title": "Sustainment for SRW",
+  "naics": "541519",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-12T00:00:00+00:00",
+  "state": "VA",
+  "city": "Springfield",
+  "agency": "DEPT OF DEFENSE > NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA) > ATTN: MS S84 - OCS",
+  "contacts": [
+    {
+      "name": "Charice Manor",
+      "email": "charice.l.manor@nga.mil",
+      "phone": "314-676-0326"
+    },
+    {
+      "name": "Douglas Verseman",
+      "email": "Douglas.H.Verseman@nga.mil",
+      "phone": "314-676-0195"
+    }
+  ],
+  "files": [
+    {
+      "name": "Request for Information to Sustain SRW NGA.pdf",
+      "result": "367 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The National Geospatial-Intelligence Agency (NGA) is seeking information from interested vendors&nbsp;regarding their capability to provide sustainment, enhancement, integration, operations, maintenance, testing, Agile development, systems engineering, modernization, and roadmap support for the Software Requirements Workflow (SRW) platform. \n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

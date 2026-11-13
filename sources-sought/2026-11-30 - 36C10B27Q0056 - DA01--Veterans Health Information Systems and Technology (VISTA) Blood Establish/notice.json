@@ -1,0 +1,36 @@
+{
+  "noticeId": "726799243f0041a58fe4d5fb0334343e",
+  "solicitationNumber": "36C10B27Q0056",
+  "title": "DA01--Veterans Health Information Systems and Technology  (VISTA) Blood Establishment Computer Software (VBECS)  Operations and Maintenance Support II",
+  "naics": "541519",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+  "contacts": [
+    {
+      "name": "Richard Melton",
+      "email": "Richard.Melton2@va.gov",
+      "phone": "512-981-4479"
+    }
+  ],
+  "files": [
+    {
+      "name": "P02 MR RFI PWS.docx",
+      "result": "199 KB"
+    },
+    {
+      "name": "P02 RFI.docx",
+      "result": "29 KB"
+    },
+    {
+      "name": "36C10B27Q0056.docx",
+      "result": "14 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "VA is seeking sources that are able to provide full lifecycle sustainment and operational support, and any associated bug/fix development, and regulatory compliance services for the VA s existing Veterans Health Administration s VBECS, an FDA regulated Class II Medical Device Software product. The Contractor will be required to plan, manage, develop bug/fixes, test, deploy, maintain, document, and continuously monitor the VBECS system throughout the DevOps lifecycle. The Contractor will be required to maintain all system related documentation, ensuring accuracy, traceability, and compliance with FDA Quality System Regulations (21 CFR 820), ISO 13485:2016, and VA cybersecurity and privacy requirements. The Contractor will be required to support all activities required to maintain the VBECS s existing Authority to Operate, including preparation, validation, and submission of documentation within the SNOW Continuous Authorization and Monitoring environment, and continuous support for audits, assessments, and security reviews.\n",
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "noticeId": "ad43be18d6e044b8a092e42bd2e0302f",
+  "noticeId": "e5710bca84ce46e69604516635768245",
   "solicitationNumber": "W912WJ27QA004",
   "title": "Snow Removal and Sanding Services, Franklin Falls Dam, Franklin, NH",
   "naics": "561730",
@@ -17,6 +17,10 @@
     }
   ],
   "files": [
+    {
+      "name": "Amendment W912WJ27QA004-0002.pdf",
+      "result": "3815 KB"
+    },
     {
       "name": "Amendment W912WJ27QA004-0001.pdf",
       "result": "3784 KB"
@@ -36,5 +40,5 @@
   ],
   "kind": "solicitation",
   "description": " The U.S. Army Corps of Engineers - New England District is issuing a Solicitation Notice for Snow Removal and Sanding Services, Franklin Falls Dam, Franklin, NH. \n\n THE WORK CONSISTS OF: Contractor shall provide all equipment, materials, labor, and transportation necessary to perform snow plowing, snow shoveling, sanding services, and clearing snowbanks from the dam crest at the Franklin Falls Project Area. All work shall be completed in accordance with the Performance Work Statement. \n\n This procurement is set-aside for small business vendors. The applicable NAICS code is 561730 with a Small Business Size Standard of $9.5 Million. \n\n ALL VENDORS MUST HAVE AN ACTIVE REGISTRATION IN SAM.GOV AT THE TIME OF SUBMISSION IN ORDER TO BE CONSIDERED. ANY VENDOR THAT DOES NOT HAVE AN ACTIVE SAM.GOV REGISTRATION WILL BE REJECTED AS NON RESPONSIVE. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00"
 }
