@@ -1,0 +1,37 @@
+{
+  "noticeId": "1398a352e7a844f998eeeb7e2c9e3f57",
+  "solicitationNumber": "FA8612_RFI_AMCM_2027_0001",
+  "title": "Automated Mission Communication Manager Request for Information (RFI)",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "NONE",
+  "due": "2026-12-01T04:00:00+00:00",
+  "state": "OH",
+  "city": "Wright Patterson AFB",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE LIFE CYCLE MANAGEMENT CENTER > FA8612  AFLCMC PZP ABMS",
+  "contacts": [
+    {
+      "name": "Christine Basham",
+      "email": "christine.basham.1@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Logan Boomershine",
+      "email": "logan.boomershine@us.af.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "(Final_SOO) DIFC2_Statement of Objectives_V3_3 Nov.docx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "(Final_RFI) DIFC2-Automated Mission Comms Manager_V4_3 Nov.docx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Air Force Life Cycle Management Center (AFLCMC) Command, Control, Communications, and Battle Management (C3BM) Directorate at Wright-Patterson Air Force Base (WPAFB), Ohio is conducting market research to identify viable industry solutions for an Automated Mission Communcation Manger. \n\n This is a Request&nbsp;For&nbsp;Information (RFI) only. This RFI is issued solely for market research purposes. It&nbsp;does not constitute&nbsp;a Request for Proposal (RFP) or a promise to issue an RFP in the future. This request for information does not commit the Government to contract for any supply or service whatsoever. Further, the Air Force (AF) is not seeking proposals, nor will it accept unsolicited proposals at this time.&nbsp;&nbsp; \n\n Please see the attached documents for additional details. \n",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

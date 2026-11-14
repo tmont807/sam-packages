@@ -1,0 +1,40 @@
+{
+  "noticeId": "2babd0128b9c47d2be8ba163fcb95f23",
+  "solicitationNumber": "W9123827BA002",
+  "title": "USACE SPK DBB Construction - LAR C3B South - Sacramento, CA",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-28T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SPD > W075 ENDIST SACRAMENTO",
+  "contacts": [
+    {
+      "name": "Antonina Beal",
+      "email": "antonina.beal@usace.army.mil",
+      "phone": "9165577543"
+    }
+  ],
+  "files": [
+    {
+      "name": "e1716da7f1c846dea87b8f0a1e3c66f8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "77fe11ef3fb84f6b8ad7200bc9139c53",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ada65e2cbdc34b3387eedbb55fe3457c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "782fadc2715346a383bbcf3274aa1e81",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "USACE SPK requires Design-Bid-Build construction services along the Lower American River (LAR), known as Contract 3B (C3B) South, to include excavating, placement, and regrading of material on the riverbank slope and levee embankment, installation of soil-filled rock slope protection on the waterside levee face and riverbank, soil and rock placement to construct river toe protection and planting bench features, instream wood structure placement on the planting benches, construction of buried launchable trench features in the overbank, tie-in of erosion protection elements to existing rock revetment features, providing temporary erosion control for stabilization of disturbed soil areas, and import and placement of riprap from Watt Avenue, upstream to near Mayhew Drain in Sacramento, California (CA).North American Industry Classification System (NAICS) code: 237990, Other Heavy and Civil Engineering Construction.Product or Service Code: Y1LC, Construction of Tunnels and Subsurface Structures.Small Business Administration (SBA) size standard: $45,500,000.00 annual revenue.The target price range is estimated to be $45,000,000.00 to $60,000,000.00.Requirement is a total (100%) Small Business Set-Aside. ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

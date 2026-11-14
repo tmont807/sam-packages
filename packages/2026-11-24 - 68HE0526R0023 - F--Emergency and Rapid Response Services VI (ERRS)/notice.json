@@ -1,0 +1,28 @@
+{
+  "noticeId": "ea62d91943b245b182aff3ca4117a67c",
+  "solicitationNumber": "68HE0526R0023",
+  "title": "F--Emergency and Rapid Response Services VI (ERRS)",
+  "naics": "562910",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-24T22:00:00+00:00",
+  "state": "IL",
+  "city": "Chicago",
+  "agency": "ENVIRONMENTAL PROTECTION AGENCY > ENVIRONMENTAL PROTECTION AGENCY > REGION 5 CONTRACTING OFFICE",
+  "contacts": [
+    {
+      "name": "Ventura, Marisol",
+      "email": "Ventura.Marisol@epa.gov",
+      "phone": "(312) 353-8034"
+    }
+  ],
+  "files": [
+    {
+      "name": "2e18bdb3c8534b24bfac0b3fa71888a7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Region 5; Emergency and Rapid Response Services (ERRS) VI",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

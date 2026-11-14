@@ -1,12 +1,12 @@
 {
-  "noticeId": "1993ac15b5e84365a35a46c85f2400c7",
+  "noticeId": "2a02d50e01084b06a92264a73f6fc591",
   "solicitationNumber": "36C26227Q0081",
   "title": "S201--SEMI-ANNUAL WINDOW CLEANING",
   "naics": "561720",
   "type": "Solicitation",
   "setAside": "Unrestricted",
   "due": "2026-12-07T20:00:00+00:00",
-  "state": "CA",
+  "state": "",
   "city": "",
   "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > 262-NETWORK CONTRACT OFFICE 22 (36C262)",
   "contacts": [
@@ -17,6 +17,10 @@
     }
   ],
   "files": [
+    {
+      "name": "36C26227Q0081 0001.docx",
+      "result": "37 KB"
+    },
     {
       "name": "W9 Request for Taxpayer Identification Number and Certification.pdf",
       "result": "137 KB"
@@ -30,5 +34,7 @@
       "result": "113 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "AMENDMENT ONE RESPOND TO QUESTIONS AND SET UP SITE VISIT.\n",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
 }

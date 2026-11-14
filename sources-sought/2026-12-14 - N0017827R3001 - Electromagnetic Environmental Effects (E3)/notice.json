@@ -1,0 +1,45 @@
+{
+  "noticeId": "f3622922a75a48db94ce65486b04d392",
+  "solicitationNumber": "N0017827R3001",
+  "title": "Electromagnetic Environmental Effects (E3)",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-14T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC DAHLGREN",
+  "contacts": [
+    {
+      "name": "LEE WOODARD",
+      "email": "lee.e.woodard5.civ@us.navy.mil",
+      "phone": "5406047022"
+    },
+    {
+      "name": "Sean McGovern",
+      "email": "sean.t.mcgovern5.civ@us.navy.mil",
+      "phone": "540-742-8777"
+    }
+  ],
+  "files": [
+    {
+      "name": "aafd7c70df6149f7b3cdbbee21e87f4c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7d5def0c83b44df7ae859618cbd60e8a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "303680a46ca54519ad65aea5024a1fc8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "73999555b0d449c98948852fe745ca56",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "*THIS REQUIREMENT WILL BE SOLICITED AMONGST SEAPORT-NxG MAC HOLDERS ONLY*  The Naval Surface Warfare Center, Dahlgren Division (NSWCDD) Electromagnetic and Sensor Systems Department (B), Electromagnetic Effects Division (B50) has a requirement for technical and engineering support that encompasses the discipline of Electromagnetic Environmental Effects (E3) and its sub-disciplines including Electromagnetic Compatibility (EMC), Electromagnetic Interference (EMI), Electromagnetic Vulnerability (EMV), electrostatic discharge, and Electromagnetic Radiation Hazards (RADHAZ) to Ordnance (HERO), Personnel (HERP), and Fuel (HERF) as they apply to military platforms, spectrum-dependent systems (SDS), ordnance, and electrical/electronic systems developed, acquired, or operated by the Department of War (DOW). This also includes the sustainment, modernization of the E3 Team Online (E3TO) Knowledge Management System (KMS). *Certain attachments posted now or in the future (i.e. Industry Day slides, etc.) cannot be posted publicly and must be restricted. To receive access to restricted documentation, please submit a request via the module or to Lee Woodard at the email below, providing your company name and CAGE code.  ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

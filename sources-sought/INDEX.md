@@ -126,3 +126,35 @@
 | 2026-11-27 | FA4484XXC0001 | JB MDL, NJ Oil Water Separator Services | Joint Base MDL, NJ | SBA | 1 |
 | 2027-01-01 | FA5000-27-R-TCCC | JBER TCCC Training Services | JBER, AK | NONE | 0 |
 | 2026-11-17 | HT941027QE008 | Maintenance and Repair of Evotech and Sterrad NX Plasma Sterilizing Un | Tripler Army Medical Center, HI | Unrestricted | 0 |
+
+## 2026-11-14
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-24 | PANNWD-27-P-0000034964 | FY27 NWK Facilitated Partnering SATOC |  | Unrestricted | 4 |
+| 2026-11-23 | 36C24827Q0138 | R408--FY27 Lean and High Reliability Organization Transformation Suppo | Orlando, FL | Unrestricted | 1 |
+| 2026-12-11 |  W9128F27SM005 | Renovate Mission Support Facility (B145) & Repair Renovate Conference  | Minot AFB, ND | Unrestricted | 1 |
+| 2026-12-11 | 15JPSS27R00000012 | Justice Command Center Phase II Renovation - RFI | Washington, DC | NONE | 1 |
+| 2026-11-24 | W912DW27R1CV6 | Design and construction of 5,964 SF addition to an existing aircraft p | Joint Base Lewis McChord, WA | Unrestricted | 1 |
+| 2026-12-04 | W912DR27H1CWY | Capitol Perimeter Enhancements (CPE) Design-Build Construction Project |  | Unrestricted | 4 |
+| 2026-11-20 | 15B20127PR000166 | FCC Allenwood - Replace Heating Loop - 27Z2BH9 | Allenwood, PA | Unrestricted | 3 |
+| 2026-12-14 | W912EQ27S0002 | Cypress Creek, Fayette County, Tennessee |  | Unrestricted | 4 |
+| 2026-11-20 | 36C26027Q0122 | Gutter Maintenance | Tacoma, WA | SBA | 1 |
+| 2026-11-19 | N0018927QL222 | Sources Sought Notice United States Naval Academy Infoblox Trinzic Equ | Annapolis, MD | NONE | 1 |
+| 2026-12-07 | W912P827SSA001 | PM Support Contract | New Orleans, LA | SBP | 0 |
+| 2026-12-04 | N6175027R1201 | Surface Combat Systems Engineering and Integration |  | NONE | 1 |
+| 2026-12-14 | N0017827R3001 | Electromagnetic Environmental Effects (E3) |  | Unrestricted | 4 |
+| 2026-11-20 | 36C77027Q0021 | Pallet Rack Inspection | Murfreesboro, TN | NONE | 1 |
+| 2027-01-05 | 279999 | SI-Assisted Omni Channel Experience - Request for Information | MD | Unrestricted | 3 |
+| 2026-12-04 | FY27_Ship_Acquisition_Engineering_Correspondence_Management_System | RFI NOAA Ship Acquisition Engineering & Correspondence Management Syst | Silver Spring, MD | Unrestricted | 1 |
+| 2026-12-01 | FA8612_RFI_AMCM_2027_0001 | Automated Mission Communication Manager Request for Information (RFI) | Wright Patterson AFB, OH | NONE | 2 |
+| 2026-12-11 | RFI_12112026ONC | REQUEST FOR INFORMATION Operational and Technical Support for the Admi |  | Unrestricted | 3 |
+| 2026-11-30 | 36C10B27Q0056 | DA01--Veterans Health Information Systems and Technology (VISTA) Blood |  | Unrestricted | 3 |
+| 2026-11-27 | W912DS27S0007 | Civil Works Construction Management Services |  | Unrestricted | 0 |
+| 2026-11-27 | W912DS27S0008 | Military construction management services |  | Unrestricted | 0 |
+| 2026-12-03 | W9127N27QA010 | Hydropower Technical Research & Knowledge Exchange | Portland, CT | Unrestricted | 0 |
+| 2026-12-04 | 140RR027Q0046 | F--Remediation, Gasoline Underground Storage Tank Putah Creek | Napa, CA | Unrestricted | 1 |
+| 2026-12-11 | 68HE0127R0001 | B--SOURCES SOUGHT NOTICEEPA REGION 1 - Superfund Technical Assessment  |  | Unrestricted | 1 |
+| 2026-11-20 | W912EF-27-R-SS03 | Artificial Intelligence (AI) Training for Contracting Personnel | WA | Unrestricted | 0 |
+| 2026-11-23 | N4523A62873750 | Sources Sought Response for repair and accredited ISO 17025 calibratio | Bremerton, WA | Unrestricted | 1 |
+| 2026-11-23 | 75N98027Q00082 | Optos California Service Agreement | Bethesda, MD | Unrestricted | 0 |

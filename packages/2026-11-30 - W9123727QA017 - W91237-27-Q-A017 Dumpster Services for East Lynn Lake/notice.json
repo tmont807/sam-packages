@@ -1,0 +1,45 @@
+{
+  "noticeId": "f496b6e1da694a9c879928648ea973e9",
+  "solicitationNumber": "W9123727QA017",
+  "title": "W91237-27-Q-A017 Dumpster Services for East Lynn Lake",
+  "naics": "562111",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "Kaylee Mills",
+      "email": "kaylee.p.mills@usace.army.mil",
+      "phone": "3043996965"
+    },
+    {
+      "name": "James Holstein",
+      "email": "James.M.Holstein@usace.army.mil",
+      "phone": "3043995078"
+    }
+  ],
+  "files": [
+    {
+      "name": "b23fc1e4bae44f97a0a7059ed0401a65",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ccdd3fc0bec3404fb408daa710c43875",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ee3a906300e44da5a8e666a7a38570b3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "38e86463f6bf4b6bb4c9036391b5198e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "W91237-27-Q-A017, East Lynn Lake Dumpster Services. Please note the solicitation, all attachments, and extended details are accessible by utilizing the below link which will take you to the PIEE system. Please pay special attention to the instructions to offerors located in the solicitation. ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

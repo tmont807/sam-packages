@@ -1,0 +1,36 @@
+{
+  "noticeId": "7ccbb3ff8e33436e810e6ab442e6ae97",
+  "solicitationNumber": "279999",
+  "title": "SI-Assisted Omni Channel Experience - Request for Information",
+  "naics": "541512",
+  "type": "Special Notice",
+  "setAside": "Unrestricted",
+  "due": "2027-01-05T19:00:00+00:00",
+  "state": "MD",
+  "city": "",
+  "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF > CENTERS FOR MEDICARE AND MEDICAID SERVICES > OFC OF ACQUISITION AND GRANTS MGMT",
+  "contacts": [
+    {
+      "name": "Aaron Blackshire",
+      "email": "aaron.blackshire@cms.hhs.gov",
+      "phone": "4107868204"
+    }
+  ],
+  "files": [
+    {
+      "name": "SI Assisted Omnichannel Experience Request for Information.pdf",
+      "result": "305 KB"
+    },
+    {
+      "name": "RFI_Vendor_Response_Spreadsheet.xlsx",
+      "result": "13 KB"
+    },
+    {
+      "name": "CMS Vendor Response Box Folder",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Centers for Medicare &amp; Medicaid Services (CMS) operates one of the largest contact center ecosystems in the federal government, serving people with Medicare, ACA Marketplace consumers, and caregivers across phone, chat, web, email, and mail channels. \n\n CMS is conducting market research to inform a potential future acquisition for SI-assisted omni channel experience capabilities. This updated RFI builds on an initial market research round (Notice ID 269999, February 2026), its scope is being expanded to include the ACA Marketplace, and incorporates findings from commercial payer benchmarking, vendor landscape analysis, and an internal Discovery Sprint process. \n\n  This RFI is issued solely for market research and information purposes.  It does not constitute a solicitation, a commitment to issue a solicitation, or an obligation to award a contract. No proposals are being requested or accepted in response to this RFI. CMS will not pay for information provided in response to this RFI. \n\n This RFI serves three purposes: \n\n \n\t  Validate and deepen vendor capability data.  This RFI continues market research, building on information received from the previous RFI (Notice ID 269999, February 2026) and incorporating findings from commercial payer benchmarking and vendor landscape analysis. &nbsp;CMS is seeking evidence-based updates on vendor capabilities, pricing models, implementation approaches, governance and evaluation frameworks, and workforce transition approaches. CMS is particularly interested in responses that demonstrate sustained, production-validated performance, not launch-period projections.&nbsp; \n\t  Surface evidence that resolves CMS&#39;s open Discovery Sprint questions,  including the boundary between SI-assisted and human-required interactions, the evaluation and go/no-go criteria for scaling pilots to production, and the workforce transition and change management approaches required as containment increases. These questions are detailed in Section 5. \n\t  Inform a defined downstream process . Vendor responses will directly feed the CMS Discovery Sprint, a structured four-week internal process, and the subsequent acquisition strategy. Responses will not be evaluated as proposals and do not obligate CMS to any acquisition path. \n \n\n Please see attached RFI document and Vendor Response Spreadsheet.&nbsp;&nbsp; \n\n  Deadline:  Responses must be submitted by January 5, 2027 at 2:00 PM Eastern Time. \n\n  \n\n  Submission Method:  Vendors must submit responses by uploading their files to the designated CMS Box folder: \n\n  \n\n https://cmsbox.app.box.com/f/2aa029c164ae47509a35879ffde9e2c3 \n\n  \n\n Email submissions will not be accepted. \n\n  \n\n  Response Format &mdash; Questions:  Vendors must submit their responses to the questions in Sections 2 through 6 using the RFI Vendor Response Spreadsheet provided with this RFI. Enter each response in the row and column assigned to that question. Do not retype questions into a narrative document in place of completing the spreadsheet. \n\n  \n\n  Supplemental Documents (Optional):  Vendors may also upload supplemental documents to provide additional context, evidence, or supporting detail beyond what the spreadsheet captures. Supplemental documents are optional and limited to 40 pages combined, excluding organizational charts, and appendices containing production performance data. \n\n  \n\n  Supplemental Document Format:  PDF or Microsoft Word. Font: Times New Roman or Arial, 11-point minimum. Margins: 1 inch minimum. \n\n &nbsp;Organization \n\n \n\t  RFI Vendor Response Spreadsheet  (completed, covering base question responses to Sections 2 through 6) \n\t  Supplemental documents , if submitted, organized to mirror the section structure of this RFI, with each supplemental response clearly identifying the question number it addresses (e.g., TECH-1, SPRINT-5). For Section 5, respondents may answer all questions or select the subset most relevant to their proposed solution &mdash; please indicate which questions you are not answering and why. \n\t  Appendices , if applicable: production performance data, system architecture diagrams, sample reports, and other supporting materials \n \n",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

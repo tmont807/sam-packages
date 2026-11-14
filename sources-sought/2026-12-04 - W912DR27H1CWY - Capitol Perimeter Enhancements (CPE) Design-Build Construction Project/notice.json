@@ -1,0 +1,40 @@
+{
+  "noticeId": "52cced4ea8b3445898cde4032471d84e",
+  "solicitationNumber": "W912DR27H1CWY",
+  "title": "Capitol Perimeter Enhancements (CPE) Design-Build Construction Project",
+  "naics": "236220",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST BALTIMORE",
+  "contacts": [
+    {
+      "name": "Aisha Boykin",
+      "email": "aisha.r.boykin@usace.army.mil",
+      "phone": "4109624978"
+    }
+  ],
+  "files": [
+    {
+      "name": "e8292340f7b142b2b68c9b9ae5f07ee0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bd4a1adb93564a9a826959510de166b6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9769c7a0e71d4d1e97adce6df82bd4ac",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3261ef6f672c42ada5cea57d46df5ba0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This is a sources sought notice ONLY. This is not a request for proposals, quotations or bids. There will not be a solicitation, specifications or drawings available at this time. No contract will be awarded from this notice. Responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. The Government will not reimburse respondents for any costs incurred in preparing or submitting responses to this Sources Sought Notice. ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

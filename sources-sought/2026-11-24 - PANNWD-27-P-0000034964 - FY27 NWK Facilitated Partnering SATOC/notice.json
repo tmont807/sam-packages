@@ -1,0 +1,45 @@
+{
+  "noticeId": "f798689b3b6f4bdc84507406ddc2d2b1",
+  "solicitationNumber": "PANNWD-27-P-0000034964",
+  "title": "FY27 NWK Facilitated Partnering SATOC",
+  "naics": "541611",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-24T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NWD > W071 ENDIST KANSAS CITY",
+  "contacts": [
+    {
+      "name": "Exavier Coburn",
+      "email": "exavier.b.coburn@usace.army.mil",
+      "phone": "(816) 389-3412"
+    },
+    {
+      "name": "Stephanie Kretzer",
+      "email": "Stephanie.R.Kreetzer@usace.army.mil",
+      "phone": "(816) 389-2355"
+    }
+  ],
+  "files": [
+    {
+      "name": "3e56b1aedd1f4c9f8ee1097c14c44690",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cacface4371c40458205f02467956993",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "44fc70a6ede4467da2315050869212aa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "68143044ec8049f09e1ccdc0f1ccbc3a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The scope of this SATOC is to provide services to prepare and facilitate group partnering workshops and to train government personnel to develop organic expertise to plan and facilitate informal team led partnering sessions. Professionally facilitated and formal partnering is an integral element of the USACE project governance process. To accomplish USACE construction contracts most effectively, the Government requires the formation of a cohesive and collaborative partnership within the project team with the common goal of drawing on the strength of each organization in an effort to achieve a successful project without safety mishaps, conforming to the contract, within budget and on schedule. The effort will be to assist (facilitate) teams in developing processes, procedures, and methods for measuring and sustaining team performance and accountability throughout the life of a project.  ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

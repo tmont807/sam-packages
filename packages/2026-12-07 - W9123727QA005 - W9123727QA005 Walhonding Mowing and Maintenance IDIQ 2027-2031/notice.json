@@ -1,0 +1,45 @@
+{
+  "noticeId": "cbcfdaeb735f4adca04d6bc6b79a9ccb",
+  "solicitationNumber": "W9123727QA005",
+  "title": "W9123727QA005 Walhonding Mowing and Maintenance IDIQ 2027-2031",
+  "naics": "561730",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-07T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "Kaylee Mills",
+      "email": "kaylee.p.mills@usace.army.mil",
+      "phone": "3043996965"
+    },
+    {
+      "name": "Bret Foley",
+      "email": "Bret.R.Foley@usace.army.mil",
+      "phone": "3043995169"
+    }
+  ],
+  "files": [
+    {
+      "name": "5eb647745092434f9cfa97bb866f3ffe",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a0fad0c9debb4dbab567b5f56363b441",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8ac497cfb2ad4e1195ea2cb7519d2404",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5e26be67e4e1460ea891fc696c382291",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Mowing and Maintenance Services IDIQ for Walhonding Area Projects, OH 2027-2031, US Army Corps of Engineers, Huntington District.  ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

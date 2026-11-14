@@ -349,3 +349,65 @@
 | 2027-01-08 | W91RUS-27-R-A002 | Elevator Repair and Maintenance Support Services | Fort Huachuca, AZ | SBA | 13 |
 | 2026-11-30 | 30199PR270000005 | USCG Station Fire Island Attic Vents | Babylon, NY | NONE | 4 |
 | 2026-11-23 | W911S826QA033 | Master BPA for Firefighter Personal Protective Equipment (PPE) Cleanin |  | SBA | 4 |
+
+## 2026-11-14
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-27 | 1284LM27Q0007 | Haycamp Common Stand Exam Service Contract | CO | SBA | 13 |
+| 2026-12-14 | W50S8A27BA002 | Small Arms Range Construction Pease ANGB |  | SBA | 4 |
+| 2026-11-24 | 36C26126Q1295 | Z2DA--Project 459-27-004 ACC MOD 2 Renovation |  | Unrestricted | 24 |
+| 2026-12-28 | W912DW27RA017 | Joint Base Lewis McChord (JBLM) Multi Domain Task Force (MDTF) Buildin |  | SBA | 4 |
+| 2026-12-04 | N4008527R9006 | NH100 Engine Control Unit Replacement | Camp Lejeune, NC | SBA | 3 |
+| 2026-12-10 | W50S8R27BA002 | B422 BREAKROOM, B300 BDOC | Mansfield, OH | SBA | 15 |
+| 2026-11-23 | 140FF027Q0027 | Y--MN FERGUS FALLS WMD HANDRAIL STAIRS |  | SBA | 14 |
+| 2026-12-14 | N4008527R0038 | MULTIPLE BARRACKS BUILDING 1245 and 1246 RENOVATIONS BEAUFORT SOUTH CA |  | Unrestricted | 7 |
+| 2026-11-24 | W912DQ27BA002 | Atchison Storm Sewer Separation Improvements, Atchison, Kansas |  | SBA | 15 |
+| 2026-12-02 | 6982AF27B000010 | CO OMAD 300(71) Minuteman Missile Access | Cheyenne, WY | SBA | 6 |
+| 2026-12-02 | 6982AF27B000011 | ND OMAD 2025(1) Minuteman Missile Access Road | Minot, ND | SBA | 7 |
+| 2026-11-27 | 140FF027Q0077 | AL-WHEELER NWR-WATERMAN GATE |  | Unrestricted | 3 |
+| 2026-12-28 | W9123827BA002 | USACE SPK DBB Construction - LAR C3B South - Sacramento, CA |  | SBA | 4 |
+| 2026-12-09 | SP330027Q0012 | Electric Power Resiliency Building 56 |  | SBA | 4 |
+| 2026-11-26 | 140FF027Q0080 | AK-AK MARITIME NWR-LEAK REPAIR |  | SBA | 5 |
+| 2026-12-02 | 140D0427Q0949 | Z--Garage Drywall Demolition at Udall Building |  | SBA | 2 |
+| 2026-11-24 | 124PSA27Q0027 | Replacement of Cattle Shades | Clay Center, NE | SBA | 3 |
+| 2026-12-14 | N0010427QFA15 | ROD,THREADED END |  | Unrestricted | 1 |
+| 2026-12-14 | N0010427QBC41 | SCREW,MACHINE |  | Unrestricted | 1 |
+| 2026-11-25 | SPMYM327Q5008 | Screws | Kittery, ME | SBA | 13 |
+| 2026-11-24 | SPMYM327Q2007 | ASSORTED CAP SCREWS (CMMC LEVEL 1 REQUIRED) | Kittery, ME | SBA | 4 |
+| 2026-12-04 | SPRMM126QHF35 | TRANSMITTER,PRESSUR |  | Unrestricted | 1 |
+| 2026-12-14 | SPRMM126QHF84 | TRANSMITTER,PRESSUR |  | Unrestricted | 1 |
+| 2026-12-14 | SPRMM126QHF30 | TRANSMITTER,PRESSUR |  | Unrestricted | 1 |
+| 2026-12-14 | N0010427QUA35 | 61--BATTERY ASSEMBLY, IN REPAIR MODIFICATION OF |  | Unrestricted | 1 |
+| 2026-12-07 | W912JA-27-Q-A002 | BPA for Crane and Heavy Forklift Rental Services | Montgomery, AL | SBA | 3 |
+| 2026-11-27 | FA800326Q0012 | FY27 Nursing Practice Oversight Course (NPOC) | Colorado Springs, CO | SBA | 8 |
+| 2026-12-08 | 69056727Q000005 | Modular Buildings & Restroom Rental with Ancillary Services | WA | NONE | 9 |
+| 2026-12-02 | 697DCK-27-R-00022A | Design Renovation, System Support Center (SSC), 3551 Combine St., Paso | Paso Robles, CA | SBA | 8 |
+| 2026-12-14 | N6449827R0009 | SEAPORT - Engineering, Logistics, and Project Management Services Supp |  | Unrestricted | 4 |
+| 2026-11-30 | CORHQ-26-Q-0450 | Aruba Maintenance for Software and Hardware | Arlington, VA | NONE | 2 |
+| 2026-12-14 | W91SMC27RA001 | Employee Assistance Program – Human Resources Office (HRO) | Springfield, IL | SBA | 2 |
+| 2026-12-08 | N6274227R1801 | Marine Resource Technical Services Throughout the Naval Facilities Eng |  | SBP | 15 |
+| 2026-11-29 | 34359RFQ270000002 | US COAST GUARD NSFCC CONFINED SPACE TRAINING | Mobile, AL | SBA | 1 |
+| 2026-11-25 | 75H70727Q00003 | Fire Door Inspection, Assessment, and Maintenance at the Albuquerque A | Albuquerque, NM | SBA | 27 |
+| 2026-11-27 | SP4704-27-Q-0021 | DCAA Transcription Services | Fort Belvoir, VA | SBA | 4 |
+| 2026-11-23 | 61200PR270005532 | USCG TRACEN PETALUMA SIEMENS FIRE ALARM SYSTEM REPAIR | Petaluma, CA | SBA | 4 |
+| 2026-12-02 | W911SA27QA039 | Custodial Services for the 88th DPW - KS065 |  | SBA | 4 |
+| 2026-12-07 | 36C26227Q0081 | S201--SEMI-ANNUAL WINDOW CLEANING |  | Unrestricted | 4 |
+| 2026-11-25 | 1305M327Q0051 | Landscaping services for Eureka CA WFO | Eureka, CA | SBA | 3 |
+| 2026-11-24 | 1305M327Q0042 | Snow Removal Services WFO Johnston |  | SBA | 4 |
+| 2026-11-24 | 1305M327Q0026  | 1305M327Q0026 - SNOW REMOVAL, NEGAUNEE, MI | Negaunee, MI | SBA | 3 |
+| 2026-12-02 | W9123727QA001 | Burnsville Lake Mowing and Maintenance Services 2027-2031 |  | SBA | 4 |
+| 2026-12-07 | W9123727QA005 | W9123727QA005 Walhonding Mowing and Maintenance IDIQ 2027-2031 |  | SBA | 4 |
+| 2026-11-24 | 1305M327Q0041 | S--Snow Removal Services Gaylord, MI |  | Unrestricted | 5 |
+| 2026-12-14 | 70ZL1227Q3047500001 | USCG STA Cape Disappointment trash removal | Ilwaco, WA | SBA | 5 |
+| 2026-12-14 | 70Z03327Q37400001 | Sector Columbia River Trash removal | Portland, OR | SBA | 5 |
+| 2026-11-30 | W9123727QA017 | W91237-27-Q-A017 Dumpster Services for East Lynn Lake |  | Unrestricted | 4 |
+| 2026-12-18 | W9127827RA002 | Fiscal Year (FY) 2027 Florida Panhandle Optimized Remediation Contract | FL | SBA | 12 |
+| 2026-11-24 | 68HE0526R0023 | F--Emergency and Rapid Response Services VI (ERRS) | Chicago, IL | SBA | 1 |
+| 2026-12-07 | 68HE0526R0040 | F--Emergency and Rapid Response Services VI (ERRS) | Atlanta, GA | SBA | 1 |
+| 2026-11-27 | 36C24227R0010 | F108--620-26-206 Asbestos Abatement |  | Unrestricted | 14 |
+| 2026-11-24 | 140FF027Q0053 | F--Mold remediation, Merritt Island NWR |  | SBA | 14 |
+| 2026-12-21 | N4571A-27-R-0002 | MilLife Learning Management System Support Service | Washington, DC | NONE | 1 |
+| 2026-11-27 | 75N98027Q00080 | Preventive Maintenance Service - GE TracerLab |  | Unrestricted | 1 |
+| 2026-12-01 | 1284LL27Q0008 | Refurbishment of Existing Tree Cooler, St. Joe Ranger District, Idaho  | ID | SBA | 2 |
+| 2026-11-30 | 30199PR270000005 | USCG Station Fire Island Attic Vents | Babylon, NY | NONE | 4 |

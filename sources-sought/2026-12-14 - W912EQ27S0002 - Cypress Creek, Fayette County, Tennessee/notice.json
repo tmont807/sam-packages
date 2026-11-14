@@ -1,0 +1,45 @@
+{
+  "noticeId": "edfe668c09c94e1aaf16aee135d3ba68",
+  "solicitationNumber": "W912EQ27S0002",
+  "title": "Cypress Creek, Fayette County, Tennessee",
+  "naics": "237990",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-14T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > MVD > W07V ENDIST MEMPHIS",
+  "contacts": [
+    {
+      "name": "Kimberly Bass",
+      "email": "kimberly.e.bass@usace.army.mil",
+      "phone": "9015793648"
+    },
+    {
+      "name": "Judy Stallion",
+      "email": "judy.e.stallion@usace.army.mil",
+      "phone": "9015440776"
+    }
+  ],
+  "files": [
+    {
+      "name": "fea51b7ecb254eb8be900c35d7c60a0b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "052a80b3e07f41749b236247af16fd8b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "52d0edc8a07c458193d734ef8665a411",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7b2a35b75822400689e90880cc132ac5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Please see attachment for Sources Sought information. ",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}

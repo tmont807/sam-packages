@@ -1,0 +1,36 @@
+{
+  "noticeId": "9fb45803cad6447eadbbf28d882b1b0b",
+  "solicitationNumber": "1305M327Q0051",
+  "title": "Landscaping services for Eureka CA WFO",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-25T21:00:00+00:00",
+  "state": "CA",
+  "city": "Eureka",
+  "agency": "COMMERCE, DEPARTMENT OF > NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION > DEPT OF COMMERCE NOAA",
+  "contacts": [
+    {
+      "name": "HARTMAN, HANNAH",
+      "email": "HANNAH.HARTMAN@NOAA.GOV",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Sol_1305M327Q0051.pdf",
+      "result": "368 KB"
+    },
+    {
+      "name": "Eureka_WFO_Landscaping_SOW.pdf",
+      "result": "947 KB"
+    },
+    {
+      "name": "WD_2015-5673_Rev__28_08-2026.pdf",
+      "result": "343 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Landscaping services for Eureka CA Weather Forecast Office",
+  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+}
