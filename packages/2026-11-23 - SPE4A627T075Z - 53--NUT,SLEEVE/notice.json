@@ -1,0 +1,28 @@
+{
+  "noticeId": "a4cf073ab359432ca73e2bfebc1e11fc",
+  "solicitationNumber": "SPE4A627T075Z",
+  "title": "53--NUT,SLEEVE",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-23T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "36759d5831d94bfeb92e37d0ed11d104",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5310012806767 NUT,SLEEVE:\nLine 0001 Qty 5029   UI EA  Deliver To: DLA DISTRIBUTION DEPOT HILL By: 0349 DAYS ADO\nLine 0002 Qty 1      UI EA  Deliver To: DLA DISTRIBUTION DEPOT HILL By: 0090 DAYS ADO\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-15T11:56:02.737302+00:00"
+}

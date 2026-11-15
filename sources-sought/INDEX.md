@@ -158,3 +158,9 @@
 | 2026-11-20 | W912EF-27-R-SS03 | Artificial Intelligence (AI) Training for Contracting Personnel | WA | Unrestricted | 0 |
 | 2026-11-23 | N4523A62873750 | Sources Sought Response for repair and accredited ISO 17025 calibratio | Bremerton, WA | Unrestricted | 1 |
 | 2026-11-23 | 75N98027Q00082 | Optos California Service Agreement | Bethesda, MD | Unrestricted | 0 |
+
+## 2026-11-15
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-30 | 36C10B27Q0056 | DA01--Veterans Health Information Systems and Technology (VISTA) Blood |  | Unrestricted | 3 |

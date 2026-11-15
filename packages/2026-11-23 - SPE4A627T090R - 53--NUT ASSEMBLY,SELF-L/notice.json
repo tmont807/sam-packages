@@ -1,0 +1,28 @@
+{
+  "noticeId": "f9ffb065430e4fdba97b2c06339bf8de",
+  "solicitationNumber": "SPE4A627T090R",
+  "title": "53--NUT ASSEMBLY,SELF-L",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-23T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "524dd804d7344ae881b6d681542da842",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5310013937789 NUT ASSEMBLY,SELF-L:\nLine 0001 Qty 1192   UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0662 DAYS ADO\nLine 0002 Qty 1      UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0180 DAYS ADO\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-15T11:56:02.737302+00:00"
+}
