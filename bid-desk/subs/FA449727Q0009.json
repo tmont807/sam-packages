@@ -1,0 +1,197 @@
+{
+ "sol": "FA449727Q0009",
+ "naics": "562998",
+ "state": "DE",
+ "found": "2026-11-16",
+ "firms": [
+  {
+   "name": "Mebro Inc",
+   "uei": "J7DZFKGNNTC8",
+   "rid": "38a96988-b334-7f3b-18e5-0d77a4cd9d44-C",
+   "awards": 5,
+   "total": 91590.31999999999,
+   "last": "2025-11-17",
+   "zips": [
+    "19805"
+   ],
+   "agencies": [
+    "Department of Veterans Affairs"
+   ],
+   "example": "EMERGENCY NTP WATER REMEDIATION SERVICES",
+   "address": "225 N JAMES ST, WILMINGTON, DE, 19804",
+   "city": "Wilmington",
+   "zip": "19804",
+   "st": "DE",
+   "small": true,
+   "certs": [
+    "SDVOSB",
+    "VOSB"
+   ],
+   "score": 70
+  },
+  {
+   "name": "Arrow Leasing Corp",
+   "uei": "HEL8ULZDPVM5",
+   "rid": "67b9d780-4192-784f-9637-4c3c60d7684d-C",
+   "awards": 3,
+   "total": 120009.95999999999,
+   "last": "2026-09-30",
+   "zips": [
+    "19902"
+   ],
+   "agencies": [
+    "Department of the Air Force"
+   ],
+   "example": "MAINTENANCE OF GREASE TRAPS",
+   "address": "1772 PULASKI HWY, BEAR, DE, 19701",
+   "city": "Bear",
+   "zip": "19701",
+   "st": "DE",
+   "small": true,
+   "certs": [],
+   "score": 60
+  },
+  {
+   "name": "Aqua Pro Inc",
+   "uei": "MH23D14XDDX7",
+   "rid": "258a43d4-167f-4e94-81ab-4e9cb1098ae0-C",
+   "awards": 3,
+   "total": 480678.93,
+   "last": "2026-09-30",
+   "zips": [
+    "19902"
+   ],
+   "agencies": [
+    "Department of the Air Force"
+   ],
+   "example": "TECHNICAL REPRESENTATIVE- MISCELLANEOUS",
+   "address": "104 BIG WOODS RD, SMYRNA, DE, 19977",
+   "city": "Smyrna",
+   "zip": "19977",
+   "st": "DE",
+   "small": true,
+   "certs": [
+    "VOSB"
+   ],
+   "score": 60
+  },
+  {
+   "name": "Advant-Edge Solutions Of Middle Atlantic Inc",
+   "uei": "V8XMA6WJFGQ6",
+   "rid": "8c681a2d-bdb5-984a-a1d7-d670fd0ad4ed-C",
+   "awards": 1,
+   "total": 50545.6,
+   "last": "2027-03-31",
+   "zips": [
+    "19713"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "INCINERATION/DESTRUCTION OF BASE YEAR",
+   "address": "17 SHEA WAY, NEWARK, DE, 19713",
+   "city": "Newark",
+   "zip": "19713",
+   "st": "DE",
+   "small": true,
+   "certs": [
+    "WOSB"
+   ],
+   "score": 50
+  },
+  {
+   "name": "Kerrigan Construction Inc.",
+   "uei": "FLDZB2ZN9KG9",
+   "rid": "358b1bdc-6c55-d5fa-ce54-46aeda99ff38-C",
+   "awards": 1,
+   "total": 233962.5,
+   "last": "2025-12-10",
+   "zips": [
+    "19807"
+   ],
+   "agencies": [
+    "U.S. Secret Service"
+   ],
+   "example": "THE PURPOSE OF THIS PURCHASE ORDER IS TO PROCURE CONCRETE BARRIERS.",
+   "address": "257 W DENNEYS RD, DOVER, DE, 19904",
+   "city": "Dover",
+   "zip": "19904",
+   "st": "DE",
+   "small": true,
+   "certs": [
+    "VOSB"
+   ],
+   "score": 50
+  },
+  {
+   "name": "Guardian Environmental Services Co Inc",
+   "uei": "JASQS72WQ5D4",
+   "rid": "ac28bc7f-aba8-7a64-ad0e-c5881255dd4d-C",
+   "awards": 2,
+   "total": 830470.67,
+   "last": "2022-02-14",
+   "zips": [
+    "19702"
+   ],
+   "agencies": [
+    "Environmental Protection Agency"
+   ],
+   "example": "CHEM FAB",
+   "address": "70 ALBE DR, NEWARK, DE, 19702",
+   "city": "Newark",
+   "zip": "19702",
+   "st": "DE",
+   "small": true,
+   "certs": [
+    "SDVOSB",
+    "VOSB"
+   ],
+   "score": 40
+  },
+  {
+   "name": "Arx Perimeters Llc",
+   "uei": "E3WUGHYJJQN9",
+   "rid": "00bae069-3701-2f81-7734-4b383ad68a5d-C",
+   "awards": 2,
+   "total": 289000.0,
+   "last": "2025-12-05",
+   "zips": [
+    "19807"
+   ],
+   "agencies": [
+    "U.S. Secret Service"
+   ],
+   "example": "CONTRACT FOR PORTABLE BARRIERS IN WILMINGTON.",
+   "address": "421 HEATHROW CT, BURR RIDGE, IL, 60527",
+   "city": "Burr Ridge",
+   "zip": "60527",
+   "st": "IL",
+   "small": true,
+   "certs": [],
+   "score": 30
+  },
+  {
+   "name": "Hydrogeologic, Inc.",
+   "uei": "S7Q4GKNGGA81",
+   "rid": "f3a56e43-7214-5772-23bf-fb0af2d16eb0-C",
+   "awards": 2,
+   "total": 3918511.27,
+   "last": "2028-09-29",
+   "zips": [
+    "19701",
+    "19720"
+   ],
+   "agencies": [
+    "Environmental Protection Agency"
+   ],
+   "example": "DES - STANDARD CHLORINE OF DE (OU4) REMEDIAL ACQUISITION FRAMEWORK (RAF), DESIGN AND ENGIN",
+   "address": "11107 SUNSET HILLS RD, RESTON, VA, 20190",
+   "city": "Reston",
+   "zip": "20190",
+   "st": "VA",
+   "small": true,
+   "certs": [],
+   "score": 30
+  }
+ ]
+}

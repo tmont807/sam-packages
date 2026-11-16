@@ -1,0 +1,152 @@
+{
+ "sol": "12444527Q0009",
+ "naics": "562991",
+ "state": "MO",
+ "found": "2026-11-16",
+ "firms": [
+  {
+   "name": "417 Services Llc",
+   "uei": "FTDCW9VMMAH4",
+   "rid": "52215b9e-f09e-ee18-e803-925024359baa-C",
+   "awards": 9,
+   "total": 52465.0,
+   "last": "2026-05-31",
+   "zips": [
+    "63935",
+    "65608"
+   ],
+   "agencies": [
+    "Forest Service"
+   ],
+   "example": "TOILET PUMPING ZONE 2 FOR MARK TWAIN NATIONAL FOREST - ELEVEN POINT/DONIPHAN RANGER DISTRI",
+   "address": "3526 MATNEY HOLLOW RD, SEYMOUR, MO, 65746",
+   "city": "Seymour",
+   "zip": "65746",
+   "st": "MO",
+   "small": true,
+   "certs": [
+    "WOSB"
+   ],
+   "score": 75
+  },
+  {
+   "name": "Paula Watkins",
+   "uei": "DMDHDVUKHVN7",
+   "rid": "3cf67073-477c-fbfa-80ae-02bc1d793b1b-C",
+   "awards": 66,
+   "total": 809855.4500000003,
+   "last": "2025-11-30",
+   "zips": [
+    "65401",
+    "65473",
+    "65560"
+   ],
+   "agencies": [
+    "Department of the Army",
+    "Forest Service"
+   ],
+   "example": "THIS AWARD IS FOR THE FUNDING OF SANITARY REFUSE SEPTEMBER 2025 SERVICES, FUNDED THROUGH N",
+   "address": "12351 COUNTY ROAD 5420, ROLLA, MO, 65401",
+   "city": "Rolla",
+   "zip": "65401",
+   "st": "MO",
+   "small": true,
+   "certs": [
+    "WOSB"
+   ],
+   "score": 75
+  },
+  {
+   "name": "Hunt Vac Services, Llc",
+   "uei": "DY4SQCELENF1",
+   "rid": "bc2257fe-5512-842f-508e-3aa1029608c7-C",
+   "awards": 3,
+   "total": 21833.9,
+   "last": "2026-09-30",
+   "zips": [
+    "63118"
+   ],
+   "agencies": [
+    "U.S. Coast Guard"
+   ],
+   "example": "CGC KICKAPOO DOCKSIDE SEWAGE FLUSH",
+   "address": "4180 BECK AVE, SAINT LOUIS, MO, 63116",
+   "city": "Saint Louis",
+   "zip": "63116",
+   "st": "MO",
+   "small": true,
+   "certs": [],
+   "score": 60
+  },
+  {
+   "name": "Complete Septic Service Llc",
+   "uei": "TPRUD5RGA7J3",
+   "rid": "8313e9e7-6c3c-c51e-05ad-97ce7b3db10c-C",
+   "awards": 2,
+   "total": 117165.0,
+   "last": "2028-09-30",
+   "zips": [
+    "65305"
+   ],
+   "agencies": [
+    "Department of the Air Force"
+   ],
+   "example": "PORTABLE TOILETS RENTAL SERVICES",
+   "address": "500 N LEE ST, LEETON, MO, 64761",
+   "city": "Leeton",
+   "zip": "64761",
+   "st": "MO",
+   "small": true,
+   "certs": [],
+   "score": 55
+  },
+  {
+   "name": "Henson Trash Service Inc",
+   "uei": "QX8LED7CV167",
+   "rid": "5c3ebffd-f3dd-7219-13f0-da4fdbe065cc-C",
+   "awards": 2,
+   "total": 291200.0,
+   "last": "2026-08-14",
+   "zips": [
+    "63957"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "5-YEAR FIRM FIXED PRICE SERVICE CONTRACT TO PROVIDE SLUDGE REMOVAL AT CLEARWATER PROJECT O",
+   "address": "10 SUGAR CREEK RD, PIEDMONT, MO, 63957",
+   "city": "Piedmont",
+   "zip": "63957",
+   "st": "MO",
+   "small": true,
+   "certs": [],
+   "score": 55
+  },
+  {
+   "name": "S & S Pumping, Inc.",
+   "uei": "FZ9RL5KV2LK3",
+   "rid": "3f66a00b-36fa-19d2-bd54-0e77bda21685-C",
+   "awards": 2,
+   "total": 309700.0,
+   "last": "2026-09-30",
+   "zips": [
+    "65616"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "LIQUID WASTE PUMPING AND DISPOSAL SERVICES FOR TABLE ROCK PROJECT.",
+   "address": "437 ARGO LN, BILLINGS, MO, 65610",
+   "city": "Billings",
+   "zip": "65610",
+   "st": "MO",
+   "small": true,
+   "certs": [
+    "SDVOSB",
+    "WOSB",
+    "VOSB"
+   ],
+   "score": 55
+  }
+ ]
+}

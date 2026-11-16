@@ -13,6 +13,22 @@ python bid-desk/bid_desk.py quote FA449727Q0009 "Delmarva Pumping" 38500 --marku
 python bid-desk/bid_desk.py pipeline               # every active bid by stage, plus win rate
 ```
 
+## Finding subs
+
+```
+python bid-desk/sub_finder.py 12444527Q0009          # local firms already paid by agencies for this work
+python bid-desk/sub_finder.py 140RR027Q0001 --state ND   # when the notice has no location
+python bid-desk/sub_finder.py 12444527Q0009 --add 1,2    # put picks on the bid, then run `rfq`
+```
+
+It pulls every federal award for the package's NAICS in that state over the last 4 years from
+USAspending.gov (public, no key), groups them by company, and ranks companies that are repeat,
+recent, in-state and small. It flags firms that are not small (on a small-business set-aside the
+prime may pay no more than 50% of a services contract to non-small subs, FAR 52.219-14), firms
+too big to sub, firms based out of state, and certifications (SDVOSB, WOSB, HUBZone, 8(a)). A
+certified sub is also a teaming partner for set-asides Projexian cannot bid alone. Each firm gets
+a link to its SAM.gov page for points of contact. Results save to `bid-desk/subs/`.
+
 Partial solicitation numbers work (`show Q0009`) when they match one package.
 
 ## How the score works (0-100)
