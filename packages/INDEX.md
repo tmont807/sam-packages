@@ -454,3 +454,12 @@
 | 2026-11-27 | SPE7L727T0645 | 61--CELL,BATTERY |  | SBA | 1 |
 | 2026-11-30 | SPE7L127Q0152 | 61--BATTERY,STORAGE |  | Unrestricted | 1 |
 | 2026-12-04 | 140LL027Q0021 | KFO VAULT TOILET PUMPING |  | SBA | 5 |
+
+## 2026-11-16
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2027-01-15 | 36C10F27R0003 | Y1JZ--Indefinite Delivery Indefinite Quantity (IDIQ) Design-Build & Co | DC | SBP | 19 |
+| 2026-12-04 | W912DQ26RA060 | Veterans Affairs St. Louis Health Care System (VASTLHCS) John Cochran  |  | Unrestricted | 4 |
+| 2026-11-30 | N0010427QXA12 | DIAPHRAM, PRIMARY |  | Unrestricted | 2 |
+| 2030-09-30 | FA9101-26-9-Velocity_Alliance | Request for Whitepapers AEDC Velocity Alliance - A Multi-Billion Dolla |  | Unrestricted | 48 |
