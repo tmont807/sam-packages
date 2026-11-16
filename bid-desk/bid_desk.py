@@ -297,33 +297,31 @@ def cmd_rfq(args):
     ask = due - dt.timedelta(days=max(2, min(5, ((due - TODAY).days) // 3))) if due else None
     where = ", ".join(x for x in (d.get("city"), d.get("state")) if x) or "[location from SOW]"
     files = "\n".join(f"  - {f['name']}" for f in d.get("files", []))
-    print(f"""Subject: Request for quote: {d.get('title')} ({where}), quotes by {ask:%b %d}
+    title = d.get("title") or ""
+    # Tyler's sub-email rules: this opening, under ~200 words, documents attached to this email,
+    # no portal links, no calls or meetings offered, never our pricing or markup.
+    print(f"""Subject: Quote request: {title} - {where} (due {ask:%b %-d})
 
-Hello,
+Hi [Company] team,
 
-Projexian LLC is preparing a quote for a federal contract and is looking for a local company to
-perform the work as our subcontractor.
+My name is Tyler Montgomery with Projexian. We're preparing a quote for {title} for
+{(d.get('agency') or '').split('>')[-1].strip() or 'a federal agency'} in {where}, and we're looking for a
+local small business to perform the work as our subcontractor.
 
-  Work: {d.get('title')}
-  Location: {where}
-  Agency: {(d.get('agency') or '').split('>')[-1].strip()}
-  Solicitation: {sol} (public on SAM.gov)
-  NAICS: {d.get('naics')} {NAICS_TITLES.get(d.get('naics'), '')}
-
-The statement of work, pricing schedule and wage determination are attached:
+Attached are the solicitation documents:
 {files}
 
-What we need by {ask:%A, %B %d}:
-  1. Your price for the full scope, filled into the pricing schedule (base year and each option year)
-  2. Confirmation you can pay at least the rates in the attached wage determination
-  3. A recent comparable job (customer and approximate size), and proof of insurance
-
-We handle the federal paperwork, invoicing and the relationship with the contracting officer. You do
-the work you already do, and get paid on a regular schedule.
+If you'd like to bid, please send by {ask:%A, %B %-d}:
+1. Your price for the full scope, using the attached price schedule (each option year)
+2. Confirmation you can meet the attached wage determination
+3. A recent comparable job and your certificate of insurance
 
 Thank you,
+Tyler Montgomery
 Projexian LLC
-""")
+
+[Attach every file above. Send only when Tyler says "send", paced per his rules.]""")
+
 
 
 def cmd_pipeline(args):
