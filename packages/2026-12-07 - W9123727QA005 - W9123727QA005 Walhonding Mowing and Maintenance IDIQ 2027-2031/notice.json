@@ -21,25 +21,16 @@
       "phone": "3043995169"
     }
   ],
-  "files": [
-    {
-      "name": "5eb647745092434f9cfa97bb866f3ffe",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "a0fad0c9debb4dbab567b5f56363b441",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "8ac497cfb2ad4e1195ea2cb7519d2404",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "5e26be67e4e1460ea891fc696c382291",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Mowing and Maintenance Services IDIQ for Walhonding Area Projects, OH 2027-2031, US Army Corps of Engineers, Huntington District.  ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9123727QA005&noticeType=CombinedSynopsisSolicitation",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "S208",
+  "docs": "PIEE (not in repo)"
 }

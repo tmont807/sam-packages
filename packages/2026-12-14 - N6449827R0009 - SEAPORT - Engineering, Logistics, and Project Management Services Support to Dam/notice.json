@@ -16,25 +16,16 @@
       "phone": "215 697-0104"
     }
   ],
-  "files": [
-    {
-      "name": "d4e43421a8494e2fbb43732598ea49b1",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "437987079ded42fca37863e782993efd",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "b1291f3ac3be413882d654df5c48e654",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "bf29875e9b924c5b89025c3cf35bca7c",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "***THIS REQUIREMENT IS BEING SOLICITED TO SEAPORT-NXG MAC HOLDERS ONLY. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers***This requirement includes research, development, test, evaluation, engineering, and fleet support for Navy ships, submarines, military watercraft, Military Sealift Command vessels, and unmanned vehicles of NSWCPD Division 33. Division 33 also serves as the NAVSEA-assigned ISEA for non-aviation Chemical/Biological Defense (CBD) Individual Protective and Decontamination Systems and Equipment. This requirement specifically supports NSWCPD Codes 335 and 336 in performing their ISEA responsibilities for the four functional areas listed above. Services include developing design policy, equipment and system specifications and standards, and doctrine, as well as providing logistics and engineering support. The deadline for receipt of questions is 10 days after issuance of the solicitation. Although every effort will be made, the Government makes no guarantee that questions received after the date above will be answered.  All questions shall be submitted via email to the points of contact listed below: Tiffany Vu, Contract Specialist: tiffany.o.vu.civ@us.navy.mil and Angela Cusati, Contracting Officer: angela.f.cusati.civ@us.navy.mil ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=N6449827R0009&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "R425",
+  "docs": "PIEE (not in repo)"
 }

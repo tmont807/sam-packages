@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "897f7dbad60d4c5c83f1576cd71b8a9b",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ee683ad74b3542d7b251be0e847f73a7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "56c35ac52bb34399b86d854010bd50fc",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "670a926f18ec4bf78106f154423b0588",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Repair Mechanical Systems IDIQ (FY 27-32) ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=FA860126R0016&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "J041",
+  "docs": "PIEE (not in repo)"
 }

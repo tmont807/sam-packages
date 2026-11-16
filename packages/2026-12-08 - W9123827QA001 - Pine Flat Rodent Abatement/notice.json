@@ -21,23 +21,14 @@
       "phone": "9165577929"
     }
   ],
-  "files": [
-    {
-      "name": "6c75f003ef8142128b48e96a12435a61",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "5d8d94cbd422452f9fdeb0b285a11f79",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "4102859ca247426abcb4bddf120cf8a3",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "d83ed380bd56416e9bdce9511368a096",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
+  "files": [],
+  "savedAt": "2026-11-07T00:57:50.718000+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9123827QA001&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "psc": "S207",
+  "docs": "PIEE (not in repo)"
 }

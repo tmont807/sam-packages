@@ -24,23 +24,15 @@
     {
       "name": "Attachment_Q2__Industry_Questions_Fort_Benning.xlsx",
       "result": "28 KB"
-    },
-    {
-      "name": "597c4f4ec7324f65b2eb113f62148fdc",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "45d2bb4370f44c67b79f0848b09f51ab",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "4e73396aad4e4e08a5b1bf2352c1d64a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "28273c3e6c554a9c8579989567899c4a",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "savedAt": "2026-11-07T00:57:50.718000+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W5168W26RA015&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "S216",
+  "docs": "in_repo"
 }

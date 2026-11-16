@@ -16,25 +16,16 @@
       "phone": "9165577543"
     }
   ],
-  "files": [
-    {
-      "name": "e1716da7f1c846dea87b8f0a1e3c66f8",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "77fe11ef3fb84f6b8ad7200bc9139c53",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ada65e2cbdc34b3387eedbb55fe3457c",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "782fadc2715346a383bbcf3274aa1e81",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "USACE SPK requires Design-Bid-Build construction services along the Lower American River (LAR), known as Contract 3B (C3B) South, to include excavating, placement, and regrading of material on the riverbank slope and levee embankment, installation of soil-filled rock slope protection on the waterside levee face and riverbank, soil and rock placement to construct river toe protection and planting bench features, instream wood structure placement on the planting benches, construction of buried launchable trench features in the overbank, tie-in of erosion protection elements to existing rock revetment features, providing temporary erosion control for stabilization of disturbed soil areas, and import and placement of riprap from Watt Avenue, upstream to near Mayhew Drain in Sacramento, California (CA).North American Industry Classification System (NAICS) code: 237990, Other Heavy and Civil Engineering Construction.Product or Service Code: Y1LC, Construction of Tunnels and Subsurface Structures.Small Business Administration (SBA) size standard: $45,500,000.00 annual revenue.The target price range is estimated to be $45,000,000.00 to $60,000,000.00.Requirement is a total (100%) Small Business Set-Aside. ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9123827BA002&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1LC",
+  "docs": "PIEE (not in repo)"
 }

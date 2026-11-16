@@ -16,25 +16,16 @@
       "phone": "6197054920"
     }
   ],
-  "files": [
-    {
-      "name": "57f5cf9ad81b43f6bf94f67465cf9d05",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "276b9f97b3904f7c958154d2e818ea82",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "1c1892fbab99488fb5dc98e13e2ded47",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "75a97c788a884d3581a550f8f0f06164",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "SOLICITATION NUMBER: N6247326R0053 (PIEE Alias: N6247326R9953) PROJECT: NAWSCL Base Operations Support Contract (BOSC), AMENDMENT: 0005 The purpose of this amendment is to post RFI responses as referenced in Amendment 0004 issued November 10, 2026. ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=N6247326R9953&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "S216",
+  "docs": "PIEE (not in repo)"
 }

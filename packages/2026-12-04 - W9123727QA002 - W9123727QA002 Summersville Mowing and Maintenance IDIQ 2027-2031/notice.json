@@ -16,25 +16,16 @@
       "phone": "3043995286"
     }
   ],
-  "files": [
-    {
-      "name": "2261b2d2d7ab4f39b7db0f867d4dd0fb",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "1eec5ad73f0941958beef2b55397e14f",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ef9b9a2a0be74ce594aa058134f4b04e",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "c93abf2980304e5d80718d5b2947a117",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Mowing and Maintenance Service IDIQ for Summersville Lake, Summersville, WV 2027-2031 ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9123727QA002&noticeType=CombinedSynopsisSolicitation",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "S208",
+  "docs": "PIEE (not in repo)"
 }

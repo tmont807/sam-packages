@@ -28,5 +28,8 @@
   ],
   "kind": "sources_sought",
   "description": " The Fort Yuma Health Center operates three EVAPCO cooling tower cells that require refurbishment of internal heat-transfer and drift-control components. The existing fill supports support the tower media/packing, which promotes even water and air distribution for heat transfer. The Government requires replacement of the fill media, fill supports, and eliminator assemblies in all three cooling tower cells to restore and maintain reliable cooling tower performance. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [],
+  "psc": "J041",
+  "docs": "in_repo"
 }

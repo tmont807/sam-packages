@@ -37,21 +37,16 @@
     {
       "name": "Attachment J1 - Drawings 1246.pdf",
       "result": "29304 KB"
-    },
-    {
-      "name": "c53526a8359847eda832d5c0c0964d95",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "1775b981ac7a4e26b2c6aaa79a2b4405",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "218e11ca4b444d4d8fab2fbc8dd9c179",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
   "kind": "solicitation",
   "description": "Login at https://piee.eb.mil and search for 'N4008527R0038' to obtain more details.*",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1FC",
+  "docs": "in_repo"
 }

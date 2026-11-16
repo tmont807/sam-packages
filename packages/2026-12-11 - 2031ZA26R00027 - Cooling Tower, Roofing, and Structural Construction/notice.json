@@ -124,11 +124,11 @@
     },
     {
       "name": "Attachment 30 Pictures.pdf",
-      "result": "40360 KB"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Attachment 31 Pictures.pdf",
-      "result": "40366 KB"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Attachment 32 Pictures.pdf",
@@ -173,5 +173,8 @@
   ],
   "kind": "solicitation",
   "description": " 11/12/2026 - Amendment 0003 is issued to reflect the following (see attachment titled &quot;2031ZA26R00027 0003&quot;): \n\n 1. Will there be another site visit held since the date was extended? \nGovernment Response: There will not be another site visit as the solicitation explicitly establish a fixed date and time which afforded an opportunity. \n2. Is there a way for us to schedule a site visit? \nGovernment Response: No, however please submit technical questions in writing by the due date set in solicitation amendment 0002. \n\n 11/05/2026 - Amendment 0002 is issued to reflect the following: \n1.&nbsp; &nbsp; Extend the due date to December 11, 2026. \n2.&nbsp;&nbsp; &nbsp;Replace Statement of Work, see &quot;Attachment 3 - Statement of Work - Cooling Towers Revision 02 Amendment 0002.&quot; \n3.&nbsp;&nbsp; &nbsp;Updated Request for Proposal (RFP), see changes highlighted in yellow, &quot;2031ZA26R00027 Revision 01 11052026.&quot; \n4.&nbsp;&nbsp; &nbsp;Updated - &quot;Attachment 4 - Pricing Table Revision 01 Amendment 0002.&quot; \n5.&nbsp;&nbsp; &nbsp;Include attachments 8, 10,11,12 and 14-32. \n\n 10/08/2026 -&nbsp;Amendment 0001 is issued to extend the due date to November 9, 2026 to allow the government time to update the Statement of Work (SOW) and obtain authorization to include drawings and pictures. (See attached 2031ZA26R00027 0001). \n\n 09/16/2026 - See Request for Proposal with attachments. \n",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [],
+  "psc": "Z2EC",
+  "docs": "in_repo"
 }

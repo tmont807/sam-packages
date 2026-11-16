@@ -16,25 +16,16 @@
       "phone": "2539664384"
     }
   ],
-  "files": [
-    {
-      "name": "688b50e937e24514b1a5de9647f99e87",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "32e9ce0ee78c45e5afe83984725d7e69",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "aca098cca43847ff8ced47b7ecaff24b",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "3a0ca5f459d742a085db055b87e19a4a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "CHJ 480V _ SQ1_SQ3_ DSQ1_DSQ2_Rep. Amend 0001 - 1. Update the solicitation number from W912DW26RA053 to W912DW27RA020 on Chief Joseph 480V SQ1 - SQ3, DSQ1 - DSQ2 Replacement Drawings and Chief Joseph 480V SQ1 - SQ3, DSQ1 - DSQ2 Replacement Specs. 2. Add Request for Visitation Authority (RVA). ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912DW27RA020&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1PZ",
+  "docs": "PIEE (not in repo)"
 }

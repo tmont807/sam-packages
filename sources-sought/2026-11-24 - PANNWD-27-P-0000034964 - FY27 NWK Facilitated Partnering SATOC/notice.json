@@ -21,25 +21,16 @@
       "phone": "(816) 389-2355"
     }
   ],
-  "files": [
-    {
-      "name": "3e56b1aedd1f4c9f8ee1097c14c44690",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "cacface4371c40458205f02467956993",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "44fc70a6ede4467da2315050869212aa",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "68143044ec8049f09e1ccdc0f1ccbc3a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "sources_sought",
   "description": "The scope of this SATOC is to provide services to prepare and facilitate group partnering workshops and to train government personnel to develop organic expertise to plan and facilitate informal team led partnering sessions. Professionally facilitated and formal partnering is an integral element of the USACE project governance process. To accomplish USACE construction contracts most effectively, the Government requires the formation of a cohesive and collaborative partnership within the project team with the common goal of drawing on the strength of each organization in an effort to achieve a successful project without safety mishaps, conforming to the contract, within budget and on schedule. The effort will be to assist (facilitate) teams in developing processes, procedures, and methods for measuring and sustaining team performance and accountability throughout the life of a project.  ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=PANNWD-27-P-0000034964&noticeType=SourcesSought",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "",
+  "docs": "PIEE (not in repo)"
 }

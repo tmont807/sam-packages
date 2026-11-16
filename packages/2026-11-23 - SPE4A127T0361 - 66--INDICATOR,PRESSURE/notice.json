@@ -16,13 +16,13 @@
       "phone": null
     }
   ],
-  "files": [
-    {
-      "name": "befd43bcb6794aa2a769dcb326fa1e72",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Proposed procurement for NSN 6685011490590 INDICATOR,PRESSURE:\nLine 0001 Qty 95     UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0169 DAYS ADO\nApproved sources are 05228 7583420-101; 062W0 7583420-101.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
-  "savedAt": "2026-11-15T11:56:02.737302+00:00"
+  "savedAt": "2026-11-15T11:56:02.737302+00:00",
+  "links": [
+    "https://www.dibbs.bsm.dla.mil/rfq/rfqrec.aspx?sn=SPE4A127T0361"
+  ],
+  "psc": "66",
+  "docs": "DIBBS (not in repo)"
 }

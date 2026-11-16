@@ -16,13 +16,13 @@
       "phone": null
     }
   ],
-  "files": [
-    {
-      "name": "a5a5d376525f4b51b431d2d9bec732ca",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Proposed procurement for NSN 6135015368333 CELL,BATTERY:\nLine 0001 Qty 938    UI EA  Deliver To: W1A8 DLA DIST SAN JOAQUIN By: 0165 DAYS ADO\nApproved source is 12GY1 3B0035-XR-MIL.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
-  "savedAt": "2026-11-15T11:56:02.737302+00:00"
+  "savedAt": "2026-11-15T11:56:02.737302+00:00",
+  "links": [
+    "https://www.dibbs.bsm.dla.mil/rfq/rfqrec.aspx?sn=SPE7L727T0645"
+  ],
+  "psc": "61",
+  "docs": "DIBBS (not in repo)"
 }

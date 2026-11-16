@@ -16,13 +16,13 @@
       "phone": null
     }
   ],
-  "files": [
-    {
-      "name": "d48c8fdad7a347f787bc9a1d2a6e55df",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Proposed procurement for NSN 5310001682906 NUT,PLAIN,EXTENDED WAS:\nLine 0001 Qty 9500   UI EA  Deliver To: DLA DISTRIBUTION ANNISTON By: 0161 DAYS ADO\nThis is a source controlled drawing item.  Approved sources are 15653 SPL50204-8; 27238 BH00110-8; 56878 76758-820.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. The items furnished must meet the requirements of the drawing cited in the solicitation. Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
-  "savedAt": "2026-11-15T11:56:02.737302+00:00"
+  "savedAt": "2026-11-15T11:56:02.737302+00:00",
+  "links": [
+    "https://www.dibbs.bsm.dla.mil/rfq/rfqrec.aspx?sn=SPE4A627T091C"
+  ],
+  "psc": "53",
+  "docs": "DIBBS (not in repo)"
 }

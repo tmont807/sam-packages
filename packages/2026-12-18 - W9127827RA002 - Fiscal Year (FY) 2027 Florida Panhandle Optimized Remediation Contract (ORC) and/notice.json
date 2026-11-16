@@ -73,5 +73,10 @@
   ],
   "kind": "solicitation",
   "description": " This requirement is for comprehensive, performance-based environmental remediation activities to achieve Performance Objectives (PO&#39;s) at 58 Installation Restoration Program (IRP) sites and 5 Military Munitions Response Program (MMRP) sites at Eglin AFB, Hurlburt Field and Tyndall AFB in Florida. The range of services includes investigation, design, construction of remedial systems, operation and maintenance of established remedies, remedy optimization at applicable sites, and achievement of site-specific objectives. \n",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9127827RA002&noticeType=SolicitationNotice"
+  ],
+  "psc": "F108",
+  "docs": "in_repo"
 }

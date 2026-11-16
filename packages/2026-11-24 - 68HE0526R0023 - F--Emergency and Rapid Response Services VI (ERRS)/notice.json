@@ -16,13 +16,13 @@
       "phone": "(312) 353-8034"
     }
   ],
-  "files": [
-    {
-      "name": "2e18bdb3c8534b24bfac0b3fa71888a7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Region 5; Emergency and Rapid Response Services (ERRS) VI",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://www.fedconnect.net/FedConnect/?doc=68HE0526R0023&agency=EPA"
+  ],
+  "psc": "F108",
+  "docs": "FedConnect (not in repo)"
 }

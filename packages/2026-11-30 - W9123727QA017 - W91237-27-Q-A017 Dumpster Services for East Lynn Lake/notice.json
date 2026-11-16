@@ -21,25 +21,16 @@
       "phone": "3043995078"
     }
   ],
-  "files": [
-    {
-      "name": "b23fc1e4bae44f97a0a7059ed0401a65",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ccdd3fc0bec3404fb408daa710c43875",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ee3a906300e44da5a8e666a7a38570b3",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "38e86463f6bf4b6bb4c9036391b5198e",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "W91237-27-Q-A017, East Lynn Lake Dumpster Services. Please note the solicitation, all attachments, and extended details are accessible by utilizing the below link which will take you to the PIEE system. Please pay special attention to the instructions to offerors located in the solicitation. ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9123727QA017&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "S205",
+  "docs": "PIEE (not in repo)"
 }

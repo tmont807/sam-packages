@@ -16,13 +16,13 @@
       "phone": "206-526-4423"
     }
   ],
-  "files": [
-    {
-      "name": "014380d372f346c6bf510c54fa257772",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Security Fence and Gate Replacement for the Automated Surface Observation System (ASOS) at the Billy Mitchell Airport (HSE) in Hatteras, NC (MHX) ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://www.fedconnect.net/FedConnect/?doc=1305M327Q0004&agency=DOC"
+  ],
+  "psc": "Z2PZ",
+  "docs": "FedConnect (not in repo)"
 }

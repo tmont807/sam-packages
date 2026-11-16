@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "302fbd1171f74569985e2d98ad31652b",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "47740de723b74917a908344c5d6febc9",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "be775a3ef2bb412cbfbe64bbbf9106c8",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "bbb0eae88d6b45bfa97e041745facc3f",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "****Amend 0007 posted 2026115; Extend proposal due date****Amend 0006 posted 20261023: Provide additional updates based on bidder inquiries****Amend 0005 posted 20261021: Provide additional updates based on bidder inquiries****Amend 0004 posted 20261002: Provide additional updates based on bidder inquiries****Amend 0003 posted 20260925: Provide updates based on bidder inquiries****Amend 0002 posted 20260902: Provide specifics for the site visit****Amend 0001 posted 20260817: Provide correct Plans Room Key****VA Hospital Solicitation Notice W912DQ26RA060. The U.S. Army Corps of Engineers (USACE) Kansas City District is  issuing a solicitation for an Integrated Design and Construction (IDaC) services delivery method contract for the construction of a new bed tower, clinical expansion, parking garage in support of the Veterans Affairs St. Louis Health Care System (VASTLHCS) John Cochran (JC) Hospital in St. Louis, Missouri. Offerors shall submit an offer subject to Project Labor Agreement (PLA) requirements in accordance with RFO 22.5, Project Labor Agreements for Federal Construction Projects.  Any PLA reached pursuant to the PLA requirements in the solicitation does not change the terms of the contract or provide for any price adjustment by the Government. Funds are fully available for this requirement. The project will be solicited as full and open (unrestricted). The requirements under this construction project include right sizing the VAs medical center by demolishing several deficient and underutilized buildings and then constructing multiple new modern and seismically compliant structures and facilities on the same, expanded site.  The newly constructed facilities are incorporated into a master plan for future expansion and demolition of additional primary facilities. The new primary facilities will be acquired using the Integrated Design and Construction (IDaC) delivery method which includes a Pre-Construction Services Phase.  The Government will evaluate the performance capability of offerors in accordance with the criteria described in the solicitation resulting in a single award under the best value continuum using the trade-off process in accordance with RFO 15.103-1 to the responsible offeror whose proposal the source selection authority determines conforms to the solicitation, is fair and reasonable, and offers the best overall value to the government, considering non-priced factors described in the solicitation and price. The North American Industry Classification System (NAICS) Code is 236220, (Commercial and Institutional Building Construction), with a small business size standard of $45 million in average annual receipts. The estimated construction magnitude is over $1,000,000,000.  The estimated performance period for the pre-construction services phase is 820 calendar days from Notice to Proceed (NTP).Interested offerors must have an active registration in the System for Award Management (SAM). If the offeror is a Joint Venture (JV), the JV entity must have valid SAM registration in the SAM database representing the JV as one business/firm/entity. A Proposal Guarantee will be required with your proposal in the amount of 20% of the Offerors proposed price or $3,000,000, whichever is less. Payment and Performance Bonds will be required for the full amount (100%) of the awarded contract before the Notice to Proceed can be issued. Point of Contact: The point of contact for all questions/inquiries is Michael France at michael.g.france@usace.army.mil and David Walsh (Contracting Officer) at david.j.walsh@usace.army.mil. ",
-  "savedAt": "2026-11-16T12:29:03.147431+00:00"
+  "savedAt": "2026-11-16T12:29:03.147431+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912DQ26RA060&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "Y1DA",
+  "docs": "PIEE (not in repo)"
 }

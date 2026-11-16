@@ -16,25 +16,16 @@
       "phone": "(314)331-8089"
     }
   ],
-  "files": [
-    {
-      "name": "8a9d21dfda274b049cb2850544ccd994",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "af5e08025d484598a51b59928e184c43",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "11b84b40d4f64ceabae8d29b9f28ff51",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "75446223b93e472d97bf72fed1a344f9",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Operations Mechanical BPA ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912P927QA006&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "J030",
+  "docs": "PIEE (not in repo)"
 }

@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "3570ceaca25f40bd949c9dc957d5b223",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "7d0635cd7cd84f7eb2b27f12eb2c601d",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "5a4f6c38df3f435a80770090442bd6c2",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "cd71add0f960476ca4249a8f6940861f",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "This requirement is for hydraulic cutterhead pipeline dredges, trailing suction hopper dredges, and/or mechanical dredges with scows. Dredges must be capable of dredging to a depth of 30 feet and be complete with crew, management staff and support equipment including tugs and various other floating plants as would normally be expected to support a large dredging operation. The material type expected for this requirement will be maintenance material typical for Pensacola Entrance Channel composed of sand. Material dredged will be placed west of the Pensacola Entrance Channel along Perdido Key Beach.  ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9127827BA002&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1KF",
+  "docs": "PIEE (not in repo)"
 }

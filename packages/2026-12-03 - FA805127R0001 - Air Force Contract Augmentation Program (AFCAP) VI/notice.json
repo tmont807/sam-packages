@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "97ac6d81a44242ea97b9b22d54d62091",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "d2d52bf0db2b41a694c0ae3f4959b794",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "86979106e34c49569b0589014916b838",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "095a2fd6b17e4136aca0b4599ed776bc",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "The 772nd Enterprise Sourcing Squadron (772 ESS/PKD) is issuing this solicitation for the Air Force Contract Augmentation Program VI (AFCAP VI). This is a Multiple-Award Indefinite-Delivery/Indefinite-Quantity (IDIQ) contract designed to provide rapid, global contingency planning, logistics, and emergency construction capabilities to the Department of the Air Force, other DoD components, and Federal agencies. The AFCAP serves as a responsive, global force multiplier for commanders and Government agencies, supporting contingencies both within the contiguous United States (CONUS) and outside the contiguous United States (OCONUS).The AFCAP supports United States (U.S.) national interests and security objectives by providing rapid-response capabilities for contingency planning, deployment, training/equipping of forces, emergency/contingency construction, logistics/commodities, and services. These capabilities align with definitions in the DOD Dictionary of Military and Associated Terms. AFCAP provides a full range of Base Operating/Life Support (BOS/BLS) and logistical support on an as-required basis to support a wide spectrum of activities, including, but are not limited to: Major Theater War(s); Small Scale Contingencies; Irregular Warfare; responses to Violent Extremist Organizations (VEO); foreign assistance, developmental assistance, humanitarian assistance, and security assistance (including Foreign Military Sales); peacekeeping; counterinsurgency, counterdrug and counterterrorism operations; maritime security operations; recovery operations and denial measures; domestic/international emergency support; infrastructure/facility design/build, design/build/operate, demolition, and site restoration; deliberate and crisis action planning; and military exercises (including Joint Chiefs of Staff sponsored) authorized by the National Command Authority. ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=FA805127R0001&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "S216",
+  "docs": "PIEE (not in repo)"
 }

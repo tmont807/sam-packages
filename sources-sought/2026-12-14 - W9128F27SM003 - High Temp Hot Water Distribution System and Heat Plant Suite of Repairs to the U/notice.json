@@ -16,25 +16,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "0ed5e1b11a1d4c058674af9d23693ff7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "553fd497790d47eda42f33484ba3a319",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "930c08f772b9499992d92764d5da6824",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "be7bf9c040444a2ba934afc88598e570",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "sources_sought",
   "description": "High Temp Hot Water Distribution System and Heat Plant Suite of Repairs to the US Air Force Academy COLORADO SEE ATTACHED DOCUMENTS FOR COMPLETE AND MORE INFORMATION ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9128F27SM003&noticeType=SourcesSought",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Z2NB",
+  "docs": "PIEE (not in repo)"
 }

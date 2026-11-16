@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "27d460d7ab534753ad6a2c8c419343ec",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "16a02e11c1d344429c241ed607a95fe0",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "b217a40c372845e29b90b96bba5fff80",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "16554c23164d40aab7ec82bd1afd144e",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Heavy Equipment Transportation BPA for the 356 ETSG on Andersen AFB Guam ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=FA502527QA004&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "V129",
+  "docs": "PIEE (not in repo)"
 }

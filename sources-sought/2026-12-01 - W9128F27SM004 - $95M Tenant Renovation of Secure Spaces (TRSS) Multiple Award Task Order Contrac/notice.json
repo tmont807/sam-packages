@@ -16,25 +16,16 @@
       "phone": "4029952049"
     }
   ],
-  "files": [
-    {
-      "name": "ced3b918529a4a0e92adda894e6a55ec",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "afeaae30fd1449b0b0e7f832b2d49871",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "5e158f9cfec04424bcd26cb8f9c31b14",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "45a1004c1aac42109101f020ed2c6d2e",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "sources_sought",
   "description": "The U.S. Army Corps of Engineers (USACE), Omaha District (NWO) intends to pursue award of a $95M firm-fixed-price Tenant Renovation of Secure Spaces (TRSS) Multiple Award Task Order Contract (MATOC) to Defense Attache Office Renovation in support of the Defense Intelligence Agency (DIA) mission assignments OCONUS. The services are requested to meet the Defense Intelligence Agency (DIA) OCONUS specialized security upgrades in US facilities in support of a unique Defense Agency program. Project work is for overseas office renovation work in restricted core areas of facilities. Work includes secure material shipping to overseas locations from CONUS location, and restricted access requirements. On site work needs to be done by us citizens with top secret clearance. Please refer to the attached Sources Sought Notice for further details. ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9128F27SM004&noticeType=SourcesSought",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Z2AA",
+  "docs": "PIEE (not in repo)"
 }

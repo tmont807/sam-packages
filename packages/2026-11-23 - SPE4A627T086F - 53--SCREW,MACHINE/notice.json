@@ -16,13 +16,13 @@
       "phone": null
     }
   ],
-  "files": [
-    {
-      "name": "a249cbe37f114943a72136f6b6f6446a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Proposed procurement for NSN 5305014836299 SCREW,MACHINE:\nLine 0001 Qty 12005  UI EA  Deliver To: W1A8 DLA DISTRIBUTION By: 0161 DAYS ADO\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available.  Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
-  "savedAt": "2026-11-15T11:56:02.737302+00:00"
+  "savedAt": "2026-11-15T11:56:02.737302+00:00",
+  "links": [
+    "https://www.dibbs.bsm.dla.mil/rfq/rfqrec.aspx?sn=SPE4A627T086F"
+  ],
+  "psc": "53",
+  "docs": "DIBBS (not in repo)"
 }

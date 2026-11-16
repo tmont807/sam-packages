@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   fetch:
@@ -29,6 +30,7 @@ jobs:
       - name: Build website feed
         run: python build_feed.py || echo "feed build failed"
       - name: Save packages to the repo
+        if: always()
         run: |
           git config user.name "sam-package-bot"
           git config user.email "sam-package-bot@users.noreply.github.com"
@@ -53,3 +55,13 @@ jobs:
             git commit -m "Awards update $(date -u +%Y-%m-%d)"
             git pull --rebase && git push
           fi
+      - name: Alert on failure
+        if: failure() || cancelled()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          title="Daily SAM.gov run failed"
+          body="Run $(date -u +%Y-%m-%d) did not finish: $url"
+          n=$(gh issue list --state open --search "$title in:title" --json number -q '.[0].number')
+          if [ -n "$n" ]; then gh issue comment "$n" --body "$body"; else gh issue create --title "$title" --body "$body"; fi

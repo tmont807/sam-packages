@@ -173,25 +173,17 @@
     {
       "name": "Solicitation - W912WJ26RA008.pdf",
       "result": "21444 KB"
-    },
-    {
-      "name": "e45f94bc99584d99bb3187214554eaf0",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "8335639b0c24445da1d53c21bca8d75b",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ab03eacb3f164a168a7c74cb7f7a9763",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "c2083579d4ba4538989168157dac7e09",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
   "kind": "solicitation",
   "description": "The scope of the chilled water plant replacement consists of the demolition of the existing chilled water plant (building 16a) and construction of a new multi-story chilled water plant to include chillers, cooling towers, pumps, and all associated mechanical and electrical equipment.  Due to the close proximity of the existing fuel tank farm adjacent to the existing chilled water plant, a new fuel tank farm will need to be constructed as part of the project, which primarily serves the central boiler plant, requiring close coordination with the medical center and ongoing related projects.The scope of the site utility upgrades consists of the replacement and upgrade of the existing fire protection water main and the domestic water main from Campbell Avenue to Building 15.  Site utility upgrades also include providing utility main loops of chilled water supply and return, steam supply, condensate return, domestic water supply, and fire protection water supply which will originate from the new chilled water plant and back-feed to Building 1.  The work also includes the installation of redundant electrical feeder from the utility demarcation point to Building 19 and coordination with the local electrical utility provider to provide further electrical redundancy offsite as well.  In addition, new water storage tanks will be constructed. This project involves civil/site, mechanical, electrical, plumbing, structural, geotechnical, and architectural disciplines. The project must also comply with the DVAs Physical Security Resiliency Design Requirements (PSRDM).  It is expected that the chilled water plant will be constructed to meet USGBC LEED Silver certification.  The work is located adjacent to and within an active Medical Center campus which will be operational at all times.  Impact to on-going operations must be kept to a minimum and carefully coordinated with the Contracting Officer and VAMC staff.  In addition, the work area is constrained due to the active medical center operations which will limit laydown and storage areas during construction. ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912WJ26RA008&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "Y1NB",
+  "docs": "in_repo"
 }

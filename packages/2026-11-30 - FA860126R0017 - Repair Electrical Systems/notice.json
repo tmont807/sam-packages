@@ -16,25 +16,16 @@
       "phone": "1 385-633-5319"
     }
   ],
-  "files": [
-    {
-      "name": "0f126b0eaf494c108eea44e4ee05047b",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "b3b57a20b195424c84ebb8840263b60e",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "7a12da61d3e34c1cb50483a6ad47b8f7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "3f6dad4472db48c1acf08aefdb43b41a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "FA860127R0010 Amendment 0002 ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=FA860126R0017&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "J059",
+  "docs": "PIEE (not in repo)"
 }

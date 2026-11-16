@@ -16,25 +16,16 @@
       "phone": "3023267465"
     }
   ],
-  "files": [
-    {
-      "name": "0b21b22064be4ca29302e347eacbc43a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "64da9786f0a94b1cbaef9e60d82363e9",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "d7e6a87395d7438ea9fca0abeb7549c1",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "2dec184bd1ec4755b1ffd977b3d9edab",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "The contractor shall provide all subsistence, paper goods, sanitation supplies, and labor required to accomplish meal preparation and serving in accordance with this PWS. Contracted personnel will prepare meals at their facility, transport and serve prepared meals at Bethany Beach Training Site. The Meals will be prepared utilizing fresh ingredients, and menu may consist of Hot, Cold (Sandwich Meal) or both types of meals as Outlined in Technical Exhibit 1 Menu Minimums and Requirements. Emphasis should be placed on nutritional value. ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912L527QA101&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "S203",
+  "docs": "PIEE (not in repo)"
 }

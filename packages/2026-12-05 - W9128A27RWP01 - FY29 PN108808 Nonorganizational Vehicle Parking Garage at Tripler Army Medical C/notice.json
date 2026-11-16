@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "d339d975cdf24324b7fd6732b2a47a7a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "1a83692635dd4319b28492c2199cabd4",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "95fe568144964e79b6dcde4402ec882f",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "d64dcc164c06425692f1c88b09d431a7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "PROGRAM SOLICITATION: Progressive Design-Build under Other Transaction Authority, pursuant to 10 U.S.C. 2808a for the delivery of the FY29 PN108808 Nonorganizational Vehicle Parking Garage, Tripler Amry Medical Center (TAMC), HI. ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9128A27RWP01&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1LZ",
+  "docs": "PIEE (not in repo)"
 }

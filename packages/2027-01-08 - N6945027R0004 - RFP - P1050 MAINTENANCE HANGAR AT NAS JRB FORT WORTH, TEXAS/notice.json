@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "adccb6a2602540c291782a5f3ea98f72",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "f2ed675f230f489f913cadead937bce4",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "210bc44a2ac0495c8f39681b5458b609",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "a84fee2fd50b43e0a5fb3f6a3a425eae",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "P1050 MAINTENANCE HANGAR AT NAS JRB FORT WORTH, TEXAS ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=N6945027R0004&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Z2BZ",
+  "docs": "PIEE (not in repo)"
 }

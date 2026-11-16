@@ -16,25 +16,16 @@
       "phone": "5207062496"
     }
   ],
-  "files": [
-    {
-      "name": "e6bac64ca9fd478cbd8d839bb18d25ad",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "86a3cec86b114387b46c2c64bf4c5679",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "c851f447a8d64fddac4b621a2c01b935",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "f255677595c44a8b80549321a8c692c9",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Custodial Services, as defined in the PWS, for the 88th DPW at Army Reserve Facilities KS016 - Lawrence, KS and KS019 - Salina, KS. Base Period of 01/01/2027-12/31/2027 (or subsequent date) and four (4) 12-month option periods with an option to extend services for up to six (6) months.All documents including the solicitation, attachments, instructions and requirements for submitting a quote can be found in the PIEE links below. If there are any questions or issues with using the PIEE module, please reach out to the PIEE Help Desk at (866) 618-5988 ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W911SA27QA039&noticeType=CombinedSynopsisSolicitation",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "S201",
+  "docs": "PIEE (not in repo)"
 }

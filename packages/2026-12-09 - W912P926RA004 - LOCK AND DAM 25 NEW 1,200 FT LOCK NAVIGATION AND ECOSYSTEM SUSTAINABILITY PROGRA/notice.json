@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "bd50d7060811433fac1511d05dd03989",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "c0452e1500da413c8e1724a9f8ef8854",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "94abfe28c6a243b28790d247f66e40e8",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ba16f5f03e1d4ae0880c8f8e29699cd4",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "NESP LD25 1200 ft Lock --------- The new lock at Lock 25 will be constructed in the downstream direction in the auxiliary miter gate bay, which has minimum provisions for an adjacent 360-foot-long lock and is referred to as Location 3 in the System Feasibility Study (September 2004). This contract will consist of construction of a new 1,200-foot drilled shaft-founded lock in the auxiliary miter gate bay, a 1,200-foot upstream ported guard wall, and a 650-foot downstream guard wall. The existing 600-foot lock will remain in place and once the new lock is constructed and operational, will become an auxiliary lock chamber used primarily by recreation traffic or when the 1,200 ft lock is out of service. ------------  SEE ATTACHMENT FOR FULL DETAILS OF UPCOMING REQUIREMENT SOLICITATION. --------- Attachment 0004 Plans (Volume 1-7) and Attachment 0005 Navisworks Federated Model must be requested via email to Contract Specialist, Whitney Dee at whitney.r.dee@usace.army.mil. Upon request they will be sent via DoD SAFE, since the files are too large to attach within PIEE or send via email. ------ SEE UPDATE LABELED 0817 FOR FULL DETAILS OF UPCOMING PRE-PROPOSAL SITE VISIT.  -------------------- AMENDMENT 0001 provides updates in accordance with some of the ProjNet Bidder Inquiries and Government Responses posted through 31 August 2026.  Additional questions and answers and updates will be provided in forthcoming amendments. See all attachments for full details.-------------------- AMENDMENT 0002 provides updates in accordance with some of the ProjNet Bidder Inquiries and Government Responses posted through 15 September 2026.  Additional questions and answers and updates will be provided in forthcoming amendments. See all attachments for full details.-------------------- AMENDMENT 0003 provides updates in accordance with some of the ProjNet Bidder Inquiries and Government Responses posted through 5 October 2026.  Additional questions and answers and updates will be provided in forthcoming amendments. See all attachments for full details.-------------------- AMENDMENT 0004 provides updates in accordance with some of the ProjNet Bidder Inquiries and Government Responses posted through 20 October 2026.  Additional questions and answers and updates will be provided in forthcoming amendments. See all attachments for full details.-------------------- AMENDMENT 0005 extends the proposal due date to 10:00AM CST, Wednesday, December 9, 2026. See all attachments for full details..-------------------- AMENDMENT 0006 provides updates in accordance with the final set of ProjNet Bidder Inquiries and Government Responses. See all attachments for full details. ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912P926RA004&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "Y1PZ",
+  "docs": "PIEE (not in repo)"
 }

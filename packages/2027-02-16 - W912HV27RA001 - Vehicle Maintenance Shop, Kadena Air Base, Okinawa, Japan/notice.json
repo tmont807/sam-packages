@@ -25,25 +25,17 @@
     {
       "name": "W912HV27RA001 VMS site visit roster 2026-11-10.pdf",
       "result": "297 KB"
-    },
-    {
-      "name": "e60c39d856cb4b4baac075c7a3012a87",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "ca9733b19d5c4c12a4cb61cb605b63e9",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "5a2737ce7b4143669221c19f41b467f2",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "7ce8d5c5ef374b4e84d48606a57521f7",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
   "kind": "solicitation",
   "description": " This is a request for proposal (RFP) for the construction of a new vehicle maintenance shop and supporting facilities at Kadena Air Base, Okinawa, Japan. A firm-fixed price construction contract will be awarded based on a tradeoff source selection approach in which the non-price factors are approximately equal to the price factor. The work will include substantial earthworks, demolition of existing structures, and new construction. Please review all attachments. \n\n A site visit was held on 10 November 2026. The attendee sign-in sheet is attached. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912HV27RA001&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1AZ",
+  "docs": "in_repo"
 }

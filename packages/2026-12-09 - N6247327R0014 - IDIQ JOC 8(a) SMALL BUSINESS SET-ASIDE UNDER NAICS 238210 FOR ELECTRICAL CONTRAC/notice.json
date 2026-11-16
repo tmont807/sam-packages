@@ -16,21 +16,15 @@
       "phone": "N/A"
     }
   ],
-  "files": [
-    {
-      "name": "0e2dc3f0f9684b9cbade2d1371461b27",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "387bd763f9a9438582ccf887768d327e",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "b38da0b64ad044d49e1743142150acff",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Login at https://piee.eb.mil and search for 'N6247327R0014' to obtain more details.*",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Z2AZ",
+  "docs": "PIEE (not in repo)"
 }

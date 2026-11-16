@@ -16,13 +16,13 @@
       "phone": null
     }
   ],
-  "files": [
-    {
-      "name": "2212fbba96c9483bbf490ef97f4ec81d",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "Proposed procurement for NSN 5310012615229 WASHER,SHOULDERED AND:\nLine 0001 Qty 5044   UI EA  Deliver To: DLA DISTRIBUTION ANNISTON By: 0165 DAYS ADO\nApproved source is 62983 731178.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://www.dibbs.bsm.dla.mil/rfq/rfqrec.aspx?sn=SPE7M427T3024"
+  ],
+  "psc": "53",
+  "docs": "DIBBS (not in repo)"
 }

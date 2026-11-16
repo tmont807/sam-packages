@@ -29,5 +29,8 @@
   ],
   "kind": "solicitation",
   "description": " The government requires a contractor to provide support services for its learning management system, which consists of the MilLife Learning platform, maintained under a separate contract, and online learning environment https://millifelearning.militaryonesource.mil.&nbsp; The contractor shall support a portfolio of approximately 90&ndash;120 online courses, microlearning products, and related learning assets, including new development, updates, maintenance, third-party course support, reporting, accessibility review, and operational support as directed by the Government. The learning environment shall apply, at a minimum, evidence-based adult learning practices, including adult learning theory, Bloom&rsquo;s Taxonomy, Kirkpatrick&rsquo;s levels of evaluation, Merrill&rsquo;s principles of instruction, multimedia learning principles, and Human-Centered Design. The system includes the MilLife Learning platform, Student Information System, User Information System, Blackboard platform, and related tools that support course delivery, learner access, content management, reporting, analytics, communications, and operations. The contractor shall identify, develop, test, and implement AI-enabled tools, workflows, and technologies, as approved by the Government, to streamline operations, reduce duplication, improve productivity, achieve measurable cost savings and cost avoidance while ensuring all products remain accurate, current, accessible, secure, and compliant with applicable requirements. \n\n  \n",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [],
+  "psc": "DA01",
+  "docs": "in_repo"
 }

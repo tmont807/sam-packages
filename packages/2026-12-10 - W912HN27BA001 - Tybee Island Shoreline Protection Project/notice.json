@@ -21,25 +21,16 @@
       "phone": "9126525074"
     }
   ],
-  "files": [
-    {
-      "name": "d1abcb2cfee44050b2887c53452840d4",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "25d5850342d54d55b1174db8531e9fdd",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "54966bd20e904267a89ecbb30cc1518a",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "1dc9d7511c2548a589db5acfb5e2e8cd",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": " This solicitation is for the Tybee Island Shoreline Protection Project. This acquisition is being offered as an unrestricted full and open competitive solicitation and will result in a single Firm Fixed- Price Contract Award. The construction magnitude for this project is between $10,000,000.00 and $25,000,000.00. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912HN27BA001&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Z1KF",
+  "docs": "PIEE (not in repo)"
 }

@@ -16,25 +16,16 @@
       "phone": "4109624978"
     }
   ],
-  "files": [
-    {
-      "name": "e8292340f7b142b2b68c9b9ae5f07ee0",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "bd4a1adb93564a9a826959510de166b6",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "9769c7a0e71d4d1e97adce6df82bd4ac",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "3261ef6f672c42ada5cea57d46df5ba0",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "sources_sought",
   "description": "This is a sources sought notice ONLY. This is not a request for proposals, quotations or bids. There will not be a solicitation, specifications or drawings available at this time. No contract will be awarded from this notice. Responses to this notice are not offers and cannot be accepted by the Government to form a binding contract. The Government will not reimburse respondents for any costs incurred in preparing or submitting responses to this Sources Sought Notice. ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912DR27H1CWY&noticeType=SourcesSought",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1PZ",
+  "docs": "PIEE (not in repo)"
 }

@@ -21,25 +21,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "14c8e49716a54a3693d223409373f902",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "58f53be15bb6498aadb483c2d569cd59",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "fc29f7af4480438b8deb0e03f6e5b1d8",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "588dd44713874a5b8966d4918377619b",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "sources_sought",
   "description": "The U.S. Army Corps of Engineers (USACE), CHARLESTON District, is requesting market intelligence information to identify qualified industry partners capable of supporting a potential Repair and Replace, Design Build to Budget, Other Transaction (OT) Agreement under 10 U.S.C. 2808a for the stated Fort Jackson Barracks Replacement, Columbia, SC. See attachments.  ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912HP279A001&noticeType=SourcesSought",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1FC",
+  "docs": "PIEE (not in repo)"
 }

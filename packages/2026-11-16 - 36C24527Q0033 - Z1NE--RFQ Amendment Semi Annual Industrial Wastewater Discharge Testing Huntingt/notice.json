@@ -40,11 +40,12 @@
     {
       "name": "36C24527Q0033_1.docx",
       "result": "23 KB"
-    },
-    {
-      "name": "1b6a3b5c183d420198bbb6866f9c5f83",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "savedAt": "2026-11-07T00:57:50.718000+00:00",
+  "links": [
+    "https://www.va.gov/huntington-health-care/"
+  ],
+  "psc": "Z1NE",
+  "docs": "in_repo"
 }

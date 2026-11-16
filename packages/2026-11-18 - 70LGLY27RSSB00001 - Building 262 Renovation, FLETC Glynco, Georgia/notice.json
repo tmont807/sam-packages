@@ -24,11 +24,11 @@
   "files": [
     {
       "name": "RFI 04 70LGLY27RSSB00001 Building 262 Renovation.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 001 Statement of Work Building 262 Renovation 70LGLY27RSSB00001 AMD 0005.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "70LGLY27RSSB00001 Amendment 0005 Request for Proposal Building 262 Renovation.pdf",
@@ -36,15 +36,15 @@
     },
     {
       "name": "Att 001 Statement of Work and Specifications Building 262 Renovation 70LGLY27RSSB00001 AMD 0004.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "RFI 03 70LGLY27RSSB00001 Building 262 Renovation Amendment 0004.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "RFI 02 70LGLY27RSSB00001 Building 262 Renovation Corrections Amendment 0004.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "70LGLY27RSSB00001 Amendment 0004 Request for Proposal Building 262 Renovation.pdf",
@@ -60,11 +60,11 @@
     },
     {
       "name": "CADD and PDF Drawings AMD 0002.zip",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Building 262 Photos 70LGLY27RSSB00001.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Site Visit Sign-In Sheet 70LGLY27RSSB00001 Building 262 Renovation.pdf",
@@ -72,15 +72,15 @@
     },
     {
       "name": "Att 001 Statement of Work and Specifications Building 262 Renovation 70LGLY27RSSB00001 AMD 0002.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "RFI 01 70LGLY27RSSB00001 Building 262 Renovation.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Exhibit A - Proposal Breakdown.xls",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "70LGLY27RSSB00001 Amendment 0002 Request for Proposal Building 262 Renovation.pdf",
@@ -100,43 +100,43 @@
     },
     {
       "name": "Att 001 Statement of Work and Specifications Building 262 Renovation 70LGLY27RSSB00001.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 002 SF25 Performance Bonds.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 003 SF 25A Payment bonds -.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 004 SF28 Affidavit of Individual Surety - Copy - Copy.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 005 Format ILC -.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 006 Format FIN INST ILC CONFIRM - Copy.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 007 FMD_70 - Copy.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 008 Instructions for Completing WH-347 - Copy.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 009 WH 347 Wage and Hour Division - Copy.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 010 FMD_42 - Copy.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 011 DHS 11000-6 Non-Disclosure Agreement - Copy.pdf",
@@ -144,23 +144,23 @@
     },
     {
       "name": "Att 013 USCIS Form I-9 Instructions for Employment.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 014 Eligibility Verification Form.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 015 Questionnaire for Non-Sensitive Positions.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 016 Security Handout.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 017 Security Training List.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 018 Wage Determination GA20260315 05182026.pdf",
@@ -168,34 +168,37 @@
     },
     {
       "name": "Att 019 Statement and Acknowledgment.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 020 SF1444 Request for Authorization of Additional Classification and Rate.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 022 SF LLL Disclosure of Lobbying Activities.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 023 Financial Questionnaire.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 024 700-3 Contractor Release Form.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 025 WH DOL Poster.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Att 026 Past Performance Questionnaire.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     }
   ],
   "kind": "solicitation",
   "description": "  ***To obtain access to the controlled documents in SAM.gov, complete Attachment 11, Non-Disclosure Agreement and return to the Contracting Officer (Brett Zeigler, brett.zeigler@fletc.dhs.gov) then request access to the controlled documents in SAM.gov***  \n\n  Amendment 0005:&nbsp;&nbsp; The purpose of this amendment is to provide final responses to questions submitted. Request for \nInformation 04 is provided as an attachment. Proposal due date and time is unchanged; November 18, 2026 11:00 a.m. Eastern Time. \n\n  Amendment 0004:&nbsp; The purpose of this amendment is to provide responses to questions submitted. Request for \nInformation 03 is provided as an attachment. Request for Information 02 required corrections and is provided with Amendment 0004. \n\n  Amendment 0003:&nbsp; The purpose of this amendment is to extend the proposal due date (11-18-2026, 11:00 AM ET), set the final date for submitting questions (11-06-2026, 5:00 PM ET), and provide responses to questions submitted. Request for Information 02 is provided as an attachment, updates are highlight yellow. \n\n  Amendment 0002:&nbsp; The purpose of this amendment is to provide responses to questions submitted, post the site-visit sign-in sheet, provide photos, provide drawings, and update the statement of work and specifcations.&nbsp; \n\n  Amendment 0001:&nbsp; The purpose of this amendment is to clarify the date of the site visit (October 22, 2026), period of performance, and due date for submitting questions. \n\n This Request for Proposal will result in a Single Firm Fixed Price Contract Award for Building 262 Renovation on the Federal Law Enforcement Training Center Glynco, GA. \n\n This acquisition is a 100% Small Business Set-Aside, under North American Industry Classification Systems (NAICS) Code 236220, Commercial and Institutional Building Construction. \n\n A site visit is scheduled for October 22, 2026, at 9:00am at FLETC Glynco Building 200. Upon arrival, attendees should report to the commercial gate a minimum of 30 minutes prior to the application screening process, then proceed to Building 200. All personnel who are not currently badged will need to complete and return Day Pass applications for all attendees no later than October 20, 2026, at 5:00pm to the attention of Project Manager, Richard Love at richard.love@fletc.dhs.gov. Please coordinate receipt of badge applications and submission with Mr. Love. \n\n Complete Attachment 11, Non-Disclosure Agreement and return to the attention of the Contracting Officer.&nbsp; The completed NDA is requierd to obtain access to controlled documents in SAM. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [],
+  "psc": "Z2AA",
+  "docs": "in_repo"
 }

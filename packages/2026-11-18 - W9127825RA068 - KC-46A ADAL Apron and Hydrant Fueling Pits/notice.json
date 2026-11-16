@@ -16,25 +16,16 @@
       "phone": ""
     }
   ],
-  "files": [
-    {
-      "name": "368caedd37034d4eb188624d217045e7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "08bac0ce12e4484e821d840f0c6422ba",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "c2189a7948524bf4a1aaeb9443a9490d",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "fd1f04967ff643ffb183d19aa8cb0315",
-      "result": "failed: HTTP Error 400: Bad Request"
-    }
-  ],
+  "files": [],
   "kind": "solicitation",
   "description": "AM04** KC-46A ADAL Apron and Hydrant Fueling Pits at MacDill AFB, FL ",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W9127825RA068&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://dodprocurementtoolbox.com/"
+  ],
+  "psc": "Z2BD",
+  "docs": "PIEE (not in repo)"
 }

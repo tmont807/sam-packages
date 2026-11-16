@@ -25,25 +25,17 @@
     {
       "name": "Site Visit sign in sheet 10NOV2026.pdf",
       "result": "415 KB"
-    },
-    {
-      "name": "7b772f7f8c194197ba7c7cdafa16e03f",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "705a2d1b4a174d79aeac1a98d6e9b1f7",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "200c376430e2400c811692d23b858345",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "e473a2f478814a368d2bc394547465b0",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
   "kind": "solicitation",
   "description": "Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP) 11, Package 9, Segment 4 Boggy Bayou to Sims Bayou located in Harris County, Texas ",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "savedAt": "2026-11-13T12:07:20.614837+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912HY27RA001&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1KF",
+  "docs": "in_repo"
 }

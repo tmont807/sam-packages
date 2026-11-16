@@ -60,25 +60,17 @@
     {
       "name": "Geotechnical_Report_ATCH_CSO.pdf",
       "result": "5012 KB"
-    },
-    {
-      "name": "8f18c6533346479db2f9d62758b41926",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "07ed9869210e42c59fabece7afd39938",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "a37f92f33f9a401eb02e80828df2e4bd",
-      "result": "failed: HTTP Error 400: Bad Request"
-    },
-    {
-      "name": "958de26e812e4e508e7108b03e54063e",
-      "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
   "kind": "solicitation",
   "description": "The purpose of this amendment is to amend the Specifications SECTION 33 40 00 Paragraph 1.2  and Paragraph 3.1, and Section 03 42 13.00 10 Paragraph 3.3.3 (attached).The U.S. Army Corps of Engineers, Kansas City District, Intends to issue an invitation for bid (IFB) solicitation for construction activities for storm sewer separation and improvements. The work covered by this contract consists of furnishing all equipment, labor, operators, supervision/ site superintendent, quality control, supplies, materials, and incidentals necessary to satisfactorily perform related work, including pavement, sidewalk, driveway, and parkway restoration. RTA Plans and Specs have been included as separate attachments. * The Supplemental Bid Schedule Attachment has been added.  ",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-14T11:53:34.136472+00:00",
+  "links": [
+    "https://piee.eb.mil/sol/xhtml/unauth/search/oppMgmtLink.xhtml?noticeId=W912DQ27BA002&noticeType=SolicitationNotice",
+    "https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/index.xhtml",
+    "https://www.acq.osd.mil/asda/dpc/ce/cap/docs/piee/PIEE_Solicitation_Module_Vendor_Access_Instructions.pdf",
+    "https://toolbox-piee.eb.mil/"
+  ],
+  "psc": "Y1PZ",
+  "docs": "in_repo"
 }

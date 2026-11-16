@@ -28,11 +28,11 @@
     },
     {
       "name": "10-22431_81205_2D Drawing_C.zip",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "EDL.pdf",
-      "result": "failed: HTTP Error 401: Unauthorized"
+      "result": "restricted: request access on SAM.gov"
     },
     {
       "name": "Item Description.pdf",
@@ -57,5 +57,8 @@
   ],
   "kind": "solicitation",
   "description": " The government is procuring 11 magnetic contactors with the following information: \n\n NSN:6110-01-043-2504 \n\n PN:22792.16-1 \n\n FOB: Origin - include shipping costs \n\n Need Date: December 31, 2026 \n\n No First Article or other Data required \n\n CMMC Level 2 Self Certification is required for manufactures AND distributors involved. JCP certification is required to see the TDP.&nbsp; \n\n Please email Rannon Chapman and David Sanders of a valid quote or a completed SF1449 and have the information be valid for 60 days.- rannon.chapman@us.af.mil&nbsp; &nbsp;david.sanders.41@us.af.mil \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-10T22:46:42.615094+00:00",
+  "links": [],
+  "psc": "6110",
+  "docs": "in_repo"
 }
