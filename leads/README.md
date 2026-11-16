@@ -61,6 +61,14 @@ Sending advice:
 
 ## 4. Track
 
+Replies are handled by `/brief` in Claude: it searches Gmail for mail from every company you
+emailed (by domain, so a coworker's reply counts), then runs `leads/replies.py`, which marks
+replies, honors opt-outs ("remove", "unsubscribe", "not interested"), marks bounces, and ignores
+out-of-office auto replies. Replies must reach the connected Gmail, so either send from it or
+forward the sending inbox to it.
+
+By hand:
+
 ```
 python leads/outreach.py mark kansas-city-mo n123456 replied "wants janitorial quote, 3 buildings"
 python leads/outreach.py optout someone@business.com     # every list, forever

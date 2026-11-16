@@ -24,6 +24,7 @@
    "zip": "65746",
    "st": "MO",
    "small": true,
+   "nonprofit": false,
    "certs": [
     "WOSB"
    ],
@@ -51,6 +52,7 @@
    "zip": "65401",
    "st": "MO",
    "small": true,
+   "nonprofit": false,
    "certs": [
     "WOSB"
    ],
@@ -75,6 +77,7 @@
    "zip": "63116",
    "st": "MO",
    "small": true,
+   "nonprofit": false,
    "certs": [],
    "score": 60
   },
@@ -97,55 +100,8 @@
    "zip": "64761",
    "st": "MO",
    "small": true,
+   "nonprofit": false,
    "certs": [],
-   "score": 55
-  },
-  {
-   "name": "Henson Trash Service Inc",
-   "uei": "QX8LED7CV167",
-   "rid": "5c3ebffd-f3dd-7219-13f0-da4fdbe065cc-C",
-   "awards": 2,
-   "total": 291200.0,
-   "last": "2026-08-14",
-   "zips": [
-    "63957"
-   ],
-   "agencies": [
-    "Department of the Army"
-   ],
-   "example": "5-YEAR FIRM FIXED PRICE SERVICE CONTRACT TO PROVIDE SLUDGE REMOVAL AT CLEARWATER PROJECT O",
-   "address": "10 SUGAR CREEK RD, PIEDMONT, MO, 63957",
-   "city": "Piedmont",
-   "zip": "63957",
-   "st": "MO",
-   "small": true,
-   "certs": [],
-   "score": 55
-  },
-  {
-   "name": "S & S Pumping, Inc.",
-   "uei": "FZ9RL5KV2LK3",
-   "rid": "3f66a00b-36fa-19d2-bd54-0e77bda21685-C",
-   "awards": 2,
-   "total": 309700.0,
-   "last": "2026-09-30",
-   "zips": [
-    "65616"
-   ],
-   "agencies": [
-    "Department of the Army"
-   ],
-   "example": "LIQUID WASTE PUMPING AND DISPOSAL SERVICES FOR TABLE ROCK PROJECT.",
-   "address": "437 ARGO LN, BILLINGS, MO, 65610",
-   "city": "Billings",
-   "zip": "65610",
-   "st": "MO",
-   "small": true,
-   "certs": [
-    "SDVOSB",
-    "WOSB",
-    "VOSB"
-   ],
    "score": 55
   }
  ]

@@ -29,6 +29,23 @@ too big to sub, firms based out of state, and certifications (SDVOSB, WOSB, HUBZ
 certified sub is also a teaming partner for set-asides Projexian cannot bid alone. Each firm gets
 a link to its SAM.gov page for points of contact. Results save to `bid-desk/subs/`.
 
+For commercial jobs, search by service and city instead of a solicitation:
+
+```
+python bid-desk/sub_finder.py --service janitorial --city "Kansas City" --state MO
+python bid-desk/sub_finder.py --service grease --city Denver --state CO    # widens to the state if the city has none
+```
+
+This finds companies based in that city with federal awards for that kind of work. Nonprofit
+workshops (AbilityOne) are flagged and ranked last, since they don't take subcontract work.
+
+## Daily summary
+
+Type `/brief` in Claude. It checks Gmail for prospect replies (marking replies, opt-outs and
+bounces), then summarizes replies waiting on you, deadlines, the best new federal bids and the
+commercial pipeline, with up to three things to do today. `python bid-desk/brief.py` prints the
+raw data.
+
 Partial solicitation numbers work (`show Q0009`) when they match one package.
 
 ## How the score works (0-100)

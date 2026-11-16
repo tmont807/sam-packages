@@ -1,0 +1,159 @@
+{
+ "service": "janitorial",
+ "naics": "561720",
+ "city": "Kansas City",
+ "state": "MO",
+ "found": "2026-11-16",
+ "firms": [
+  {
+   "name": "Leyva Joanna Parra",
+   "uei": "KH12TC7LB5N1",
+   "rid": "24142774-64ba-1097-2a52-bf49c134f224-C",
+   "awards": 3,
+   "total": 55814.8,
+   "last": "2026-03-31",
+   "zips": [
+    "63120",
+    "64114",
+    "64139"
+   ],
+   "agencies": [
+    "Office of the Chief Financial Officer",
+    "Public Buildings Service"
+   ],
+   "example": "SNOW REMOVAL SERVICES AT WARD PARKWAY, KANSAS CITY MO",
+   "address": "15915 E 77TH TER, KANSAS CITY, MO, 64139",
+   "city": "Kansas City",
+   "zip": "64139",
+   "st": "MO",
+   "small": true,
+   "nonprofit": false,
+   "certs": [
+    "WOSB",
+    "8(a)"
+   ],
+   "score": 75
+  },
+  {
+   "name": "Journey Steel Inc",
+   "uei": "VELAFZADHFW6",
+   "rid": "ba707d3a-7675-37d3-4931-711aaf1f0808-C",
+   "awards": 1,
+   "total": 114485.0,
+   "last": "2026-06-10",
+   "zips": [
+    "66027"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "INTERIOR AND EXTERIOR WINDOW CLEANING",
+   "address": "2734 CHERRY ST, KANSAS CITY, MO, 64108",
+   "city": "Kansas City",
+   "zip": "64108",
+   "st": "MO",
+   "small": true,
+   "nonprofit": false,
+   "certs": [
+    "WOSB",
+    "8(a)"
+   ],
+   "score": 65
+  },
+  {
+   "name": "Eve J & S Cleaning And Coating, Llc",
+   "uei": "GH3ME5DYPWR3",
+   "rid": "3951a104-c857-e943-2f98-ad34eadf74b5-C",
+   "awards": 1,
+   "total": 196377.83,
+   "last": "2026-03-31",
+   "zips": [
+    "64089"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "BASE AND TWO OPTION YEARS (3) - LITTER COLLECTION AT SMITHVILLE, AND JANITORIAL AT SMITHVI",
+   "address": "4809 N BELLAIRE AVE, KANSAS CITY, MO, 64119",
+   "city": "Kansas City",
+   "zip": "64119",
+   "st": "MO",
+   "small": true,
+   "nonprofit": false,
+   "certs": [],
+   "score": 65
+  },
+  {
+   "name": "Cockrum, Charles R",
+   "uei": "CYQ5PGUYVVM5",
+   "rid": "9964fd1c-b523-6a82-adef-6417e393debf-C",
+   "awards": 2,
+   "total": 123573.8,
+   "last": "2022-03-31",
+   "zips": [
+    "64089",
+    "64134"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "IGF::OT::IGF LONGVIEW LAKE JANITORIAL SERVICE FOR USACE OFFICES.",
+   "address": "25843 KINGS RIVER RD, SHELL KNOB, MO, 65747",
+   "city": "Shell Knob",
+   "zip": "65747",
+   "st": "MO",
+   "small": true,
+   "nonprofit": false,
+   "certs": [],
+   "score": 40
+  },
+  {
+   "name": "Goodwill Of Western Missouri And Eastern Kansas",
+   "uei": "QCMLAJKQWA74",
+   "rid": "2e3a37aa-3d31-2cb5-5bb6-27a07b8d1735-C",
+   "awards": 1,
+   "total": 68257.86,
+   "last": "2026-12-13",
+   "zips": [
+    "66027"
+   ],
+   "agencies": [
+    "Department of the Army"
+   ],
+   "example": "JANITORIAL SERVICES-BASE YEAR. JANITORIAL SERVICES FOR FORT LEAVENWORTH, KS, BUILDING 234.",
+   "address": "800 E 18TH ST, KANSAS CITY, MO, 64108",
+   "city": "Kansas City",
+   "zip": "64108",
+   "st": "MO",
+   "small": false,
+   "nonprofit": true,
+   "certs": [],
+   "score": -20
+  },
+  {
+   "name": "The Helping Hand Of Goodwill Industries Extended Employment Sheltered Workshop",
+   "uei": "F8ZJQN5BF173",
+   "rid": "209b06b6-81a5-b6e1-d65e-70f40afc6c53-C",
+   "awards": 79,
+   "total": 19289045.080000002,
+   "last": "2027-09-30",
+   "zips": [
+    "64106",
+    "66027"
+   ],
+   "agencies": [
+    "Department of the Army",
+    "Public Buildings Service"
+   ],
+   "example": "CUSTODIAL - GARRISON FLOOR, CARPET, ON-CALL 1 JUL 2026-30 SEP 2027",
+   "address": "800 E 18TH ST, KANSAS CITY, MO, 64108",
+   "city": "Kansas City",
+   "zip": "64108",
+   "st": "MO",
+   "small": false,
+   "nonprofit": true,
+   "certs": [],
+   "score": -25
+  }
+ ]
+}
