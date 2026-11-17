@@ -1,5 +1,5 @@
 {
-  "noticeId": "ee094a05a75441fe83f1ae98416fd98a",
+  "noticeId": "0c6976fa45ef4784b85d5abdb17cf525",
   "solicitationNumber": "1240BE27Q0018",
   "title": "Santee Lab HVAC Replacement",
   "naics": "238220",
@@ -18,12 +18,16 @@
   ],
   "files": [
     {
-      "name": "C04_Sol_1240BE27Q0018_CSS_Commerical Products and Services_Final.pdf",
-      "result": "327 KB"
+      "name": "C04_Sol_1240BE27Q0018_CSS_Commerical Products and Services_Amd 1.pdf",
+      "result": "329 KB"
     },
     {
-      "name": "C04_Statement of Work.pdf",
-      "result": "834 KB"
+      "name": "C05_Sol_1240BE27Q0018_Amd_0001.pdf",
+      "result": "82 KB"
+    },
+    {
+      "name": "C04_Statement of Work Rev 2.pdf",
+      "result": "860 KB"
     },
     {
       "name": "C04_Schedule of Items.pdf",
@@ -35,6 +39,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Solicitation number 1240BE27Q0018 is issued as a Request for Quotation (RFQ) for the replacement of an existing 3-ton packaged heat pump system with a new, high efficiency ENERGY STAR certified unit that also satisfies FEMP federal purchasing requirements for energy consuming products. The unit serves the Laboratory at the Santee Experimental Forest located at 3734 SC-402, Cordesville, SC 29434. \n\n Please see attached solicitation and supporting documents for a full description of the requirement. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "description": " Solicitation number 1240BE27Q0018 is issued as a Request for Quotation (RFQ) for the replacement of an existing 3-ton packaged heat pump system with a new, high efficiency ENERGY STAR certified unit that also satisfies FEMP federal purchasing requirements for energy consuming products. The unit serves the Laboratory at the Santee Experimental Forest located at 3734 SC-402, Cordesville, SC 29434. \n\n Please see attached solicitation and supporting documents for a full description of the requirement. \n\n  Amendment P00001:  \n\n The purpose of this amendment is to remove conflicting statements in section 4.1 of the Statement of Work. \nThis amendment adds site visit contact information in section 9.0 of the Statement of Work. \nRevised contact information has been added to pages 10 and 11 of the combined synopsis solicitation. \n",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
 }

@@ -1,0 +1,45 @@
+{
+  "noticeId": "d20bf6cbcd0545d0bed083d5904eca1f",
+  "solicitationNumber": "W9124D27QA008",
+  "title": "USMEPCOM X-ray Maintenance, Repair, and Training Services",
+  "naics": "811210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-01T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > MISSION & INSTALLATION CONTRACTING COMMAND > FDO SAM HOUSTON > W6QM MICC-FT KNOX",
+  "contacts": [
+    {
+      "name": "Adam Buchert",
+      "email": "adam.p.buchert.civ@army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Katie Paben ",
+      "email": "katie.e.paben.civ@army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "491f12b597dd44deb7f6c1b57cab0e11",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c4c812fe558b4b46974d0210c95d293c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5c5483d37be54139bec23ec8a54dee92",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "52e34bd825ec42e8b78dfa22f137bc82",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This requirement is for X-ray scanner maintenance, repair, and training services for the United States Military Entrance Processing Command (USMEPCOM). Please review the attached RFQ, PWS, and other attachments for more information.  Update 0001: Extends closing date/time to 10:00 AM ET on 01 December 2026. Responses to industry questions and a formal amendment are forthcoming.  ",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+}

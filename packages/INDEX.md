@@ -463,3 +463,70 @@
 | 2026-12-04 | W912DQ26RA060 | Veterans Affairs St. Louis Health Care System (VASTLHCS) John Cochran  |  | Unrestricted | 4 |
 | 2026-11-30 | N0010427QXA12 | DIAPHRAM, PRIMARY |  | Unrestricted | 2 |
 | 2030-09-30 | FA9101-26-9-Velocity_Alliance | Request for Whitepapers AEDC Velocity Alliance - A Multi-Billion Dolla |  | Unrestricted | 48 |
+
+## 2026-11-17
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-14 |  1605C3-27-R-00003 | OWCP - Employment Verification Services | Washington, DC | NONE | 4 |
+| 2026-11-27 | 1284LM27Q0007 | Haycamp Common Stand Exam Service Contract | CO | SBA | 14 |
+| 2026-11-30 | 140FF027Q0084 | Invasive plant Control, Okeechobee NWR, FL |  | SBA | 5 |
+| 2026-12-05 | W9128A27RWP01 | FY29 PN108808 Nonorganizational Vehicle Parking Garage at Tripler Army |  | Unrestricted | 4 |
+| 2026-11-24 | N4008526R0178 | P084 NEXT GENERATION TORPEDO INTEGRATION LAB, NAVAL STATION NEWPORT, N | Newport, RI | Unrestricted | 40 |
+| 2026-12-02 | 70LGLY27RSSB00001 | Building 262 Renovation, FLETC Glynco, Georgia | GA | SBA | 44 |
+| 2026-11-24 | 36C24227B0004 | Z1DA--Project # 528A6-26-607 Replace Flooring for Rm. 140 B76 Bath VAM |  | Unrestricted | 10 |
+| 2026-12-04 | N4008527R9006 | NH100 Engine Control Unit Replacement | Camp Lejeune, NC | SBA | 4 |
+| 2026-11-25 | 127EAX26Q0069 | Barillas Peak & Encino Vista Lookout Tower Restoration, Santa Fe NF | Santa Fe, NM | SBA | 24 |
+| 2026-12-03 | 36C24927B0002 | Z2LZ--626-25-104 Garage Suicide Protection |  | Unrestricted | 7 |
+| 2026-12-03 | 36C24927B0002 | Z2LZ--626-25-104 Garage Suicide Protection |  | Unrestricted | 7 |
+| 2026-11-30 | 6973GH-27-R-00005 | Mike Monroney Aeronautical Center (MMAC) Industrial Waste Water Treatm | Oklahoma City, OK | SBA | 19 |
+| 2027-01-25 | 140RR027B0004 | Y--NGWSP Cutter Lateral Reach 21 Booster Plant |  | SBA | 15 |
+| 2026-12-14 | 12445527Q0008 | Whiteface Campground Well Replacement | Makinen, MN | SBA | 4 |
+| 2026-11-27 | 140FF027Q0077 | 56--AL-WHEELER NWR-WATERMAN GATE |  | Unrestricted | 4 |
+| 2026-12-16 | W9127N27BA005 | W9127N27BA005 Foster Spillway Gate Nut Replacements and Re-Tensioning |  | SBA | 4 |
+| 2026-12-10 | W911XK27BA006 | Great Lakes Restoration Initiative (GLRI) Monguagon Creek Upper Trento |  | SBA | 4 |
+| 2026-12-05 | W9127825RA068 | KC-46A ADAL Apron and Hydrant Fueling Pits |  | Unrestricted | 4 |
+| 2026-12-17 | W912HP27BA002 | FY27 AIWW Shoreline Protection |  | SBA | 4 |
+| 2026-12-07 | W912PM27BA002 | Calcasieu Bar River Channel, Pascagoula Harbor, and Panama City Harbor |  | Unrestricted | 4 |
+| 2026-11-30 | W15QKN27QA011 | BPAs for Conference Rooms and Audio Visual Systems | Picatinny Arsenal, NJ | SBA | 5 |
+| 2026-12-09 | SP330027Q0012 | Electric Power Resiliency Building 56 |  | SBA | 4 |
+| 2026-12-02 | 36C24227R0008 | Z1DA--NRM CONST - 528A7-18-707 - Replace Boiler Stack Rome CBOC |  | Unrestricted | 9 |
+| 2026-11-24 | 1240BE27Q0018 | Santee Lab HVAC Replacement | Cordesville, SC | SBA | 5 |
+| 2026-12-04 | 140FF027Q0082 | NC ALLIGATOR RIVER NWR HVAC PM Option Yr Contract |  | SBA | 5 |
+| 2026-12-07 | 7-B187-P-00016-00 | On-Site Industrial Services | Lemont, IL | Unrestricted | 9 |
+| 2026-12-15 | 89503511102026 | SEPA PARKING LOT REPAVING AND REPAIRS | Elberton, GA | NONE | 9 |
+| 2026-12-01 | SPE4A627U0230 | 53--NUT,SELF-LOCKING,EXTEN |  | SBA | 1 |
+| 2026-12-01 | SPE4A627U0229 | 53--SCREW,PANEL FASTENER |  | SBA | 1 |
+| 2026-11-27 | SPE7L327T2718 | 53--SEAL,PLAIN |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7M827T0802 | 53--BOLT BLANK |  | Unrestricted | 1 |
+| 2026-11-30 | SPMYM327Q4011 | Hardware | Kittery, ME | SBA | 4 |
+| 2026-11-27 | SPE7L327T2693 | 53--PACKING ASSEMBLY |  | Unrestricted | 1 |
+| 2026-11-25 | SPMYM327Q5008 | Screws | Kittery, ME | SBA | 14 |
+| 2026-12-01 | SPE7M127U1495 | 66--TRANSDUCER,MOTIONAL PI |  | Unrestricted | 1 |
+| 2026-11-25 | N0016727Q1010 | Peel 3 3D Scanners and Software BPA |  | SBA | 4 |
+| 2026-11-27 | SPE7L727T0672 | 61--BATTERY,STORAGE |  | Unrestricted | 1 |
+| 2026-11-27 | SPE7L727T0662 | 61--BATTERY,STORAGE |  | Unrestricted | 1 |
+| 2026-12-02 | 697DCK-27-R-00022A | Design Renovation, System Support Center (SSC), 3551 Combine St., Paso | Paso Robles, CA | SBA | 9 |
+| 2026-12-18 | N6600127R3500 | N6600127R3500 ISEA NEN |  | SBA | 4 |
+| 2027-01-30 | 19AQMM24R0113 | Next Generation (NextGen) Passport Personalization Printers Support | Washington, DC | Unrestricted | 22 |
+| 2026-12-01 | W912DS27BA003 | Solicitation for IDIQ Contract for Biology Testing of DM |  | Unrestricted | 4 |
+| 2026-12-14 | 34359RFQ270000002 | US COAST GUARD NSFCC CONFINED SPACE TRAINING | Mobile, AL | SBA | 1 |
+| 2026-11-30 | W900KK-26-R-A023 | Combined Synopsis Solicitation for Commercial Items Agile Professional | Orlando, FL | SBA | 21 |
+| 2026-11-27 | 12444527Q0004 | Shawnee National Forest Wildlife and Rodent Shield Installation | Vienna, IL | SBA | 5 |
+| 2026-12-09 | 140LL027Q0009 | BLM Utah - Paria River District HQ Janitorial |  | SBA | 8 |
+| 2026-11-30 | 1305M327Q0056 | Janitorial Services Wichita, KS |  | Unrestricted | 1 |
+| 2026-11-30 | 1305M327Q0049 | S--Janitorial Services Rapid City, SD |  | Unrestricted | 2 |
+| 2026-11-30 | 124PSA27Q0037 | Janitorial Services for Edinburg, TX | Edinburg, TX | Unrestricted | 4 |
+| 2026-12-01 | 140L3926Q0031 | S--CFO JANITORIAL SERVICES (5 YEAR) |  | SBA | 10 |
+| 2026-12-09 | W9123727QA006 | W9123727QA006 Bluestone Mowing and Maintenance IDIQ 2027-2031 |  | SBA | 4 |
+| 2026-12-04 | W9123727QA008 | JWF NFP Maintenance Service 2027 - 2031 |  | SBA | 4 |
+| 2026-11-27 | 140LL027Q0029 | WHB ADOPTION OFFICE-BLACKWATER CLEANUP |  | SBA | 2 |
+| 2026-11-25 | 1305M327Q0046 | Snow Removal Services Chicago, IL |  | Unrestricted | 3 |
+| 2026-12-01 | 36C24827Q0071 | S205--FY27 Solid Waste Collection Services |  | Unrestricted | 1 |
+| 2026-11-27 | 36C24227R0010 | F108--620-26-206 Asbestos Abatement |  | Unrestricted | 19 |
+| 2026-12-11 | 36C25527Q0047 | J091--Aboveground Fuel Tank Inspection Services - Kansas City VAMC |  | Unrestricted | 1 |
+| 2026-12-04 | 2027-PZI-0004 | Wet Well Cleaning | Hanscom AFB, MA | SBA | 3 |
+| 2026-12-11 | W912J327Q1001 | New Mexico Army National Guard (NMARNG) Dining Facility (DFAC) Food Se | Santa Fe, NM | SBA | 5 |
+| 2026-12-01 | W9124D27QA008 | USMEPCOM X-ray Maintenance, Repair, and Training Services |  | SBA | 4 |
+| 2026-12-17 | FA302927Q0002 | Vance AFB and Kegelman AAF Fire Extinguisher BPA |  | Unrestricted | 4 |
+| 2026-12-02 | W5S09H27QA991 | FIRE EXTINGUISHER INSPECTION, MAINTENANCE, RECHARGE, REPAIR, HYDROSTAT | Camp Douglas, WI | NONE | 3 |

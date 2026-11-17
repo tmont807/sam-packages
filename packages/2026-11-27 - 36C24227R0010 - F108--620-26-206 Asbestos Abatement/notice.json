@@ -1,5 +1,5 @@
 {
-  "noticeId": "11d2e8263b0c4f1789a160f9cc0a8127",
+  "noticeId": "357242a5f1d3400c880474dc83eedaa8",
   "solicitationNumber": "36C24227R0010",
   "title": "F108--620-26-206 Asbestos Abatement",
   "naics": "562910",
@@ -17,6 +17,26 @@
     }
   ],
   "files": [
+    {
+      "name": "Additional RFI responses.docx",
+      "result": "14 KB"
+    },
+    {
+      "name": "2nd fl plan-survey.pdf",
+      "result": "444 KB"
+    },
+    {
+      "name": "bldg3-2nd fl-ACM table.pdf",
+      "result": "116 KB"
+    },
+    {
+      "name": "CASTLE POINT 2025.pdf",
+      "result": "683 KB"
+    },
+    {
+      "name": "36C24227R0010 0004.docx",
+      "result": "16 KB"
+    },
     {
       "name": "bldg3-2nd fl-ACM survey.pdf",
       "result": "116 KB"
@@ -76,5 +96,5 @@
   ],
   "kind": "solicitation",
   "description": "620-26-206 Asbestos Abatement at Montrose VAMC.\n",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
 }

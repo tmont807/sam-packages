@@ -1,0 +1,45 @@
+{
+  "noticeId": "5d89742a0ac44de4bbe71ccc2f885c80",
+  "solicitationNumber": "N6600127R3500",
+  "title": "N6600127R3500 ISEA NEN",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-18T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR PACIFIC > NIWC PACIFIC",
+  "contacts": [
+    {
+      "name": "Tessa Wastun",
+      "email": "Tessa.l.Wastun2.civ@US.Navy.MIL",
+      "phone": ""
+    },
+    {
+      "name": "Emily Green",
+      "email": "emily.f.green.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "73d709b88e8b4ce0aa762ecf3ab1d2e1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "53f7ba64c0614388bbb1f8441bee9eaa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "439cad86b2644dab9fb7ee6156467b2b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "df73da49de7547309ef1d19501006570",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "SEAPORT NXG MAC HOLDERS ONLY and Small Business Set-Aside ONLY, In-Service Engineering Activity (ISEA) Navy Enterprise Networks (NEN) Description which includes the four (4) core Capability-Based (CB) ISEA services: Technical Sustainment Support (TSS), Sustainment Engineering Support, Logistics Support, and Modernization Support. See SOW for details.  ",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+}

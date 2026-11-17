@@ -1,5 +1,5 @@
 {
-  "noticeId": "eb04312d852e41579eca2dfdbd188e8a",
+  "noticeId": "3d1047a79fca4b6cb338168a8913676c",
   "solicitationNumber": "N4008527R9006",
   "title": "NH100 Engine Control Unit Replacement",
   "naics": "236220",
@@ -23,6 +23,10 @@
   ],
   "files": [
     {
+      "name": "Amend 0001.pdf",
+      "result": "1431 KB"
+    },
+    {
       "name": "RFP 270700.pdf",
       "result": "201 KB"
     },
@@ -37,5 +41,5 @@
   ],
   "kind": "solicitation",
   "description": " Only M&amp;R MACC Contractors listed on the General Requirements cover page may submit a proposal for this ROICC Camp Lejeune area of responsibility project.&nbsp; See attached documents for scope of work and any applicable drawings. \n",
-  "savedAt": "2026-11-14T11:53:34.136472+00:00"
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
 }

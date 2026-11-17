@@ -1,0 +1,45 @@
+{
+  "noticeId": "a7fa4ac1721e40eaaa05730b0be83421",
+  "solicitationNumber": "W9123727QA006",
+  "title": "W9123727QA006 Bluestone Mowing and Maintenance IDIQ 2027-2031",
+  "naics": "561730",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-09T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "Kaylee Mills",
+      "email": "kaylee.p.mills@usace.army.mil",
+      "phone": "3043996965"
+    },
+    {
+      "name": "Bret Foley",
+      "email": "Bret.R.Foley@usace.army.mil",
+      "phone": "3043995169"
+    }
+  ],
+  "files": [
+    {
+      "name": "8e8535abc8014602a7e449fa48a00ec9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4573772ea1504be6a91bf31748db87fb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "22f4649fa2e641ce9cb76b90c9fcb1d6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "edefb47ccf8d4a03b51eca9ec7bbf55c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Mowing and Maintenance Services IDIQ for Bluestone Lake, Hinton, WV 2027-2031, US Army Corps of Engineers, Huntington District.  ",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+}

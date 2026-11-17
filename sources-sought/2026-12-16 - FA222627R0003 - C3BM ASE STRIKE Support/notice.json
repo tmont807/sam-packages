@@ -1,0 +1,33 @@
+{
+  "noticeId": "a3f6a1a0d3054fc993741d69b65faa11",
+  "solicitationNumber": "FA222627R0003 ",
+  "title": "C3BM ASE STRIKE Support",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "NONE",
+  "due": "2026-12-16T21:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Melissa Droeske",
+      "email": "melissa.droeske@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Mackenzi Soul",
+      "email": "mackenzi.soul@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "C3BM ASE STRIKE Support.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Portfolio Acquisition Executive (PAE) for Command, Control, Communications, and Battle Management (PAE C3BM) is a Department of the Air Force organization located at Hanscom Air Force Base, Massachusetts.&nbsp;However, they have multiple supporting locations across the continental United States (CONUS). \n\n PAE C3BM is responsible for the acquisition and delivery of the DAF BATTLE NETWORK, an integrated system-of-systems that connect sensors, effectors, and logistics systems to provide better situational awareness and faster decision-making for the joint force.&nbsp; \n\n This RFI focuses on experience related to systems engineering, architecture, and technical support to Department of Defense as well as modeling, knowledge management, data analysis, integration, and security.&nbsp; \n\n  This RFI contains CUI and interested parties must be able to handle CUI and request access to the document through SAM.gov.&nbsp;  \n",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+}

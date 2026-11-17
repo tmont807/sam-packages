@@ -1,0 +1,40 @@
+{
+  "noticeId": "4423bab4da4a4647be47503ffb97e48f",
+  "solicitationNumber": "SEAPORT_NMRIL_FMS_LAB_SPPT_REV1",
+  "title": "SEAPORT_NMRIL_FMS_LAB_SPPT_1",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-11-27T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR PACIFIC > NIWC PACIFIC",
+  "contacts": [
+    {
+      "name": "Sarah COE",
+      "email": "sarah.a.coe2.civ@us.navy.mil",
+      "phone": "6195534519"
+    }
+  ],
+  "files": [
+    {
+      "name": "a11afc2ef8fd427b9fc36d66b7018e47",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0e911e0006c34dd6b35725ffff07dc55",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "6ee7d91be2904283b8ebc0092310fa70",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "116a717c7bbe4e3ea96ea38d6d8e5921",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This Market Survey is issued for the purpose of assessing Small Business capabilities. Small Business firms having the capabilities to perform the tasking described in this SOW are encouraged to respond. This is a Market Survey for Services Procurements Network Management Reference Implementation Laboratory Canadian FMS Operation and Sustainment Support. LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE Opportunity is only for Seaport NxG holders. ***DIRECT ALL RESPONSES TO ryan.c.perna.civ@us.navy.mil. ",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+}

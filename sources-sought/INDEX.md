@@ -164,3 +164,34 @@
 | Due | Notice | Title | Place | Set-aside | Files |
 |---|---|---|---|---|---|
 | 2026-11-30 | 36C10B27Q0056 | DA01--Veterans Health Information Systems and Technology (VISTA) Blood |  | Unrestricted | 3 |
+
+## 2026-11-17
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-04 | M67854-27-I-0508 | Request for Information Audit Support and Remediation Services |  | Unrestricted | 1 |
+| 2026-11-24 | PANNWD-27-P-0000034964 | FY27 NWK Facilitated Partnering SATOC |  | Unrestricted | 4 |
+| 2026-11-30 | N6945027RH140 | HANGAR 140 RENOVATIONS AT NAVAL AIR STATON (NAS) JACKSONVILLE (JAX), J | Jacksonville, FL | NONE | 0 |
+| 2026-11-23 | W519TC-27-R-B129 | Design and Construction of a Modernized Facility (Building 129 Lunch a | McAlester, OK | Unrestricted | 6 |
+| 2026-12-16 | 70ZS0927SCLINDBAT | Feedback on CLIN Structure for Design-Build Construction Projects with | Norfolk, VA | Unrestricted | 2 |
+| 2026-12-17 | W912EP27Z1 | Port Everglades USCG Reconfiguration Project | Fort Lauderdale, FL | NONE | 0 |
+| 2027-01-06 | 36C77627Q0067 | Z2DZ--VA ESPC IDIQ |  | Unrestricted | 4 |
+| 2026-12-04 | TPSBathroomUpgrades | Thomas P. Stafford Building (TPS) Restroom Upgrades at the Mike Monron | OK | Unrestricted | 0 |
+| 2027-11-28 | W91QV127S1017 | Equipment Hauling Disposition Services via Flatbed Trailer | VA | SBA | 0 |
+| 2026-12-04 | M67854-27-I-2002 | Request For Information - Visual Information Systems Modernization (VI | Quantico, VA | Unrestricted | 2 |
+| 2026-11-30 | JUMBOTRONRFI | JBMDL - Jumbotron Outdoor LED Screens | Joint Base MDL, NJ | Unrestricted | 2 |
+| 2026-12-16 | FA222627R0003  | C3BM ASE STRIKE Support |  | NONE | 1 |
+| 2026-11-27 | SEAPORT_NMRIL_FMS_LAB_SPPT_REV1 | SEAPORT_NMRIL_FMS_LAB_SPPT_1 |  | SBA | 4 |
+| 2026-11-30 | GUN_WEAPONS_SYSTEM | GUN WEAPON SYSTEMS (GWS) Request for Information |  | Unrestricted | 4 |
+| 2026-11-24 | FA5025-27-Q-A008 | Tinian IBB Facility Management | MP | Unrestricted | 1 |
+| 2026-11-23 | W9127827SSN1 | HAWAII REGION O&M IDIQ MATOC | HI | Unrestricted | 1 |
+| 2026-11-24 | 4cf93e75b5724f8bb539e1ec2f20aea9 | LOGCAP VI Highest Technically Rated Offeror (HTRO) Matrix RFI | Rock Island, IL | Unrestricted | 2 |
+| 2026-11-30 | FA706027SSPKA02 | Grounds Maintenance and Snow Removal Services - JBAB | DC | SBA | 2 |
+| 2026-11-30 | 140RR027Q0050 | F--A34 STOCKPILE REMOVAL |  | Unrestricted | 1 |
+| 2026-11-27 | SSN-ALMS-2027 | Sources Sought Notice Asbestos and Lead Management Services | Bethesda, MD | SBA | 2 |
+| 2026-12-04 | M67854-27-I-0519 | Request for Information Small Craft Coxswain and Rescue Training |  | Unrestricted | 1 |
+| 2026-11-27 | 3610B-27-Q-0124 | Artificial Intelligence (AI) Training for the Technology Acquisition C |  | NONE | 0 |
+| 2026-11-26 | 36C249-27-AP-0670 | J061 UPS and Battery Maintenance and Testing – Nashville VA Medical Ce | TN | Unrestricted | 1 |
+| 2026-11-23 | 36C24627Q0117 | J065--Performance Water Systems Service Agreement | Richmond | Unrestricted | 2 |
+| 2026-11-30 | N4008527R0018 | CAPSTAN MAINTENANCE SERVICES AT NAVAL SUPPORT ACTIVITY (NSA), PORTSMOU | Portsmouth, VA | Unrestricted | 2 |
+| 2026-11-23 | PANMCC059955 | USAG Industrial Equipment Maintenance & Repair Services | Fort Bragg, NC | Unrestricted | 2 |

@@ -1,0 +1,40 @@
+{
+  "noticeId": "aee68a319c0542ad905a4b3fe5c13583",
+  "solicitationNumber": "W912HP27BA002",
+  "title": "FY27 AIWW Shoreline Protection",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-17T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT CHARLESTO",
+  "contacts": [
+    {
+      "name": "Josh Gould",
+      "email": "Joshua.T.Gould@usace.army.mil",
+      "phone": "8433298081"
+    }
+  ],
+  "files": [
+    {
+      "name": "a196480f770c4c299148141fd7d70594",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5c033d9bf59043f8825b2edea5def3c4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ee080b024395416098cf6fe637c2c138",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "55d0369f9f7a493d8ec39be557138b85",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "DESCRIPTION OF WORK: FY27 AIWW Shoreline Protection - The work consists of furnishing all plant, equipment, labor, transportation, fuel, lubricant, supplies and materials; and performing all operations in connection with installation of shoreline protection and dike realignment in AIWW Placement area 1110S W-C, including clearing and appurtenant items. The work is located in Charleston County, South Carolina. Magnitude of Work is Estimated Between: $1,000,000 TO $5,000,000.  North American Industry Classification System (NAICS) Code: 237990 Other Heavy and Civil Engineering Construction with a SBA Small Business Size of $45,000,000. This solicitation is hereby posted as of 16 November 2026. ",
+  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+}
