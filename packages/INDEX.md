@@ -530,3 +530,125 @@
 | 2026-12-01 | W9124D27QA008 | USMEPCOM X-ray Maintenance, Repair, and Training Services |  | SBA | 4 |
 | 2026-12-17 | FA302927Q0002 | Vance AFB and Kegelman AAF Fire Extinguisher BPA |  | Unrestricted | 4 |
 | 2026-12-02 | W5S09H27QA991 | FIRE EXTINGUISHER INSPECTION, MAINTENANCE, RECHARGE, REPAIR, HYDROSTAT | Camp Douglas, WI | NONE | 3 |
+
+## 2026-11-18
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-30 | 127EAT27Q0004 | Airport BAER Weed Treatment | Corona, CA | SBA | 4 |
+| 2026-11-30 | 140FF027Q0084 | F--Invasive plant Control, Okeechobee NWR, FL |  | SBA | 6 |
+| 2026-12-11 | W50S8X26BA011 | Solicitation Construct Combat Rescue Helicopter Flight Simulator Facil | Moffett Field, CA | SBA | 4 |
+| 2026-12-01 | W912BV26RA016 | Child Development Center (CDC), Tinker Air Force Base, Oklahoma |  | Unrestricted | 5 |
+| 2027-01-08 | W912ER26RA016 | Apache Alert Mission Complex |  | Unrestricted | 38 |
+| 2027-01-14 | 36C25226B0030 | Z2DA--537-24-106 Create Contractor Lie-Down Zone |  | Unrestricted | 18 |
+| 2026-12-16 | 124PCA27Q0006 | Replacement Cattle Dip Vat Drip Pad (Edinburg, TX) | Edinburg, TX | SBA | 9 |
+| 2026-12-17 | N6660427Q0077 | NUWCDIVNPT-Construction-Vaporizer Enclosure (Design-Build) | Newport, RI | SBA | 6 |
+| 2026-12-18 | N6660427Q0033 | Construction-NUWCDIVNPT-Interior Renovations | Newport, RI | SBA | 9 |
+| 2026-12-10 | W50S8R27BA002 | B422 BREAKROOM, B300 BDOC | Mansfield, OH | SBA | 18 |
+| 2026-12-02 | FA664827R0001 | Design-Build Renovation of Building 164, Outdoor Recreation Center, Ho | Homestead, FL | Unrestricted | 10 |
+| 2026-12-03 | 36C24927B0002 | Z2LZ--626-25-104 Garage Suicide Protection |  | Unrestricted | 7 |
+| 2026-12-14 | 12445527Q0008 | Whiteface Campground Well Replacement | Makinen, MN | SBA | 5 |
+| 2026-12-02 | 6982AF27B000010 | CO OMAD 300(71) Minuteman Missile Access | Cheyenne, WY | SBA | 7 |
+| 2026-12-01 | 69056726B000012 | AK FLAP ANCHORAGE 2021(1), Far North Bicentennial Park Enhancements | Anchorage, AK | NONE | 7 |
+| 2026-12-17 | 6982AF27B000008 | HI FLAP CR562(1) Kilauea Point | HI | NONE | 9 |
+| 2026-12-01 | 1240LT27Q0019 | Administrative Parking Lot Repairs | CO | SBA | 9 |
+| 2026-12-01 | 6982AF27B000005 | UT NP ARCH 100(2) Bridges on Delicate Arch Road | Moab, UT | NONE | 16 |
+| 2026-12-17 | W911KB27BA004 | Port of Nome Modification - Phase 2 |  | Unrestricted | 4 |
+| 2026-12-10 | W912HN27BA001 | Tybee Island Shoreline Protection Project | Tybee Island, GA | Unrestricted | 4 |
+| 2027-01-06 | W9128F27RA063 | Construct Interim Remedial Action (IRA) for the Nelson Tunnel Superfun |  | Unrestricted | 4 |
+| 2026-11-28 | 127EAW27Q0002 | Forest Service - Solar Batteries Frenchman Work Center | CA | SBA | 10 |
+| 2027-01-09 | 2026-PTG-FACPR | Fire Alarm Control Panel Replacement Project (FACPR) | CA | NONE | 9 |
+| 2026-11-25 | 36C24627Q0114 | 5975--INSTALLATION OF PROXIMITY SENSORS FOR AUTOMATIC DOORS |  | Unrestricted | 2 |
+| 2026-11-30 | W15QKN27QA011 | BPAs for Conference Rooms and Audio Visual Systems | Picatinny Arsenal, NJ | SBA | 8 |
+| 2026-12-17 | N6247327R0011 | IDIQ JOC Plumbing Systems and Pipe and Gas Fitting for 29 Palms |  | Unrestricted | 3 |
+| 2026-12-07 | 61200PR270000061 | UPDATED PoP DATES USCG TRACEN PETALUMA MONTHLY BOILER MAINTENANCE | Petaluma, CA | SBA | 4 |
+| 2026-12-17 | W15QKN27QA009 | Repair Replacement of Mission and Industrial HVAC and Refrigeration Sy |  | Unrestricted | 4 |
+| 2026-12-02 | 140FF027R0008 | Z--HVAC Replacement - MI |  | SBA | 10 |
+| 2026-12-08 | 1240BH27Q0001 | GAOA Star Meadows MEP Repairs Utility Installations Flathead NF | Whitefish, MT | SBA | 13 |
+| 2026-12-02 | 140D0427Q0949 | Z--Garage Drywall Demolition at Udall Building |  | SBA | 3 |
+| 2026-12-19 | N0010425RBW83 | 44--COOLER ASSEMBLY |  | Unrestricted | 2 |
+| 2026-11-30 | N0010427QXA12 | DIAPHRAM, PRIMARY |  | Unrestricted | 3 |
+| 2026-12-01 | N0010426QFD86 | SCREW,CAP,SOCKET HE |  | Unrestricted | 2 |
+| 2026-12-01 | N0010425QFE70 | STUD,PLAIN |  | Unrestricted | 3 |
+| 2026-12-01 | N0010426QFD32 | NUT,SLFLKG |  | Unrestricted | 3 |
+| 2026-12-02 | SPE7LX27U1445 | 53--COVER,ACCESS |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7L127U0222 | 53--RING,RETAINING |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1421 | 53--BRACKET,MOUNTING |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1124 | 53--SPRING,HELICAL,COMPRES |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1150 | 53--TURNBUCKLE |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1202 | 53--CAP,PROTECTIVE,DUST |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1194 | 53--HANDLE,BAIL |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1176 | 53--SLIDE,DRAWER,EXTENSION |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1167 | 53--COVER,ACCESS |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1164 | 53--CLAMP,LOOP |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1170 | 53--DOOR,ACCESS,UTILITY |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1133 | 53--PACKING ASSEMBLY |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1162 | 53--COVER,PROTECTIVE,DUST |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1123 | 53--PACKING ASSEMBLY |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1130 | 53--BRACKET,MOUNTING |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1109 | 53--BRACKET,MOUNTING |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1067 | 53--O-RING |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1073 | 53--COVER,ACCESS |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1080 | 53--BOOT,DUST AND MOISTURE |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1070 | 53--COVER,ACCESS |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1057 | 53--CLAMP,SYNCHRO |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1158 | 53--CAP,PROTECTIVE,DUST AN |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1161 | 53--DOOR,ACCESS,UTILITY |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1147 | 53--PARTS KIT,SEAL REPLACE |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1154 | 53--COVER,PROTECTIVE,DUST |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1144 | 53--SEAL,PLAIN |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1126 | 53--GASKET |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1100 | 53--PACKING ASSEMBLY |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1118 | 53--HANDLE,MANUAL CONTROL |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1096 | 53--PLUG,PROTECTIVE,DUST A |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1094 | 53--COVER,ACCESS |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1092 | 53--STRAP,RETAINING |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1090 | 53--KNOB |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1062 | 53--COVER,ACCESS |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1053 | 53--MOUNT,RESILIENT,UTILIT |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1038 | 53--RETAINER,SEAL |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1051 | 53--GASKET |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1040 | 53--SEAL,NONMETALLIC SPECI |  | SBA | 1 |
+| 2026-12-02 | SPE7LX27U1047 | 53--BRACKET,ANGLE |  | Unrestricted | 1 |
+| 2026-12-02 | SPE7LX27U1035 | 53--CAP,PROTECTIVE,DUST AN |  | SBA | 1 |
+| 2026-11-25 | N0016727Q1010 | Peel 3 3D Scanners and Software BPA |  | SBA | 4 |
+| 2026-11-27 | N0016427Q0029 | 19020-NEW CHROMA MULTI-CHANNEL HIPOT TESTER | Crane, IN | NONE | 3 |
+| 2026-11-30 | SPE7L727T0681 | 61--BATTERY,STORAGE |  | SBA | 1 |
+| 2026-11-30 | SPE7L727T0678 | 61--BATTERY,STORAGE |  | SBA | 1 |
+| 2026-11-27 | SPE7L727Q0251 | 61--BATTERY,STORAGE |  | SBA | 1 |
+| 2026-11-30 | 36C25727Q0087 | W065--NTX Bed Rentals Brand Name or equal | Dallas | SBA | 4 |
+| 2026-11-30 | 36C25727Q0087 | W065--NTX Bed Rentals Brand Name or equal | Dallas | SBA | 4 |
+| 2026-11-27 | FA800326Q0012 | FY27 Nursing Practice Oversight Course (NPOC) | Colorado Springs, CO | SBA | 8 |
+| 2026-11-25 | N3904027Q3148 | Rental of One (1) Diesel Ultra High Pressure (UHP) Trailer 20K PSI 20  | Kittery, ME | NONE | 7 |
+| 2026-11-30 | 140FF027R0002 | C--USFWS_KS_Great Plains NC_TITLE III ServicesI |  | SBA | 5 |
+| 2027-01-21 | FA820727RB001 | Hardness Surveillance EMP Program (HSEP) for ICBM. The contractor shal | Hill Air Force Base, UT | Unrestricted | 5 |
+| 2026-12-03 | N0013527R6277 | SSN(X) Concept Design Area of Interest | Washington Navy Yard, DC | NONE | 5 |
+| 2026-12-04 | FA910127PRISM | Request for Oral Presentation (ROP) - Prototype Research, Integration, | Holloman AFB, NM | NONE | 3 |
+| 2026-12-17 | N0003927RM002 | Solicitation - N0003927RM002 NILE ISS 6 Engineering Services |  | SBA | 4 |
+| 2026-12-09 | W912CN27QA014 | FS BLDG T112 8 NIPR DROP INSTALLATION | Fort Shafter, HI | SBA | 4 |
+| 2026-11-25 | 12760427Q0008 | Lectra Gerber AccuMark Software |  | SBA | 6 |
+| 2026-12-04 | 2027-R-007 | U.S. Senate Wellbeing Application | DC | Unrestricted | 8 |
+| 2026-12-08 | N6274227R1801 | Marine Resource Technical Services Throughout the Naval Facilities Eng |  | SBP | 15 |
+| 2026-12-08 | N0018927QW033 | NFPA LiNK Support | Washington Navy Yard, DC | NONE | 2 |
+| 2026-12-16 | 36C24227B0009_1 | Y1DA--Project620-22-110 Replace and Upgrade Fire alarm System at Montr |  | Unrestricted | 8 |
+| 2026-12-16 | 36C24227B0009 | Y1DA--Project620-22-110 Replace and Upgrade Fire alarm System at Montr |  | Unrestricted | 7 |
+| 2026-12-08 | W9123827QA001 | Pine Flat Rodent Abatement | Piedra, CA | SBA | 4 |
+| 2026-12-10 | 140LL027Q0019 | S--BARSTOW DUMONT JANITORIAL SERVICES |  | SBA | 7 |
+| 2026-11-30 | 1305M327Q0049 | S--Janitorial Services Rapid City, SD |  | Unrestricted | 4 |
+| 2026-12-09 | 140LL027Q0009 | S--BLM Utah - Paria River District HQ Janitorial |  | SBA | 9 |
+| 2026-11-27 | 75H70627Q00029 | Snow removal and De-Icing Services for the Great Plains Area Indian He | Rapid City, SD | SBA | 1 |
+| 2026-12-07 | W9123727QA005 | W9123727QA005 Walhonding Mowing and Maintenance IDIQ 2027-2031 |  | SBA | 4 |
+| 2026-12-01 | 15JA0527Q00000016 | Press Secretary and Social Media Manager Digital Content Manager | TX | NONE | 4 |
+| 2026-12-02 | 36C24927Q0014 | R614--Tennessee Valley Healthcare Services Document Destruction Shredd |  | Unrestricted | 2 |
+| 2026-11-30 | W912EK27QA006 | Lake Red Rock Refuse Removal Services | Knoxville, IA | Unrestricted | 7 |
+| 2026-11-25 | W911PT27QA002 | Watervliet Arsenal (WVA) Building 152 (B152) Underground Storage Tank  |  | SBA | 4 |
+| 2026-12-11 | 36C25527Q0047 | J091--Aboveground Fuel Tank Inspection Services - Kansas City VAMC | MO | Unrestricted | 1 |
+| 2026-12-02 | 1240BD27Q0017 | MOUNT BAKER AND DARRINGTON RANGER DISTRICTS MARBLEMOUNT SAUK BOAT LAUN | Darrington, WA | SBA | 1 |
+| 2026-11-25 | FA857127Q0012 | PCDMIS CAD++ Software Renewal and CMM Calibration | Warner Robins, GA | NONE | 9 |
+| 2026-12-17 | FA825027QB001 | Repair of NSN 3010016608071FD Gearcase Motor, JTE System |  | NONE | 10 |
+| 2026-12-17 | 36C24227Q0136 | J065--FY27 SERVICES (BASE+4) Surgical Instrument Repair Services SPS V |  | Unrestricted | 3 |
+| 2026-11-30 | FA822727Q1001 | Oerlikon Metco Thermal Spray Equipment | Hill Air Force Base, UT | NONE | 9 |
+| 2026-12-02 | 127EAY27Q0007 | Repair HVAC Seedling Coolers - Six Rivers NF- Gasquet RD | Gasquet, CA | SBA | 12 |
+| 2026-11-27 | FA460826QS053 | Gate Valve Frame Replacement | Barksdale AFB, LA | NONE | 3 |
+| 2026-12-11 | SP451027Q1005 | DLA DS_ANCHORAGE MHE MAINTENANCE SERVICES | Anchorage, AK | NONE | 6 |
+| 2026-12-04 | 36C25627Q0130 | Floor mat services for Biloxi, MS and Mobile, AL Outpatient Clinic | Biloxi, MS | SBA | 7 |

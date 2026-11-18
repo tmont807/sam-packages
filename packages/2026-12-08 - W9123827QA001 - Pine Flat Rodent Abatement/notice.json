@@ -1,5 +1,5 @@
 {
-  "noticeId": "5ec5868586084f4385a3c3b72175145d",
+  "noticeId": "d9454a8041064052bc3c8b09ecf4479e",
   "solicitationNumber": "W9123827QA001",
   "title": "Pine Flat Rodent Abatement",
   "naics": "561710",
@@ -39,5 +39,7 @@
       "result": "failed: HTTP Error 400: Bad Request"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": " All questions for this solicitation must be submitted in writing, via email, to the POCs listed below. All questions must be submitted 10 days prior to the quote due date. Tuesday, November 24, 2026 at 11:00AM PST is the cut off for questions to be accepted. No additional questions will be accepted after this date. \n\n   Site Visit:  November19, 2026 at 13:00pm.   \n\n   Address:  27295 Pine Flat Road, Sanger, CA 93657  \n\n  *Please be at the above site visit location NLT 13:00pm*  \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
 }

@@ -1,0 +1,45 @@
+{
+  "noticeId": "b51c8bc73f1c458cbeb90b5e57db8c77",
+  "solicitationNumber": "N0003927RM002",
+  "title": "Solicitation - N0003927RM002: NILE ISS 6 Engineering Services",
+  "naics": "541512",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-17T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR HQ > NAVAL INFORMATION WARFARE SYSTEMS",
+  "contacts": [
+    {
+      "name": "Danica Sablad",
+      "email": "danica.r.sablad.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Sarah Murr",
+      "email": "sarah.m.murr.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "fbe89b0a5ad1403cb22124a6fbd82821",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "577f80cf419b41b081ccf86a742fae82",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e51150a9e70048608f67b9a766f58cb4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c9ca6cd1d43343b5a89f498282e04cdd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "NATO Improved Link Eleven (NILE) In-Service Support 6 (ISS 6) Engineering Services RFP #N0003927RM002. This RFP (N0003927RM002) is related to the previous Advanced Notice for N0003926RA002: NATO Improved Link Eleven (NILE) In-Service Support 6 (ISS 6). ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

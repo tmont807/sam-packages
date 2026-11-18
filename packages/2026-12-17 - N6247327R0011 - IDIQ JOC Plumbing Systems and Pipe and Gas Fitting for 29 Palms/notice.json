@@ -1,0 +1,36 @@
+{
+  "noticeId": "1101df2503994d8eacc0c5f2cecec072",
+  "solicitationNumber": "N6247327R0011",
+  "title": "IDIQ JOC Plumbing Systems and Pipe and Gas Fitting for 29 Palms",
+  "naics": "238220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-17T01:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "Esmeralda Raggio",
+      "email": "esmeralda.l.raggio.civ@us.navy.mil",
+      "phone": "N/A"
+    }
+  ],
+  "files": [
+    {
+      "name": "88a53b68411440a2bda52fbc20176c21",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5b8773058ee14142bea0f7e1530d9b09",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "50eb67c530f84f9bb7e2e0bf7e410052",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Login at https://piee.eb.mil and search for 'N6247327R0011' to obtain more details.*",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

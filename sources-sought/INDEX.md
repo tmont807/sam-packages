@@ -195,3 +195,45 @@
 | 2026-11-23 | 36C24627Q0117 | J065--Performance Water Systems Service Agreement | Richmond | Unrestricted | 2 |
 | 2026-11-30 | N4008527R0018 | CAPSTAN MAINTENANCE SERVICES AT NAVAL SUPPORT ACTIVITY (NSA), PORTSMOU | Portsmouth, VA | Unrestricted | 2 |
 | 2026-11-23 | PANMCC059955 | USAG Industrial Equipment Maintenance & Repair Services | Fort Bragg, NC | Unrestricted | 2 |
+
+## 2026-11-18
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-27 | 36C10B27Q0127 | R702--WORKFORCE ASSESSMENT (VA-27-00016203) |  | Unrestricted | 2 |
+| 2026-11-27 | W9127Q27MSAVCRADAUDIT | AS9110 2016 & ISO 9001 2015 Quality Management System Certification &  | Gulfport, MS | Unrestricted | 0 |
+| 2026-12-01 | W912DW27RA011 | $300M Indefinite Delivery Indefinite Quantity (IDIQ) Multiple Award Ta | Joint Base Lewis McChord, WA | Unrestricted | 1 |
+| 2026-12-16 | 70ZS0927SCLINDBAT | Feedback on CLIN Structure for Design-Build Construction Projects with | Norfolk, VA | Unrestricted | 2 |
+| 2026-11-23 | W519TC-27-R-B129 | Design and Construction of a Modernized Facility (Building 129 Lunch a | McAlester, OK | Unrestricted | 6 |
+| 2026-11-30 | N6945027RH140 | PLA RFI for Hangar 140 Renovations at NAS JAX, Jacksonville, FL. | Jacksonville, FL | Unrestricted | 1 |
+| 2026-12-17 | W912EP27Z1 | Port Everglades USCG Reconfiguration Project | Fort Lauderdale, FL | NONE | 0 |
+| 2026-12-15 | W912HP279A002 | Barracks Delivery Program |  | Unrestricted | 4 |
+| 2026-12-02 | W912DS27S0009 | Maintenance Dredging of New York and New Jersey Harbor – Arthur Kill 5 |  | Unrestricted | 0 |
+| 2026-12-11 | W912WJ-27-X-1CY2 | Thomaston Lake Dam, Gate House Roof Repairs, Thomaston, CT | Thomaston, CT | Unrestricted | 1 |
+| 2026-11-24 | N0018927QL222 | Sources Sought Notice United States Naval Academy Infoblox Trinzic Equ | Annapolis, MD | NONE | 1 |
+| 2027-11-28 | W91QV127S1017 | Equipment Hauling Disposition Services via Flatbed Trailer | VA | SBA | 0 |
+| 2026-12-04 | RFI_FY27001 | USCG Mission System Integration Lab Packing, Rigging, Transportation,  | Patuxent River, MD | NONE | 4 |
+| 2026-11-25 | SRMC042026 | SOURCES SOUGHT EOI FOR 3PL WAREHOUSING RECEIVING AT THE SAVANNAH RIVER | Aiken, SC | Unrestricted | 0 |
+| 2026-12-03 | Sim-IPII | PACAF Fighter Simulator Instructor Pilot | Honolulu, HI | Unrestricted | 3 |
+| 2026-12-03 | W9127828RA001 | AE Services Environmental Quality (EQ) Program - U.S. Army Corps of En |  | Unrestricted | 3 |
+| 2026-12-16 | FA222627R0003  | C3BM ASE STRIKE Support |  | NONE | 1 |
+| 2026-11-30 | APEX | RFI Agile Platform for Expeditionary C2 (APEX) | Scott AFB, IL | NONE | 4 |
+| 2026-12-04 | 70FA3127I00000002  | FIID Advanced Anti-Fraud and Risk-Modeling Proof of Concept | Washington, DC | Unrestricted | 4 |
+| 2026-12-18 | Acq_SI_DoP | Acquisition SI | FL | NONE | 0 |
+| 2026-12-18 | PANRSA27P000001 | Enterprise Information Technology Support Services (ITSS) | Redstone Arsenal, AL | Unrestricted | 1 |
+| 2027-01-15 | NBSFS-RFI01 | NBSFS Facility Controls System Modernization | New Boston, NH | SBA | 1 |
+| 2027-01-05 | 279999 | SI-Assisted Omni Channel Experience - Request for Information | MD | Unrestricted | 5 |
+| 2026-11-24 | FA704627_RFI_Data_Catalog | AFOTEC Data Discoverability, Semantic Governance, and AI Readiness Min | Kirtland AFB, NM | NONE | 1 |
+| 2026-12-12 | NGA-SRW | Sustainment for SRW | Springfield, VA | Unrestricted | 1 |
+| 2026-12-02 | NCI-DCTD-27-0001 | Registration, Storage and Distribution of Chemicals and Drugs for Pre- | Rockville, MD | Unrestricted | 2 |
+| 2026-11-24 | 71b7b47ce0464fddab3cd05053664da9 | LOGCAP VI Highest Technically Rated Offeror (HTRO) Matrix RFI | Rock Island, IL | Unrestricted | 3 |
+| 2026-12-02 | Armed_Guard_Security_Services_2027 | Armed Security Guard services | Anniston, AL | SBA | 1 |
+| 2026-11-24 | W15QKN27QA019 | Custodial Services - Cranston, RI (RI007) |  | Unrestricted | 4 |
+| 2026-11-24 | 1240LP27SSEagleJanitorial | Eagle-Holy Cross Janitorial Sources Sought | Eagle, CO | NONE | 0 |
+| 2026-12-04 | 31170PR270000007 | Plant and Tree Removal | PR | NONE | 1 |
+| 2026-11-24 | W15QKN27QA014 | REFUSE AND RECYCLING SERVICES - Edison, NJ (NJ003) |  | Unrestricted | 4 |
+| 2026-11-30 | FA282327Q0005 | Protlets Service - Eglin AFB, FL | Eglin AFB, FL | SBA | 1 |
+| 2026-12-01 | ADR2027  | Department of the Navy Alternative Dispute Resolution (ADR) Program su | Washington Navy Yard, DC | Unrestricted | 1 |
+| 2027-12-01 | OII-2027-133938 | U.S. FOOD & DRUG ADMINISTRATION (FDA) OFFICE OF INSPECTIONS AND INVEST | Silver Spring, MD | Unrestricted | 2 |
+| 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |
+| 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |

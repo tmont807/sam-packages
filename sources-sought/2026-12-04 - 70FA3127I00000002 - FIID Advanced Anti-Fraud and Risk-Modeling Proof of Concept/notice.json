@@ -1,0 +1,45 @@
+{
+  "noticeId": "5dc9d47b7d004778905287840fd6a7e4",
+  "solicitationNumber": "70FA3127I00000002 ",
+  "title": "FIID Advanced Anti-Fraud and Risk-Modeling Proof of Concept",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T20:00:00+00:00",
+  "state": "DC",
+  "city": "Washington",
+  "agency": "HOMELAND SECURITY, DEPARTMENT OF > FEDERAL EMERGENCY MANAGEMENT AGENCY > INFORMATION TECHNOLOGY DEVELOPMENT AND SUSTAINMENT",
+  "contacts": [
+    {
+      "name": "Myeshia Daniels ",
+      "email": "myeshia.daniels@fema.dhs.gov",
+      "phone": "202-631-9956"
+    },
+    {
+      "name": "Gene Garrett",
+      "email": "gene.garrett@fema.dhs.gov",
+      "phone": "7712020580"
+    }
+  ],
+  "files": [
+    {
+      "name": "RFI 70FA3127I00000002_ FIID Advanced Anti-Fraud and Risk-Modeling.pdf",
+      "result": "143 KB"
+    },
+    {
+      "name": "Appendix A RFI 70FA3127I00000002 Industry Comments Questions and Clarification Matrix.xlsx",
+      "result": "14 KB"
+    },
+    {
+      "name": "Appendix B RFI Program Questions for Vendors 70FA3127I00000002.xlsx",
+      "result": "11 KB"
+    },
+    {
+      "name": "Appendix C RFI 70FA3127I00000002 Vendor Streamlined Profile Matrix.xlsx",
+      "result": "18 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " FEMA&rsquo;s Fraud Investigations and Inspections Division (FIID), in coordination with the Office of the Chief Component Procurement Officer (OCCPO), is conducting market research to identify commercially available advanced anti-fraud and entity-risk modeling solutions for a potential competitive, multi-vendor Proof of Concept (POC). The POC would assess vendors&rsquo; ability to identify potentially high-risk business entities using authorized data sources, fraud-risk indicators, and analytical methods, including artificial intelligence, machine learning, predictive analytics, rules engines, entity resolution, anomaly detection, graph and network analytics, identity and business verification, and optical character recognition. FEMA seeks scalable solutions that accurately identify potential risk while minimizing false positives and false negatives; provide transparent, reviewable explanations for alerts, risk scores, and entity assessments; integrate with cloud, hybrid, API-based, and batch-processing government environments; and support applicable federal security, privacy, accessibility, records-management, and data-governance requirements. The POC would be limited to evaluating technical capabilities and would not include live operational screening, grant eligibility determinations, adverse-action recommendations, or decisions affecting an individual&rsquo;s or entity&rsquo;s rights, benefits, eligibility, or safety. \n\n  1. Business Judgment Guidance for Prospective Offerors  \n\n This notice is published to encourage open competition and to assist prospective offerors in determining if this requirement matches their technical capabilities. \n\n \n\t \n\t  Who Should Respond:  Vendors with demonstrated, scalable expertise in deploying enterprise-grade predictive analytics, anti-fraud algorithms, and network graph analysis in financial, commercial, or federal regulatory environments. \n\t \n\t \n\t  Solicitation Request:  A formal solicitation is not currently available. Responses to this RFI will directly shape the acquisition strategy and technical requirements for the competitive Proof of Concept phase.. \n\t \n \n\n  2. Attachments and Links  \n\n Further program documentation, templates, and the RFI packet are attached to this notice on SAM.gov. \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "noticeId": "7257b10232e34f0999240851dec41e58",
+  "solicitationNumber": "N0018927QW033",
+  "title": "NFPA LiNK Support",
+  "naics": "541990",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "NONE",
+  "due": "2026-12-08T22:00:00+00:00",
+  "state": "DC",
+  "city": "Washington Navy Yard",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP GLOBAL LOGISTICS SUPPORT > NAVSUP FLC NORFOLK > NAVSUP FLT LOG CTR NORFOLK",
+  "contacts": [
+    {
+      "name": "Telephone: 215-697-9627",
+      "email": "richard.smarro@navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Sole Source - NFPA LiNK CNIC (11-9-26).pdf",
+      "result": "295 KB"
+    },
+    {
+      "name": "Combined Synopsis_Solicitation N0018927QW033.pdf",
+      "result": "4848 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " NFPA LiNK Support for CNIC \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

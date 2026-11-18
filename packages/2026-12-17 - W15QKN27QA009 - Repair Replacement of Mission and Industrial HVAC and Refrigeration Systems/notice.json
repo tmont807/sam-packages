@@ -1,0 +1,40 @@
+{
+  "noticeId": "a981609071a54cdb90b1eb0cf03087ed",
+  "solicitationNumber": "W15QKN27QA009",
+  "title": "Repair / Replacement of Mission and Industrial HVAC and Refrigeration Systems",
+  "naics": "238220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-17T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > ACC-CTRS > ACC-NJ > W6QK ACC-PICA",
+  "contacts": [
+    {
+      "name": "Antonius Gill",
+      "email": "ANTONIUS.GILL.CIV@ARMY.MIL",
+      "phone": "5206697327"
+    }
+  ],
+  "files": [
+    {
+      "name": "3133c4b4862942d3bdfec6e59e431f9a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "01e28dcedc344328a0f9dc31402be181",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "167234cfb9d04dbcb05b0d21a1f662db",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bd1ec8aabdd84dc79e4714d48e1c2efc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Contracting Command - Rock Island at Picatinny (ACC-RI-PI), on behalf of the U.S. Army Combat Capabilities and Development Command (DEVCOM) Armaments Center (AC), at Picatinny Arsenal, NJ intends to competitively select and award multiple firm-fixed-price (FFP) Blanket Purchase Agreements (BPAs) for Repair / Replacement of Mission and Industrial HVAC and Refrigeration Systems in accordance with the following solicitation requirements, the attached Performance Work Statement (PWS), Quality Assurance Surveillance Plan (QASP)/Performance Requirements Summary (PRS) and Contract Data Requirements List (CDRLs) / DD Form 1423. ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

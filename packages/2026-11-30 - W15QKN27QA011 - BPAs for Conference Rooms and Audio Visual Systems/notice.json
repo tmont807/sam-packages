@@ -1,5 +1,5 @@
 {
-  "noticeId": "acf2b09d4871454095ae152c06f81ba5",
+  "noticeId": "a3d2d0995a604f6ca097b12ea190c9c5",
   "solicitationNumber": "W15QKN27QA011",
   "title": "BPAs for Conference Rooms and Audio Visual Systems",
   "naics": "238210",
@@ -23,6 +23,18 @@
   ],
   "files": [
     {
+      "name": "Amendment 0002 BPA Conference Rooms Q and A v3a.pdf",
+      "result": "142 KB"
+    },
+    {
+      "name": "Solicitation Amendment - W15QKN27QA0110002.pdf",
+      "result": "3259 KB"
+    },
+    {
+      "name": "Solicitation Amendment W15QKN27QA0110002 SF 30.pdf",
+      "result": "4022 KB"
+    },
+    {
       "name": "Attachment 0001 - ACC-NJ_QASP - BPAs for Conf Room AV.docx",
       "result": "198 KB"
     },
@@ -45,5 +57,5 @@
   ],
   "kind": "solicitation",
   "description": "The U.S. Army Contracting Command - Rock Island at Picatinny (ACC-RI-PICA), on behalf of the U.S. Army Combat Capabilities and Development Command (DEVCOM) Armaments Center (AC) is issuing this Request for Quote (RFQ) to competitively select and establish multiple Blanket Purchase Agreements (BPAs) for the Repair, Replacement, Modification, and Modernization of Conference Rooms, Digital Workplaces, and Audio Visual (AV) Systems. The goal of this effort is to ensure that various collaboration spaces, office spaces, classrooms, conference areas, and Audio Video Teleconference (VTC) rooms remain state-of-the-art as the U.S. Army continues to digitize its data and operations. ",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
 }

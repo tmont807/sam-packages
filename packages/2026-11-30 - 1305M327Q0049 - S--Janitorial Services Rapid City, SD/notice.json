@@ -1,5 +1,5 @@
 {
-  "noticeId": "0f4761ff3b8f4440978da0e305bf8868",
+  "noticeId": "684440a22fda49348be9cf8494af44ea",
   "solicitationNumber": "1305M327Q0049",
   "title": "S--Janitorial Services Rapid City, SD",
   "naics": "561720",
@@ -18,6 +18,14 @@
   ],
   "files": [
     {
+      "name": "Sol_1305M327Q0049_Amd_0002.pdf",
+      "result": "280 KB"
+    },
+    {
+      "name": "1305M327Q0049_Questions_and_Answers_0002.docx",
+      "result": "17 KB"
+    },
+    {
       "name": "Sol_1305M327Q0049_Amd_0001.pdf",
       "result": "243 KB"
     },
@@ -27,6 +35,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "AMEND 0001 UPDATED SITE VISIT POC AND ADD ADDITIONAL LOCAL CLAUSE  JANITORIAL SERVICES WFO RAPID CITY, SD BASE PLUS 4 OPTIONS. ",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "description": "AMEND 0002 UPDATED SECTION 6 ADDENDUM TO 52.212-1 INSTRUCTIONS AND SECTION 7 RFO 52.212-2 EVALUATION. ATTACHED QUESTIONS AND ANSWERS DOCUMENT.    AMEND 0001 UPDATED SITE VISIT POC AND ADD ADDITIONAL LOCAL CLAUSE  JANITORIAL SERVICES WFO RAPID CITY, SD BASE PLUS 4 OPTIONS. ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
 }

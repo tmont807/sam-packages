@@ -1,0 +1,60 @@
+{
+  "noticeId": "08b23b2676624773a82f5ef5e64db152",
+  "solicitationNumber": "2026-PTG-FACPR",
+  "title": "Fire Alarm Control Panel Replacement Project (FACPR)",
+  "naics": "238210",
+  "type": "Solicitation",
+  "setAside": "NONE",
+  "due": "2027-01-09T01:00:00+00:00",
+  "state": "CA",
+  "city": "",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > BERKELEY NATL LAB - DOE CONTRACTOR",
+  "contacts": [
+    {
+      "name": "Peter Gajda",
+      "email": "ptgajda@lbl.gov",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "_FACPR_RFP (11.12.26).pdf",
+      "result": "626 KB"
+    },
+    {
+      "name": "A_Statement of Work for Subcontract 7889840 (10.12.26).pdf",
+      "result": "774 KB"
+    },
+    {
+      "name": "B_FACPR_RFP_Attachment B - Factor Resoponse (11.12.26).pdf",
+      "result": "276 KB"
+    },
+    {
+      "name": "C_FACPR_RFP_Attachment C - Price Proposal (11.12.26).pdf",
+      "result": "230 KB"
+    },
+    {
+      "name": "D_Subcontract_FACRP (11.12.26).pdf",
+      "result": "637 KB"
+    },
+    {
+      "name": "E_GPs for Fixed Price Design-Build (10.9.26).pdf",
+      "result": "343 KB"
+    },
+    {
+      "name": "F_Insurance Certificate Instructions (10.09.26).pdf",
+      "result": "183 KB"
+    },
+    {
+      "name": "G_Representations and Certifications Form.pdf",
+      "result": "283 KB"
+    },
+    {
+      "name": "H_Small Business Subcontracting Plan (9.29.26).pdf",
+      "result": "338 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " The University of California, Lawrence Berkeley National Laboratory requests proposals for design-build services for the design and construction of the Fire Alarm Control Panel Replacement Project (&quot;FACPR&quot; or &quot;the Project&quot;). \n\n The Project covers Buildings 2, 26, 33, and 76. Under this subcontract, the Design-Build Subcontractor will provide all professional design, engineering, procurement, installation, changeover, and commissioning services needed to replace the fire alarm control panels and backup battery systems.&nbsp; \n\n The Siemens Desigo system has been selected as LBNL&#39;s campus-standard fire alarm platform for this Project, no substitutions will be considered. Using one common platform supports compatibility with the existing mix of field devices, loops, and conventional circuits, and simplifies maintenance, training, and future parts availability across the site. \n\n The existing fire alarm wiring in the four buildings will generally remain in place. This Project replaces the central control equipment, not the complete building fire alarm systems. Fire alarm annunciation and notification devices and the StarLink cabinets themselves are not being replaced under this Project; StarLink cabinets will be relocated only as needed to follow the panels. \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

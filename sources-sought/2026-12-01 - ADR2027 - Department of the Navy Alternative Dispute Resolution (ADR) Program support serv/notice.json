@@ -1,0 +1,33 @@
+{
+  "noticeId": "28ace8aaf4a945ed965ba72307f97d81",
+  "solicitationNumber": "ADR2027 ",
+  "title": "Department of the Navy Alternative Dispute Resolution (ADR) Program support services",
+  "naics": "611430",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-01T20:00:00+00:00",
+  "state": "DC",
+  "city": "Washington Navy Yard",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP GLOBAL LOGISTICS SUPPORT > NAVSUP FLC NORFOLK > NAVSUP FLT LOG CTR NORFOLK",
+  "contacts": [
+    {
+      "name": "Alexsis Morgan",
+      "email": "alexsis.d.morgan.civ@us.navy.mil",
+      "phone": "7712292302"
+    },
+    {
+      "name": "Matthew Forsythe",
+      "email": "matthew.r.forsythe.civ@us.navy.mil",
+      "phone": "7712293034"
+    }
+  ],
+  "files": [
+    {
+      "name": "Sources Sought_RFI notice-ADR.pdf",
+      "result": "270 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Department of the Navy Alternative Dispute Resolution (ADR) Program is seeking to identify qualified and experienced business sources that can provide dispute resolution services, including neutrals to provide conflict management support, and training development and/or delivery. \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

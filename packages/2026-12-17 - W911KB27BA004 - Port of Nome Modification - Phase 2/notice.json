@@ -1,0 +1,45 @@
+{
+  "noticeId": "b4f0352db0c84e299a293f5562672335",
+  "solicitationNumber": "W911KB27BA004",
+  "title": "Port of Nome Modification - Phase 2",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-17T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST ALASKA",
+  "contacts": [
+    {
+      "name": "Jennifer Gosh",
+      "email": "jennifer.gosh@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "George Nasif",
+      "email": "george.g.nasif@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "f6ae32a60d6244d089b0796017114da4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ed38ea919e414e9fb117bbdc2ad65067",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8bc31722616f4fa1a108ffbae7f69e22",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "230127c4f95e417f9a660c827ee22a60",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Project Title: Port of Nome Modification - Phase 2 Project Location: Nome, Alaska NAICS: 237990, Size Standard: $37,000,000 Full and Open Competition Invitation for Bid with Definitive Responsibility Criteria DPAS Rating: DO-C2, Refer to Clause FAR 52.211-15, Defense Priority and Allocation Requirements Description of Work: The Port of Nome Modification - Phase 2 project consists of unclassified dredging to establish a new deepwater basin and expand the existing outer basin at the Port of Nome. The base item includes dredging approximately 578,000 cubic yards of material at a design depth of -40 feet MLLW with a 2.0-foot allowable dredging tolerance (overdepth) establishing a maximum pay line of -42.0 feet MLLW. The option item includes dredging approximately 346,000 cubic yards to a design depth of -28 feet MLLW, with a 1.0-foot allowable dredging tolerance establishing a maximum pay line of -29.0 feet MLLW. Dredging will occur directly against the newly constructed Opencell sheet pile docks. All dredged material will be placed in a designated nearshore placement area. The contractor shall comply with commercial and industry standards as well as all applicable federal, state, and local laws, regulations, and procedures. The type of contract shall be firm-fixed price. Construction Wage Rates (formerly Davis-Bacon Act wage rates) shall apply. ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

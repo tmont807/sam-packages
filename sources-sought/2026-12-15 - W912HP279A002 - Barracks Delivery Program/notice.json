@@ -1,0 +1,45 @@
+{
+  "noticeId": "f65f7d77aa7f4d249feb9c32320e3470",
+  "solicitationNumber": "W912HP279A002",
+  "title": "Barracks Delivery Program",
+  "naics": "236220",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-15T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT CHARLESTO",
+  "contacts": [
+    {
+      "name": "Lauren Minzenberger",
+      "email": "LAUREN.O.MINZENBERGER@USACE.ARMY.MIL",
+      "phone": "8433298020"
+    },
+    {
+      "name": "Brandon Lewis",
+      "email": "Brandon.H.Lewis@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "244befa44d09420f8b1d484db872d245",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b63eacb6adea473983df436f5cc2d4ed",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0846d058251640b59ce58e49c6b3b398",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "93053bc9aead46f0a2239f84b5b2a01e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The U.S. Army Corps of Engineers (USACE) is conducting market research regarding scalable approaches for planning, design, engineering, repair by replacement, and construction of barracks projects. This is a request for information only; it is not a solicitation, proposal request, commitment to award, or commitment to reimburse response costs. This notice is solely for information and planning purposes, to help the Government identify relevant market participants and commercial solution types to assess suitability for the potential future use of construction projects authorized by Title 10 U.S.C. Section 2808a: Facility construction or repair: transactions other than contracts and grants.  ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "noticeId": "0fa8a35e5a85495a973b109815840c81",
+  "solicitationNumber": "N6660427Q0077",
+  "title": "NUWCDIVNPT-Construction-Vaporizer Enclosure (Design-Build)",
+  "naics": "236220",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-17T19:00:00+00:00",
+  "state": "RI",
+  "city": "Newport",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NUWC DIV NEWPORT",
+  "contacts": [
+    {
+      "name": "Michael Ouellette",
+      "email": "michael.n.ouellette.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "ALEXANDER OLARTE",
+      "email": "alexander.olarte2@navy.mil",
+      "phone": "4018322648"
+    }
+  ],
+  "files": [
+    {
+      "name": "Attachment_6_SITE VISIT INSTRUCTIONS .pdf",
+      "result": "336 KB"
+    },
+    {
+      "name": "Attachment_5 Generator Usage Log.pdf",
+      "result": "1120 KB"
+    },
+    {
+      "name": "Attachment_4- Hazmat Usage Log.pdf",
+      "result": "1805 KB"
+    },
+    {
+      "name": "Davis Bacon WD RI20260001_10_1_2026.pdf",
+      "result": "6014 KB"
+    },
+    {
+      "name": "Attachment_1_and _2_ Specification and Drawings- Design-Build (SOW).pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "N6660427Q0077.pdf",
+      "result": "322 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "  INSTRUCTIONS TO REQUEST ACCESS TO RESTRICTED DOCUMENTS  \n\n Bidders must submit an access request through the SAM.gov &quot;Controlled&quot; document access system. To be approved for access, the Contractor must satisfy the following criteria: \n\n STEP 1: SUBMIT THE ACCESS REQUEST IN SAM.GOV \nIn SAM.gov, locate the &quot;Controlled&quot; attachments under the &quot;Attachments&quot; section of this solicitation and click &quot;Request Access.&quot; \n\n STEP 2: PROVIDE CAGE CODE AND CMMC UNIQUE IDENTIFIER (UID) \nIn the &quot;Reason for Access&quot; text field, you MUST provide the following details: \n\n \n\t Active Company CAGE Code (Must be active in SAM.gov). \n\t Company CMMC Unique Identifier (UID) / SPRS Entry ID. \n \n\n  CYBERSECURITY MANDATE (DFARS 252.204-7019 / NIST SP 800-171)  \n\n Bidders are strictly cautioned that this project incorporates DFARS 252.204-7019 (Notice of NIST SP 800-171 DoD Assessment Requirements). \n\n In accordance with DFARS 252.204-7019, the Contracting Officer is legally prohibited from awarding this contract to any bidder who does not have an active NIST SP 800-171 assessment score posted in SPRS at the time of award evaluation. Bidders are encouraged to ensure their SPRS postings are current (completed within the last 3 years) prior to proposal submission. \n\n  POINTS OF CONTACT (POC)  \n\n If you experience technical issues requesting access through SAM.gov, please contact the SAM.gov Help Desk. For contractual, legal, or project-specific inquiries, contact the following individuals immediately: \n\n &nbsp;Michael Ouellette - Michael.N.Ouellette.civ@us.navy.mil \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

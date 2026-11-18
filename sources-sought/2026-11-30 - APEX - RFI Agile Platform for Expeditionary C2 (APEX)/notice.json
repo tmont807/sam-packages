@@ -1,0 +1,45 @@
+{
+  "noticeId": "7858b4588f2347a78f3f7a2d58f66e7c",
+  "solicitationNumber": "APEX",
+  "title": "RFI: Agile Platform for Expeditionary C2 (APEX)",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "NONE",
+  "due": "2026-11-30T22:00:00+00:00",
+  "state": "IL",
+  "city": "Scott AFB",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > FA2318  AFLCMC HBMK",
+  "contacts": [
+    {
+      "name": "Mikayla Sequeira",
+      "email": "mikayla.sequeira@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Venezia Delgadillo",
+      "email": "venezia.delgadillo@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "APEX RFI QandA_2.pdf",
+      "result": "31 KB"
+    },
+    {
+      "name": "APEX RFI QandA.pdf",
+      "result": "56 KB"
+    },
+    {
+      "name": "Agile Platform for Expeditionary C2 (APEX) Statement of Objectives (SOO).pdf",
+      "result": "311 KB"
+    },
+    {
+      "name": "Agile Platform for Expeditionary C2 (APEX) RFI.pdf",
+      "result": "240 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Air Force Life Cycle Management Center (AFLCMC) Command, Control, Communications \nand Battle Management (C3BM) Operating Location 2 (OL-2) is executing Software \nDevelopment Lifecyle Management for Air Mobility Command&rsquo;s (AMC) Rapid Global Mobility \nCommand and Control (RGM C2) Program, that leverages technical solutions and practices for \nall Air Force Transportation (AFTRANS) operations. AMC is the air component of United States \nTransportation Command (USTRANSCOM), providing air refueling, cargo, and personnel \ndelivery globally. AMC is also the Air Force Lead Command and Core Function Lead for RGM \nC2. To effectively support the Joint Force, the MAF must globally command, control, and \ncollaborate, navigate in degraded or operationally limited environments, conduct enroute logistics \nwhile under attack, and operate at the highest required tempo. This requires global situational \nawareness through collaboration, coordinated operations, and adherence to processes that \naccomplish Combatant Commander objectives. \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

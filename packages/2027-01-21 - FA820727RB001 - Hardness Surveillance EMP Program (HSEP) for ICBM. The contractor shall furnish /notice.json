@@ -1,0 +1,49 @@
+{
+  "noticeId": "44833f90d7d14d7294ab989166fe251f",
+  "solicitationNumber": "FA820727RB001",
+  "title": "Hardness Surveillance EMP Program (HSEP) for ICBM. The contractor shall furnish all equipment required to perform HSEP testing to include High altitude burs pulser that is approved and certified for nuclear safety by the Government IAW PWS.",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-21T00:00:00+00:00",
+  "state": "UT",
+  "city": "Hill Air Force Base",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE NUCLEAR WEAPON CENTER > STRATEGIC SYSTEMS-AFNWC > FA8207  AFNWC PZBC",
+  "contacts": [
+    {
+      "name": "Kyle McDermott",
+      "email": "klye.mcdermott.1@us.af.mil",
+      "phone": null
+    },
+    {
+      "name": "Brent Michelson",
+      "email": "brent.michelson@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "AFNWC_NIM_ General Dynamics Mission Systems_FA8207-27-R-B00_ORG_DD 254.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "GFPFA820727RB001.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "HSEP Follow-On CDRL Package 16 Nov 2026.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "CUI_FY27 HSEP PWS_RFP Release.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Solicitation - FA820727RB001.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Hardness Surveillance EMP Program (HSEP) for ICBM. The contractor shall furnish all equipment required to perform HSEP testing to include High altitude burs pulser that is approved and certified for nuclear safety by the Government IAW PWS. \n\n Hardness Surveillance Electromagnetic Pulse (HSEP) Program which includes engineering services, testing services, and technical support to test, surveil and ensure the resilience of the MMIII missile systems against electromagnetic pulse attacks. \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

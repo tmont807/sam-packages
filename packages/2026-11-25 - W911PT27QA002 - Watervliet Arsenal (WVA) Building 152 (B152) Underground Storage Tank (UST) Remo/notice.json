@@ -1,0 +1,45 @@
+{
+  "noticeId": "a98a116440db4351aa4a2f061619e8f9",
+  "solicitationNumber": "W911PT27QA002",
+  "title": "Watervliet Arsenal (WVA) Building 152 (B152) Underground Storage Tank (UST) Removal and Replacement",
+  "naics": "562910",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-25T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > ACC-CTRS > ACC WRN > W6QK ACC WVA",
+  "contacts": [
+    {
+      "name": "Michael Gross",
+      "email": "michael.e.gross28.civ@army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Joseph Pokrentowski",
+      "email": "joseph.s.pokrentowski.civ@army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "9cd3cfbbf203478da8f0b6238dc30d0d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9f6dc221a24d4d23becd05333defb128",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0a80cac695ad486d88b51793eb6ba1b2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3485f8a9f96a4204b769f0718bf10cda",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "See attached Request for Quote W911PT-27-Q-A002 for complete details.  Response due date is revised in the PIEE Solicitation page to match the date listed in the RFQ.   ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

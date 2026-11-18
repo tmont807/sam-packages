@@ -1,0 +1,56 @@
+{
+  "noticeId": "8f893558c339403181947a52cab889fe",
+  "solicitationNumber": "2027-R-007",
+  "title": "U.S. Senate Wellbeing Application",
+  "naics": "541519",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T22:00:00+00:00",
+  "state": "DC",
+  "city": "",
+  "agency": "SENATE, THE > THE UNITED STATES SENATE SERGEANT AT ARMS > SENATE SERGEANT AT ARMS",
+  "contacts": [
+    {
+      "name": "Tonia Courtney",
+      "email": "zemirah_courtney@saa.senate.gov",
+      "phone": "2022240120"
+    }
+  ],
+  "files": [
+    {
+      "name": "Questions and Answers.xlsx",
+      "result": "33 KB"
+    },
+    {
+      "name": "2027-R-007 Wellbeing App_Amendment 001.pdf",
+      "result": "550 KB"
+    },
+    {
+      "name": "Attachment 1 - Pricing Table_Amendment 001.xlsx",
+      "result": "31 KB"
+    },
+    {
+      "name": "Attachment 2 - Past Performance Questionnaire.pdf",
+      "result": "574 KB"
+    },
+    {
+      "name": "Attachment 3- Section 208 Compliance Certificate.pdf",
+      "result": "115 KB"
+    },
+    {
+      "name": "Attachment 4 - Addendum to Commercial Agreements.pdf",
+      "result": "178 KB"
+    },
+    {
+      "name": "Attachment 5 - Senate Delivery Procedures.pdf",
+      "result": "163 KB"
+    },
+    {
+      "name": "Attachment 6 - Standard Operating Procedures for Cybersecurity.pdf",
+      "result": "1215 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Amendment 001 provides the Q&amp;A and updates to the Solicitation, Pricing Worksheet, Past Performance Questionnaire. The Proposal and Past Performance Questionnaire due date is extended to December 4, 2026.&nbsp; No other changes have been made. \n\n The United States Senate office of the Sergeant at Arms (SAA) requires a Contractor to provide, implement, configure, host, maintain, and support a secure, fully customizable employee wellbeing application that serves as a centralized digital portal for organization-approved wellbeing programs, resources, events, educational opportunities, and engagement activities. \n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

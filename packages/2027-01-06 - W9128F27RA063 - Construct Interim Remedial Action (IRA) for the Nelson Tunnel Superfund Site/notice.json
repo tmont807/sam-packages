@@ -1,0 +1,40 @@
+{
+  "noticeId": "15c639dad71c47d2bc2c4be1cceb8afd",
+  "solicitationNumber": "W9128F27RA063",
+  "title": "Construct Interim Remedial Action (IRA) for the Nelson Tunnel Superfund Site",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-06T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NWD > W071 ENDIST OMAHA",
+  "contacts": [
+    {
+      "name": "Jeffrey Wyant",
+      "email": "jeffrey.w.wyant@usace.army.mil",
+      "phone": "4029952071"
+    }
+  ],
+  "files": [
+    {
+      "name": "c238dd4c73b14ed9a3c0916fe14eee6b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "857f168bd4f94b6abd1d52753e77e93b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f460b96cbd9a477984ec13531b81d329",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0836bdedfb1e49aea33bd87b442b8e19",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "NOTE:  SOLICITATION W9128F27RA063 is associated with Pre-Solicitation Notice W9128F27RA056.The project is to construct a bypass adit that connects into Nelson Tunnel at a sufficient distance from the surface to allow for installation of a flow-through hydraulic bulkhead at the Nelson Tunnel superfund site in the San Juan Mountains near Creede, CO. PROJECT DESCRIPTION: Construction Services for the Nelson Tunnel/Commodore Waste Rock Site (Nelson Tunnel Site or Site), the focus of the interim remedial action (IRA), consists of an abandoned underground hard rock mine and drainage tunnel with several shafts, crosscuts and drafts branching off the main tunnel. The remedial action objective of the RA is to reduce the likelihood of a large, uncontrolled release of mine-impacted water from mine pools impounded within the Nelson Tunnel. The selected alternative for the Nelson Tunnel Interim Record of Decision (IROD) is to construct a bypass adit that connects into Nelson Tunnel at a sufficient distance from the surface to allow for installation of a flow-through hydraulic bulkhead within Nelson Tunnel.The IROD selected remedy is Alternative 4, Drive New Adit to Intersect Nelson Tunnel, Tunnel Rehabilitation, Install Bulkhead in Nelson Tunnel and Flow Control Structure in Commodore 5 level and include the following remedial components. Installation of a new adit south of Nelson Tunnel, to bypass the Nelson Tunnel Portal Pool.  Rehabilitation of Nelson Tunnel from the bypass adit connection to the location where bulkhead construction is planned. Installation of a flow control bulkhead in Nelson Tunnel to protect against a sudden uncontrolled release through Nelson Tunnel. Installation of an accessible bulkhead flow control structure in the Commodore 5 level to protect against a sudden uncontrolled release through this level. The solicitation is UNRESTRICTED AND OPEN TO BOTH LARGE AND SMALL BUSINESS PARTICIPATION. The acquisition approach for this project will be Best Value Tradeoff following the Federal Acquisition Regulation (FAR) Part 15 procedures. All contractors must be registered and have an active and verified account in the System for Award Management (SAM) in order to receive a contract award from any DoD activity. Contractors may access the Internet site at: https://www.sam.gov/ to register and/or obtain information about the SAM program. Contractors must ensure that the applicable NAICS code 237990 is included in their profile prior to submission of offers.  ",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}

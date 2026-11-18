@@ -1,0 +1,36 @@
+{
+  "noticeId": "5ab20ea53d054fd8af4016f010a48827",
+  "solicitationNumber": "36C24227Q0136",
+  "title": "J065--FY27 SERVICES (BASE+4) Surgical Instrument Repair Services  SPS VA NYHHS (VA-27-00005978)",
+  "naics": "811210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-17T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > 242-NETWORK CONTRACT OFFICE 02 (36C242)",
+  "contacts": [
+    {
+      "name": "Michelle  Harsch (Contractor)",
+      "email": "michelle.harsch@va.gov",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "MANHATTAN SPS CONTAINER INVENTORY.xlsx",
+      "result": "18 KB"
+    },
+    {
+      "name": "BROOKLYN SPS CONTAINER INVENTORY.xlsx",
+      "result": "15 KB"
+    },
+    {
+      "name": "36C24227Q0136.docx",
+      "result": "125 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Surgical Instrument Maintenance and Repair Services.\n",
+  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+}
