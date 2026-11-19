@@ -1,0 +1,28 @@
+{
+  "noticeId": "0b41b6e4b103455586bf6ed49031f860",
+  "solicitationNumber": "FEMA_2026_Direct_Housing_Modernization_Capabilities_RFI",
+  "title": "FEMA Request for Information - Direct Housing Modernization Capabilities",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "NONE",
+  "due": "2026-12-18T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "HOMELAND SECURITY, DEPARTMENT OF > FEDERAL EMERGENCY MANAGEMENT AGENCY > FEMA",
+  "contacts": [
+    {
+      "name": "Rachel Woods",
+      "email": "Rachel.Woods@fema.dhs.gov",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "FEMA 2026 Direct Housing Modernization Capabilities RFI.pdf",
+      "result": "179 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "  This Request for Information (RFI) is for Market Research purposes ONLY.&nbsp;&nbsp;&nbsp;Please read the notice and attachment in full. Please limit questions to those directly related to the posted RFI Notice and the information requested therein. Questions submitted in response to this RFI Notice may not receive a response.&nbsp; Questions outside the scope of this notice, including matters unrelated to the stated capability requirements, will not receive a response.&nbsp; The Government will consider only questions that are directly relevant to the notice and the requested capability information. If responses are provided, relevant questions and Government responses, if any, will be posted to Sam.gov ONLY after the Request for Information Notice has closed.&nbsp;  \n\n  RFI RESPONSE SUBMITTAL INSTRUCTIONS : Interested contractors shall submit Questions and RFI responses electronically to the Contracting Officer, at  Rachel.Woods@fema.dhs.gov  no later than  12:00PM Eastern Time (ET), December 18, 2026 .  Phone calls will not be accepted.  \n\n This Request for Information (RFI) is issued in accordance with Revolutionary Federal Acquisition Regulations Overhaul (RFO) 15.101(c). This RFI does not constitute a Request for Proposal (RFP), Invitation for Bid (IFB), or Request for Quotation (RFQ), and it is not to be construed as a commitment by the Government to enter into a contract, nor will the Government pay for the information submitted in response to this request. All information contained in this RFI is preliminary and is subject to change if, and when, a solicitation is issued. Responses to this notice are not offers and cannot be accepted by the U.S. Government to form a binding contract. If a competitive solicitation is released, it will be synopsized on the System for Award Management (SAM.gov) website. It is the responsibility of the interested parties to monitor this site for additional information pertaining to this RFI, or future solicitations. \n\n The Department of Homeland Security, Federal Emergency Management Agency, Office of Direct Housing Operations, is conducting market research to identify and seek capabilities from industry in five primary functional areas: \n\n   Automated Real Estate Aggregation and Vacancy Sourcing   \n\n - Automated discovery and ingestion of residential rental property listings via Multiple Listing Services (MLS), property management software APIs, commercial rental boards, and direct landlord entry portals. \n\n - Real-time vacancy validation to prevent matching against obsolete or unavailable listings. \n\n - Rapid geo-fencing within disaster-declared zones and surrounding reasonable-commute perimeters. \n\n   Artificial Intelligence and Algorithmic Matching   \n\n - Multi-constraint matching algorithms that pair applicant household profiles with available properties in seconds. \n\n - Multi-point geospatial proximity optimization factoring in school district retention, work commutes, medical/provider travel distance, and essential services. \n\n - Household composition sizing aligned with HUD Housing Quality Standards (HQS) and FEMA occupancy guidelines. \n\n   Automated Physical Accessibility Verification   \n\n - Algorithmic filtering and computer vision inspection tools capable of evaluating floor plans, entry photos, and property specifications against UFAS and ADA physical accessibility standards. \n\n - Rapid identification of barrier-free environments, ramps, ground-floor units, grab bars, and wheelchair-accessible kitchens and bathrooms. \n\n   Landlord Engagement and Leasing Workflow Automation   \n\n - Automated outreach tools and self-service portals for landlords to submit properties, accept lease terms, and coordinate inspections. \n\n - Integration with standard government lease templates and automated electronic signature workflows. \n\n   Secure Federal Architecture   \n\n - Enterprise data security architecture compliant with the Federal Information Security Modernization Act (FISMA) at the Moderate impact baseline. \n\n - FedRAMP-authorized cloud hosting (or capability to achieve FedRAMP Moderate/High authorization). \n\n - Strict data protection for Sensitive Personally Identifiable Information (PII) belonging to disaster survivors. \n\n  NAICS CODE : 541512 (Computer Systems Design Services) / 531210 (Offices of Real Estate Agents and Brokers) \n\n  PRODUCT SERVICE CODE (PSC) : X1FA, Lease/Rental of Family Housing Facilities \n\n  ANTICIPATED PERIOD OF PERFORMANCE START DATE : TBD \n\n  RFI RESPONSE SUBMITTAL INSTRUCTIONS : Interested contractors shall submit Questions and RFI responses electronically to the Contracting Officer, at  Rachel.Woods@fema.dhs.gov  no later than  12:00PM Eastern Time (ET), December 18, 2026 . Phone calls will not be accepted. \n\n   Please see the attachment for further instructions and information.&nbsp;   \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

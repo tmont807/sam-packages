@@ -1,0 +1,37 @@
+{
+  "noticeId": "a3f827fd8cf14b86af2d46b6e058e8f1",
+  "solicitationNumber": "16PBGC26Q0041",
+  "title": "Insurance Rate Survey Subscription",
+  "naics": "541990",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "NONE",
+  "due": "2026-12-04T15:00:00+00:00",
+  "state": "DC",
+  "city": "Washington",
+  "agency": "PENSION BENEFIT GUARANTY CORPORATION > PENSION BENEFIT GUARANTY CORPORATION > PENSION BENEFIT GUARANTY CORP",
+  "contacts": [
+    {
+      "name": "Au Nguyen",
+      "email": "nguyen.au@pbgc.gov",
+      "phone": ""
+    },
+    {
+      "name": "Matt Walton",
+      "email": "walton.matthew@pbgc.gov",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "06 RFQ.pdf",
+      "result": "1535 KB"
+    },
+    {
+      "name": "06 RFQ Attachment 1 Price Schedule.xlsx",
+      "result": "22 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Please see attached RFQ. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "noticeId": "fa6dfbb73f6c4459b42a428f418e6a75",
+  "noticeId": "082e06bcce9e4345a34fb390878c7b35",
   "solicitationNumber": "36C24127Q0037",
   "title": "R614--Shredding Contract-Bedford",
   "naics": "561990",
@@ -18,6 +18,14 @@
   ],
   "files": [
     {
+      "name": "36C24127Q0037 0003.docx",
+      "result": "31 KB"
+    },
+    {
+      "name": "36C24127Q0037 0002.docx",
+      "result": "140 KB"
+    },
+    {
       "name": "36C24127Q0037 0001.docx",
       "result": "163 KB"
     },
@@ -26,5 +34,7 @@
       "result": "190 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": "Amendment 003\n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
 }

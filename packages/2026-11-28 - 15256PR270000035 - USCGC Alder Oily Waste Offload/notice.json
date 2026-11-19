@@ -1,0 +1,33 @@
+{
+  "noticeId": "6e3540b74cfd4c3183147846a1322ad1",
+  "solicitationNumber": "15256PR270000035",
+  "title": "USCGC Alder Oily Waste Offload",
+  "naics": "562112",
+  "type": "Solicitation",
+  "setAside": "NONE",
+  "due": "2026-11-28T01:00:00+00:00",
+  "state": "CA",
+  "city": "San Francisco",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Christopher Laterza",
+      "email": "christopher.p.laterza@uscg.mil",
+      "phone": "801-390-8106"
+    },
+    {
+      "name": "Danny Chi",
+      "email": "danny.a.chi@uscg.mil",
+      "phone": "707-732-1300"
+    }
+  ],
+  "files": [
+    {
+      "name": "USCGC Alder - Oily Waste Offload_SAM.gov Solicitation.docx",
+      "result": "72 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "  The project is for an Oily Waste Offload from the USCGC Alder (WLB-216), located at USCG Sector San Francisco, 1 Yerba Buena Island, San Francisco, CA. 94130.   \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

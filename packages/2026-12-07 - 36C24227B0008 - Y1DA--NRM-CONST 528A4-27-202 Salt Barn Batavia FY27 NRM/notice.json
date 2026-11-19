@@ -1,5 +1,5 @@
 {
-  "noticeId": "6e76a0b1402f46a49ec6e7b0800ba890",
+  "noticeId": "fc4b623771fe49548ec35cbe0d91f691",
   "solicitationNumber": "36C24227B0008",
   "title": "Y1DA--NRM-CONST | 528A4-27-202 Salt Barn Batavia | FY27 NRM",
   "naics": "236220",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "Salt Barn Batavia Sign in Sheet.pdf",
+      "result": "178 KB"
+    },
+    {
+      "name": "36C24227B0008 0002.docx",
+      "result": "17 KB"
+    },
     {
       "name": "36C24227B0008 0001.docx",
       "result": "17 KB"
@@ -51,6 +59,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "AMENDMENT TO IFB \n",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "description": "SITE VISIT SIGN IN SHEET \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
 }

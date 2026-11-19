@@ -1,0 +1,40 @@
+{
+  "noticeId": "2c15129c4e7a42b59cbfcb7ac07c98c9",
+  "solicitationNumber": "FA822227QVXG1",
+  "title": "Keysight Vector Signal Generator",
+  "naics": "541519",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-27T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE SUSTAINMENT CENTER > FA8222  AFSC PZIE",
+  "contacts": [
+    {
+      "name": "Austin Hurst",
+      "email": "austin.hurst.2@us.af.mil",
+      "phone": "8017753551"
+    }
+  ],
+  "files": [
+    {
+      "name": "85464e585dc04c5bb375e175fbcf213a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d223177496af41a188b9887053919eb6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e2d2c529e25a42a4861ad226be0183e6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "268827497c094b4f851245b0ab5bf9e2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This acquisition supports the F-16 Block 30 and F-16 Block 50 programs under the 518th Software Engineering Squadron(SWES). The requirement is for a Keysight M9484C VXG Vector Signal Generator, including the specified options/add-ons.This acquisition is intended as a sole source award to Keysight. See attached justification for more information.The government will consider potential alternatives submitted in response to this RFQ.  ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "noticeId": "b5d1a1c25ab146c4825dd115818af990",
+  "solicitationNumber": "REQUIREMENTS-27-0637",
+  "title": "NEFSC - Milford Lab Main Building Structural Assessment and Temporary Shoring",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T20:00:00+00:00",
+  "state": "CT",
+  "city": "",
+  "agency": "COMMERCE, DEPARTMENT OF > NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION > DEPT OF COMMERCE NOAA",
+  "contacts": [
+    {
+      "name": "Kelsey Hendrix",
+      "email": "kelsey.hendrix@noaa.gov",
+      "phone": null
+    },
+    {
+      "name": "Rachel Stone",
+      "email": "rachel.stone@noaa.gov",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "REQUIREMENTS-27-0637 Draft SOW.pdf",
+      "result": "223 KB"
+    },
+    {
+      "name": "REQUIREMENTS-27-0637 SSN.pdf",
+      "result": "178 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The NEFSC is seeking a contractor to provide structural engineering services to evaluate multiple instances of observed structural distress within Building # 1 at the National Marine Fisheries Service (NMFS) Northeast Fisheries Science Center (NEFSC) Milford Lab in Milford, Connecticut. The Contractor will perform a comprehensive structural assessment, provide an inspection report, deliver a temporary shoring design using Government Furnished post shores, and implement a monitoring program. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

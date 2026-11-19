@@ -1,0 +1,45 @@
+{
+  "noticeId": "67fa006bcdab4fb290871d3e64c7b155",
+  "solicitationNumber": "FA860127R0009",
+  "title": "FA8601 Auto Sampler Maintenance and Repair",
+  "naics": "811210",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-07T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE LIFE CYCLE MANAGEMENT CENTER > FA8601  AFLCMC PZIO",
+  "contacts": [
+    {
+      "name": "ASHLEY SCHNEIDER",
+      "email": "ashley.schneider.2@us.af.mil",
+      "phone": "3856356724"
+    },
+    {
+      "name": "EDWARD HUCHISON",
+      "email": "edward.huchison@us.af.mil",
+      "phone": "3856344089"
+    }
+  ],
+  "files": [
+    {
+      "name": "40708cc704374c4ca3cec7495a55ebc2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5da1273aba434bfb831a3f9d491a0776",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "513b9e2ed3cf486aad3a44a211e4f5a3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "13d0f2ef8529447b94e8792053acff56",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "COMBINED SYNOPSIS / SOLICITATION NOTICE: This is a combined synopsis and solicitation (synopsitation hereafter), which is expected to result in award of a Firm Fixed Price blanket purchase agreement for commercial services, i.e. Auto Sampler Maintenance and Repair as described in the Performance Work Statement (Attachment 1). The synopsitation is prepared in accordance with the format in the Revolutionary FAR Overhaul (RFO) Subpart 12.202, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation; proposals are being requested and a written solicitation will not be issued. An award, if any, will be made to the responsible offeror who submits a proposal that (1) conforms to the requirements of the synopsitation; (2) receives a rating of Acceptable on the Technical Capability evaluation factor (Attachment 3); and (3) submits the proposal with the lowest total evaluated price (TEP), provided that the TEP is not unbalanced and is fair and reasonable. The Government reserves the right to award without discussions or make no award at all depending upon (1) the quality of proposals received and (2) the price fair and reasonableness of proposals received.- Synopsitation Number: FA860127R0009- NAICS Code: 811210- Small Business Size Standard: $34M- Set-Aside: N/A (Unrestricted / Full and Open)- Synopsitation Closing Date: Proposals must be received not later than 1:00pm Eastern, 7 January 2027.PROPOSAL SUBMISSION: Submit electronic proposals exclusively via the PIEE Solicitation Module at https://piee.eb.mil under solicitation number FA860127R0009. Offerors must be registered in PIEE and possess the Proposal Manager role. Emailed proposals are NOT authorized and will not be evaluated. QUESTIONS AND CORRESPONDENCE: Submit all pre-proposal questions and administrative correspondence via e-mail to: ashley.schneider.2@us.af.mil and edward.huchison@us.af.mil. Any correspondence sent via e-mail must contain the subject line FA860127R0009 Auto Sampler Maintenance and Repair. Do not send proposals via email. Emails shall not exceed 15 megabytes including attachments, if any. E-mails with compressed files are not permitted. Note that e-mail filters at Wright-Patterson Air Force Base are designed to filter e-mails without subject lines or with suspicious subject lines or contents (i.e., .exe or .zip files). Therefore, if the specified subject line is not included, the e-mail may not get through the e-mail filters. Also be advised that .zip or .exe files are not allowable attachments and may be deleted by the email filters at Wright-Patterson. If sending attachments with email, ensure only .pdf, .doc, .docx, .xls or .xlsx documents are sent. The email filter may delete any other form of attachments. Address questions regarding this synopsitation to Ashley Schneider at ashley.schneider.2@us.af.mil. A detailed description of the requirement including a draft contract with line items, delivery schedule, period of performance, inspection and acceptance information, other terms and conditions, provisions and clauses, representations and certifications, specific instructions for submission of proposals, an explanation of how proposals will be evaluated, performance work statement, and wage determinations, are provided in the attached documents. Upon award, any provisions that were in the draft contract (including representations and certifications) will be removed from the award document. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

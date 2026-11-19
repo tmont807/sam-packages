@@ -1,0 +1,37 @@
+{
+  "noticeId": "ae1b453507cb4f65a4607e0c8463052a",
+  "solicitationNumber": "FA480027S0010",
+  "title": "Facility 1345 Demo",
+  "naics": "238910",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-11-25T20:00:00+00:00",
+  "state": "VA",
+  "city": "Langley AFB",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR COMBAT COMMAND > FA4800  633 CONS PKP",
+  "contacts": [
+    {
+      "name": "Antonio Palmer",
+      "email": "antonio.palmer@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Viv Castillo",
+      "email": "viviana.castillo_ramirez@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Sources Sought Facility 1345 Demo.pdf",
+      "result": "127 KB"
+    },
+    {
+      "name": "SOW 23-9004 Demolish Fire Training Bldg Facility 1345.pdf",
+      "result": "1528 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The 633 Contracting Squadron has a need to acquire non-personnel services to provide Contractor services to demolish a Fire Training Building, Facility 1345, located at Joint Base Langley-Eustis (JBLE) - Langley, Virginia. \n\n This is not a formal Request for Quote (RFQ), and no contract will result from this notice, nor does it commit the Government to any acquisition for these services. The Government plans to consider all information submitted in response to this Sources Sought Notice. Your response will be used solely for market research purposes in the formulation of an acquisition strategy as applicable. \n\n Please refer to the attached documentation for detailed requirements and response instructions. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

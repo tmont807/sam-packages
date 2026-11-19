@@ -1,0 +1,40 @@
+{
+  "noticeId": "b2d8908cb15948f49b83052c8fec1a2b",
+  "solicitationNumber": "N5005427Q0015",
+  "title": "Tank and Parts Washer Cleaning and Desludging Services",
+  "naics": "562998",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T12:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > REGIONAL MAINTENANCE CENTER > MID ATLANTIC REG MAINT CTR",
+  "contacts": [
+    {
+      "name": "Erin Behrns",
+      "email": "erin.m.behrns.civ@us.navy.mil",
+      "phone": "7577623346"
+    }
+  ],
+  "files": [
+    {
+      "name": "89993688e5ac4c728325ebce824d319b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5fe67b9944fe4af3acf641f54a08ddf8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f0be8fcf79e24371afaa08c32289ecb7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "81b95eb4dd784e5a92fc18c64ebc1e8d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is a COMBINED SYNOPSIS/SOLICITATION for commercial items prepared in accordance with the information in Federal Acquisition Regulation (FAR) Part 13 using Simplified Acquisition Procedures (SAP). This announcement constitutes the only solicitation; a written solicitation will not be issued. PAPER COPIES OF THIS SOLICITATION WILL NOT BE AVAILABLE. This combined synopsis/solicitation will be posted to the System for Award Management at https://sam.gov/ and/or Procurement Integrated Enterprise Environment (PIEE) at https://piee.eb.mil. This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in FAR 12.6, as supplemented with additional information included in this notice. The RFQ number is N5005427Q0015. This solicitation documents and incorporates provisions and clauses in effect though FAC 2026-01 and the DFARS Change notice 20260507.  The Mid-Atlantic Regional Maintenance Center (MARMC) requests responses from qualified sources capable of providing the  Tank and Parts Washer Cleaning and Desludging Services that are identified in the attached Performance Work Statement (PWS). All parts shall be new. No refurbished or used parts will be accepted.  ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "fb5f3d1d407b420da2036eb58095ba0c",
+  "solicitationNumber": "SOLICITATION_NUMBER_391454",
+  "title": "SOLICITATION NUMBER 391454 \u201cHAZARDOUS AREA CLASSIFICATION REVIEW AND TRAINING SUPPORT\u201d",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-12-03T00:00:00+00:00",
+  "state": "WA",
+  "city": "Richland",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Adria Ibach",
+      "email": "adria_l_ibach@rl.gov",
+      "phone": "(509)372-3815"
+    }
+  ],
+  "files": [
+    {
+      "name": "Current Request for Proposal",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " Hanford Tank Waste Operations &amp; Closure, LLC (H2C) requests proposals for Hazardous Area Classification Review and Training Support. The requested work is in support of H2C&rsquo;s Prime Contract 89303324DEM000096 with the U.S. Department of Energy, Hanford Field Office. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

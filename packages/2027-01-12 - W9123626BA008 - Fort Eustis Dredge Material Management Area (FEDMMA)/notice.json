@@ -1,0 +1,37 @@
+{
+  "noticeId": "b68e89def757471cb81b7a79cc0bde8a",
+  "solicitationNumber": "W9123626BA008",
+  "title": "Fort Eustis Dredge Material Management Area (FEDMMA)",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2027-01-12T19:00:00+00:00",
+  "state": "VA",
+  "city": "Fort Eustis",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST NORFOLK",
+  "contacts": [
+    {
+      "name": "Michael Stevenson",
+      "email": "michael.l.stevenson@usace.army.mil",
+      "phone": "7572017233"
+    },
+    {
+      "name": "Michael Hagerty",
+      "email": "michael.hagerty@usace.army.mil",
+      "phone": "7572017303"
+    }
+  ],
+  "files": [
+    {
+      "name": "Solicitation Amendment W9123626BA008_0007.pdf",
+      "result": "3828 KB"
+    },
+    {
+      "name": "PIEE Public Posting Link",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Amendment 0007: An amendment has been made to Solicitation W9123626BA0008. Please see attachment SF30, Solicitation Amendment W9123626BA008_0007, extending the bid due date and bid opening date to 12 January and 13 January 2027, respectively. \n\n The Norfolk District, Corps of Engineers is contemplating a firm-fixed-price contract for the Design-Bid-Build construction of maintenance requirements at the Fort Eustis Dredge Material Management Area (FEDMMA), located at JBLE - Eustis with provisions to include Regrading/raising the disposal site berms to an elevation of 36 ft. The berms are currently at elevation 34 ft and have settled in a few places to below 34 ft. The work will also include the relocation of two existing spill boxes 50 - 60 feet into the disposal site. The existing access dirt and stone access ramp will need to be regraded, as well, to meet the new top-of-berm elevation. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

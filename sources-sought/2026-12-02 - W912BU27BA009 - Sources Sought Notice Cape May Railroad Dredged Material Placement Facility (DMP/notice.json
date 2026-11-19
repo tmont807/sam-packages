@@ -1,0 +1,40 @@
+{
+  "noticeId": "2332002c3e0445e1b46d55e1ae770d0f",
+  "solicitationNumber": "W912BU27BA009",
+  "title": "Sources Sought Notice: Cape May Railroad Dredged Material Placement Facility (DMPF) Maintenance Repairs",
+  "naics": "237990",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-12-02T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST PHILADELPHIA",
+  "contacts": [
+    {
+      "name": "Cierra Vega",
+      "email": "cierra.r.vega@usace.army.mil",
+      "phone": "6157367976"
+    }
+  ],
+  "files": [
+    {
+      "name": "1fc0f94c2efd4dba90338c3dc2a725b6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b34a7b83a750405e9cafe987f44a88a5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c60d45d8abab489a91de5b2cd7dfec1c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d3739b2718524b5eb1de95fa675a8ea6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "See attached, Sources Sought Notice: Cape May Railroad Dredged Material Placement Facility (DMPF) Maintenance Repairs.---- Your response to this survey is requested by 12:00 PM Eastern Time, 2 December 2026. Please send responses to this sources sought via email to Jessica Hazen at Jessica.A.Hazen@usace.army.mil and Cierra Vega at Cierra.R.Vega@usace.army.mil. Include in the title W912BU27BA009 Sources Sought Cape May Railroad DMPF as the subject line in email communications. All submitted responses must be in either Microsoft Word or Adobe pdf format. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

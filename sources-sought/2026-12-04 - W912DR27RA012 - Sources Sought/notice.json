@@ -1,0 +1,45 @@
+{
+  "noticeId": "e763679d00e049c487d76db6da452cd6",
+  "solicitationNumber": "W912DR27RA012",
+  "title": "Sources Sought",
+  "naics": "238210",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST BALTIMORE",
+  "contacts": [
+    {
+      "name": "Michael Getz",
+      "email": "michaeal.j.getz@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Sharron Grayson-Harmon",
+      "email": "sharron.l.grayson-harmon@usace.army.mil",
+      "phone": "410-962-0176"
+    }
+  ],
+  "files": [
+    {
+      "name": "c871653ddc3143bda71299b1bfc651da",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9174e695efe34b25b1a9de8a5f95e5dd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ee522fefbec34ae4b7f7c754f942048d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e893eb828bbc445591614e77757ddd7c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This is a Sources Sought Notice for DISA facility Building Automation System BAS Controller Upgrade at Fort Meade, Maryland. This notice is for market research purposes only and IS NOT a request for proposal, quotation or bid. The Government will not reimburse respondents for any costs incurred in preparation for response to this announcement. The US Army Corps of Engineers USACE, Baltimore District, is seeking sources with current relevant qualifications, experience, personnel, and capabilities for a construction project.  The US Army Corps of Engineers, Baltimore District, requests letters of interest from potential contractors. The U.S. Army Corps of Engineers, Baltimore District, requests responses from potential prime construction contractors. See attached document titled, Sources Sought Notice_DISA Conf Room Lighting for submission instructions. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

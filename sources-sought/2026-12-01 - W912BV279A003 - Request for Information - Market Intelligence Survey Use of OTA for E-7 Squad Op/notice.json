@@ -1,0 +1,40 @@
+{
+  "noticeId": "6c2241851f9d4948bee081f00a9bfbcd",
+  "solicitationNumber": "W912BV279A003",
+  "title": "**Request for Information - Market Intelligence Survey** Use of OTA for E-7 Squad Ops Facility - Tinker AFB, OK",
+  "naics": "236220",
+  "type": "Special Notice",
+  "setAside": "Unrestricted",
+  "due": "2026-12-01T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST TULSA",
+  "contacts": [
+    {
+      "name": "Melissa Hyslop",
+      "email": "melissa.d.hyslop@usace.army.mil",
+      "phone": "9186697670"
+    }
+  ],
+  "files": [
+    {
+      "name": "efd58ae771994b3297f3fdd34ee67515",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ec4630d0ba70434289adc076e0292371",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ea61ac8095244243bffc016b583898ef",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "55004425cc5d4c279535ec547bf54cdb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The U.S. Army Corps of Engineers (USACE), Tulsa District is issuing this Market Intelligence Survey. The 552 Air Control Wing Commander has a requirement to establish a secure facility for mission planning in support of bringing new capabilities to the E-3 Sentry Aircraft and E-7 Wedgetail and to relocate the 963rd and 964th operational airborne warning and control system flying squadrons. The intent is to provide a properly configured and sized facility to support multiple combat-coded squadrons with the required infrastructure and security levels to sustain combat mission readiness, training, and computer network/hardware requirements. This includes planning and executing combat training events with current, fourth-, and fifth-generation aircraft from the air and on land in direct support of the 23A system, ground control and reporting centers, and E-3/E-7 airborne warning and control system missions.  ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "noticeId": "d0c73a8627284f03b3c9474b7796ee5b",
+  "noticeId": "479d8ee8a0f44bc7a33d6955916c9e05",
   "solicitationNumber": "DISA-OTA-27-R-ICAM",
   "title": "Area of Interest (AOI) for Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) Prototype Other Transaction (OT)",
   "naics": "541519",
@@ -18,8 +18,8 @@
   ],
   "files": [
     {
-      "name": "AOI - NG E-ICAM - Amendment 0001.pdf",
-      "result": "391 KB"
+      "name": "AOI - NG E-ICAM - Amendment 0002.pdf",
+      "result": "302 KB"
     },
     {
       "name": "Attachment 1 - Desired Solution Attributes.pdf",
@@ -39,6 +39,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "  Amendment 0001 -&nbsp; The purpose of this amendment is to clarify the Area of Interest (AOI) requirements for accessing the controlled Attachment 1 - Desired Solution Attributes.&nbsp; \n\n The Defense Information Systems Agency (DISA) seeks solutions to prototype a Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) capability for the Department of War. This effort will modernize legacy identity infrastructure with a modular, cloud-hosted commercial off-the-shelf/software-as-a-service solution operating across IL5 and IL6 environments. The prototype must address the Federated Identity Provider, Automated Account Provisioning, Master Entitlement Record, and Federation Hub core capabilities. \n\n Interested parties are encouraged to review the full Area of Interest solicitation for detailed requirements. \n",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "description": "  Amendment 0002 -&nbsp; The purpose of this amendment is to update the Area of Interest (AOI) requirements due to the large number of questions received. DITCO will post the Government responses to questions received within a reasonable timeframe. Additionally, minor typographical errors were corrected.&nbsp; \n\n  Amendment 0001 -&nbsp; The purpose of this amendment is to clarify the Area of Interest (AOI) requirements for accessing the controlled Attachment 1 - Desired Solution Attributes.&nbsp; \n\n The Defense Information Systems Agency (DISA) seeks solutions to prototype a Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) capability for the Department of War. This effort will modernize legacy identity infrastructure with a modular, cloud-hosted commercial off-the-shelf/software-as-a-service solution operating across IL5 and IL6 environments. The prototype must address the Federated Identity Provider, Automated Account Provisioning, Master Entitlement Record, and Federation Hub core capabilities. \n\n Interested parties are encouraged to review the full Area of Interest solicitation for detailed requirements. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
 }

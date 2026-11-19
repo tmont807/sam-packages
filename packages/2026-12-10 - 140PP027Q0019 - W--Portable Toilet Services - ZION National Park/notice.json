@@ -1,5 +1,5 @@
 {
-  "noticeId": "c9a23b98a6c444779c58a615348ac337",
+  "noticeId": "c3b482238a254611955e9c3b63ac83fd",
   "solicitationNumber": "140PP027Q0019",
   "title": "W--Portable Toilet Services - ZION National Park",
   "naics": "562991",
@@ -17,6 +17,26 @@
     }
   ],
   "files": [
+    {
+      "name": "Sol_140PP027Q0019_Amd_0003.pdf",
+      "result": "3120 KB"
+    },
+    {
+      "name": "Monthly_Pricing_Schedule_11_18_2026_0003.xlsx",
+      "result": "44 KB"
+    },
+    {
+      "name": "MASTER_Q_A_11_18_2026_0003.xlsx",
+      "result": "120 KB"
+    },
+    {
+      "name": "Portable_Toilet_Map_(1)_0003.png",
+      "result": "3345 KB"
+    },
+    {
+      "name": "Statement_of_Work_11_18_2026_0003.docx",
+      "result": "46 KB"
+    },
     {
       "name": "Sol_140PP027Q0019_Amd_0002.pdf",
       "result": "3119 KB"
@@ -64,5 +84,5 @@
   ],
   "kind": "solicitation",
   "description": "Portable Toilet Services - ZION National Park",
-  "savedAt": "2026-11-10T22:46:42.615094+00:00"
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
 }

@@ -1,0 +1,45 @@
+{
+  "noticeId": "a994bc2ff5404050b1553208a3ae0916",
+  "solicitationNumber": "N0017827R3103",
+  "title": "B Department Operations Support",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-18T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC DAHLGREN",
+  "contacts": [
+    {
+      "name": "Sophia Somsen",
+      "email": "sophia.a.somsen.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Sean McGovern",
+      "email": "sean.t.mcgovern5.civ@us.navy.mil",
+      "phone": "5407428777"
+    }
+  ],
+  "files": [
+    {
+      "name": "8f4e1864a60349c7a4425a2713510c77",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "22cda46485ee4b42bf698aff6241887e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "39b9170411ef453b99eebed0e3872358",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ee9db88d757141b49d5911b859278214",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is the formal Request for Proposals (RFP) for Naval Surface Warfare Center Dahlgren Division (NSWCDD) Electromagnetic and Sensor Systems Department (B) Operations Support Services. This requirement is a Small Business Set-Aside for SeaPort-NxG MAC holders only. Proposals shall be submitted in accordance with the instructions detailed in the RFP and should be sent directly via the PIEE Solicitation Module. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

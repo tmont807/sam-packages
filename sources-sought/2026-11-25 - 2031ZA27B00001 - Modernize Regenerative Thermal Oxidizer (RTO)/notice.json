@@ -1,0 +1,28 @@
+{
+  "noticeId": "622efd27a6cf48589063c08d3700b96b",
+  "solicitationNumber": "2031ZA27B00001 ",
+  "title": "Modernize Regenerative Thermal Oxidizer (RTO)",
+  "naics": "238220",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-25T21:00:00+00:00",
+  "state": "TX",
+  "city": "TX - Texas",
+  "agency": "TREASURY, DEPARTMENT OF THE > BUREAU OF ENGRAVING AND PRINTING > OFFICE OF THE CHIEF PROCUREMENT OFFICER",
+  "contacts": [
+    {
+      "name": "LaQulla Williams",
+      "email": "Laqulla.Williams@bep.gov",
+      "phone": "2024862465"
+    },
+    {
+      "name": "Brandy Idemudia",
+      "email": "brandy.idemudia@bep.gov",
+      "phone": ""
+    }
+  ],
+  "files": [],
+  "kind": "sources_sought",
+  "description": " SEEKING SOURCES ONLY - The Bureau of Engraving and Printing (BEP) Western Currency Facility (WCF) is located at 9000 Blue Mound Road, Fort Worth, TX, 76131. Construction began on the WCF in 1987 and was completed in 1989. The Modernized Regenerative Thermal Oxidizer (RTO) is an air pollution control device that is required by the NSR&nbsp; \n(New Source Review) Air Permit issued by the TCEQ (Texas Commission on Environmental Quality) to treat Volatile Organic Compounds (VOC) emissions from Plate Printing presses (14), Offset presses (4), and Rotary Screen presses (4). The existing RTO was commissioned in 2010 to control VOC emissions from Plate Printing. In 2021, the Offset presses were added to the RTO system. The existing conveyance system, which currently includes ducting from each press to the roof, nine (9) roof fans, and a 48&quot; main duct on the roof, has been in place since the facility was built in the early 90s. The system has been cobbled together as presses were added in Plate Printing, which originally only housed four (4) presses, without consideration for the wholistic efficiency of the system. It is a requirement of the Clean Air Act, EPA regulations, and the WCF air permits, that an air pollution control device associated with a &quot;facility&quot; (equipment or area that is emitting air pollutants as defined by EPA) must be maintained in good condition and operated properly while the attached &quot;facilities&quot; operate.&nbsp; \nThis design/build project shall replace the RTO and the associated exhaust ventilation system: a new RTO with a modern control panel including safe PLCs and lower working voltage, a properly designed exhaust ventilation system that self-optimizes with feedback from modern performance-monitoring systems, properly sized roof fans, accessibility to clean ducting where needed, and increased voe capture efficiency to better exhaust printing areas while allowing the RTO to operate using less supplemental fuel. The new system shall also incorporate features to decrease the amount of ink and oils that get conveyed into the exhaust ventilation system causing air flow issues and damaging ducting, fans, and other system components. Natural gas usage of the new RTO shall be metered and integrated into the BEP Supervisory Control And Data Acquisition (SCADA) system.&nbsp; \nIn 2025, the existing RTO underwent several upgrades including the installation of a new, modern control panel to address obsolete components and increasingly difficult troubleshooting. This project shall set the Western Currency Facility (WCF) up for success in providing operational redundancy alongside the newly overhauled RTO that is currently operating at the facility. The entire voe exhaust ventilation system shall feed into one of two RTOs (existing or new) with the capability to divert process flow from one RTO to the other in the event one RTO shuts down for any reason. This redundancy shall enable production to continue operating while the root cause of the issue is addressed.&nbsp; \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

@@ -237,3 +237,61 @@
 | 2027-12-01 | OII-2027-133938 | U.S. FOOD & DRUG ADMINISTRATION (FDA) OFFICE OF INSPECTIONS AND INVEST | Silver Spring, MD | Unrestricted | 2 |
 | 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |
 | 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |
+
+## 2026-11-19
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-03 | HT9402-27-RFI-TCRS | TRICARE Claims Review Services (TCRS) | Aurora, CO | NONE | 0 |
+| 2026-11-23 | W519TC-27-R-B129 | Design and Construction of a Modernized Facility (Building 129 Lunch a | McAlester, OK | Unrestricted | 6 |
+| 2026-11-30 | 36C26127Q0175 | N099--Install ID Storage Shed Project Number 593-27-307 North Las Vega | North Las Vegas, NV | Unrestricted | 2 |
+| 2026-12-01 | W912BV279A003 | Request for Information - Market Intelligence Survey Use of OTA for E- |  | Unrestricted | 4 |
+| 2026-11-26 | HARBSS-2027-01 | Outdoor Fitness Facility, Building 389— Supply, Delivery, and Limited  | Homestead, FL | Unrestricted | 4 |
+| 2027-01-01 | W50S8Y26BXXXX | Sources Sought 142WG B155 AD AL Communications Annex Construction | Portland, OR | Unrestricted | 0 |
+| 2026-12-03 | 140PP027B0005 | Z--11842 PERL RENOVATE 7 PUBLIC RESTROOMS |  | Unrestricted | 0 |
+| 2026-12-16 | 70ZS0927SCLINDBAT | Feedback on CLIN Structure for Design-Build Construction Projects with | Norfolk, VA | Unrestricted | 2 |
+| 2026-11-30 | N6945027RH140 | HANGAR 140 RENOVATIONS AT NAVAL AIR STATON (NAS) JACKSONVILLE (JAX), J | Jacksonville, FL | NONE | 0 |
+| 2026-12-02 | W912EK27T0003 | Sources Sought PL84-99 Flood Repair Coal Creek 2026 Event |  | Unrestricted | 4 |
+| 2026-12-02 | W912BU27BA009 | Sources Sought Notice Cape May Railroad Dredged Material Placement Fac |  | SBA | 4 |
+| 2026-11-30 | 15B50127PR000024 | FCI Bastrop - Remove and Replace Housing Unit Roofs (10) 27Z5BB3 | TX | NONE | 3 |
+| 2026-12-04 | W912DR27RA011 | DISA Building Automation System (BAS) Controller |  | SBA | 4 |
+| 2026-12-04 | W912DR27RA012 | Sources Sought |  | SBA | 4 |
+| 2026-11-23 | W9123627X1CTA | DOWEA Preventative Maintenance Demand Maintenance- Puerto Rico IDIQ | San Juan, PR | SBA | 4 |
+| 2026-11-25 | 2031ZA27B00001  | Modernize Regenerative Thermal Oxidizer (RTO) | TX - Texas, TX | Unrestricted | 0 |
+| 2026-11-25 | FA480027S0010 | Facility 1345 Demo | Langley AFB, VA | SBA | 2 |
+| 2026-11-26 | RFIProcessControlSystemPlumbingAndProgramming | RFI Process control system plumbing and programming | Natick, MA | Unrestricted | 1 |
+| 2026-11-25 | 7017776331 | BATTERY, STORAGE |  | Unrestricted | 1 |
+| 2026-11-30 | FA5025-27-Q-A009 | Saipan Drayage |  | SBA | 4 |
+| 2026-12-18 | N00024-27-R-0200 | Enterprise Workspace Management Support | Washington Navy Yard, DC | NONE | 1 |
+| 2026-12-04 | 140RR027Q0057 | R--Professional Services for Construction Management Support |  | Unrestricted | 2 |
+| 2027-01-07 | ATGPAC | CNSP AND ATGPAC SURFACE FORCE TRAINING AND READINESS SUPPORT | San Diego, CA | SBA | 2 |
+| 2026-12-02 | N0018927SSN181126 | Spectrum Engineering Technical Support Services | Fort George G Meade, MD | Unrestricted | 1 |
+| 2026-12-03 | SOLICITATION_NUMBER_391454 | SOLICITATION NUMBER 391454 “HAZARDOUS AREA CLASSIFICATION REVIEW AND T | Richland, WA | SBA | 1 |
+| 2026-12-05 | 274100SS | A&E Title III Services IDIQ | Eielson AFB, AK | NONE | 2 |
+| 2026-12-03 | Sim-IPII | PACAF Fighter Simulator Instructor Pilot | Honolulu, HI | Unrestricted | 3 |
+| 2026-12-21 | WEAPONS_CONTROL_SUPPORT_SERVICES | Request for Information |  | Unrestricted | 4 |
+| 2026-11-30 | REQUIREMENTS-27-0637 | NEFSC - Milford Lab Main Building Structural Assessment and Temporary  | CT | Unrestricted | 2 |
+| 2026-12-04 | 80JSC026ORBIT | Operations, Research, and Broad Innovative Technology Services (ORBIT) | Houston, TX | SBA | 2 |
+| 2026-12-18 | FEMA_2026_Direct_Housing_Modernization_Capabilities_RFI | FEMA Request for Information - Direct Housing Modernization Capabiliti |  | NONE | 1 |
+| 2026-12-17 | 2031JW27N00001 | Sources Sought for SBIR STTR Enterprise Architecture and Solutions Arc | Washington, DC | Unrestricted | 1 |
+| 2026-12-10 | 622673683 | Department of Defense Secure Access File Exchange Modernization | Fort George G Meade, MD | NONE | 1 |
+| 2026-12-11 | 36C10B27Q0117 | DA10--Utilization Management Software (VA-27-00009483) |  | Unrestricted | 2 |
+| 2026-12-08 | 1106202612072026 | Post Quantum Cryptography (PQC) Readiness and Validation Status | Washington, DC | Unrestricted | 2 |
+| 2026-11-25 | 70US0927RFI0002 | Operational Video Capability (OVC) Support Services for the United Sta | DC | Unrestricted | 3 |
+| 2026-11-27 | SSN-ALMS-2027 | Sources Sought Notice Asbestos and Lead Management Services | Bethesda, MD | SBA | 2 |
+| 2026-12-04 | 70FA4027I00000005 | BioWatch Program | Washington, DC | NONE | 2 |
+| 2026-11-25 | 36C24C27Q0008 | R422--VA All Employee Survey (AES) |  | Unrestricted | 3 |
+| 2026-12-02 | W9127826SSN1126 | Sources Sought Notice - Robley Rex VA |  | Unrestricted | 4 |
+| 2026-11-30 | FA481427Q0002 | PKA - IDIQ Pest Management Services Recompete - 6 CES | Tampa, FL | SBA | 2 |
+| 2026-12-01 | 140RR027Q0054 | S--Friant Dam Janitorial Services |  | Unrestricted | 1 |
+| 2026-11-25 | W15QKN27QA025 | Custodial Services in Lewisburg, WV (WV024) | Lewisburg, WV | NONE | 2 |
+| 2026-11-25 | W15QKN27QA024 | Grounds Maintenance Services in Beaver, WV | Beaver, WV | NONE | 2 |
+| 2026-11-25 | 36C24527Q0058 | F014--TREE REMOVAL VAMC MARTINSBURG | Martinsburg, WV | Unrestricted | 2 |
+| 2026-11-25 | W15QKN27QA021 | Grounds Maintenance Services in Reading, PA | Reading, PA | NONE | 2 |
+| 2026-11-25 | W15QKN27QA023 | Snow and Ice Removal Services in Bedford, VA | Bedford, VA | NONE | 2 |
+| 2026-11-25 | W15QKN27QA018 | Snow and Ice Removal Services in Richmond, VA | Richmond, VA | NONE | 2 |
+| 2026-11-25 | W15QKN27QA022 | Refuse Collection & Recycling Services in Baltimore, MD | Curtis Bay, MD | NONE | 4 |
+| 2026-11-24 | 70LGLY27Lecturer | Guest Lecturer from Government Prospective | Brunswick, GA | SBA | 1 |
+| 2026-12-01 | W911S626AGILENT | Agilent Equipment Preventative Maintenance, Repair, and Upgrade Servic | Dugway, UT | NONE | 1 |
+| 2026-11-25 | 36C26227Q0138 | Service maintenance and support for GE MUSE NX | CA | NONE | 1 |
+| 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |

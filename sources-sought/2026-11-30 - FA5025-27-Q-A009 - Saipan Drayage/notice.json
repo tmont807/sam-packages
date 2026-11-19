@@ -1,0 +1,45 @@
+{
+  "noticeId": "1599b2b1359f4dcd99195b4c33592b95",
+  "solicitationNumber": "FA5025-27-Q-A009",
+  "title": "Saipan Drayage",
+  "naics": "484220",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-11-30T01:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > PACIFIC AIR FORCES > FA5025  356 ECEG PK",
+  "contacts": [
+    {
+      "name": "Ronald Greig",
+      "email": "ronald.greig@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "356 CONS/ETSG",
+      "email": "356ETSG.CONS.Team@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "9ccc0c55f8334781b1412404a110ad39",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "94e76666a80a4efba63336afaa7a6daa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4ea6edc8fb1b441e913b8b0d1815110a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8342a43532eb42ab8e90f19a6675a13d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Transportation Services for Heavy Equipment and Prepositioned Warfighting Materiel (PWM) Saipan ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

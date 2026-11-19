@@ -1,0 +1,33 @@
+{
+  "noticeId": "86e6a2f4c5054d13894305d920d3b9e7",
+  "solicitationNumber": "622673683",
+  "title": "Department of Defense Secure Access File Exchange Modernization",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "NONE",
+  "due": "2026-12-10T21:00:00+00:00",
+  "state": "MD",
+  "city": "Fort George G Meade",
+  "agency": "DEPT OF DEFENSE > DEFENSE INFORMATION SYSTEMS AGENCY (DISA) > DEFENSE INFORMATION SYSTEMS AGENCY",
+  "contacts": [
+    {
+      "name": "Shawn Dostie",
+      "email": "shawn.m.dostie.civ@mail.mil",
+      "phone": null
+    },
+    {
+      "name": "Elizabeth Bono",
+      "email": "elizabeth.a.bono.civ@mail.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "REQUEST FOR INFORMATION - 11-9-26 (Clean).docx",
+      "result": "58 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Government previously published an RFI to SAM.gov on December 17, 2025, under Tracking Number 622673683. The Government&rsquo;s required capabilities have evolved since that time, and the Government is looking for updated industry responses. \n\n  \n\n Defense Information Systems Agency (DISA), P ortfolio Acquisition Executive Command, Control, Communications &amp; Enterprise / Services Division (PAE C3E/ SD), is modernizing a large file transfer system. The modernized solution will update the Department of War&rsquo;s (DoW) Secure Access File Exchange (SAFE). SAFE is a DoW Common Access Card (CAC)-enabled, DISA enterprise secure file exchange platform hosted on Non-classified Internet Protocol Router Network that is also accessible via the Secret Internet Protocol Router Network. \n\n  \n\n  \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

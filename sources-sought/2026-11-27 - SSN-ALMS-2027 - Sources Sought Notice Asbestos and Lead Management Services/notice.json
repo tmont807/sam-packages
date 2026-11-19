@@ -1,8 +1,8 @@
 {
-  "noticeId": "fe020eb1b04447008102f896a9f63fe9",
+  "noticeId": "dd186bb8f0ca42b4a4f666d65690d74f",
   "solicitationNumber": "SSN-ALMS-2027",
   "title": "Sources Sought Notice: Asbestos and Lead Management Services",
-  "naics": "562910",
+  "naics": "541620",
   "type": "Sources Sought",
   "setAside": "SBA",
   "due": "2026-11-27T21:00:00+00:00",
@@ -18,15 +18,15 @@
   ],
   "files": [
     {
-      "name": "Asbestos and Lead Management SOW 2026.05.26.pdf",
-      "result": "220 KB"
+      "name": "Sources Sought Notice (Asbestos and Lead Management Services) AMENDMENT 1.pdf",
+      "result": "63 KB"
     },
     {
-      "name": "Sources Sought Notice (Asbestos and Lead Management Services).pdf",
-      "result": "63 KB"
+      "name": "Asbestos and Lead Management SOW 2026.05.26.pdf",
+      "result": "220 KB"
     }
   ],
   "kind": "sources_sought",
-  "description": " Please see the attached Sources Sought Notice document along with the draft scope document for further details and capabilities statement submission instructions. \n",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "description": " AMENDMENT 2 -- NAICS code updated in the SAM posting to match the document. \n\n  \n\n AMENDMENT 1 -- NAICS code + description changed (please see revised document attached) \n\n  \n\n Please see the attached Sources Sought Notice document along with the draft scope document for further details and capabilities statement submission instructions. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
 }

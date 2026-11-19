@@ -1,5 +1,5 @@
 {
-  "noticeId": "200599e76ab942038153e9f6a0bc6808",
+  "noticeId": "9ca26528323542018fc3aeb04d151414",
   "solicitationNumber": "FA302927Q0002",
   "title": "Vance AFB and Kegelman AAF Fire Extinguisher BPA",
   "naics": "811310",
@@ -17,6 +17,10 @@
     }
   ],
   "files": [
+    {
+      "name": "Vance_AFB_Kegelman_AAF_SOW (Final).pdf",
+      "result": "311 KB"
+    },
     {
       "name": "eebb9a5b09b247a195e912ac251054fd",
       "result": "failed: HTTP Error 400: Bad Request"
@@ -36,5 +40,5 @@
   ],
   "kind": "solicitation",
   "description": "Commercial Multi-Award BPA for fire extinguisher maintenance, testing, and replacement across Vance AFB and Kegelman AAF IAW NFPA 10 and SOW. NAICS 811310; 5-yr period.  ",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
 }

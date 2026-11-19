@@ -1,0 +1,37 @@
+{
+  "noticeId": "d1e7a1a9b2864438814abb3ea5e3fb87",
+  "solicitationNumber": "47PD5327R0015",
+  "title": "Denney DOT Office Renovation",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-17T19:00:00+00:00",
+  "state": "NE",
+  "city": "",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Jason Taylor",
+      "email": "Jason.taylor@gsa.gov",
+      "phone": "816-349-9662"
+    },
+    {
+      "name": "Nicole Whitlock",
+      "email": "nicole.whitlock@gsa.gov",
+      "phone": "646-773-1248"
+    }
+  ],
+  "files": [
+    {
+      "name": "Denney DOT Office IDIQ Task Order Agreement.zip",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Denney DOT Office IDIQ Task Order Solicitation.zip",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " The Department of Transportation (DOT) is renovating their office at the Denney Federal Building in Lincoln, NE. This project is to complete the electrical, mechanical, accessibility, and furniture purchase for the space. \n\n This solicitation is only available to contractors who currently hold a contract under the GSA Heartland Small Business Indefinite Delivery/Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC), for Construction Services (Geographic Area &ndash; Nebraska). Access to any and all documents related to this solicitation will only be granted to the listed point of contact for the contract holders (Small Business &ndash; Nebraska) on the Heartland Small Business IDIQ. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

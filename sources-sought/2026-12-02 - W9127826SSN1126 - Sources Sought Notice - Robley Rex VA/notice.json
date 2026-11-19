@@ -1,0 +1,40 @@
+{
+  "noticeId": "58748babb9384e1fbf4b0e4c2ea67dce",
+  "solicitationNumber": "W9127826SSN1126",
+  "title": "Sources Sought Notice - Robley Rex VA",
+  "naics": "561210",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-02T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT MOBILE",
+  "contacts": [
+    {
+      "name": "Tiffany Williams",
+      "email": "tiffany.n.williams@usace.army.mil",
+      "phone": "251-690-2405"
+    }
+  ],
+  "files": [
+    {
+      "name": "2c2bec3a6600448990c2663aafc225f0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b7fd158efa6946db9bae226cf6b58071",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bc60af3fd22641628a132917d7639504",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a89e7eb5a55944b89c7d986839df540c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Limited Operation and Maintenance (OM) with Incidental Repair, and Minor Construction, Stand-Alone Type- C Contract in Support of Robley Rex VA Medical Center - Louisville KY. The intent of the limited OM with Repair and Minor Construction contracts are to provide quick response for performing OM repair and minor construction relating but not limited to the mechanical, electrical, instrumentation, security and safety areas of military healthcare in a cost-effective manner. This is a Sought Sought Notice (SSN) for the purpose of market research only. No award will result from this SSN. There is no solicitation available at this time; therefore, do not request a copy of the solicitation. If a solicitation is released it will be synopsized in accordance with the Federal Acquisition Regulation (FAR) and its supplements. It is the contractors responsibility to monitor the Government Point of Entry (GPE) for the release of any solicitation. Please review and respond based on the information provided in the SSN attachment. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

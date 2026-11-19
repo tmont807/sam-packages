@@ -1,0 +1,37 @@
+{
+  "noticeId": "30f12d6c8b3c4e44bef4d20a31b5d8ef",
+  "solicitationNumber": "W50S6Y27RA002",
+  "title": "Halon Bottle Inspection",
+  "naics": "811310",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-27T17:00:00+00:00",
+  "state": "FL",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > NGB > W7M2 USPFO ACTIVITY FLANG 125",
+  "contacts": [
+    {
+      "name": "TSgt Katie Jennings",
+      "email": "Katie.Jennings@us.af.mil",
+      "phone": "9047417406"
+    },
+    {
+      "name": "Katie Perna",
+      "email": "katie.perna@us.af.mil",
+      "phone": "9047417440"
+    }
+  ],
+  "files": [
+    {
+      "name": "Solicitation W50S6Y27RA002.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "I.A.02. PWS and PRS MXG Halon Bottle KO.pdf",
+      "result": "233 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Provide all labor, materials, and nitrogen required to perform hydrostatic testing of the cylinder and hose assemblies, conduct internal dip tube inspections, and install new discharge hose O-rings on thirty-three (33) 150-lb Halon bottles. \n",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

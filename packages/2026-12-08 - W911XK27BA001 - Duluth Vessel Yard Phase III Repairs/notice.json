@@ -1,0 +1,45 @@
+{
+  "noticeId": "da3a178e4d3b4968b2c1013247d51648",
+  "solicitationNumber": "W911XK27BA001",
+  "title": "Duluth Vessel Yard Phase III Repairs",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-08T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST DETROIT",
+  "contacts": [
+    {
+      "name": "Noah Bruck",
+      "email": "noah.r.bruck@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Lisa May",
+      "email": "lisa.m.may@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "9ef09a3df8f44cccbf86cd313d1adb5b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a833af3909d04c4c9421e2b071bd28a1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c589599664674360b62f0fac12ce0eb3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "97ea25f6f1304d5e813b20d405e78cd1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "***** Amendment 0001 Issued 11/18/2026 ***** Duluth Vessel Yard Phase III Repairs ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

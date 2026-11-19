@@ -1,0 +1,40 @@
+{
+  "noticeId": "7a2e2b8876ef4a91bc5caa0548992dde",
+  "solicitationNumber": "W912EK27T0003",
+  "title": "Sources Sought PL84-99 Flood Repair Coal Creek 2026 Event",
+  "naics": "237990",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-02T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > MVD > W07V ENDIST ROCK ISLAND",
+  "contacts": [
+    {
+      "name": "Stanley Bolton",
+      "email": "stanley.l.bolton@usace.army.mil",
+      "phone": "3097945527"
+    }
+  ],
+  "files": [
+    {
+      "name": "ddfd2b750ce943debd032e5d72f35af0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fadf18331f0743e1b2422154e13c8432",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e0a45fba6a9f477e8bedfb4d6de7d41b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "73348200e32748f6972832fec9c9bd59",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The U.S. Army Corps of Engineers, Rock Island District, is seeking construction businesses that can perform the requirement based on the description provided. (Any Specification, Plan Set, or as built drawing will be provided at the solicitation phase).Please read all documents, descriptions and/or scopes of work provided in their entirety. This announcement is for information and planning purposes only and is not to be construed as a commitment by the Government, implied or otherwise, to issue a solicitation or make a contract award. NO AWARD will be made from this Sources Sought Notice. This is NOT a request for proposals, quotes or invitation for bids. The sole purpose of this notice is to identify potential System for Award Management (SAM) Database registered construction businesses that are interested and capable of performing this work. Companies capable of providing for this requirement must send your response to Contract Specialist, Stanley L. Bolton at stanley.l.bolton@usace.army.mil no later than the closing date of this source sought. To download the Sources Sought click the link provided at the link/attachments section below: ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

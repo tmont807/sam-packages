@@ -1,0 +1,40 @@
+{
+  "noticeId": "7ff3b9949718433babd77f47e04b5f4c",
+  "solicitationNumber": "WEAPONS_CONTROL_SUPPORT_SERVICES",
+  "title": "Request for Information",
+  "naics": "541330",
+  "type": "Special Notice",
+  "setAside": "Unrestricted",
+  "due": "2026-12-21T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC DAHLGREN",
+  "contacts": [
+    {
+      "name": "Callie Ortiz",
+      "email": "callie.l.ortiz.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "239771beec7649599e90e2d316ffd0fe",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4f77e95dd299425a88d6680bfe9ca9e3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8f190b57416040e0865ea48cc88c3509",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "159327ff00274e84bb1ade61dc6d84ac",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This is a Request for Information (RFI) to assist the Government with planning purposes only. Responses will assist the Government in planning its acquisition strategy for the Weapons Control Support Services (WCSS) program. The Naval Surface Warfare Center Dahlgren Division (NSWCDD) E Department is seeking suggestions and feedback from qualified and capable potential vendors on the proposed hybrid Firm-Fixed-Price (FFP) and Cost-Plus-Fixed-Fee (CPFF) contract structure and potential OTA (4021, 4022, and 4023) utilization. Please see the attachments included within this posting for instructions, questions, and how to provide feedback as an interested party. All responses are to be submitted as indicated in the Request for Information Attachment and Attachment 1. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

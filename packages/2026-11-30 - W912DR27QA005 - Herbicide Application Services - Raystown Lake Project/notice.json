@@ -1,0 +1,40 @@
+{
+  "noticeId": "ad892a1d0ce745969f9aa30e7e1c4470",
+  "solicitationNumber": "W912DR27QA005",
+  "title": "Herbicide Application Services - Raystown Lake Project",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-30T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST BALTIMORE",
+  "contacts": [
+    {
+      "name": "Monique Euter",
+      "email": "monique.l.jones@usace.army.mil",
+      "phone": "4109620972"
+    }
+  ],
+  "files": [
+    {
+      "name": "2959d3ecebcf437d82b0693005f1fa8e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ecda2a8f5fa54f4180b49e66e7587050",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2a920824c0d34f8b917e684788665a3f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "89e5f9f97ff64cbd9fb7a22bf49f9033",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers (USACE) Baltimore District has the requirement for procurement to perform required herbicide application services on the Raystown Lake Project, Huntingdon County, Pennsylvania 16647. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

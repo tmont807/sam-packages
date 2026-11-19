@@ -1,0 +1,45 @@
+{
+  "noticeId": "96fe8fe054fa4ec58c07ef1305b084d9",
+  "solicitationNumber": "W912DR27RA011",
+  "title": "DISA Building  Automation System (BAS) Controller",
+  "naics": "238210",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST BALTIMORE",
+  "contacts": [
+    {
+      "name": "Michael Getz",
+      "email": "michael.j.getz@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Sharron Grayson-Harmon",
+      "email": "sharron.l.grayson-harmon@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "74eec6a9bbf1450dab4dd0f0795b24c5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e3275a769ff84cdfa7e71757e5161d17",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "54c6dd3ece1c454bbd400a6c810fe442",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "af2c8ef4e0e144888c318ecc1fa28633",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This is a Sources Sought Notice for DISA facility Building Automation System BAS Controller Upgrade at Fort Meade, Maryland. This notice is for market research purposes only and IS NOT a request for proposal, quotation or bid. The Government will not reimburse respondents for any costs incurred in preparation for response to this announcement. The US Army Corps of Engineers USACE, Baltimore District, is seeking sources with current relevant qualifications, experience, personnel, and capabilities for a construction project.  The US Army Corps of Engineers, Baltimore District, requests letters of interest from potential contractors. The U.S. Army Corps of Engineers, Baltimore District, requests responses from potential prime construction contractors. See attached document titled, Sources Sought Notice_BAS Controller Upgrade for submission instructions. ",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}

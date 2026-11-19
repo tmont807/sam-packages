@@ -1,0 +1,52 @@
+{
+  "noticeId": "2a456ec832134ff48b33a93c8595e578",
+  "solicitationNumber": "140FF027Q0063",
+  "title": "Z--TX-BALCONES CANYONLANDS NWR PRKNG LOT",
+  "naics": "238990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-07T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Mann, Christina",
+      "email": "christina_mann@ios.doi.gov",
+      "phone": "7034688274"
+    }
+  ],
+  "files": [
+    {
+      "name": "Sol_140FF027Q0063_Amd_0001.pdf",
+      "result": "201 KB"
+    },
+    {
+      "name": "B09_-_Solicitation_Amendment_-_RFQ_Questions_and_Responses_0001.pdf",
+      "result": "70 KB"
+    },
+    {
+      "name": "Sol_140FF027Q0063.pdf",
+      "result": "1368 KB"
+    },
+    {
+      "name": "A06_-_Specifications.pdf",
+      "result": "405 KB"
+    },
+    {
+      "name": "A04_-_SOW.pdf",
+      "result": "336 KB"
+    },
+    {
+      "name": "A06_-_Drawings_-_Paving_Detail.pdf",
+      "result": "58 KB"
+    },
+    {
+      "name": "B03_-_DOL_Wage_Determination.pdf",
+      "result": "197 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "TX-BALCONES CANYONLANDS NWR PRKNG LOT",
+  "savedAt": "2026-11-19T12:14:24.344428+00:00"
+}
