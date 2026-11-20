@@ -1,0 +1,44 @@
+{
+  "noticeId": "bed216da625742929f53bd0fdd1fce6a",
+  "solicitationNumber": "N0010425QFD30",
+  "title": "53--SCREW,CAP,HEX HD",
+  "naics": "332722",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-12T20:30:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP WEAPON SYSTEMS SUPPORT > NAVSUP WSS MECHANICSBURG > NAVSUP WEAPON SYSTEMS SUPPORT MECH",
+  "contacts": [
+    {
+      "name": "Telephone: 7176058399",
+      "email": "TIANA.K.HAMMAKER.CIV@US.NAVY.MIL",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "016711950-N0010425QFD30-DWG-4-30-25.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "8cb0544379284f129bc3005ffcec851e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fa3483dcd7ae4176b6d3336fea82fade",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d328fde0cf25430e94e6044a5978b09f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cc7ff1a8bfa64366b84ffbce91065664",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "CONTACT INFORMATION|4|N743.35|WWF|N/A|TIANA.HAMMAKER@NAVY.MIL|\rITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19||||||||||||||||||||\rHIGHER-LEVEL CONTRACT QUALITY REQUIREMENT (NAVICP REVIEW FEB 1991)(FEB 1999)|1|SEE SPECIFICATIONS SECTION C AND SECTION E|\rINSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2|||\rINSPECTION AND ACCEPTANCE - SHORT VERSION|8|X||X||||||\rGENERAL INFORMATION-FOB-DESTINATION|1|A|\rWIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|INVOICE AND RECEIVING REPORT (COMBO)||TBD|N00104|TBD|TBD|N50286|TBD|||N/A||||||\rNAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1||\rWARRANTY OF SUPPLIES OF A NONCOMPLEX NATURE (JUNE 2003)|6|ONE YEAR|365 DAYS AFTER THE LAST DELIVERY UNDER THIS CONTRACT |||||\rWARRANTY OF DATA--BASIC (MAR 2014)|2|||\rBUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11||||||||||||\rNOTICE OF TOTAL SMALL BUSINESS SET-ASIDE (OCT 2020)(DEVIATION 2020-O0008)|1||\rALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (OCT 2024)|13||||||||||||||\rBUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5||||||\rBUY AMERICAN-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1||\rANNUAL REPRESENTATIONS AND CERTIFICATIONS (MAR 2025)(DEVIATION 2025-O0003 AND2025-O0004))|13|332722 |500||||||||||||\rNOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PERPARDENESS, AND ENRGY PROGAM USE (APRIL 2008))|2||X|\rSOLICITATION DUE DATE HAS BEEN EXTENDED.\rSOLICITATION DUE DATE HAS BEEN EXTENDED.\rSOLICITATION DUE DATE HAS BEEN EXTENDED.\r1.DD1423 Data Item A001 (Inspection and Test Plan) may be waived if already on file at NAVSUP WSS Mechanicsburg.\r2. All contractual  documents (i.e. contracts, purchase orders, task orders,delivery orders, and modifications) related to the instant procurement are considered to be \"issued\" by the Government when copies are either deposited in the mail, transmitted by\rfacsimile, or sent by other electronic commerce methods, such as email. The Government's acceptance of the contractor's proposal constitutes bilateral agreement to \"issue\" contractual documents as detailed here in.\r3.The following proposed delivery schedule applies:\rSubmission of all certification data CDRLS 20 days prior to delivery.\rPNSY review/acceptance of certification CDRLS 18 working days after receipt\rFinal delivery of material (186 days)\r\\\r1.  SCOPE\r1.1   The material covered in this contract/purchase order will be used in a crucial shipboard system.  The use of incorrect or defective material would create a high probability of failure resulting in serious personnel injury, loss of life, loss of vital\rshipboard systems, or loss of the ship itself.  Therefore, the material has been designated as SPECIAL EMPHASIS material (Level I, Scope of Certification, or Quality Assured) and special control procedures are invoked to ensure receipt of correct material.\r1.1.1   DSSP Scope of Certification Material  -  Material Control Division  ;(B);  applies to this material.\r2.  APPLICABLE DOCUMENTS\r2.1  Order of Precedence - In the event of a conflict between the text of this contract/purchase order and the references and/or drawings cited herein, the text of this contract/purchase order must take precedence.  Nothing in this contract/purchase order,\rhowever, must supersede applicable  laws and regulations unless a specific exemption has been obtained.\r2.2   Applicable Documents - The document(s) listed below form a part of this contract/purchase order including modifications or exclusions.\r2.2.1  Specification Revisions - The specification revisions listed under \"Documents References\" below are the preferred revision. Older and/or newer r evisions are acceptable when listed within Contract Support Library Reference Number CSD155 in ECDS (Electric\rContractor Data Submission) at: ht tps://register.nslc.navy.mil/. This is to allow Contractors to use certain acceptable older specification revisions to purge their existing stock of material certified to those older revisions or to use newer specification\rrevisions when material is certified to newly released revisions,without requiring the submittal of waiver/deviation requests for each specification revision on every contract. Revisions of specifications reflecting editorial and/or re-approval (e.g. E2009,\rR2014, etc.) are considered inconsequential, but are acceptable when their revisions are listedwithin CSD155 or elsewhere within this contract.\r2.2.2   Documents, drawings, and publications supplied are listed under \"Drawing Number\".  These items should be retained until an award is made.\r2.2.3   \"Document References\" listed below must be obtained by the Contractor.   Ordering information is included as an attachment to this contract/purchase order.\rDRAWING DATA=7627451                                 |53711| D|   |D|0001        | D|49998|2584219\rDOCUMENT REF DATA=ANSI/ASQ Z1.4                 |    |  |   |080101|A|  |  |\rDOCUMENT REF DATA=QQ-N-286                      |    |  |G  |001207|A|  |  |\rDOCUMENT REF DATA=ASTM-F606                     |    |  |   |191115|A|  |  |\rDOCUMENT REF DATA=MIL-STD-792                   |    |  |F  |060519|A|  |  |\rDOCUMENT REF DATA=MIL-DTL-1222                  |    |  |J  |001208|A|  |  |\rDOCUMENT REF DATA=ISO_9001                      |    |  |   |081115|A|  |  |\rDOCUMENT REF DATA=ISO10012                      |    |  |   |030415|A|  |  |\rDOCUMENT REF DATA=ISO/IEC 17025                 |    |  |   |050515|A|  |  |\rDOCUMENT REF DATA=MIL-I-45208                   |    |  |A  |810724|A| 1|  |\rDOCUMENT REF DATA=MIL-STD-45662                 |    |  |A  |880801|A|  |  |\rDOCUMENT REF DATA=ANSI/NCSL Z540.3              |    |  |   |130326|A|  |  |\r3.  REQUIREMENTS\r3.1    ;The Hex Head Cap Screw must be made in accordance with NAVSEA Drawing 7627451, ITEM NO. 5, except as amplified or modified herein.;\r3.2 K-MONEL Fasteners - Material must be heat treated per QQ-N-286.\r3.2.1 Fasteners that have been hot ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

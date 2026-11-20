@@ -1,0 +1,40 @@
+{
+  "noticeId": "0bd1273e226c49ef93f254272dbcf342",
+  "solicitationNumber": "W912P827BA002",
+  "title": "ATCHAFALAYA BASIN, GIWW, CUTTERHEAD DREDGE CONTRACT, OM-25066",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2028-11-17T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > MVD > W07V ENDIST N ORLEANS",
+  "contacts": [
+    {
+      "name": "Karen Hargrave",
+      "email": "karen.d.hargrave@usace.army.mil",
+      "phone": "5048621561"
+    }
+  ],
+  "files": [
+    {
+      "name": "958fdc632db44c59953d1350f0f5667a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7e8abab73e6144b783d37389249e56d3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3182e4efe4a846e097e01487ad0c9dc4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "31801c40d82a439ea2b0840650b2ac06",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "ATCHAFALAYA BASIN, GIWW, CUTTERHEAD DREDGE CONTRACT, OM-25066This is an UNRESTRICTED procurement. BID OPENING TO BE ESTABLISHED BY FUTURE AMENDMENT. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

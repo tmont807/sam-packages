@@ -1,5 +1,5 @@
 {
-  "noticeId": "41429122cf7a4607981d82affccf3836",
+  "noticeId": "73b9ecc34dcf4948ba3da42c40953f4f",
   "solicitationNumber": "2027-PZI-0004",
   "title": "Wet Well Cleaning",
   "naics": "562998",
@@ -23,6 +23,10 @@
   ],
   "files": [
     {
+      "name": "Wage Determination Rev 35.pdf",
+      "result": "252 KB"
+    },
+    {
       "name": "PWS Wet Wells.pdf",
       "result": "194 KB"
     },
@@ -36,6 +40,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Hanscom AFB requires temporary wastewater hauling capabilities to prevent sanitary sewer overflows (SSOs), maintain environmental compliance, and support operational continuity during lift station pump failure, replacement. The objective is to main tain wet well liquid levels at safe operating thresholds continuously until primary pumping system is restored. \n\n Please see the attached PWS and Cover Letter for more information.&nbsp;&nbsp; \n\n  \n\n Amendment 1: Re-uploaded PWS for easier access \n",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "description": " Hanscom AFB requires temporary wastewater hauling capabilities to prevent sanitary sewer overflows (SSOs), maintain environmental compliance, and support operational continuity during lift station pump failure, replacement. The objective is to main tain wet well liquid levels at safe operating thresholds continuously until primary pumping system is restored. \n\n Please see the attached PWS and Cover Letter for more information.&nbsp;&nbsp; \n\n  \n\n Amendment 1: Re-uploaded PWS for easier access \n\n Amendment 2: Wage Determination added \n",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
 }

@@ -1,0 +1,40 @@
+{
+  "noticeId": "09dad6132ada4dbaad883928bf1d9b62",
+  "solicitationNumber": "W911SA27QA012",
+  "title": "Custodial Services for IA058 (MS: 30, 47)",
+  "naics": "561720",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-28T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > MISSION & INSTALLATION CONTRACTING COMMAND > 419TH CSB > W6QM MICC FT MCCOY (RC)",
+  "contacts": [
+    {
+      "name": "Breanna Huff",
+      "email": "breanna.d.huff.civ@army.mil",
+      "phone": "5207061179"
+    }
+  ],
+  "files": [
+    {
+      "name": "a7217d11749d44bba3f7f0cb1d410588",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "837ece3804ce4e8ba89d238e11f16385",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f7e5f6883a5542a7a10e6e310433e986",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7d4f44698e614d00bfb6218c7945c391",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The Contractor shall provide all labor, personnel, equipment, tools, chemicals, supplies,transportation, materials, supervision, and other items or services necessary to perform janitorial/custodial services as defined in this PWS. The base period of performance shall be 1 February2027 (or subsequent date) to 31 January 2028. The period of performance shall be for one (1)Base Period and four (4) 12-month option periods with an option to extend services for up to six (6)months. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

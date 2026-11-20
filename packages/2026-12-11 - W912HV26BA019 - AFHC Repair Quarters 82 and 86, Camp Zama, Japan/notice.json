@@ -1,0 +1,45 @@
+{
+  "noticeId": "fcd1a09ee76a485483a658ea7848ba35",
+  "solicitationNumber": "W912HV26BA019",
+  "title": "AFHC Repair Quarters 82 and 86, Camp Zama, Japan",
+  "naics": "236118",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-11T05:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST JAPAN",
+  "contacts": [
+    {
+      "name": "Ruben Romero",
+      "email": "Ruben.A.Romero@usace.army.mil",
+      "phone": "0464075274"
+    },
+    {
+      "name": "Nakiba Jackson",
+      "email": "Nakiba.S.Jackson@usace.army.mil",
+      "phone": "0464078839 "
+    }
+  ],
+  "files": [
+    {
+      "name": "b055df6860174cfa8590c900cedd62ba",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cdf6663bd8564d13a5130e2c82af58b5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e0ebccceb5fc49f883fa4a5fd58ebe7f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d7f12fefeb6047a1b28d0672fdda3dfb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Solicitation and all attachments shall be downloaded from Procurement Integrated Enterprise Environment (PIEE) Solicitation Module https://piee.eb.mil/. \n\n  Solicitation : W912HV26BA019 FY27 AFHC Repair Quarters 82 and 86, Camp Zama, Japan. \n\n  Description : The project repairs nine 3-bedroom or 4-bedroom units for junior noncommissioned officers (JR NCO) and enlisted (ENL) grades E1 through E6 in buildings 82 and 86 at Camp Zama. \n\n Please read entire solicitation for details on pre-bid conference, site visit date and time, and RFI due date and time. \n\n  05 Aug 2026  - The Pre Bid Conference Slides, Pre Bid Conference Attendance Sheet, and Site Visit Attendance Sheet have been uploaded to the PIEE Solicitation Module. \n\n  11 Aug 2026 - Amend 0001  - The purpose of this amendment is to extend the RFI due date and the bid due date. \n\n  13 Aug 2026 - Amend 0002  - The purpose of this amendment is to revise the bid due date to avoid US federal holidays. \n\n  23 Oct 2026 - Amend 0003  - The purpose of this amendment is to extend the bid due date. \n\n  04 Nov 2026  - The Government has posted responses to bidder inquiries in the PIEE Solicitation Module https://piee.eb.mil/. \n\n  20 Nov 2026 &ndash; Amend 0004  - The purpose of this amendment is to make changes resulting from the bidder inquiries. \n",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

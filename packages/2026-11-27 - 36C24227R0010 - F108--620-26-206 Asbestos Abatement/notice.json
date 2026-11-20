@@ -1,5 +1,5 @@
 {
-  "noticeId": "357242a5f1d3400c880474dc83eedaa8",
+  "noticeId": "c95dcd81879b4a90b11678c8a80b3462",
   "solicitationNumber": "36C24227R0010",
   "title": "F108--620-26-206 Asbestos Abatement",
   "naics": "562910",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "RFI3.docx",
+      "result": "17 KB"
+    },
+    {
+      "name": "36C24227R0010 0005.docx",
+      "result": "23 KB"
+    },
     {
       "name": "Additional RFI responses.docx",
       "result": "14 KB"
@@ -96,5 +104,5 @@
   ],
   "kind": "solicitation",
   "description": "620-26-206 Asbestos Abatement at Montrose VAMC.\n",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
 }

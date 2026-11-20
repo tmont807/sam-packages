@@ -1,0 +1,28 @@
+{
+  "noticeId": "83f30207b9de412cbfb5e6c9f763a3d1",
+  "solicitationNumber": "SPE4A627Q0341",
+  "title": "53--WASHER,FLAT",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-03T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "078a3d9d6fe84cd292e59e4b4e27462b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5310011767025 WASHER,FLAT:\nLine 0001 Qty 473    UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0090 DAYS ADO\nLine 0002 Qty 1909   UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0090 DAYS ADO\nApproved sources are 56878 PLI22-9-28.7; 58794 FT4162-9D287.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes may be submitted electronically.\n",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

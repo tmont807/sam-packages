@@ -744,3 +744,126 @@
 | 2027-01-07 | FA860127R0009 | FA8601 Auto Sampler Maintenance and Repair |  | Unrestricted | 4 |
 | 2026-11-27 | W50S6Y27RA002 | Halon Bottle Inspection | FL | SBA | 2 |
 | 2026-12-17 | FA302927Q0002 | Vance AFB and Kegelman AAF Fire Extinguisher BPA |  | Unrestricted | 5 |
+
+## 2026-11-20
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-08 | 7571PS27Q00030 | IHS Evaluation Services IDIQ | Rockville, MD | BICiv | 7 |
+| 2026-12-01 | 140FF027Q0090 | AK-ARCTIC NWR-GRAY HEADED CHICKADEE ACOUSTIC MONIT |  | SBA | 1 |
+| 2026-12-10 | W912HV26BA009 | RENOVATE MILITARY FAMILY HOUSING TOWER 4511, CAMP COURTNEY |  | Unrestricted | 5 |
+| 2026-12-11 | W912HV26BA019 | AFHC Repair Quarters 82 and 86, Camp Zama, Japan |  | Unrestricted | 4 |
+| 2026-12-02 | 140FF027Q0038 | Z--OR WARM SPRINGS QTRS 4 PAINT FLOORING |  | SBA | 12 |
+| 2026-12-15 | 75N99027R00002 | NIH MULTIPLE-AWARD CONSTRUCTION CONTRACT (MACC) FOR GENERAL CONSTRUCTI | Bethesda, MD | NONE | 18 |
+| 2026-12-07 | 47PC5326R0029 | SOLICITATION NOTICE- Massena NY Virtual Law Enforcement Training Facil | Massena, NY | SBA | 15 |
+| 2026-12-21 | W912QR27BA006 | W912QR27BA006 - DBB Construction and Renovation of Vo-Tech, Fort Knox, |  | SBA | 4 |
+| 2026-12-04 | N4008527R9006 | NH100 Engine Control Unit Replacement | Camp Lejeune, NC | SBA | 5 |
+| 2026-11-30 | FA465927QM001 | CRAC Units Replacement for MCE 1211 at GFAFB, ND | Grand Forks AFB, ND | SBA | 6 |
+| 2026-12-29 | 36C25527R0012 | 657-26-102JC FCA Replace Various Roofs on BLDG 1, JC FY27 NRM VISN BAS |  | Unrestricted | 9 |
+| 2026-12-14 | 12445527Q0008 | Whiteface Campground Well Replacement | Makinen, MN | SBA | 5 |
+| 2027-01-06 | 124PCA27Q0002 | USDA Design Build Perimeter Security Enhancement Parking Lot 9 | Washington, DC | NONE | 15 |
+| 2026-12-02 | FA441827R0002 | Repair Taxiway Alpha & Bravo - North Auxiliary Airfield | North, SC | SBA | 17 |
+| 2026-12-22 | 69056726B000011 | AK NPS DENA 10(64), Re-pave Riley Creek CG Roads | Fairbanks, AK | NONE | 4 |
+| 2026-12-03 | 69056726B000012 | AK FLAP ANCHORAGE 2021(1), Far North Bicentennial Park Enhancements | Anchorage, AK | NONE | 9 |
+| 2026-12-15 | 127EAW27Q0003 | ANF Suppression Damage Chantry | CA | SBA | 8 |
+| 2026-12-08 | 69056726R000009 | ID FLAP CLEAR 4783(1), Dent Bridge Road Improvements | Orofino, ID | Unrestricted | 8 |
+| 2027-01-06 | 12445127B0005 | MORGANTOWN PAVEMENT RESTORATION | Morgantown, WV | SBA | 3 |
+| 2026-12-17 | 124PCA27Q0005 | Parking Lots Repair, National Agricultural Library and Beltsville Agri | Beltsville, MD | SBA | 4 |
+| 2026-11-30 | W9127N27BA010 | NAVIGATION LOCK TAINTER VALVE (TV) REPAIR, TV1 |  | Unrestricted | 4 |
+| 2026-11-30 | W9127N27BA009 | JOHN DAY DAM NAVIGATION LOCK TAINTER VALVE (TV) REPAIRS TV3 AND TV4 |  | Unrestricted | 4 |
+| 2026-12-01 | W912HY27RA001 | Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP |  | Unrestricted | 5 |
+| 2026-12-01 | N4425526R0005 | Shipyard Infrastructure Optimization Program Multi-Mission Dry Dock, M |  | Unrestricted | 7 |
+| 2026-12-09 | W9127827BA002 | Pensacola Harbor Navigation Channel Maintenance Dredging |  | Unrestricted | 4 |
+| 2028-11-18 | W912P827BA004 | ATCHAFALAYA BASIN, GIWW, CUTTERHEAD DREDGE CONTRACT, OM-25067 |  | Unrestricted | 4 |
+| 2028-11-17 | W912P827BA002 | ATCHAFALAYA BASIN, GIWW, CUTTERHEAD DREDGE CONTRACT, OM-25066 |  | Unrestricted | 4 |
+| 2026-12-05 | W9127825RA068 | KC-46A ADAL Apron and Hydrant Fueling Pits |  | Unrestricted | 4 |
+| 2026-12-23 | 140FF027Q0078 | FL-GREAT WHITE HERON NWR POLE BARN ROOF REPLACEMEN |  | SBA | 4 |
+| 2026-12-04 | 36C26127Q0067 | J061--Triennial Circuit Breaker and Feeder Testing |  | Unrestricted | 13 |
+| 2026-12-03 | W912BV27RA003 | TENKILLER 15KV SWITCHGEAR AND STATION SERVICE REPLACEMENT |  | SBA | 5 |
+| 2026-11-30 | W15QKN27QA011 | BPAs for Conference Rooms and Audio Visual Systems | Picatinny Arsenal, NJ | SBA | 10 |
+| 2026-12-01 | 1305M327Q0010 | J--HVAC Unit Replacement |  | SBA | 9 |
+| 2026-12-04 | 36C26127Q0033 | Z2DA--Bldg. 100 Roof Top AHU-8 Repair |  | Unrestricted | 4 |
+| 2026-12-07 | 61200PR270000061 | UPDATE SOW USCG TRACEN PETALUMA MONTHLY BOILER MAINTENANCE | Petaluma, CA | SBA | 4 |
+| 2026-12-18 | 15BBNF26Q20100004 | FCC Allenwood - Replace HVAC Units - Project 26Z2BE3 | Allenwood, PA | SBA | 9 |
+| 2026-12-09 | 1305M327Q0022 | S--LIX Weather Forecast Office Renovations | LA | Unrestricted | 4 |
+| 2026-12-22 | 30326PR270000001 | USCG Station Cortez Carpet Removal and Luxury Vinyl Plank (LVP) Floori | Bradenton, FL | SBA | 2 |
+| 2026-12-15 | 70ZH1526QCGA00004 | Floor Refinishing Services | New London, CT | SBA | 4 |
+| 2026-11-28 | 127EAX26Q0076  | Camptonville Housing Decommissioning | Nevada City, CA | SBA | 10 |
+| 2026-12-11 | 140LL027Q0034 | 7 LAKES FENCE REPAIR |  | SBA | 7 |
+| 2027-01-12 | N00104-26-Q-FD56 | 1HM 5305 017181794 D4, SCREW,CTSK,82DEG | Mechanicsburg, PA | SBA | 1 |
+| 2027-01-15 | N00104-26-Q-FD54 | 1HM 5305 016429505 D4, SCREW,CAP,SOCKET HE | Mechanicsburg, PA | SBA | 1 |
+| 2027-01-12 | N0010425QFD30 | 53--SCREW,CAP,HEX HD |  | Unrestricted | 5 |
+| 2026-12-16 | N0010426QFB34 | NUT,PLAIN,HEXAGON |  | Unrestricted | 2 |
+| 2026-11-30 | N0010426QFF64 | STUD,CONTINUOUS THD |  | Unrestricted | 4 |
+| 2026-12-01 | SPMYM327Q7006 | Cap Screws | Kittery, ME | SBA | 3 |
+| 2026-12-03 | SPE4A627Q0341 | 53--WASHER,FLAT |  | SBA | 1 |
+| 2026-12-04 | SPE4A627U0328 | 53--BOLT,SHOULDER |  | SBA | 1 |
+| 2026-12-02 | SPMYM327Q4010 | LEVEL 1 Nuts | Kittery, ME | SBA | 4 |
+| 2026-12-04 | SPE4A627U0325 | 53--BOLT,ASSEMBLED WASHER |  | SBA | 1 |
+| 2026-12-04 | SPE4A627U0327 | 53--SCREW,MACHINE |  | SBA | 1 |
+| 2026-12-21 | N0010426QND89 | TRANSMITTER,PRESSUR |  | Unrestricted | 2 |
+| 2026-12-21 | N0010426QND86 | TRANSMITTER,PRESSUR |  | Unrestricted | 3 |
+| 2026-12-21 | N0010426QND90 | TRANSMITTER,PRESSUR |  | Unrestricted | 3 |
+| 2026-12-21 | N0010426QND88 | TRANSMITTER,PRESSUR |  | Unrestricted | 5 |
+| 2026-12-21 | N0010427QBC80 | THERMOMETER,SELF-IN |  | Unrestricted | 1 |
+| 2026-12-21 | N0010426QND87 | TRANSMITTER,PRESSUR |  | Unrestricted | 3 |
+| 2026-12-04 | N0010427QFA24 | INDICATOR,PRESSURE |  | Unrestricted | 1 |
+| 2026-11-30 | SPE7L727Q0285 | 61--BATTERY ASSEMBLY |  | SBA | 1 |
+| 2026-11-30 | SPE7L727Q0279 | 61--BATTERY,STORAGE |  | SBA | 1 |
+| 2026-11-30 | SPE7L727T0731 | 61--BATTERY,NONRECHARGEABL |  | SBA | 1 |
+| 2026-12-10 | W91QV127QA009 | MDW Drayage Contract | Fort Myer, VA | SBA | 4 |
+| 2026-12-11 | 36C78627Q0001 | W023-- Northwoods National Cemetery Office Trailer Lease |  | Unrestricted | 1 |
+| 2026-12-10 | 140PP027Q0041 | Telehandler Rental - Yosemite National Park |  | SBA | 2 |
+| 2026-12-04 | 70ZU0327Q60519Y00 | EQUIPMENT RENTAL- ARTICULATING BOOM LIFT | Curtis Bay, MD | SBA | 2 |
+| 2026-12-04 | 70ZU0327Q60518Y00 | EQUIPMENT RENTAL- AIR COMPRESSOR, BLAST POT | Curtis Bay, MD | SBA | 2 |
+| 2026-11-30 | 36C25727Q0087 | W065--NTX Bed Rentals Brand Name or equal | Dallas | SBA | 4 |
+| 2026-12-18 | N0003926RG004 | Portfolio Acquisition Executive (PAE) Mission Systems (MS) PLANNING, A |  | SBA | 4 |
+| 2026-12-04 | N0018927RD001 | NETSAFA International Training Center Support | Pensacola, FL | SBA | 8 |
+| 2026-12-18 | N0025327R3001 | Keyport Infrastructure Security Support Services Solicitation |  | SBA | 4 |
+| 2026-12-15 | N0042127R1008 | NAWCAD (WOLF) Airborne Systems Integration (ASI ) Division Technical P | MD | SBA | 23 |
+| 2026-12-11 | N6133127R0006 | Mission Module Solicitation | Panama City Beach, FL | SBA | 1 |
+| 2026-12-18 | W912BU26RA036 | INDEFINITE DELIVERY INDEFINITE QUANTITY CONTRACT FOR INLAND AND COASTA |  | SBA | 4 |
+| 2026-11-30 | 36C25627Q0151 | H912--Fire Dampers Inspection and Testing Services |  | Unrestricted | 6 |
+| 2026-12-01 | W912DS27BA003 | Solicitation for IDIQ Contract for Biology Testing of DM |  | Unrestricted | 4 |
+| 2026-12-04 | 2027-R-007 | U.S. Senate Wellbeing Application | DC | Unrestricted | 8 |
+| 2026-12-01 | 36C10B27Q0022 | 6515--Methasoft Medication Dispensing System |  | Unrestricted | 3 |
+| 2026-12-02 | 1333MG27Q0002 | GeoJobe Software with Training and Support |  | SBA | 3 |
+| 2026-11-30 | W519TC27QA031 | Pine Bluff Arsenal Testing, Lab and Engineering Services | White Hall, AR | SBA | 14 |
+| 2026-12-11 | 1284LM27Q0012 | USDA Forest Service Dakota Skipper Habitat Survey and Mapping | Watford City, ND | SBA | 4 |
+| 2026-12-14 | 34359RFQ270000002 | US COAST GUARD NSFCC CONFINED SPACE TRAINING | Mobile, AL | SBA | 3 |
+| 2026-12-14 | W91SMC27RA001 | Employee Assistance Program – Human Resources Office (HRO) | Springfield, IL | SBA | 3 |
+| 2027-01-06 | N4008027R1001 | NAVAL RESEARCH LABORATORY (NRL) FACILITY SUPPORT SERVICES (FSS) |  | SBA | 4 |
+| 2026-12-14 | FA460027Q0009 | B304 Drive Fan Replacement | Offutt AFB, NE | SBA | 4 |
+| 2026-12-03 | 70ZL26-27-ASCW-CylinderRentalServices | USCG Air Station Clearwater Cylinder Rental Services | Clearwater, FL | SBA | 4 |
+| 2026-12-04 | 15B40827Q00000002 | FCI Leavenworth Elevator & Chairlift Maintenance Requirement | Leavenworth, KS | NONE | 1 |
+| 2027-12-03 | FA282327R0006 | Evolv Metal Detectors | Eglin AFB, FL | SBA | 3 |
+| 2026-11-30 | 12444527Q0004 | Shawnee National Forest Wildlife and Rodent Shield Installation | Vienna, IL | SBA | 5 |
+| 2026-12-01 | 1174190 | US Forest Service Plumas National Forest Pest Control | CA | SBA | 5 |
+| 2026-11-30 | 1305M327Q0049 | S--Janitorial Services Rapid City, SD |  | Unrestricted | 7 |
+| 2026-12-28 | W911SA27QA012 | Custodial Services for IA058 (MS 30, 47) |  | SBA | 4 |
+| 2026-11-30 | 1305M327Q0056 | S--Janitorial Services Wichita, KS |  | Unrestricted | 3 |
+| 2026-12-22 | W9123827QA003 | New Hogan Weed Control |  | SBA | 4 |
+| 2026-12-10 | 15B41427Q00000004 | USMCFP SPRINGFIELD-TREE FELLING SOLICITATION | Springfield, MO | SBA | 1 |
+| 2026-11-30 | 75N98027Q00095  | SEED Company Showcase Participation at Biotech Showcase 2027 for NIH S | Bethesda, MD | NONE | 1 |
+| 2026-12-02 | 36C24927Q0014 | R614--Tennessee Valley Healthcare Services Document Destruction Shredd |  | Unrestricted | 3 |
+| 2026-12-01 | HDTRA127Q0004 | Reston Non-Affixed Item Removal and Disposal |  | SBA | 4 |
+| 2026-11-30 | W912EK27QA006 | Lake Red Rock Refuse Removal Services | Knoxville, IA | Unrestricted | 6 |
+| 2026-11-27 | 36C24227R0010 | F108--620-26-206 Asbestos Abatement |  | Unrestricted | 21 |
+| 2026-11-27 | 36C25227Q0069 | S222--Grease Trap Service-FY27 Base-Tomah VAMC - December 2026 - Novem |  | Unrestricted | 3 |
+| 2026-12-04 | 2027-PZI-0004 | Wet Well Cleaning | Hanscom AFB, MA | SBA | 4 |
+| 2026-12-01 | 89503427QWA001336 | NPFA 70E- Low Voltage Training Program |  | SBA | 1 |
+| 2026-11-30 | HT940727Q0002 | Stryker Power Load installation |  | Unrestricted | 4 |
+| 2026-12-14 | W51AA127QA004 | 400 Hz Cycle Converters - Maintenance, Inspections, and Repairs | Tobyhanna, PA | SBA | 7 |
+| 2027-02-26 | FA853827RB004 | Solicitation Notice Repair of the F-15 Digital Mapping System (DMS) Ad | Warner Robins, GA | Unrestricted | 10 |
+| 2027-01-08 | 36C24627Q0092 | J066--GRECC Preventive Maintenance Contract, Durham VAMC | Durham, NC | SBA | 2 |
+| 2026-12-01 | 70Z08526RRJ001B00 | TRS-3D AN SPS-75 Radar repairs overhaul services | Baltimore, MD | NONE | 18 |
+| 2026-12-02 | 75F40126Q136817 | Service agreement on a Randox Daytona Plus Chemistry Analyzer Instrume | Jefferson, AR | Unrestricted | 1 |
+| 2026-11-30 | W912CN-27-Q-A009 | US Army Hawaii Dining Facilities’ Large Equipment Preventative Mainten | Schofield Barracks, HI | SBA | 16 |
+| 2026-12-08 | N6247827R2535 | Equipment Operations, Maintenance, and Repair Services at Joint Base P |  | SBA | 21 |
+| 2026-11-27 | N32253-27-Q-0011 | Dry Dock Flow Meter Service | JBPHH, HI | Unrestricted | 7 |
+| 2026-12-09 | 1284LL27Q0007 | Ammonia System Maintenance, Coeur d'Alene Nursery, Idaho Panhandle Nat | Coeur d Alene, ID | SBA | 2 |
+| 2026-12-03 | N0016427Q0020 | SINGLE COLORED DIODE PUMP LASER TEST TEARDOWN EVALUATION AND REPAIR | Crane, IN | NONE | 6 |
+| 2026-12-03 | W519TC27T3011 | Blanket Purchase Agreement (BPA) for CNC Machine Repair, Parts, Progra | KY | SBA | 5 |
+| 2026-12-07 | FA480027Q0007 | JECC Generator Preventative Maintenance |  | Unrestricted | 4 |
+| 2026-12-04 | 124PSA27Q0038 | Commercial Washer and Dryer Machine Preventive Maintenance and Service | Manhattan, KS | SBA | 3 |
+| 2026-11-30 | W911S826QA033 | Master BPA for Firefighter Personal Protective Equipment (PPE) Cleanin |  | SBA | 4 |

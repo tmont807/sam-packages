@@ -1,0 +1,28 @@
+{
+  "noticeId": "e534a2ae5fe24d1eb3cb350e1ae4cce9",
+  "solicitationNumber": "89503427QWA001336",
+  "title": "NPFA 70E- Low Voltage Training Program",
+  "naics": "611430",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-01T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > WESTERN-UPPER GREAT PLAINS REGION",
+  "contacts": [
+    {
+      "name": "Pfeifle, Mary K.",
+      "email": "pfeifle@wapa.gov",
+      "phone": "605-566-6964"
+    }
+  ],
+  "files": [
+    {
+      "name": "d254a2d6c6f24de5854a5bacc1bc712c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "NPFA 70E- Low Voltage Training Program",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "55983b6093864b7c968e0645605d450e",
+  "solicitationNumber": "SPE7L727T0731",
+  "title": "61--BATTERY,NONRECHARGEABL",
+  "naics": "335910",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-11-30T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "62f128b228b44067839ec6762e73850f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 6135013587471 BATTERY,NONRECHARGEABL:\nLine 0001 Qty 12155  UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0107 DAYS ADO\nApproved sources are 7X634 LITHSL14500BA; 7X634 LS14500.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

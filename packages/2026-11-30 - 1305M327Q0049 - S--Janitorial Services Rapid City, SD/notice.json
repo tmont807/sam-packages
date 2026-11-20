@@ -1,5 +1,5 @@
 {
-  "noticeId": "684440a22fda49348be9cf8494af44ea",
+  "noticeId": "7a2c8ed5570d491ab7c86149ee66ab89",
   "solicitationNumber": "1305M327Q0049",
   "title": "S--Janitorial Services Rapid City, SD",
   "naics": "561720",
@@ -18,6 +18,18 @@
   ],
   "files": [
     {
+      "name": "Sol_1305M327Q0049_Amd_0003.pdf",
+      "result": "255 KB"
+    },
+    {
+      "name": "1305M327Q0049_Questions_and_Answers_0003.docx",
+      "result": "20 KB"
+    },
+    {
+      "name": "Attachment_2_UNR_WFO_Floor_Plan_layout_0003.pdf",
+      "result": "748 KB"
+    },
+    {
       "name": "Sol_1305M327Q0049_Amd_0002.pdf",
       "result": "280 KB"
     },
@@ -35,6 +47,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "AMEND 0002 UPDATED SECTION 6 ADDENDUM TO 52.212-1 INSTRUCTIONS AND SECTION 7 RFO 52.212-2 EVALUATION. ATTACHED QUESTIONS AND ANSWERS DOCUMENT.    AMEND 0001 UPDATED SITE VISIT POC AND ADD ADDITIONAL LOCAL CLAUSE  JANITORIAL SERVICES WFO RAPID CITY, SD BASE PLUS 4 OPTIONS. ",
-  "savedAt": "2026-11-18T12:12:41.710575+00:00"
+  "description": "AMEND 0003 UPDATED SOW, QUESTIONS AND ANSWERS ATTACHMENT, AND ADDED FLOOR PLAN ATTACHMENT.   AMEND 0002 UPDATED SECTION 6 ADDENDUM TO 52.212-1 INSTRUCTIONS AND SECTION 7 RFO 52.212-2 EVALUATION. ATTACHED QUESTIONS AND ANSWERS DOCUMENT.    AMEND 0001 UPDATED SITE VISIT POC AND ADD ADDITIONAL LOCAL CLAUSE  JANITORIAL SERVICES WFO RAPID CITY, SD BASE PLUS 4 OPTIONS. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
 }

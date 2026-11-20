@@ -1,0 +1,45 @@
+{
+  "noticeId": "12fcfc711496424997c41223aecc8bff",
+  "solicitationNumber": "2027TYNDALLGATR15",
+  "title": "Sources sought GATR grounding",
+  "naics": "238990",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-27T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR COMBAT COMMAND > FA4819 325 CONS PKP",
+  "contacts": [
+    {
+      "name": "SrA Alan Lopez Vazquez",
+      "email": "alan.lopez.4@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Tsgt Jeffery Campbell",
+      "email": "jeffery.campbell.1@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "e1a03cb74483475c82a932f95aa70eb3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a3a3e8476e994a94acb63d3245e1ca6c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "6ef05cb9b50c4f58bc8ff22a7623258b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5931db95ac014723bd0a12b1df589094",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "This is a Request for Information (RFI) for market intelligence and for informational purposes only. This announcement does not constitute a Solicitation or a Request for Proposal (RFP), and no solicitation is currently available. Participation in this RFI is strictly voluntary. The Government will not be obligated to award any agreement or contract because of this RFI, nor will it reimburse respondents for any costs associated with the preparation or submission of information. Submitting a response will not affect a firms ability to submit a proposal should a formal solicitation be issued in the future.  ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

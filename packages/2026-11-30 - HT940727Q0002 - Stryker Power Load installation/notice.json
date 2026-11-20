@@ -1,0 +1,45 @@
+{
+  "noticeId": "35a8a9028c54463eac08867d7bed7243",
+  "solicitationNumber": "HT940727Q0002",
+  "title": "Stryker Power Load installation",
+  "naics": "811210",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE HEALTH AGENCY (DHA) > DEFENSE HEALTH AGENCY",
+  "contacts": [
+    {
+      "name": "Brian Selck",
+      "email": "brian.l.selck.civ@health.mil",
+      "phone": "2538208569"
+    },
+    {
+      "name": "Jane Pamintuan",
+      "email": "jane.v.pamintuan.civ@health.mil",
+      "phone": "2109527084"
+    }
+  ],
+  "files": [
+    {
+      "name": "aa41cac64f414eea9d155177ae0d1ded",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "204c5f8d58b8434992ea6c3a393c0270",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f8f257a4755f46ebab5160c64d3d9bd8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bb92c92f0eaf404d88bdb1d0919bd345",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Installation of (2) Stryker Power Load base plates at 9th MDG Beale AFB 15301 Warren Shingle Dr. Beale, AFB, CA  95903. See Statement of Work (SOW). ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "noticeId": "0f9db49c136c4a889b74de3ba31a3028",
+  "solicitationNumber": "N6133127R0006",
+  "title": "Mission Module Solicitation",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-11T20:00:00+00:00",
+  "state": "FL",
+  "city": "Panama City Beach",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NAVAL SURFACE WARFARE CENTER",
+  "contacts": [
+    {
+      "name": "Kristin Shaw",
+      "email": "kristin.s.shaw.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Angela Sammons",
+      "email": "angela.m.sammons2.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Mission Module Solicitation link",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " *****AMENDMENT 0001 Dated 11/18/2026***** The purpose of this amendment is to:(1) extend the proposal submission date to Friday 11 December 2026, (2) Update Section C NAVSEA Clause 215-H002 CONTRACTOR PROPOSAL (NAVSEA) (OCT 2018) (a) NAVSEA Solicitation No: to remove N6133126R3111 and insert N6133127R0006, (3) Update Section F - F.1 PLACE OF PERFORMANCE to remove Dahlgren and insert Panama City, (4) Upload Attachment J.12 Wage Determinations, (5) Update Section J Attachment J.1 Performance Work Statement (PWS) Section 3.0(e) by removing the sentence NSWC PCD will not provide space onboard NSWC PCD or the Naval Support Activity Panama City (NSAPC) during performance of this task order and replace it with PWS Section 3.0 (e) The Government will provide space for up to 15 Contractor personnel in office or working spaces each with a phone and Navy and Marine Corps Intranet (NMCI) computer with network connection., and (6)Update Section L - 2.5 from Company_Volume_III _Past Performance Reference for N61331-26-R-3111 to Company_Volume_III _Past Performance Reference for N61331-27-R-0006. ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ **Original Post*** **ONLY SEAPORT MAC HOLDERS ARE ELIGIBLE FOR AWARD UNDER THIS SOLICITATION.*** Request for Proposal (RFP) (N6133127R0006) under the Seaport NxG Multiple Award Contract (MAC), for Mission Module Engineering and Technical Support. This effort has been previously been posted under the Opportunities page as the following: Sources Sought Notice (N6133126SNQ27), dated (Posted 7 May 2026) and the follow-up Advance Planning Notice/Pre-Solicitation Notice dated (16 June 2026). ***RESPONSES MUST BE SUBMITTED VIA THE PIEE SOLICITATION MODULE.*** ***ALL DOCUMENTS ARE AVAILABLE WITHIN THE PIEE SOLICITATION MODULE*** Questions and Answers WILL TAKE PLACE THROUGH PIEE MODULE AND POSTED TO PIEE SOLICITATION MODULE BY ATTACHMENT***This is a solicitation for SEAPORT MAC HOLDERS ONLY. This solicitation is to provide services to support the Naval Surface Warfare Center Panama City Division (NSWC PCD) Modular Integration Division as the lead for engineering, analysis, and planning support for the modularization of off-board systems in support of the littoral warfare mission area. The requirements will include systems engineering, packaging and handling of off-board system hardware, system integration of legacy and emerging littoral mission systems, sea frame integration of mission modules, development of mission system common computing environments (e.g. Mission Package Computing Environment (MPCE)) and integrated communications networks (e.g. Multiple Vehicle Communication System(MVCS)), distributed engineering testing, and supporting the Government in validation and verification. Specifically, these requirements include the general program, engineering, technical, and integrated logistics support requirements for the Littoral Combat Ship (LCS)Mission Modules (MM) program at NSWC PCD. \n",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

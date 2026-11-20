@@ -1,0 +1,40 @@
+{
+  "noticeId": "64c645fc7b28486c9713b0c018399834",
+  "solicitationNumber": "HDTRA127Q0004",
+  "title": "Reston Non-Affixed Item Removal and Disposal",
+  "naics": "562111",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-01T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE THREAT REDUCTION AGENCY (DTRA) > DEFENSE THREAT REDUCTION AGENCY",
+  "contacts": [
+    {
+      "name": "Erika Hebert",
+      "email": "erika.l.hebert2.civ@mail.mil",
+      "phone": "5716166953"
+    }
+  ],
+  "files": [
+    {
+      "name": "4c73598201124939854f3958c9818d90",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2510b507799a41cd90f021e469600292",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cd84650b06f441b1a4a5350e4dd0320e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9fb930c7c4a0452f9deabed94d17cd19",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with FAR Part 12. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued. Solicitation number HDTRA127Q0004 is issued as a Request for Quotation (RFQ) for the removal and disposal of any and all non-affixed items, as well as paint and patch as specified in the PWS at the DTRA Reston, Virginia facility. This acquisition is set aside for small business concerns. See the RFQ document and attachments for requirement details, instructions, and submission information. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

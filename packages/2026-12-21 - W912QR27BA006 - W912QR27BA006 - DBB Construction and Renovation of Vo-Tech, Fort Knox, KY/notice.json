@@ -1,0 +1,40 @@
+{
+  "noticeId": "57108b93cb3141baa72701adcbafcb51",
+  "solicitationNumber": "W912QR27BA006",
+  "title": "W912QR27BA006 - DBB Construction and Renovation of Vo-Tech, Fort Knox, KY",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-21T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST LOUISVILLE",
+  "contacts": [
+    {
+      "name": "Jacob Pridemore",
+      "email": "jacob.s.pridemore@usace.army.mil",
+      "phone": "5023156228"
+    }
+  ],
+  "files": [
+    {
+      "name": "4b890499df904803afcdfa07a859a496",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8f1969dc9c1046b885768e339027f520",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5be6049fd62f4851a1454b3faf9e92d3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d7afd24d688946248f87175bef5e9dac",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers, Louisville District is issuing this Invitation for Bid (IFB) for the Design-Bid-Build (DBB) Construction and Renovation of Vo-Tech at Fort Knox, Kentucky.  ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

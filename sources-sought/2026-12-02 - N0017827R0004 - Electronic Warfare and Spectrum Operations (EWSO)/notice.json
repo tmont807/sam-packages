@@ -1,0 +1,40 @@
+{
+  "noticeId": "1b709bdcac9440c8856cab09b5e392be",
+  "solicitationNumber": "N0017827R0004",
+  "title": "Electronic Warfare and Spectrum Operations (EWSO)",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-02T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC DAHLGREN",
+  "contacts": [
+    {
+      "name": "Ashley Newton",
+      "email": "ashley.n.newton10.civ@us.navy.mil",
+      "phone": "5407428787"
+    }
+  ],
+  "files": [
+    {
+      "name": "321101aebe1c4229b22a01f32c6a3c48",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9def479715e54e2fa6179f46d935639f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1a471eccffe440d680c36b34c1914d6c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "71ff030ef8d24634acff15f57e6b956f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "*Update allows feedback from Industry until 2 December 2026. *THIS REQUIREMENT WILL BE SOLICITED AMONGST SEAPORT-NxG MAC HOLDERS ONLY* The Naval Surface Warfare Center, Dahlgren Division, Electromagnetic and Sensor Systems Department, Electronic Warfare and Spectrum Operations Division (B30) has a requirement for technical and engineering support that encompasses Systems and Software Engineering and Integration, Hardware and Software Research and Development, Modeling and Simulation, Test and Evaluation, Integration and Test, EW and Sensor System Data Analysis, System Maintenance, Operation, Training, Configuration Management and Data Management, Artificial Intelligence, Machine Learning, Information Technology, Laboratory Facility Assistance, Field Programmable Gate Arrays, Circuit Board Design and Embedded Systems, Foreign Military Sales, Design Reviews, Technical Documentation Development, and Project Management. *Certain attachments posted now or in the future (i.e. SOW, Industry Day slides, etc.) cannot be posted publicly and must be restricted. To receive access to restricted documentation, please submit a request to Ashley Newton at the email below and provide your company name and CAGE code.  ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

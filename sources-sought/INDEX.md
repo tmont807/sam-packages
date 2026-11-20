@@ -295,3 +295,46 @@
 | 2026-12-01 | W911S626AGILENT | Agilent Equipment Preventative Maintenance, Repair, and Upgrade Servic | Dugway, UT | NONE | 1 |
 | 2026-11-25 | 36C26227Q0138 | Service maintenance and support for GE MUSE NX | CA | NONE | 1 |
 | 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |
+
+## 2026-11-20
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-27 | 86615527Q00003  | Issuer Stress Testing Program Services |  | NONE | 2 |
+| 2027-01-07 | 192127IHQHSI001 | Assistant Criminal Analyst (ACA) Services | Washington, DC | NONE | 5 |
+| 2026-11-30 | 1176101 | Forest Service Hand Thinning, MATOC North Rockies Great Basin | Missoula, MT | NONE | 2 |
+| 2026-12-03 | 36C77627Q0075 | Y1DA--FY27 NRM - EHRM Base 509-22-701 - EHRM Infrastructure Upgrades - | Augusta | Unrestricted | 1 |
+| 2026-12-04 | FA7014-27-CP-0001 | Interior Office Renovation and Wall Removal - Offutt AFB | Offutt AFB, NE | SBA | 3 |
+| 2026-12-08 | 36C77627Q0074 | Y1DA--523-418 B2 MH Addition Construction | Brockton | Unrestricted | 2 |
+| 2026-11-24 | W912QR-PDB-FORTHOOD | Market Intelligence Notice Fort Hood Bldg 410 General Stilwell Army Re | Fort Hood, TX | Unrestricted | 1 |
+| 2026-11-30 | N6945027RH140 | HANGAR 140 RENOVATIONS AT NAVAL AIR STATON (NAS) JACKSONVILLE (JAX), J | Jacksonville, FL | NONE | 0 |
+| 2026-12-03 | 36C77627Q0041 | Y1DZ--673-901 Brooksville CBOC Renovation Minor Design-Build - Brooksv | Brooksville, FL | Unrestricted | 2 |
+| 2026-12-04 | W912EK27T004 | USACE ROCK ISLAND DISTRICT PL84-99 FLOOD REPAIRS FY2027 TWO RIVERS 202 |  | Unrestricted | 4 |
+| 2026-12-04 | W912DR27RA012 | Sources Sought |  | SBA | 4 |
+| 2026-11-30 | 36C26327Q0124 | J041--Service - AHU PM & Filter Evaluation - NWI | Omaha | Unrestricted | 1 |
+| 2026-11-27 | IHS1532768 | SOURCES SOUGHT NOTICE Preventive Maintenance Services for Medical Gas  | Tonalea, AZ | Unrestricted | 1 |
+| 2026-12-04 | REQT-IHS-2026-00357  | HVAC Preventative Maintenance for Fort Hall Service Unit, Fort Hall, I | Fort Hall, ID | NONE | 2 |
+| 2026-11-26 | 140PP027B0004 | Z--13976 PUHO FIRE PROTECTION AT DORM |  | Unrestricted | 0 |
+| 2026-11-25 | HAFBOM_RFI01 | Opacity Meter Quarterly Inspections | Hanscom AFB, MA | SBA | 1 |
+| 2026-11-27 | 2027TYNDALLGATR15 | Sources sought GATR grounding |  | Unrestricted | 4 |
+| 2026-12-01 | 7571MN26R00052 | REQUEST FOR INFORMATION (RFI) Federal Occupational Health - Medication | Rockville, MD | NONE | 5 |
+| 2026-12-04 | RFI_FY27001 | USCG Mission System Integration Lab Packing, Rigging, Transportation,  | Patuxent River, MD | NONE | 8 |
+| 2026-12-04 | N6133127SNQ03 | JEXC2 AND MDAP MISSION SUPPORT CENTER (MSC) TIER 2 |  | Unrestricted | 4 |
+| 2026-12-07 | W9127S27RA016 | Architect-Engineering (AE) Indefinite Delivery Contract (IDC) in Suppo |  | Unrestricted | 1 |
+| 2026-12-11 | N65236-26-RFPREQ-LSUBP00035-0009 | SUBMARINE C4ISR SYSTEMS TECH SUPPORT, INSTALLATION AND MODERNIZATION |  | Unrestricted | 4 |
+| 2026-12-07 | PRARNG27SS39258 | Sources Sought – Potential Sole-Source Title II Type “C” Architect-Eng | Salinas, PR | NONE | 2 |
+| 2026-12-02 | N0017827R0004 | Electronic Warfare and Spectrum Operations (EWSO) |  | Unrestricted | 4 |
+| 2026-12-01 | 36C10B27Q0134 | DE01--Enterprise Service Desk (ESD) Managed Services (VA-27-00019920) |  | Unrestricted | 3 |
+| 2026-11-30 | 36C25927Q0061 | AI tool for Medication Reconciliation and Clinical Review | Grand Junction, CO | Unrestricted | 1 |
+| 2026-12-19 | W912CN27RA005 | MULTIPLE AWARD LAN DLAN SIPR-NIPR BPA | Schofield Barracks, HI | SBA | 1 |
+| 2026-11-27 | PANMCC-27-P-0000_058616 | Ft. Belvoir LRC Central Issuing Facility (CIF) Support Services | Fort Belvoir, VA | SBA | 1 |
+| 2027-01-14 | N6893627EXTACTDC00000EC00000-0040 | Labor-Only Fire Alarm System Support Services |  | Unrestricted | 0 |
+| 2026-12-10 | 70RSAT27RFI000004 | Integrated Physical Security Upgrades for the Department of Homeland S | Atlantic City, NJ | NONE | 1 |
+| 2026-11-30 | 36C26327Q0123 | S207--BHVAHCS Building 65 Bat Mitigation Sources Sought | Fort Meade | Unrestricted | 1 |
+| 2026-11-30 | 36C26327Q0123 | S207--BHVAHCS Building 65 Bat Mitigation Sources Sought | Fort Meade | Unrestricted | 1 |
+| 2026-12-20 | PANNWD27P0000034644 | Land Management Master Blanket Purchase Agreements (BPA) for the Rathb | Centerville, IA | SBA | 3 |
+| 2026-12-03 | W91QV1-27-Q-A990 | Joint Base Myer-Henderson Hall (JBM-HH) Porta John Services | Fort Myer, VA | Unrestricted | 1 |
+| 2026-12-10 | W50S8Z26Q0024 | Concessionaire Food & Beverage Services | OR | SBA | 1 |
+| 2026-11-28 | HT941027RFI0001 | Request for Information - Gastrointestinal Endoscopy Equipment Repair  | CA | NONE | 1 |
+| 2026-12-01 | 36C26227Q0150 | OFFSITE SURGICAL REPROCESSING & STERILIZATION | Long Beach, CA | NONE | 1 |
+| 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |

@@ -1,0 +1,45 @@
+{
+  "noticeId": "59b185b0657a4df8a7e84a0402fa8af2",
+  "solicitationNumber": "N4008027R1001",
+  "title": "NAVAL RESEARCH LABORATORY (NRL) FACILITY SUPPORT SERVICES (FSS)",
+  "naics": "561210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2027-01-06T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC ATLANTIC CMD > NAVFAC WASHINGTON > NAVFACSYSCOM WASHINGTON",
+  "contacts": [
+    {
+      "name": "Shauna Lloyd",
+      "email": "shauna.e.lloyd2.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Naomi Frambes",
+      "email": "naomi.k.frambes.civ@us.navy.mil",
+      "phone": "2028031246"
+    }
+  ],
+  "files": [
+    {
+      "name": "2000d8a4be2d45278c35abdb8592ae5b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "52940eb682354c249d1fe614311f7d35",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "68e73e27ed0648648479ced19b85f4dc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2510926d6b4046fb94693c5e055dc195",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The purpose of this requirement is to provide facility management, facility investment, integrated solid waste, pavement clearance, and utilities services for facilities, ground structures, personal property equipment, and installed equipment and systems at the U.S. Naval Research Laboratory in Washington, D.C. More details can be found in the attached solicitation documents. Please note that there is a site visit scheduled for December 2nd and 3rd, 2026, which more details can be found in the solicitation. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

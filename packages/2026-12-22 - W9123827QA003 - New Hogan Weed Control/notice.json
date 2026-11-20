@@ -1,0 +1,45 @@
+{
+  "noticeId": "b8b8862309404d3c99efb80bf8c63121",
+  "solicitationNumber": "W9123827QA003",
+  "title": "New Hogan Weed Control",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-22T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SPD > W075 ENDIST SACRAMENTO",
+  "contacts": [
+    {
+      "name": "Glory Sanders",
+      "email": "Glory.A.Sanders@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "DeAnna Wagner",
+      "email": "DeAnna.L.Wagner@usace.army.mil",
+      "phone": "916-557-6690"
+    }
+  ],
+  "files": [
+    {
+      "name": "103cf8c047d84f29947332232a434cd4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b98da95954044959bbfd3ddaed09220d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "963fef477bdd4f31967570cd6bd5357e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ec7d2081a12a43cdbb5224ddec95a21e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "All questions for this solicitation must be submitted in writing, via email, to the POCs listed below. All questions must be submitted 10 days prior to the quote due date. Thursday, December 10, 2026, at 10:00AM is the cut off for questions to be accepted.  No additional questions will be accepted after this date.    ***Site Visit***A site visit has been set up for December 1, 2026 at 9:00 AM.  Contractors must be US citizens with valid ID.  All attendees will meet at the operations office, Address: 2713 Hogan Dam Road, Valley Springs CA 95252. POC is Leah Peterson.  We encourage everyone to show up 15 minutes early to check in. This site visit is NOT mandatory, however, no other site visits will be given.    ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

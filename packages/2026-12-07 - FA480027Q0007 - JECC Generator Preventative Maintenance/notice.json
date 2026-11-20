@@ -1,0 +1,45 @@
+{
+  "noticeId": "683adb389f094dcc86a537375cc0bc1c",
+  "solicitationNumber": "FA480027Q0007",
+  "title": "JECC Generator Preventative Maintenance",
+  "naics": "811310",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-07T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR COMBAT COMMAND > FA4800  633 CONS PKP",
+  "contacts": [
+    {
+      "name": "Emoni Bright",
+      "email": "emoni.bright@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Ashlee Ling",
+      "email": "ashlee.ling.2@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "6bf6a7530fd4413989972501bec3c943",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9fc849cbab1e4ba88a5d8d72b64b794b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7de63bc90a7948498d9f2d690b61ac06",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5881421bb4a346888c0fec3285194df2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "JECC Generator Preventative Maintenance ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

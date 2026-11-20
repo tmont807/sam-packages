@@ -1,0 +1,40 @@
+{
+  "noticeId": "720f1dd5fbcf48d9a6cdd842eaebef2f",
+  "solicitationNumber": "W912EK27T004",
+  "title": "USACE ROCK ISLAND DISTRICT PL84-99 FLOOD REPAIRS FY2027 TWO RIVERS 2026 EVENT, SNY ISLAND REACH 1, AND INDIAN GRAVE 2024 EVENT",
+  "naics": "237990",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > MVD > W07V ENDIST ROCK ISLAND",
+  "contacts": [
+    {
+      "name": "Stanley Bolton",
+      "email": "stanley.l.bolton@usace.army.mil",
+      "phone": "3097945527"
+    }
+  ],
+  "files": [
+    {
+      "name": "662dce9e54f7475792a02ea225458ce1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0fa611b21d0e4069829e58bb08718a4e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "087d36ed443c40df84192c6bcaacdfd3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b43dfb8a83ae40939490f49ddf2529f2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The U.S. Army Corps of Engineers, Rock Island District, is seeking construction businesses that can perform the requirement based on the description provided. (Any Specification, Plan Set, or as built drawing will be provided at the solicitation phase).Please read all documents, descriptions and/or scopes of work provided in their entirety. This announcement is for information and planning purposes only and is not to be construed as a commitment by the Government, implied or otherwise, to issue a solicitation or make a contract award. NO AWARD will be made from this Sources Sought Notice. This is NOT a request for proposals, quotes or invitation for bids. The sole purpose of this notice is to identify potential System for Award Management (SAM) Database registered construction businesses that are interested and capable of performing this work. To download the Sources Sought click the link provided at the link/attachments section below. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "noticeId": "f183800caf2a46f9ba6dcd0831fb76a9",
+  "solicitationNumber": "N0003926RG004",
+  "title": "Portfolio Acquisition Executive (PAE) Mission Systems (MS) PLANNING, ACTIVATION, AND READINESS (PAR) N7 - TRAINING AND FLEET SELF SUFFICIENCY MANPOWER, PERSONNEL, AND TRAINING (MPT) TECHNICAL AUTHORITY (TA) AND INFORMATION WARFARE TRAINING (IWT) SUPPORT",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-18T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > SPAWAR > SPAWAR HQ > NAVAL INFORMATION WARFARE SYSTEMS",
+  "contacts": [
+    {
+      "name": "David Roden",
+      "email": "david.m.roden2.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Kristina Doughty",
+      "email": "kristina.a.doughty.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "926e2b3651c9497db10e4962720b48ba",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "31274a8b5d3d49a185d66dcd9a2259bc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "13b741dbcb4e4d51b2a91a71e0b3ff0a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "56835f4fee6446bab3ad7865f22c7c96",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "UPDATE 19 NOVEMBER 2026: Solicitation N0003927RG004 is officially posted. This requirement is STRICTLY RESTRICTED to active SeaPort NxG Multiple Award Contract (MAC) Holders and their authorized subcontractors; proposals from non-SeaPort NxG prime holders will not be evaluated. The Fair Opportunity Proposal Request (FOPR) for the Naval Information Warfare Systems Command (NAVWAR) Portfolio Acquisition Executive (PAE) Mission Systems (MS) PLANNING, ACTIVATION, AND READINESS (PAR) N7 - TRAINING AND FLEET SELF SUFFICIENCY MANPOWER, PERSONNEL, AND TRAINING (MPT) TECHNICAL AUTHORITY (TA) AND INFORMATION WARFARE TRAINING (IWT) SUPPORT, (formerly known as the Fleet Readiness and Lifecycle Logistics Directorate (FRLLD), Manpower, Personnel, and Training (MPT) Technical Authority (TA) (NAVWAR 4.3.4) and Information Warfare Training (IWT) (NAVWAR 4.4) Training Support Services) has been released, with proposals due by December 18, 2026, at 10:00 AM (Pacific Standard Time) and the deadline for industry questions set for December 3, 2026, at 12:00 PM (Pacific Standard Time). This requirement is a 100% Small Business Set-Aside and is STRICTLY RESTRICTED to active SeaPort NxG Multiple Award Contract (MAC) Holders and their authorized subcontractors; proposals from non-SeaPort NxG prime holders will not be evaluated. Eligible offerors must utilize the Procurement Integrated Enterprise Environment (PIEE) Solicitation Module to access documents and submit proposals for this Cost-Plus-Fixed-Fee (CPFF) Level of Effort (LOE) task order, which requires an active TOP SECRET/SCI Facility Clearance (FCL) at the time of proposal submission to support a total estimated effort of 368,060 staff-hours. Please direct all questions and submittals through the PIEE portal in accordance with the solicitation instructions. This solicitation (N0003927RG004) is related to the presolicitation notice N0003926RG004 (https://sam.gov/workspace/contract/opp/aa26b7f3a81f4b1cb651b11b91310ab2/view). The presolicitation notice (https://sam.gov/workspace/contract/opp/aa26b7f3a81f4b1cb651b11b91310ab2/view) is in an Inactive status when searching sam.gov. *************************************************************************11 JUNE 2026. ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is TOTAL SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***The Naval Information Warfare Systems Command (NAVWAR) Manpower, Personnel, and Training (MPT) Technical Authority (TA) (NAVWAR 4.3.4) and Information Warfare Training (IWT) (NAVWAR 4.4) is acquiring Training Support Services at the program and project level to include: Training Systems Program Management, Training Analysis and Assessment, Training Planning and Documentation, Training Development and Delivery, Fleet Training Support and Management, Training Integration and Capability-Based Analysis for Cross-System Solutions, Deputy Program Executive Office-Training (DPEO-T) and Assistant Program Manager-Training (APM-T) Initiatives, and Training Systems Toolset Sustainment and Customer Support. ",
+  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+}
