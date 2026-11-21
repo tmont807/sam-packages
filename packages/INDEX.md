@@ -867,3 +867,96 @@
 | 2026-12-07 | FA480027Q0007 | JECC Generator Preventative Maintenance |  | Unrestricted | 4 |
 | 2026-12-04 | 124PSA27Q0038 | Commercial Washer and Dryer Machine Preventive Maintenance and Service | Manhattan, KS | SBA | 3 |
 | 2026-11-30 | W911S826QA033 | Master BPA for Firefighter Personal Protective Equipment (PPE) Cleanin |  | SBA | 4 |
+
+## 2026-11-21
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-07 | A027066 | GSA OASIS 8(a) - RISK MANAGEMENT AND INTERNAL CONTROL PROGRAM INTEGRAT | VA | Unrestricted | 6 |
+| 2026-11-30 | W81K00-27-Q-A016 | Army Continuing Medical Education (CME) Reaccreditation | Falls Church, VA | SBA | 4 |
+| 2026-11-30 | 127EAT27Q0004 | Airport BAER Weed Treatment | Corona, CA | SBA | 7 |
+| 2026-12-05 | 140FF027Q0090 | B--AK-ARCTIC NWR-GRAY HEADED CHICKADEE ACOUSTIC MONIT |  | SBA | 2 |
+| 2026-12-21 | W912QR27BA006 | W912QR27BA006 - DBB Construction and Renovation of Vo-Tech, Fort Knox, |  | SBA | 4 |
+| 2027-01-19 | W50SLF27RA001 | Construct Egress JBPHH HI |  | SBA | 4 |
+| 2026-11-30 | W911KB27RWP01 | ACC003 Weapons Generation Complex and Northern Flightline |  | Unrestricted | 4 |
+| 2026-12-08 | 36C24227B0006 | Z1DA--528A8-22-814 Consolidate Primary Care Reception | Albany, NY | Unrestricted | 10 |
+| 2027-01-15 | N6449827R0013 | Naval Surface Warfare Center Philadelphia Division (NSWCPD) Indefinite |  | SBA | 4 |
+| 2026-12-08 | W912DS27BA004 | Demolition of an existing building, Site Improvements and construction |  | SBA | 4 |
+| 2026-12-10 | W9127826SC001 | Program Solicitation W9127826SC001 Deployment Center Flight Line Dine  |  | Unrestricted | 4 |
+| 2026-12-23 | 6973GH-27-R-00042 | Morales, TX (QNA) ARSR - Repair Replace Building and Exterior Items to | TX | SBA | 7 |
+| 2026-12-11 | FA860127R0004 | 2027-2034 Wright-Patterson Air Force Base Multiple Award Construction  |  | SBA | 4 |
+| 2026-12-28 | W50S8327BA002 | Fuel Cell Hangar Cosntruction |  | Unrestricted | 4 |
+| 2026-12-04 | N4008527R9006 | NH100 Engine Control Unit Replacement | Camp Lejeune, NC | SBA | 6 |
+| 2026-12-21 | W912BV27QA014 | Horizontal Drill Work Council Grove Lake, Kansas |  | SBA | 4 |
+| 2026-12-09 | 140FGA26R0044 | Y--White Horse Hill National Game Preserve Water Main |  | SBA | 8 |
+| 2026-12-22 | 693C73-27-B-000006 | Natchez Trace Parkway | MS | Unrestricted | 12 |
+| 2026-12-12 | 1240LT27Q0026 | HUMBOLT PACIFIC CREST TRAIL BRIDGE REPLACEMENT | Bridgeport, CA | Unrestricted | 6 |
+| 2027-01-05 | W9123827BA002 | USACE SPK DBB Construction - LAR C3B South - Sacramento, CA |  | SBA | 4 |
+| 2026-12-18 | W9123827BA001 | USACE SPK DBB Construction - LAR C3B North - Sacramento, CA |  | SBA | 4 |
+| 2026-12-07 | W912HY27BA011 | FY27 HARLINGEN PLACEMENT AREA (PA)13 AND 10 IMPROVEMENTS |  | Unrestricted | 4 |
+| 2026-12-18 | W912DW27RA020 | CHJ 480V _ SQ1_SQ3_ DSQ1_DSQ2_Rep |  | SBA | 4 |
+| 2026-12-01 | W912HY27RA001 | Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP |  | Unrestricted | 6 |
+| 2026-12-10 | W912HN27BA001 | Tybee Island Shoreline Protection Project | Tybee Island, GA | Unrestricted | 6 |
+| 2026-12-03 | W9123627BA003 | Norfolk Harbor Inner Channel and Channel to Newport News Maintenance D | VA | NONE | 4 |
+| 2026-12-03 | W9127N27BA009 | JOHN DAY DAM NAVIGATION LOCK TAINTER VALVE (TV) REPAIRS TV3 AND TV4 |  | Unrestricted | 4 |
+| 2026-12-09 | W912P926RA004 | LOCK AND DAM 25 NEW 1,200 FT LOCK NAVIGATION AND ECOSYSTEM SUSTAINABIL |  | Unrestricted | 4 |
+| 2026-11-30 | W9127N27BA010 | NAVIGATION LOCK TAINTER VALVE (TV) REPAIR, TV1 |  | Unrestricted | 4 |
+| 2027-01-04 | W912EF27BA001 | Dworshak Powerhouse Roof Replacement | ID | Unrestricted | 3 |
+| 2026-12-01 | 1240BE27Q0025 | Research Triangle Park Forestry Sciences Laboratory HVAC Repair | Durham, NC | SBA | 2 |
+| 2026-12-04 | 140FF027Q0082 | J--NC ALLIGATOR RIVER NWR HVAC PM Option Yr Contract |  | SBA | 6 |
+| 2026-11-28 | 30332Q270000002 | Remediation of storm damage to station multi-Purpose Bldg | Dauphin Island, AL | SBA | 4 |
+| 2026-12-02 | 36C24227R0008 | Z1DA--NRM CONST - 528A7-18-707 - Replace Boiler Stack Rome CBOC |  | Unrestricted | 10 |
+| 2026-12-01 | 124PCA27Q0008 | MSB Lab Floor Coating Repairs | Glenside, PA | Unrestricted | 7 |
+| 2026-12-02 | 36C26026Q0827 | Grout Maintenance for the Puget Sound VA |  | SBA | 6 |
+| 2026-12-05 | 127EAX26Q0076  | Camptonville Housing Decommissioning | Nevada City, CA | SBA | 12 |
+| 2026-12-11 | 140D0427Q0949 | Z--Garage Drywall Demolition at Udall Building |  | SBA | 4 |
+| 2027-01-05 | FA301027Q0002 | Child Development Center Playgrounds | Biloxi, MS | NONE | 21 |
+| 2026-12-07 | 140EE127Q0003 | OHMSETT FUNCTIONAL CLASSROOM UPGRADE |  | Unrestricted | 4 |
+| 2026-11-30 | SPE7M227Q0076 | 53--NUT,SELF-LOCKING,HE |  | SBA | 1 |
+| 2026-12-21 | N0010426QND84 | TRANSMITTER,PRESSUR |  | Unrestricted | 3 |
+| 2026-12-21 | N0010426QND85 | TRANSMITTER,PRESSUR |  | Unrestricted | 3 |
+| 2026-12-01 | SPE7L727Q0297 | 61--BATTERY,STORAGE |  | SBA | 1 |
+| 2026-11-30 | N4215827QE011 | Electronic System Components from Unlimited Technology Government | Portsmouth, VA | Unrestricted | 2 |
+| 2026-12-02 | SPE60227R0701 | Combined Synopsis Solicitation Notice for JPTS Transportation Services |  | Unrestricted | 4 |
+| 2026-12-11 | 36C78627Q0001 | W023-- Northwoods National Cemetery Office Trailer Lease |  | Unrestricted | 2 |
+| 2026-12-11 | W912JA-27-Q-A002 | BPA for Crane and Heavy Forklift Rental Services | Montgomery, AL | SBA | 3 |
+| 2026-12-07 | FA302227Q0300 | FY27 Auxiliary Airfield Fire Truck Rental | Columbus, MS | SBA | 3 |
+| 2026-12-11 | 15BGCS27Q10600001 | Liquid Oxygen Services - FCC Butner | Butner, NC | Unrestricted | 1 |
+| 2026-11-30 | 70ZU0327P60017Y00 | USCG Yard Reactive Load Bank Rental | Curtis Bay, MD | SBA | 3 |
+| 2026-12-02 | N0040627R0002 | Region - OCONUS JAPAN Support Services |  | Unrestricted | 4 |
+| 2026-12-15 | N0042127R1008 | NAWCAD (WOLF) Airborne Systems Integration (ASI ) Division Technical P | MD | SBA | 23 |
+| 2026-12-14 | W15P7T-26-R-A006 | Marketplace for Acquisition of Professional Services (MAPS) | Aberdeen Proving Ground, MD | Unrestricted | 25 |
+| 2026-12-21 | 1240LQ27R0001 | Bridge & Structures, Dam Design and Investigation Studies AE | Milwaukee, WI | SBA | 2 |
+| 2026-11-30 | RFP_476957 | A-E Services for Electron Injector Complex | Upton, NY | NONE | 17 |
+| 2026-12-22 | N6660427Q0046 | Rotary Stepper Motor Calibrations | Newport, RI | NONE | 5 |
+| 2026-12-17 | N0003927RM002 | Solicitation - N0003927RM002 NILE ISS 6 Engineering Services |  | SBA | 4 |
+| 2026-11-30 | 75H71027Q00004 | Pharmacy Patient Workflow Tracking System | Gallup, NM | SBA | 1 |
+| 2027-09-11 | W50NH9-26-S-0001 | AIE-ITS CSO | Fort Belvoir, VA | Unrestricted | 3 |
+| 2026-11-30 | 2027-R-017 | Asana Enterprise Renewal | Washington, DC | Unrestricted | 5 |
+| 2026-12-08 | 68HERW27Q0020 | Digital Pesticide Labeling Platform Pilot |  | SBA | 1 |
+| 2026-11-30 | CORHQ-26-Q-0400 | FDIC - Salesforce Enterprise Agreement – Subscription Licenses Mainten | Arlington, VA | NONE | 7 |
+| 2026-12-18 | W9128F27QA009 | Dugway Proving Grounds Tank Inspections |  | SBA | 4 |
+| 2026-12-04 | FA812527Q0015 | Fall Protection Annual Inspection | Tinker AFB, OK | SBA | 6 |
+| 2026-12-17 | 68HERF26R0010 | RTP Facilities Operations and Maintenance | Research Triangle Park, NC | Unrestricted | 1 |
+| 2026-12-05 | 140PP027Q0035 | 16806 REDW FIRE AND INTRUSION ALARM SYST |  | SBA | 4 |
+| 2026-11-30 | 12444527Q0004 | Shawnee National Forest Wildlife and Rodent Shield Installation | Vienna, IL | SBA | 6 |
+| 2026-12-08 | 1240BE27Q0023  | S - Janitorial Services PNW Wenatchee Forestry Sciences Laboratory | Wenatchee, WA | SBA | 5 |
+| 2026-12-09 | 140RR027Q0001 | S--BGNDRF CUSTODIAL SERVICES |  | SBA | 12 |
+| 2026-12-10 | 1240BE27Q0022 | Northern Research Station Irvine Lab Snow Plowing and Ice Removal | Irvine, PA | SBA | 1 |
+| 2026-12-04 | 140PP027Q0036 | F--19636 COLO INVASIVES TREATMENT | Yorktown, VA | SBA | 16 |
+| 2026-12-16 | W912BV27QA016 | CNG Afton and Bluff Landing PUA Tree Removal |  | SBA | 4 |
+| 2026-12-04 | W9123727QA008 | JWF NFP Maintenance Service 2027 - 2031 |  | SBA | 4 |
+| 2026-11-30 | 140D0427Q0888 | DOI-NPS Snow Removal Services |  | Unrestricted | 9 |
+| 2026-12-02 | 36C24927Q0014 | R614--Tennessee Valley Healthcare Services Document Destruction Shredd |  | Unrestricted | 4 |
+| 2026-12-01 | 36C24827Q0071 | S205--FY27 Solid Waste Collection Services |  | Unrestricted | 5 |
+| 2026-12-18 | 15B20927Q00000006 | FY27 FCI MCKEAN TRASH REMOVING | PA | SBA | 3 |
+| 2026-12-01 | 12444527Q0009 | ACW (Ava-Cassville-Willow Springs Ranger District, Mark Twain National | Ava, MO | SBA | 9 |
+| 2026-11-30 | RFQDJA27AEETPR0019 | Amendment 001 - BPA for Explosives Training and Research (NCETR) has a | Huntsville, AL | SBA | 10 |
+| 2026-12-02 | 36C25527Q0053 | J065--Imaging Service & Maintenance EHCC & MTV |  | Unrestricted | 1 |
+| 2026-12-04 | PCA-NIA-12966 | BD Service Agreement | MD | NONE | 1 |
+| 2027-01-08 | 36C24627Q0092 | J066--GRECC Preventive Maintenance Contract, Durham VAMC | Durham, NC | SBA | 2 |
+| 2026-12-03 | FA301627Q0014 | Aviation Support Equipment Load Testing |  | SBA | 4 |
+| 2026-12-08 | 127EAY27Q0007 | AMENDMENT #1 - Repair HVAC Seedling Coolers - Six Rivers NF- Gasquet R | Gasquet, CA | SBA | 11 |
+| 2026-12-04 | 1284LL27Q0008 | Refurbishment of Existing Tree Cooler, St. Joe Ranger District, Idaho  | ID | SBA | 4 |
+| 2026-11-30 | W912EF27QA006 | LLA Fish Pump - Motor Rewind | Pomeroy, WA | Unrestricted | 10 |
+| 2026-12-10 |  FA812527Q0009 | Med. Press. Pump Module Motor Rebuild | Tinker AFB, OK | SBA | 6 |

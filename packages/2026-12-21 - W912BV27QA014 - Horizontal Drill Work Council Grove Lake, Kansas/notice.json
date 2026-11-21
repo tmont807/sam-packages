@@ -1,0 +1,40 @@
+{
+  "noticeId": "984f9e18f2da4c61ba0cb94c7b9d6585",
+  "solicitationNumber": "W912BV27QA014",
+  "title": "Horizontal Drill Work Council Grove Lake, Kansas",
+  "naics": "237110",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-21T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST TULSA",
+  "contacts": [
+    {
+      "name": "Tyler Hastings",
+      "email": "tyler.a.hastings@usace.army.mil",
+      "phone": "9186694396"
+    }
+  ],
+  "files": [
+    {
+      "name": "a8a13c0d7cc3408292c815d1e3571648",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d7446476c9dc4c26aa4ed226d9a9bcf1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8824d1615a72412a82ce96bb9a7d7366",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "53299644d61e4666b784025e28390968",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U. S. Army Corps of Engineers (USACE), Tulsa District is soliciting Horizontal Drill Work at Council Grove Lake, Kansas. ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

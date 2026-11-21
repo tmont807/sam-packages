@@ -1,0 +1,28 @@
+{
+  "noticeId": "585577a27b934d6c94404d87ad852ea2",
+  "solicitationNumber": "68HERF26R0010",
+  "title": "RTP Facilities Operations and Maintenance",
+  "naics": "561210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-17T20:00:00+00:00",
+  "state": "NC",
+  "city": "Research Triangle Park",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Hawkins, Amber",
+      "email": "Hawkins.Amber@epa.gov",
+      "phone": "513-487-2126"
+    }
+  ],
+  "files": [
+    {
+      "name": "99afb5c8ace94d9db543b140e418da05",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "M1AZ - RTP Facilities Operations and Maintenance located at EPA Research Triangle Park, NC",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

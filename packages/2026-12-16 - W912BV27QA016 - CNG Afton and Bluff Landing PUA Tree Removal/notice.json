@@ -1,0 +1,40 @@
+{
+  "noticeId": "6d3cdb1aa99f42599362284dac8b0e4f",
+  "solicitationNumber": "W912BV27QA016",
+  "title": "CNG Afton and Bluff Landing PUA Tree Removal",
+  "naics": "561730",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-16T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST TULSA",
+  "contacts": [
+    {
+      "name": "Kordel Tyler",
+      "email": "kordel.m.tyler@usace.army.mil",
+      "phone": "9186697082"
+    }
+  ],
+  "files": [
+    {
+      "name": "29d12ae3e9f44d94aad5108f7970f4ad",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8c34808cec8f4ae391b5dab7eda08436",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "08dd06ca996940cc8ac85eeda01ed6de",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fd66b1cc8ffc4641b2654ef8f00ef564",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "CNG Afton and Bluff Landing PUA Tree Removal ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

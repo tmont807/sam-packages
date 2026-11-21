@@ -1,0 +1,40 @@
+{
+  "noticeId": "7923a0ececfa4368bbb5088e7b8cb061",
+  "solicitationNumber": "PANDHA-26-P-0000_045517",
+  "title": "SOURCES SOUGHT NOTICE/REQUEST FOR INFORMATION (RFI) for Thermal Foot Manikin Repair Services and Software update",
+  "naics": "811210",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Monica Perez",
+      "email": "monica.c.perez3.civ@health.mil",
+      "phone": "3016196684"
+    }
+  ],
+  "files": [
+    {
+      "name": "509df065e44c40e294b85ff119e058da",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5e46145050554ce6bb39f575311b6b3b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "03a2906506004944aafa067821d59dd6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9c6a52ad4a9c433d9d3617b99846bc8d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "NOTICE: This notification is for market research purposes only to identify potential contractors who have the skills, experience, and knowledge required to successfully complete this requirement and it is not to be construed as a solicitation. The issuance of this RFI and responses thereto do not imply a commitment to release a solicitation. A determination by the Government not to compete any or all portions of the work discussed in this RFI rests solely within the discretion of the Government. The Government will not pay for time, effort, materials, or any other costs that arise as a consequence of responding or providing information related to this RFI. The purpose of this RFI is to conduct market research to determine if responsible sources exist and if this effort can be competitive and/or a total Small Business Set-Aside. The proposed North American Industry Classification Systems Code is intended to be 811210 (Electronic and Precision Equipment Repair and Maintenance) which has a corresponding size standard of $34M or fewer employees and Product Service Code J066 (Maint/Repair/Rebuild of Equipment - Instruments and Laboratory Equipment). The Government will use this information to determine the best acquisition strategy for this procurement. The Government is interested in all small business, to include 8(a), Service-Disabled Veteran-Owned, historically underutilized business zone (Hubzone), and Women-Owned small business concerns. REQUIREMENT: The Defense Health Agency Contracting Activity (DHACA), in support of United Stated Medical Research Institute of Environmental Medicine (USARIEM) located at Natick, Massachusetts, 01760), has a requirement for repair, calibration, and warranty services (see attached Draft Performance Work Statement) of a thermal foot manikin; to include shipping to vendors location, repair, calibration,  update ThermDAC control software and a provide a 12 month warranty starting from the date of shipment. The Period of Performance is anticipated to be sixteen (16) weeks from the time of award.  ELIGIBILITY REQUIREMENTS: The contractor shall repair and calibrate one Thermetrics LLC thermal foot manikin to the Thermetrics specifications, provided shipping for this device from USARIEM to contractors location and return shipping after the work is complete as listed in the DRAFT Performance Work Statement.  RESPONSES: This RFI is issued solely for informational and planning purposes. No funds are available to fund the information requested. The information in this notice is current as of the publication date but is subject to change and is not binding on the Government. Oral submissions of information are not acceptable.  If your organization has the potential capacity to perform the required services, please provide a white paper (limited to 4 pages) with sufficient information to substantiate that respondents can successfully perform to and fulfill all requirements. The following shall be addressed in white paper submissions: - Company Name and Address - Cage Code- Unique Identifier- Company business size by NAICS code- Small Business Type (s)- How the eligibility requirements are met- Point of Contact for questions and/or clarification- Telephone Number and email address- Teaming Partners (if applicable).  All white papers shall be submitted to Monica Perez via email to monica.c.perez3.civ@health.mil.   ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

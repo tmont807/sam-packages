@@ -1,5 +1,5 @@
 {
-  "noticeId": "a6091dd5d30e493ebcfcd1c7b94cc798",
+  "noticeId": "a4209158195e4eaaa69a73f455b90ed4",
   "solicitationNumber": "36C24227R0008",
   "title": "Z1DA--NRM CONST - 528A7-18-707 - Replace Boiler Stack Rome CBOC",
   "naics": "238220",
@@ -17,6 +17,10 @@
     }
   ],
   "files": [
+    {
+      "name": "36C24227R0008 0002.docx",
+      "result": "29 KB"
+    },
     {
       "name": "Site visit sign-in sheet.pdf",
       "result": "5553 KB"
@@ -55,6 +59,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "CONTINUATION OF SF 30 BLOCK 14 AMENDMENT DESCRIPTION 0001 AGAINST SOLICITATION NO. 36C24227R0008\n\n\n1. This amendment posts the sign in sheet for the site visit that occurred on Monday, November 9th, 2026. See attached document. \n\n2. This amendment answers the following question vendor question: \nCould you confirm the intended local Eastern time for the November 9 site visit, November 16 questions deadline, and December 2 proposal deadline? The narrative says EDT, while SF1442 and SAM list EST for proposals.\nAnswer: Any reference to Eastern Daylight Time (EDT) in the solicitation should read as Eastern Standard Time (EST). \n\n\nAll other terms and conditions remain the same. \n\n\n\n\n \n\n\n\n",
-  "savedAt": "2026-11-17T12:05:07.972491+00:00"
+  "description": "CONTINUATION OF SF 30 BLOCK 14 AMENDMENT DESCRIPTION 0002 AGAINST SOLICITATION NO. 36C24227R0008\n\n1. This amendment answers the following vendor questions:\nNumber of boiler vents:\n\nOn M-101 (Boiler and Generator Exhaust Plan, Phase II), the new wall penetration/chase is labeled with two 14\" I.D. pipes and one 12\" I.D. pipe. Keynote 2 calls for a single \"new 14\" boiler double walled insulated vent stack,\" and the cutover notes describe that one vent connecting to Boiler #1 and continuing to within two feet of Boiler #2's vent, so one common 14\" vent appears to serve both boilers. The solicitation description, however, refers to \"two new steel boiler exhaust stacks.\" Please confirm whether the work is: (a) one 14\" double-wall vent common to Boiler #1 and Boiler #2, plus the 12\" generator exhaust, or (b) two separate 14\" double-wall vents (one per boiler), plus the 12\" generator exhaust. If (a), please confirm what the second 14\" pipe shown at the penetration represents.\nAnswer: Confirming: it is (b) two separate 14\" double-wall vents (one per boiler), plus the 12\" generator exhaust.\nb) Draft control or stack fan:\nNo stack fan, draft inducer, or boiler-outlet draft control appears on the drawings. Section 23 51 00 (paragraph 2.2, Boiler Outlet Dampers and Accessories) refers to automatic draft control specified in Section 23 09 11, but Section 23 09 11 is not included in the solicitation. Please confirm whether: (a) the new boiler vent is intended to operate on natural draft (no fan or draft control required), or (b) a mechanical draft fan and/or barometric or motorized draft control is expected. If so, please issue Section 23 09 11 or identify the required equipment and control sequence.\nAnswer: Confirming: it is (a) the new boiler vent is intended to operate on natural draft (no fan or draft control required).\nc) Design heating load and operating water temperatures:\nPlease provide the building design heating load (or recent gas and oil usage or meter data), and the normal heating-water supply and return temperatures for the two existing Fulton Vantage boilers. Return-water temperature sets the flue-gas temperature, which governs the vent sizing and draft calculation. Please also confirm whether the two boilers operate as lead/standby (N+1) or are both required at design load.\nAnswer: Replacing the boiler is not part of the contract. Boilers have inducer fans. There is no stack fan or boiler draft controls to be installed.\nd) Facility designation:\nPlease confirm whether the Rome CBOC is designated mission-critical under VA Physical Security and Resiliency Design requirements, or otherwise required to keep heating on during a utility outage, as this affects the vent design for both fuels.\nAnswer: Rome CBOC is NOT designated as a Critical/Mission Critical facility. CBOCs are generally outpatient facilities rather than hospitals with inpatient, emergency, surgical, or continuity-of-government functions. Therefore, absent a specific VA risk assessment or designation, the Rome CBOC would not ordinarily be assumed to be mission critical.\ne) Fuel oil and emergency power:\nBoiler #2 fires #2 fuel oil as a backup fuel. Please confirm (a) whether the vent must be designed for oil firing on Boiler #2 (and on Boiler #1, if applicable), (b) the size and required reserve of the existing #2 oil tank, and (c) whether the boilers and their associated vent or draft equipment are served by emergency power through an automatic transfer switch.\nAnswer: The specified vent material (AL-29-4C) is compatible for operating the boilers on natural gas or #2 oil.  This contract does not include altering the existing fuel oil tank, day tank, the boilers, or the generator.  We are eliminating the existing exhaust stack and installing a new exhaust stack in a different location to serve the two existing boilers and existing emergency generator.\n\nAll other terms and conditions remain unchanged. \n\n\n\n\n\n\n\n\n\n",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
 }

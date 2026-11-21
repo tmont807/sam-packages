@@ -1,0 +1,40 @@
+{
+  "noticeId": "665735d3c86f4153a7dc087c19569557",
+  "solicitationNumber": "W9127826SC001",
+  "title": "Program Solicitation W9127826SC001 Deployment Center/Flight Line Dine - Crash/Fire Rescue Station - Demo Hangar 4 Tyndall Air Force Base, Florida (Bay County) Progressive-Design-Build OT",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-10T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > US ARMY ENGINEER DISTRICT MOBILE",
+  "contacts": [
+    {
+      "name": "James Sosebee",
+      "email": "james.t.sosebee@usace.army.mil",
+      "phone": "2514415456"
+    }
+  ],
+  "files": [
+    {
+      "name": "07afe14db21e4aa8a653993367b6401e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8268c3eb085643f1b435eb23047ad90c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f3fd34e2848e4b60af336e994cf80006",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "02c43360310d485a9c67fa59bc4231ec",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers (USACE) Mobile District (SAM), on behalf of the Department of the Air Force (DAF) through the Department of the Air Force Civil Engineering Center (AFCEC), is seeking to identify a Design-Build team for the Deployment Center/Flight Line Dine - Crash/Fire Rescue Station - Demo Hangar 4 at Tyndall Air Force Base, Florida. This is an Other Transaction (OT) Agreement for Progressive Design-Build. Phase 1 will be for Design and Pre-Construction Services. Phase 2 may be added by modification for final design and construction upon successful negotiation of a Firm Fixed-Price (FFP), subject to authorization, approvals, and availability of funds. ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "noticeId": "9ad28069d5024da3864357096d243c10",
+  "solicitationNumber": "SPE60227R0701",
+  "title": "Combined Synopsis/Solicitation Notice for JPTS Transportation Services",
+  "naics": "484230",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-02T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA ENERGY > DLA ENERGY",
+  "contacts": [
+    {
+      "name": "Jones Hysons",
+      "email": "Jones.Hysons@dla.mil",
+      "phone": "(445) 737-8937"
+    },
+    {
+      "name": "Sonji Epps",
+      "email": "sonji.epps@dla.mil",
+      "phone": "(571) 631-6804"
+    }
+  ],
+  "files": [
+    {
+      "name": "6fd5be48c9e34501beac35ca652510bc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "76badeb4d1514375b917d9cad9b1d922",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "480e58c53d7d401ab48d3db5f5e84147",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c7d10e4e419c45b18403dadfd7e39d5e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Defense Logistics Agency (DLA) Energy has a requirement to transport capitalized Jet Propellant Thermally Stable (JPTS) aviation fuel from Defense Fuel Supply Point (DFSP) Texas City, Texas and DFSP Killingholme, United Kingdom for discharge at DFSP locations identified in the Performance Work Statement (PWS). The Contractor shall provide all personnel, equipment, and services necessary to load, transport, and deliver JPTS in accordance with best commercial practices. ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

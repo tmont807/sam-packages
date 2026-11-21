@@ -1,0 +1,40 @@
+{
+  "noticeId": "da9c761959444224b83793316e2f7f36",
+  "solicitationNumber": "W912HY27BA011",
+  "title": "FY27 HARLINGEN PLACEMENT AREA (PA)13 AND 10 IMPROVEMENTS",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-07T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > US ARMY ENGINEER DISTRICT GALVESTON",
+  "contacts": [
+    {
+      "name": "Teakeishia Sewell",
+      "email": "teakeishia.m.sewell@usace.army.mil",
+      "phone": "4097663145"
+    }
+  ],
+  "files": [
+    {
+      "name": "027a45f7cb6c4f58926a097aaafa8b96",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fc57920c087842dd9575012521efc08e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5e0922e86de14b259fd193a6deb35178",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0b53c0eeaa894997bc3f4797fa498349",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "FY27 HARLINGEN PLACEMENT AREA (PA)13 AND 10 IMPROVEMENTS ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

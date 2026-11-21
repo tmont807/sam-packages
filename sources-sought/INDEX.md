@@ -338,3 +338,38 @@
 | 2026-11-28 | HT941027RFI0001 | Request for Information - Gastrointestinal Endoscopy Equipment Repair  | CA | NONE | 1 |
 | 2026-12-01 | 36C26227Q0150 | OFFSITE SURGICAL REPROCESSING & STERILIZATION | Long Beach, CA | NONE | 1 |
 | 2026-11-30 | 36C26127Q0169 | J012--Dry-Type Fire Suppression System | Palo Alto | Unrestricted | 2 |
+
+## 2026-11-21
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-10 | FCOTS-27-JR-001 | Field Consultant & Operations Technical Support (FCOTS) | MD | SBA | 2 |
+| 2026-12-04 | 140RR027R0020 | Y--McGee Creek Natural Scenic Recreation Area (NSRA) Improvements |  | Unrestricted | 1 |
+| 2026-12-04 | N6945027RP801-RFID | RADIO FREQUENCY IDENTIFICATION (RFID) ELECTRONIC LOCKING SYSTEMS FOR U | Pensacola, FL | Unrestricted | 0 |
+| 2026-12-11 | 70FBR027I00000001 | RFI-RAISED FLOORING-MARKET RESEARCH | Bothell, WA | NONE | 2 |
+| 2026-12-02 | FA449727DOVERAIRFIELD  | FY27 Airfield Striping and Rubber Removal | Dover AFB, DE | SBA | 1 |
+| 2026-11-30 | W912EP27X1CYU | REFRESH SOUTH ATLANTIC DIVISION SMALL BUSINESS REGIONAL INDEFINITE DEL | Jacksonville, FL | Unrestricted | 0 |
+| 2026-12-08 | PANGLR27P0000035301 | Maintenance Support Building (MSB) Parking Lot Renovation | Sault Sainte Marie, MI | NONE | 1 |
+| 2026-11-25 | SPE4A727R0147 | SCREW, CLOSE TOLERANCE |  | Unrestricted | 0 |
+| 2026-11-25 | SPE4A727R0146 | THUMBSCREW |  | Unrestricted | 0 |
+| 2026-11-25 | SPE4A727R0142 | SCREW, CLOSE TOLERANCE |  | Unrestricted | 0 |
+| 2026-11-30 | W911QX27RA003 | Amendment 0002 RFI SOURCES SOUGHT SYNOPSIS - EXPERIMENTAL FACILITIES T | Aberdeen Proving Ground, MD | Unrestricted | 3 |
+| 2026-12-04 | N0018927EOBMEW | Enhanced Organizational Boat Maintenance (EOBM) |  | Unrestricted | 4 |
+| 2026-12-04 | N6133127SNQ03 | JEXC2 AND MDAP MISSION SUPPORT CENTER (MSC) TIER 2 |  | Unrestricted | 4 |
+| 2026-12-08 | W51DQV27Z1CYR | SOURCES SOUGHT NOTICE Architect-Engineer (A-E) Services for Puerto Que |  | Unrestricted | 5 |
+| 2026-11-27 | DLA-RFI-CT-2027-WBOS-MKTRES | DLA-RFI-CT-2027-WBOS-MKTRES | Philadelphia, PA | Unrestricted | 2 |
+| 2026-11-30 | 36C10B27Q0142 | DA01--RFI 36C10B27Q0056 Veterans Health Information Systems and Techno |  | Unrestricted | 6 |
+| 2026-11-30 | 36C10B27Q0010 | DA10--Enterprise Database Vulnerability Scanning Solution |  | Unrestricted | 8 |
+| 2026-11-30 | 36C24527Q0081 | DJ10--Alertus Enhanced Notification Licensing & Premier Support |  | Unrestricted | 1 |
+| 2026-12-07 | 1106202612072026 | Post Quantum Cryptography (PQC) Readiness and Validation Status | Washington, DC | Unrestricted | 2 |
+| 2026-12-01 | 36C10B27Q0140 | 7K20--VA East Indianapolis PAR Excellence Weight Based Inventory Manag |  | Unrestricted | 2 |
+| 2026-12-11 | RequestForInformation(RFI)ForJointProjectManagerForChemicalBiologicalRadiologicalAndNuclearProtection(JPMCBRNP)ChemicallyProte | Request for Information (RFI) for Joint Project Manager for Chemical,  | Natick, MA | Unrestricted | 1 |
+| 2026-12-05 | GSA47839 | McCoy Federal Building Fire Alarm Replacement - Jackson, MS | Jackson, MS | NONE | 0 |
+| 2026-11-30 | 36C26327Q0123 | S207--BHVAHCS Building 65 Bat Mitigation Sources Sought | Fort Meade | Unrestricted | 1 |
+| 2026-12-14 | PANNAD-27-P-0000-036267  | Tioga-Hammond & Cowanesque (THC) Lakes Project Janitorial Services | Tioga, PA | SBA | 1 |
+| 2026-11-30 | 36C25027Q0123 | S222--Sources Sought - Hazardous Waste Removal Disposal Northeast Ohio | Cleveland, OH | Unrestricted | 1 |
+| 2026-12-01 | 1178967 | Instructional Systems Design Services | AL | NONE | 2 |
+| 2026-11-28 | HT941027RFI0001 | Request for Information - Gastrointestinal Endoscopy Equipment Repair  | CA | NONE | 2 |
+| 2026-12-04 | PANDHA-26-P-0000_045517 | SOURCES SOUGHT NOTICE REQUEST FOR INFORMATION (RFI) for Thermal Foot M |  | SBA | 4 |
+| 2026-11-25 | 36C25627Q0131 | J012--Kitchen Exhaust Cleaning, Kitchen Fire Suppression System Servic | North Little Rock | Unrestricted | 3 |
+| 2026-12-04 | 36C24827Q0092 | M1LZ--FY27 Valet Parking Services | Tampa, FL | Unrestricted | 3 |

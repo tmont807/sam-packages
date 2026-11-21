@@ -1,5 +1,5 @@
 {
-  "noticeId": "c94616317c804c57888394befaed31d4",
+  "noticeId": "6564d1d7e728477499d1a8a836118eaa",
   "solicitationNumber": "N0042127R1008",
   "title": "NAWCAD (WOLF) Airborne Systems Integration (ASI ) Division Technical/Project Management Support (TPMS)",
   "naics": "541330",
@@ -23,6 +23,30 @@
   ],
   "files": [
     {
+      "name": "Att P1_rev01 - ASI TPMS Past Performance Information Form.pdf",
+      "result": "631 KB"
+    },
+    {
+      "name": "Att P2_rev01 - ASI TPMS Contractor Performance Assessment Questionnaire (CPAQ).pdf",
+      "result": "347 KB"
+    },
+    {
+      "name": "Att T1_rev01 - ASI TPMS Key Personnel.docx",
+      "result": "58 KB"
+    },
+    {
+      "name": "Att T2_rev01 - ASI TPMS Sample Tasks.docx",
+      "result": "28 KB"
+    },
+    {
+      "name": "Att C2_rev01 - ASI TPMS Cost Reimbursable Narrative.docx",
+      "result": "76 KB"
+    },
+    {
+      "name": "Att C3_rev01 - ASI TPMS Fixed_TandM Price Narrative.docx",
+      "result": "46 KB"
+    },
+    {
       "name": "Att M1_rev01 - ASI TPMS FAR 16.507-2.pdf",
       "result": "244 KB"
     },
@@ -35,36 +59,12 @@
       "result": "774 KB"
     },
     {
-      "name": "Att C2_rev01-ASI TPMS Cost Reimbursable Narrative.pdf",
-      "result": "673 KB"
-    },
-    {
       "name": "N0042127R1008 AMD_0001 SF 30.pdf",
       "result": "566 KB"
     },
     {
-      "name": "Att C3_rev01- ASI TPMS Fixed_TandM Price Narrative.pdf",
-      "result": "596 KB"
-    },
-    {
       "name": "Att 01_rev01- ASI TPMS SOW.pdf",
       "result": "580 KB"
-    },
-    {
-      "name": "Att T1_rev01 - ASI TPMS Key Personnel.pdf",
-      "result": "479 KB"
-    },
-    {
-      "name": "Att P2_rev01 - ASI TPMS Contractor Performance Assessment Questionnaire (CPAQ).pdf",
-      "result": "453 KB"
-    },
-    {
-      "name": "Att T2_rev01 - ASI TPMS Sample Tasks.pdf",
-      "result": "416 KB"
-    },
-    {
-      "name": "Att P1_rev01 - ASI TPMS Past Performance Information Form.pdf",
-      "result": "208 KB"
     },
     {
       "name": "Exhibit A - ASI TPMS CDRL.docx",
@@ -116,6 +116,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " The purpose of Amendment 0001 is to: 1) update instruction in Section J, Attachment L1 Rev&nbsp;01, Part A, Paragraph 4.1.1 to clarify marking requirements and Part B Paragraph 2.3.1 regarding adverse past performance; 2) revise applicable&nbsp;Attachments to reflect updates to CUI markings; 3) revise language in Section J, Attachment M1 Rev 01, Part A, Paragraph 1.4 and Part B, Paragraph&nbsp;1.2 clarifying Evaluation Process; 4) update Attachment C2 Table 3 to remove the requirement to include DFAS DoDAAC and POC information; 5)&nbsp;provide a revised Attachment 01 to correct the RFO number as well as update the Function description of the Management Analysts (Acquisition),&nbsp;Senior, BLS SOC 13-1111(Key). The due date for proposals remains unchanged: see Block 9 of the SF33. \n\n Naval Air Warfare Center Aircraft Division (NAWCAD), Webster Outlying Field (WOLF), Airborne Systems Integration (ASI) Division intends to issue a competitive, total small business set-aside Request for Offers (RFO) under the SeaPort Next Generation (NxG) Multiple Award Contract for  Airborne Systems Integration (ASI) Technical/Project Management Support (TPMS) . \n\n The resulting Cost-Plus-Fixed-Fee task order will provide technical project-management, data-management, and acquisition support for ASI Division requirements. Support includes project planning, execution, monitoring, and closeout; division-level planning and performance reporting; data analytics, metrics, and repeatable best practices. The effort supports multiple defense acquisition programs and weapons systems, including&mdash;but not limited to&mdash;VH-92A, E-6B, unmanned carrier aviation, counter-uncrewed systems, V-22, and Naval Sea Systems Command Integrated Warfare Systems Program Executive Office requirements. \n\n Performance is anticipated at Government sites in St. Inigoes, Maryland, and Patuxent River, Maryland, with limited contractor-site performance within 50 drivable miles of NAWCAD WOLF. A Secret Facility Clearance Level is required. \n",
-  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+  "description": " 20 November 2026: The Government has updated the Attachments C2, C3, T1, and T2 associated with Amendment 0001 to be word documents rather than PDF. The Government has also updated the Attachments P1 and P2 to ensure the fill-able fields within the pdf file are editable. No changes have been made to the content of any of the attachments, rather simply updating file format to ensure usability. \n \nThe purpose of Amendment 0001 is to: 1) update instruction in Section J, Attachment L1 Rev&nbsp;01, Part A, Paragraph 4.1.1 to clarify marking requirements and Part B Paragraph 2.3.1 regarding adverse past performance; 2) revise applicable&nbsp;Attachments to reflect updates to CUI markings; 3) revise language in Section J, Attachment M1 Rev 01, Part A, Paragraph 1.4 and Part B, Paragraph&nbsp;1.2 clarifying Evaluation Process; 4) update Attachment C2 Table 3 to remove the requirement to include DFAS DoDAAC and POC information; 5)&nbsp;provide a revised Attachment 01 to correct the RFO number as well as update the Function description of the Management Analysts (Acquisition),&nbsp;Senior, BLS SOC 13-1111(Key). The due date for proposals remains unchanged: see Block 9 of the SF33. \n\n Naval Air Warfare Center Aircraft Division (NAWCAD), Webster Outlying Field (WOLF), Airborne Systems Integration (ASI) Division intends to issue a competitive, total small business set-aside Request for Offers (RFO) under the SeaPort Next Generation (NxG) Multiple Award Contract for  Airborne Systems Integration (ASI) Technical/Project Management Support (TPMS) . \n\n The resulting Cost-Plus-Fixed-Fee task order will provide technical project-management, data-management, and acquisition support for ASI Division requirements. Support includes project planning, execution, monitoring, and closeout; division-level planning and performance reporting; data analytics, metrics, and repeatable best practices. The effort supports multiple defense acquisition programs and weapons systems, including&mdash;but not limited to&mdash;VH-92A, E-6B, unmanned carrier aviation, counter-uncrewed systems, V-22, and Naval Sea Systems Command Integrated Warfare Systems Program Executive Office requirements. \n\n Performance is anticipated at Government sites in St. Inigoes, Maryland, and Patuxent River, Maryland, with limited contractor-site performance within 50 drivable miles of NAWCAD WOLF. A Secret Facility Clearance Level is required. \n",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
 }

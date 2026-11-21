@@ -1,0 +1,45 @@
+{
+  "noticeId": "654473af6fe84ef491606e6579d4f9e7",
+  "solicitationNumber": "W9128F27QA009",
+  "title": "Dugway Proving Grounds Tank Inspections",
+  "naics": "541990",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-18T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NWD > W071 ENDIST OMAHA",
+  "contacts": [
+    {
+      "name": "Brandon Hobbs",
+      "email": "brandon.s.hobbs@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Monica McKensey",
+      "email": "Monica.A.Mckensey@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "b4994be011f9444d82c34be4c7807081",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b9d6ad662dc44e3597a9af0035e034c8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3794f540a5e949ee803b44837ec39893",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fd7e354b1ffb48019fc5cbe90ff87fd7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "onduct two API 653 internal inspections on facilities 4056 and 4057 at Dugway Proving Grounds, UT, in accordance with all laws, standards, federal regulations, as well as any state and local regulations and guidelines.  Tank inspection services include, but are not limited to, removal of remaining fuel, cleaning of the tanks, and provision of required reports to ensure regulatory compliance. See attachments for additional details. ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

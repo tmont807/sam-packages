@@ -1,5 +1,5 @@
 {
-  "noticeId": "a840a7e6687a4396b44061c55fdecb6b",
+  "noticeId": "2145e5cdeca0404db67d1f6c12adf421",
   "solicitationNumber": "W912HY27RA001",
   "title": "Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP) 11, Package 9, Segment 4 Boggy Bayou to Sims Bayou",
   "naics": "237990",
@@ -23,6 +23,10 @@
   ],
   "files": [
     {
+      "name": "Amendment to Grant of Temporary Easement for Construction .pdf",
+      "result": "344 KB"
+    },
+    {
       "name": "Site Visit sign in sheet 10NOV2026.pdf",
       "result": "415 KB"
     },
@@ -45,5 +49,5 @@
   ],
   "kind": "solicitation",
   "description": "Houston Ship Channel (HSC) Expansion Channel Improvement Project (ECIP) 11, Package 9, Segment 4 Boggy Bayou to Sims Bayou located in Harris County, Texas ",
-  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
 }

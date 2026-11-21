@@ -1,0 +1,48 @@
+{
+  "noticeId": "b105d0cce1774df595209236b81bec31",
+  "solicitationNumber": "36C10B27Q0142",
+  "title": "DA01--RFI 36C10B27Q0056 Veterans Health Information Systems and  Technology (VISTA) Blood Establishment Computer Software  (VBECS) Operations and Maintenance Support II",
+  "naics": "541519",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-30T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+  "contacts": [
+    {
+      "name": "Richard Melton",
+      "email": "Richard.Melton2@va.gov",
+      "phone": "512-981-4479"
+    }
+  ],
+  "files": [
+    {
+      "name": "P02 MR RFI PWS Revised Amend 0001.docx",
+      "result": "204 KB"
+    },
+    {
+      "name": "P02 MR RFI Amend 0001 QnA.docx",
+      "result": "111 KB"
+    },
+    {
+      "name": "36C10B27Q0142 0001.docx",
+      "result": "15 KB"
+    },
+    {
+      "name": "P02 MR RFI PWS.docx",
+      "result": "199 KB"
+    },
+    {
+      "name": "P02 RFI.docx",
+      "result": "29 KB"
+    },
+    {
+      "name": "36C10B27Q0142.docx",
+      "result": "15 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The previous RFI number 36C10B27Q0056 was corrupted in the system. This RFI replaces 36C10B27Q0056 and continues the previous RFI progress.\nVA is seeking sources that are able to provide full lifecycle sustainment and operational support, and any associated bug/fix development, and regulatory compliance services for the VA s existing Veterans Health Administration s VBECS, an FDA regulated Class II Medical Device Software product. The Contractor will be required to plan, manage, develop bug/fixes, test, deploy, maintain, document, and continuously monitor the VBECS system throughout the DevOps lifecycle. The Contractor will be required to maintain all system related documentation, ensuring accuracy, traceability, and compliance with FDA Quality System Regulations (21 CFR 820), ISO 13485:2016, and VA cybersecurity and privacy requirements. The Contractor will be required to support all activities required to maintain the VBECS s existing Authority to Operate, including preparation, validation, and submission of documentation within the SNOW Continuous Authorization and Monitoring environment, and continuous support for audits, assessments, and security reviews.\nThis amendment is to provide answers to questions asked in response to this RFI and to provide a revised PWS.\n\n",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

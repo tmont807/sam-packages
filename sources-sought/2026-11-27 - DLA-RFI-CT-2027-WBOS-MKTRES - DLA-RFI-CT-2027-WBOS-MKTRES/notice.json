@@ -1,0 +1,37 @@
+{
+  "noticeId": "2f457e8ce04944978a823a1ad8112abb",
+  "solicitationNumber": "DLA-RFI-CT-2027-WBOS-MKTRES",
+  "title": "DLA-RFI-CT-2027-WBOS-MKTRES",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-11-27T21:00:00+00:00",
+  "state": "PA",
+  "city": "Philadelphia",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > TROOP SUPPORT CLOTHING & TEXTILE > DLA TROOP SUPPORT",
+  "contacts": [
+    {
+      "name": "Courtney Hunter",
+      "email": "Courtney.Hunter@dla.mil",
+      "phone": "(445) 737-3585"
+    },
+    {
+      "name": "Ryan Zarkowski",
+      "email": "Ryan.Zarkowski@dla.mil",
+      "phone": "(445) 737-0916"
+    }
+  ],
+  "files": [
+    {
+      "name": "DLA-RFI-CT-2027-WBOS-MKTRES - Responses to RFI Questions - Part I.pdf",
+      "result": "221 KB"
+    },
+    {
+      "name": "RFI_DLA eMarketplace - 30 OCT 26.pdf",
+      "result": "218 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "  NOVEMBER 20, 2026 -&nbsp; DLA is providing formal responses to a  selection of critical industry questions  received in response to the RFI for the Whole-of-Government (WoG) ordering platform (WBOS). These specific questions are being answered in advance to assist industry in their strategic preparations for the upcoming virtual Industry Day. Responses to additional pending inquiries will be integrated into the Industry Day briefing on December 2 or addressed via a separate, forthcoming pre-solicitation update. \n\n  ATTACHMENT WITH RESPONSES IS INCLUDED BELOW.  \n\n ************************************************************************* \n\n  DEFENSE LOGISTICS AGENCY (DLA) TROOP SUPPORT  \n\n  CLOTHING AND TEXTILES DIRECTORATE &mdash; PHILADELPHIA, PA  \n\n  REQUEST FOR INFORMATION (RFI) &amp; SOURCES SOUGHT NOTICE  \n\n  Whole-of-Government Web-Based Ordering System (WBOS) &amp; Commercial eMarketplace Platform  \n\n  FEDERAL MARKET RESEARCH NOTICE (FAR 15.201(e) &amp; FAR Part 10): This Request for Information (RFI) is issued solely for market research, planning, and information-gathering purposes. It does not constitute a Request for Proposals (RFP), Commercial Solutions Opening (CSO), or an obligation on the part of the Government to acquire any products or services. The Government is seeking broad industry input on commercial capabilities, architectural options, and market readiness. Responses are strictly voluntary; the Government will not reimburse any costs associated with preparing or submitting responses to this notice.  \n\n  1. Executive Summary &amp; Purpose of Inquiry  \n\n The Defense Logistics Agency (DLA) Troop Support Clothing and Textiles (C&amp;T) Directorate is conducting market research to explore commercial software solutions, digital eMarketplace architectures, and industry best practices for deploying a next-generation Web-Based Ordering System (WBOS). DLA&rsquo;s Troop Support C&amp;T organization serves as the Federal Government&rsquo;s primary enterprise manager for military clothing and textiles, working extensively with domestic industry. DLA is currently assessing the expansion of this shared-services procurement model to serve civilian Whole-of-Government (WOG) partner agencies, including the Department of the Interior (DOI), Department of Justice (DOJ), Department of Transportation (DOT), Department of State (DOS), and Department of Homeland Security (DHS). \n\n The primary objective of this RFI is to engage commercial e-commerce developers, SaaS providers, systems integrators, and domestic textile industry stakeholders. DLA seeks to understand what commercial off-the-shelf (COTS) and Software-as-a-Service (SaaS) capabilities exist today, how commercial technology can resolve complex federal supply chain and fiscal integration challenges, and what industry recommendations DLA should incorporate into its upcoming acquisition strategy. DLA is committed to adopting commercial best practices and avoiding custom development wherever commercial platforms can satisfy or be adapted to meet mission requirements. \n\n  2. Administrative Overview &amp; Acquisition Milestones  \n\n  Market Research Parameter: Information &amp; Acquisition Guidance  \n\n  Document Identifier:  DLA-RFI-CT-2027-WBOS-MKTRES \n\n  Anticipated Acquisition Approach: &nbsp;Commercial Solutions Opening (10 U.S.C. &sect; 3458) / Commercial Acquisition (FAR Part 12 / Agile Authorities) \n\n  Primary NAICS Code:  541512 - Computer Systems Design Services (Small Business Size Standard: $34.0M) \n\n  Secondary NAICS Codes:  518210 - Data Processing, Hosting, and Related Services ($40.0M), 541519 - Other Computer Related Services ($34.0M) \n\n  Product Service Code (PSC): &nbsp;DA01 - IT and Telecom - Business Application/Application Development Software \n\n  RFI Issuance Date: &nbsp;Friday, October 30, 2026 \n\n  Industry Questions &amp; Clarifications Due:  Friday, November 06, 2026, at 16:00 EST \n\n  Government Formal Q&amp;A Responses Posted:  Friday, November 20, 2026 \n\n  RFI Capability Response Deadline:  Friday, November 27, 2026, at 16:00 EST \n\n  Anticipated Pre-Solicitation Industry Day:  December 2, 2026 (Virtual) \n\n  Primary Contract Specialist:  Courtney Hunter, Contract Specialist, DLA Troop Support C&amp;T (Courtney.Hunter@dla.mil) \n\n  Primary Contracting Officer:  Ryan Zarkowski, Individual Protection and Commercial Solutions Division Chief, DLA Troop Support (Ryan.Zarkowski@dla.mil) \n\n  Submission Channel:  Electronic submission via email to Government POCs (Subject: &#39;WBOS RFI Response - [Company Name]&#39;) \n\n  3. Mission Needs &amp; Strategic Challenges  \n\n The contemplated capability would enable Government-approved vendors to list and maintain Government-approved catalogs; enable authorized agency personnel to purchase authorized items; apply agency-specific eligibility, entitlement/allowance, item-authorization, approval, and management-control rules; support authorized payment methods; and provide auditable transaction, fulfillment, and program-management information. \n\n To modernize uniform procurement across DoD and civilian partner agencies, any future solution must address several interrelated operational and regulatory challenges. Rather than dictating prescriptive technical designs, DLA outlines the desired functional outcomes below to invite innovative, industry-driven solutions: \n\n  Operational Domain:&nbsp;The Operational Challenge / Desired Outcome  \n\n Commercial Marketplace &amp; User Experience: Deliver a modern, consumer-grade multi-tenant e-commerce experience with sub-second catalog search, faceted filtering, mobile responsiveness, and intuitive uniform selection, while supporting distinct tenant agency branding (DoD, DOI, DOJ, DOT, DOS, DHS) and role-based permissions. \n\n Domestic Provenance &amp; Supply Chain Integrity:&nbsp;Because DLA operates as a central procurement hub utilizing the Defense Working Capital Fund (DWCF), end-items transacted through DLA are subject to 100% domestic sou",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "30316c938edf4019a4b97cd8777f4e09",
+  "solicitationNumber": "68HERW27Q0020",
+  "title": "Digital Pesticide Labeling Platform Pilot",
+  "naics": "541519",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-08T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Logan, Kevin S.",
+      "email": "Logan.Kevin@epa.gov",
+      "phone": "919-541-3053"
+    }
+  ],
+  "files": [
+    {
+      "name": "f963f48d2eb842a5b7cf37b22dbe16b4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "PSC: AJ11 NAICS: 541519 Digital Pesticide Labeling Platform Pilot",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

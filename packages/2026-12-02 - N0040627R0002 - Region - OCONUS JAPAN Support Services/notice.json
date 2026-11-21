@@ -1,0 +1,45 @@
+{
+  "noticeId": "e267178cd929452db7036a22c3f0bb92",
+  "solicitationNumber": "N0040627R0002",
+  "title": "Region - OCONUS JAPAN Support Services",
+  "naics": "541330",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-02T07:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP GLOBAL LOGISTICS SUPPORT > NAVSUP FLC PUGET SOUND > NAVSUP FLT LOG CTR PUGET SOUND",
+  "contacts": [
+    {
+      "name": "Ashley Rollin",
+      "email": "ashley.a.rollin.civ@us.navy.mil",
+      "phone": "5642303001"
+    },
+    {
+      "name": "Charles Seipt",
+      "email": "charles.a.seipt.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "e8d6ed6785024910b4102bad13510f7b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "543d18d2a7a34701bcf2b9270c78e890",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "35dd8c161d50410fafbc2af06edbbad5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "eed3be65f61240c1bfaefae9a585e683",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "** Amendment 0001 posted to address questions and answers and update the solicitation.  **i.\t***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a TOTAL SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***ii.\tThis requirement will provide OCONUS support services for the following: travel coordinator, logistics support, janitorial, provision loading/stevedoring, warehouse support, equipment installation, travel coordinator, liaison, and quarters referral services in accordance with the Performance Work Statements ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

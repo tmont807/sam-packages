@@ -1,0 +1,40 @@
+{
+  "noticeId": "3b0beda1c346412e9eea1c070843ef48",
+  "solicitationNumber": "N0018927EOBMEW",
+  "title": "Enhanced Organizational Boat Maintenance (EOBM)",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP GLOBAL LOGISTICS SUPPORT > NAVSUP FLC NORFOLK > NAVSUP FLT LOG CTR NORFOLK",
+  "contacts": [
+    {
+      "name": "Deneene Bailey",
+      "email": "deneene.j.bailey.civ@us.navy.mil",
+      "phone": "7712293556"
+    }
+  ],
+  "files": [
+    {
+      "name": "4f4c392395794971be7acc0c0e902c6d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "6bec1da7fc3246d09db7ad0b7c5dd831",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cdafa5d5e5904ec7b38aab59dc7d7cc6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "461b49c4ddf7459faf5cc52419d0ee84",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "RESPONSES TO THIS REQUEST ARE LIMITED TO SEAPORT NXG CONTRACT HOLDERS. The Naval Supply Systems Command (NAVSUP) Fleet Logistics Center (FLC) Norfolk, Contracting Department, is seeking to identify qualified sources for Enhanced Organizational Boat Maintenance (EOBM) Program as required by the Center for Security Forces (CENSECFOR). This program support will be performed at CENSECFOR Learning Site Little Creek, VA, CENSECFOR Detachment Camp Lejeune, NC, CENSECFOR Learning Site Mayport, CENSECFOR Detachment San Diego, CA, and CENSECFOR Detachment Pearl Harbor, HI. Please see the attached documents for further details. ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "noticeId": "ac83672bac824490b0bae4a8eeef8a3a",
+  "solicitationNumber": "FA301627Q0014",
+  "title": "Aviation Support Equipment Load Testing",
+  "naics": "811310",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-03T07:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR EDUCATION AND TRAINING COMMAND > JOINT BASE SAN ANTONIO > FA3016  502 CONS CL",
+  "contacts": [
+    {
+      "name": "Ramon Marrufo",
+      "email": "ramon.marrufo@us.af.mil",
+      "phone": "2106713246"
+    },
+    {
+      "name": "Sra Dalwyn Corporan-polanco",
+      "email": "dalwyn.corporan-polanco@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "f7a59dd431034abf9715a78078196f64",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b3a167a2b4e44aa3be2baff7eee24612",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bb1fafae22fb46f3ba550c4615628f55",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e9a0b7a1a4b54722ab795532b364d41b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The 433d Maintenance Squadron (MXS), Joint Base San Antonio-Lackland TX has a requirement for services that shall provide annual preventive maintenance (PM) inspections, load testing, certification, and unscheduled/corrective maintenance for mission critical aviation support equipment listed in the Performance Work Statement (PWS). The services are essential to ensure the continued safe and reliable operation of equipment used to support the maintenance of nine (9) assigned C-5M Galaxy airframes. The contractor shall be required to provide all necessary project management, supervision, personnel, tools, materials, and transportation to perform the services in accordance with all applicable Technical Orders, regulations, and commercial standards. The resulting contract will be a Firm-Fixed-Price (FFP) vehicle. Refer to the attached Combo Synopsis/Solicitation and its supporting attachments for further details.   ",
+  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+}
