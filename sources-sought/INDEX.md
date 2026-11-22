@@ -373,3 +373,9 @@
 | 2026-12-04 | PANDHA-26-P-0000_045517 | SOURCES SOUGHT NOTICE REQUEST FOR INFORMATION (RFI) for Thermal Foot M |  | SBA | 4 |
 | 2026-11-25 | 36C25627Q0131 | J012--Kitchen Exhaust Cleaning, Kitchen Fire Suppression System Servic | North Little Rock | Unrestricted | 3 |
 | 2026-12-04 | 36C24827Q0092 | M1LZ--FY27 Valet Parking Services | Tampa, FL | Unrestricted | 3 |
+
+## 2026-11-22
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-11-30 | 36C26327Q0123 | S207--BHVAHCS Building 65 Bat Mitigation Sources Sought | Fort Meade | Unrestricted | 1 |
