@@ -1,0 +1,40 @@
+{
+  "noticeId": "4968f4fbef71415cbd7faa7a2651a436",
+  "solicitationNumber": "FA825027Q0106",
+  "title": "JTE MAST Repair NSN: 5985015985631FD",
+  "naics": "811210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-23T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE SUSTAINMENT CENTER > FA8250  AFSC PZAAA",
+  "contacts": [
+    {
+      "name": "Jayson Skow",
+      "email": "jayson.skow@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "a9484d1f2379437a898898ba3377ddc8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7eeade93a718491db4e04395c2d5ea84",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "75a81eae61bc4a06b88ef7bdb415aaf0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a3c9f77c79564697a1f066be379e5eb6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "SCOPE OF WORK: For the end item, the contractor shall furnish all facilities, parts, materials, equipment and services, required to inspect and, if necessary, restore to serviceable condition.  Services to be performed will not be essential in a crisis situation. Work consists of one of two efforts:  Test, teardown, and evaluation (TT and E) only or TT and E and repair. TEST, TEARDOWN, AND EVALUATION: The contractor shall perform visual, mechanical and electrical testing of the end item, reusable or replacement component parts, and materials according to the schedule in the contract to determine the condition of the end item.  Upon completion of this task, all of the components of the end item requiring repair or replacement will be identified by part number, NSN (if applicable), nomenclature, and location in the assembly.  This information will be reported in writing to the Procurement Contracting Officer (PCO)/ Defense Contract Management Agency (DCMA) Administrative Contracting Officer (ACO) and, if necessary, approval to repair will be negotiated.  If no further repair is required, the asset must be returned in serviceable like new condition. REPAIR: (NTE). The contractor shall perform the repair or replacement of all failed parts and components.  Each end item must be cleaned, configured, refinished, and tested to meet the original specifications of the end item.  The end item shall be returned in serviceable like new condition. Below listed item(s) will be shipped to contractor to repair: Item Description: MAST, NSN: 5985015985631FD, Part Number: 913410 ***RESTRICTED TO PREQUALIFIED SOURCES*** Qualification Requirements: See FAR Part 52.209-1 The requirements of FAR 9.202(a) apply. Sources must be qualified prior to being considered for award. Interested vendors that have not been previously approved for this acquisition must submit a Source Approval Request (SAR) package to the Source Development Small Business Office or the Contracting Officer. As prescribed in FAR 9.202(e), the contracting officer need not delay a proposed award in order to provide a potential offeror with an opportunity to demonstrate its ability to meet the standards specified for qualification in the attached Manufacturing Qualification Requirements (section C document).If requesting access to the technical data package (TDP), please email jayson.skow@us.af.mil with a current copy of your DD2345 and JCP printout. ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

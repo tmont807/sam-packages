@@ -1,5 +1,5 @@
 {
-  "noticeId": "58cef4ba869a4a1ba00ae2f24fa56d57",
+  "noticeId": "603634bcf76841d6a350526f7d84b4d3",
   "solicitationNumber": "A027066",
   "title": "GSA OASIS 8(a) - RISK MANAGEMENT AND INTERNAL CONTROL PROGRAM/INTEGRATED RISK  MANAGEMENT SUPPORT SERVICES for US FLEET FORCES COMMAND",
   "naics": "541611",
@@ -22,6 +22,22 @@
     }
   ],
   "files": [
+    {
+      "name": "Solicitaton Amendment N0018927QL0300002.pdf",
+      "result": "54836 KB"
+    },
+    {
+      "name": "Solicitaton Amendment SF 30 N0018927QL0300002.pdf",
+      "result": "3409 KB"
+    },
+    {
+      "name": "Past Performance Report Form.pdf",
+      "result": "134 KB"
+    },
+    {
+      "name": "Past Performance Information Form.pdf",
+      "result": "102 KB"
+    },
     {
       "name": "Solicitation Amendment N0018927QL0300001 CONFORM COPY.pdf",
       "result": "54665 KB"
@@ -49,5 +65,5 @@
   ],
   "kind": "solicitation",
   "description": " The U.S. Fleet Forces Command (USFFC) Risk Management and Internal Control program (RMIC)&nbsp;and Integrated Risk Management (IRM) assistant position maintains compliance with the Federal Managers&rsquo; Financial Integrity Act (FMFIA) Public Law 97-255; Office of Budget and Management (OMB) Circular A-123;&nbsp;U.S. Government Office of Accountability (GAO) Standards for Internal Control in the Federal Government;&nbsp;Department of Defense Statement of Assurance Execution Handbook; Department of Defense Instruction (DoDI)&nbsp;5010.40, DoD Enterprise Risk Management and Risk Management and Internal Control Program; Department of the&nbsp;Navy Integrated Risk Management Program Handbook; and OPNAV Instruction 5200.25, Risk Management and&nbsp; \nInternal Controls Program. This includes all matters of importance to the Navy and Commander, USFFC, with&nbsp;particular emphasis on advising and coordinating with stakeholders responsible for executing the principles of fraud&nbsp;risk assessment; entity-level controls evaluation; risk evaluation and management; and internal control evaluation. \n",
-  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
 }

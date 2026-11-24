@@ -1,0 +1,40 @@
+{
+  "noticeId": "4627dbe3dbe14beda14d7620d64674e1",
+  "solicitationNumber": "W912PM27QA005",
+  "title": "Philpott Salthouse Electrical Upgrade",
+  "naics": "238210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-22T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > W074 ENDIST WILMINGTON",
+  "contacts": [
+    {
+      "name": "Sonny Smith",
+      "email": "sonny.z.smith@usace.army.mil",
+      "phone": "9102514493"
+    }
+  ],
+  "files": [
+    {
+      "name": "e396733eaaf044608eebbf44829437ee",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a01e4df6030b4257a977faa19f3bb092",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9ae0476ed18845e3a1bd1e2d2ddf1244",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ec452294b15b4a29b0d22de2a3675472",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The purpose of this contract is to upgrade the Rolands Branch Campground loop electrical service from 30 amp to 50 amp at Salthouse Branch Park. This work is for sites 22 through 47. ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

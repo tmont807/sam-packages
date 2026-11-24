@@ -379,3 +379,35 @@
 | Due | Notice | Title | Place | Set-aside | Files |
 |---|---|---|---|---|---|
 | 2026-11-30 | 36C26327Q0123 | S207--BHVAHCS Building 65 Bat Mitigation Sources Sought | Fort Meade | Unrestricted | 1 |
+
+## 2026-11-24
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-02 | N5382427PR00069 | Human-Centric Knowledge Management Workforce Development Program Suppo | San Diego, CA | Unrestricted | 2 |
+| 2026-12-04 | 254-CODE08-FY27-NE-TBD | Code 08 Financial Support Services |  | Unrestricted | 4 |
+| 2026-12-15 | W912DR27R1CEH | BATTALION OPERATIONS FACILITY II HUMPHREYS ENGINEER CENTER, ALEXANDRIA | Alexandria, VA | Unrestricted | 0 |
+| 2026-12-07 | 36C77627Q0072 | Y1BG--FY27 NRM - EHRM Base 630-22-700 EHRM Infrastructure Upgrades - M | New York, NY | Unrestricted | 2 |
+| 2027-01-18 | FBI26FAUSS03 | Quantico Job Order Contract (JOC) | Quantico, VA | SBA | 2 |
+| 2026-12-07 | 36C77627Q0073 | Y1DA--FY27 NRM - EHRM Base 573-27-702-DB EHRM Generator Upgrades Desig | Gainesville, FL | Unrestricted | 2 |
+| 2026-12-07 | 15bnasQ2700000099 | RFI ONLY Vocational Training Shops - Turnkey and Installation Solution | Washington, DC | Unrestricted | 1 |
+| 2026-12-07 | RFI_Metal_Foot_Locker | RFI - Metal Foot Locker | Huntsville, AL | NONE | 2 |
+| 2026-12-11 | W91QV127S1017 | Equipment Hauling Disposition Services via Flatbed Trailer | VA | SBA | 0 |
+| 2026-12-11 | RFI_FY27001 | USCG Mission System Integration Lab Packing, Rigging, Transportation,  | Patuxent River, MD | NONE | 8 |
+| 2026-12-08 | N63376NPAC327 | Navy Public Affairs and Visual Information Support | VA | Unrestricted | 2 |
+| 2027-01-08 | 692M15-27-RFI-SyntheticPrecipCap | Synthetic Precipitation Capability (Oceanic and Offshore) | Atlantic City, NJ | Unrestricted | 1 |
+| 2026-12-08 | 2023H2-27-N-00001 | Mission Enabling Enforcement Services (MEES) -IRS-CI | DC | Unrestricted | 1 |
+| 2026-12-07 | 36C10B27Q0135 | DA10--Health Services Portfolio Technical Management and Strategic Sol |  | Unrestricted | 2 |
+| 2026-12-07 | PCI_DSS | PCI DSS Compliance Validation, Penetration Testing, and ASV Vulnerabil | Fort Lee, VA | NONE | 1 |
+| 2026-12-11 | NGA-SRW | Sustainment for SRW | Springfield, VA | Unrestricted | 1 |
+| 2026-11-30 | F3T3SF6217A001 | FY27_PKB_SFS Range Cleaning (Sources Sought) | Goldsboro, NC | SBA | 1 |
+| 2026-12-07 | N4523A63066390 | Service – Fire Suppression System Testing and Certification | WA | Unrestricted | 1 |
+| 2026-12-15 | 36C24527Q0083 | J063--SOURCES SOUGHT NOTICE - PARKING GATE SYSTEM REPLACEMENT, REMOTE  | Washington, DC | Unrestricted | 2 |
+| 2026-12-01 | W15QKN27QA029 | FY27 Custodial Services in Support of U.S. Army Reserve Center in Whit | White Plains, MD | Unrestricted | 2 |
+| 2026-12-01 | W15QKN27QA028 | FY27 Custodial Services Requirement in supporting of U.S. Army Reserve | Romney, WV | Unrestricted | 2 |
+| 2026-12-18 | W15QKN27QA031 | W15QKN-27-Q-A031 Custodial Services Webster NY070 | Webster, NY | NONE | 2 |
+| 2026-12-01 | W15QKN27QA030 | FY27 Grounds Maintenance Services Requirement in Supporting of U.S. Ar | Curtis Bay, MD | Unrestricted | 2 |
+| 2026-12-01 | W15QKN27QA027 | FY27 Snow and Ice Removal Services Requirement in Supporting of U.S. A | Bristol, PA | Unrestricted | 2 |
+| 2026-12-08 | 140RR027Q0060 | S--Navajo Dam Trash Services |  | Unrestricted | 2 |
+| 2026-12-22 | FDA-2027-133969 | Follow Up Request for Information for FDA Scientific Instrument Repair |  | NONE | 1 |
+| 2026-12-01 | 124PSA27Q0045 | 124PSA27Q0045 - Sources Sought for Autoclave and Washer Bi-Annual Main | Ames, IA | SBA | 0 |

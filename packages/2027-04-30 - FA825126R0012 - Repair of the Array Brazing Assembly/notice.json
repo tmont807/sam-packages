@@ -1,0 +1,49 @@
+{
+  "noticeId": "91e2c37ab2d84041abdcb6e52209e790",
+  "solicitationNumber": "FA825126R0012",
+  "title": "Repair of the Array Brazing Assembly",
+  "naics": "811210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-04-30T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE SUSTAINMENT CENTER > FA8251  AFSC PZABB",
+  "contacts": [
+    {
+      "name": "Shauna Vanderschaaf",
+      "email": "shauna.vanderschaaf@us.af.mil",
+      "phone": "8017772905"
+    },
+    {
+      "name": "Darin Rector",
+      "email": "darin.rector@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "FA825126R0012_0006.pdf",
+      "result": "1227 KB"
+    },
+    {
+      "name": "4ec4d23c03f34429a2231f3d1330f745",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fba77da4d70f49ea8c3964c3719c5094",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "761dfef0aec549d29120010b5b8a653a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "afcf9d72958b4d7b904463d8a56c7a28",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " This requirement is for the repair and restoration of the Array Brazing Assembly to a serviceable condition. The qualified repair source/contractor will repair the item per OEM specification, approved technical orders and methods approved through the cognizant engineer at the time of qualification or during continuing qualification. Array Brazing Assembly item repairs are categorized as just-in-time repairs, not scheduled repairs. The contractor shall provide and maintain all the capabilities to test and repair the mentioned items to serviceable ?A? condition such as, but not limited to, all the expertise, labor, tools, equipment, and parts in order to deliver the serviceable items within the time period specified on the contract. The contractor shall maintain test and repair records that include cost accounting records of all items serviced under the contract.NSN: 1270-01-077-8078WF. Amendment 0002 incorporate clause 52.222-90. Amendment 0003 extends the proposal due out date to 22 June 2026. Amendment 0004 extends the proposal due out date to 21 August 2026. Amendment 0005 extends the proposal due out date to 30 November 2026.&nbsp; \n\n Amendment 0005&nbsp;The purpose of this amendment is to extend the proposal due out date to 30 April 2027 from 30 November 2026. \n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

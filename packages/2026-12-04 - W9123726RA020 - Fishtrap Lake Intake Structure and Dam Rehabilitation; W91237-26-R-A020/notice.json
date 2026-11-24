@@ -1,0 +1,45 @@
+{
+  "noticeId": "2d866299a4334beda83133d46056f9f9",
+  "solicitationNumber": "W9123726RA020",
+  "title": "Fishtrap Lake Intake Structure and Dam Rehabilitation; W91237-26-R-A020",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "Lillie Bodie",
+      "email": "lillie.v.bodie@usace.army.mil",
+      "phone": "3043995139"
+    },
+    {
+      "name": "Brandon Adams",
+      "email": "brandon.m.adams@usace.army.mil",
+      "phone": "304-399-5811"
+    }
+  ],
+  "files": [
+    {
+      "name": "07cb4123adeb4e52b60b262addecc4e4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c79a3dcdcc58404e89032f2a5c34b9f5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8b1c4ba121224d169c4700ae374394bf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "eb5b81099d784987922a196f2d93728e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "THIS IS A NEW ACQUISITION FOR AN INTAKE STRUCTURE AND DAM REHAB AT FISHTRAP LAKE IN SHELBIANA, KENTUCKY AS SET FORTH IN THE PLANS AND SPECIFICATIONS TO BE INCLUDED IN THE SCOPE OF WORK. ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "noticeId": "e6ad8e60c59649a58d6107c3061be558",
+  "solicitationNumber": "W911KB27BA005",
+  "title": "Lowell Creek Tunnel Repairs, Seward, Alaska",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-23T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST ALASKA",
+  "contacts": [
+    {
+      "name": "Jennifer Gosh",
+      "email": "Jennifer.Gosh@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Jason Linn",
+      "email": "Jason.Linn@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "fe36f88f92ec47f9b6c0573df6dd373d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "6e2ad80a09aa4c8290a5a3cbcc223daa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "5c281a043b7145c090e3e569d3a554a8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "43bcbd48c00a424ca041d522188ffef2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Project Title: Lowell Creek Tunnel Repairs Project Location: Seward, AK NAICS 237990, Size Standard $45 Million Full and Open Competition, Invitation for Bid with Definitive Responsibility Criteria DPAS Rating: DO-C2, Refer to Clause FAR 52.211-15, Defense Priority and Allocation Requirements. Description of Work: The Lowell Creek Tunnel Repairs project will perform repairs of worn areas and install new center rails of the Lowell Creek Tunnel which is an approximately 2,100 feet long tunnel through Bear Mountain on the southwest side of Seward, Alaska. The contractor is to furnish all labor, equipment, supplies, materials, supervision, and other items and services necessary to accomplish the work. The contractor shall comply with commercial and industry standards as well as all applicable federal, state, and local laws, regulations, and procedures. The type of contract shall be firm-fixed price. Construction wage rates (formerly Davis Bacon Act wage rates) shall apply. ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

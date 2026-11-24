@@ -1,5 +1,5 @@
 {
-  "noticeId": "e6a651663a204eef8b82fc17a7e74d4e",
+  "noticeId": "280b994e699049a19f95b2570023b1c8",
   "solicitationNumber": "140PP027Q0018",
   "title": "Z--Rehab Kiosk Restrooms, NPS-ORCA",
   "naics": "236220",
@@ -17,6 +17,18 @@
     }
   ],
   "files": [
+    {
+      "name": "Sol_140PP027Q0018_Amd_0003.pdf",
+      "result": "202 KB"
+    },
+    {
+      "name": "B08_Att_08_Rpt_26110378_Final_v1_0003.pdf",
+      "result": "817 KB"
+    },
+    {
+      "name": "B08_Att_07_Rpt_26110376_Final_v1_0003.pdf",
+      "result": "167 KB"
+    },
     {
       "name": "Sol_140PP027Q0018_Amd_0002.pdf",
       "result": "208 KB"
@@ -59,6 +71,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "REHABILITATE KIOSK RESTROOMS TO IMPROVE VISITOR ACCESS AND EXPERIENCE, OREGON CAVES NATIONAL MONUMENT & PRESERVE, JOSEPHINE COUNTY, OREGON.  Amendment 0002 extends the due date for quotations to 5:00 p.m. Thursday, December 3, 2026. It also adds a Site Visit on Tuesday, November 24, 2026, at 10:00 a.m. PST (RSVP to David John at David_John@nps.gov) and answers the remaining questions in Attachment 6. Site inspection remains encouraged but not mandatory, and final completion remains required before cave tours resume in late March 2027.",
-  "savedAt": "2026-11-22T11:58:03.317579+00:00"
+  "description": "REHABILITATE KIOSK RESTROOMS TO IMPROVE VISITOR ACCESS AND EXPERIENCE, OREGON CAVES NATIONAL MONUMENT & PRESERVE, JOSEPHINE COUNTY, OREGON.  Amendment 0003 provides the results of the recent asbestos and lead testing. Quotations remain due by 5:00 p.m. Thursday, December 3, 2026.",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
 }

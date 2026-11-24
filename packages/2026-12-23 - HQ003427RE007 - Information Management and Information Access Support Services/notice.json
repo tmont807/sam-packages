@@ -1,0 +1,40 @@
+{
+  "noticeId": "a7b68d6ca9ec400fb72e357a44c0efa6",
+  "solicitationNumber": "HQ003427RE007",
+  "title": "Information Management and Information Access Support Services",
+  "naics": "541611",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-23T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > WASHINGTON HEADQUARTERS SERVICES (WHS) > WASHINGTON HEADQUARTERS SERVICES",
+  "contacts": [
+    {
+      "name": "Karen Smith",
+      "email": "karen.a.smith202.civ@mail.mil",
+      "phone": "703-901-5265"
+    }
+  ],
+  "files": [
+    {
+      "name": "d804692564e0472a8e8c26bb984fc883",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f61b2fd20a7142839d135bf780c1c32d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "6954c47859bc4000adb54559da193656",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0425709d08a04b61a9cf3ddb904e8023",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "ESD provides comprehensive Information Management and Information Access (IMIA) support services to the Office of the Secretary of War (OSW), WHS, 14 Department of War (DOW) Agencies and Field Activities, and all DoW Federal Advisory Boards, Commissions, and Task Forces (BCTFs) ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

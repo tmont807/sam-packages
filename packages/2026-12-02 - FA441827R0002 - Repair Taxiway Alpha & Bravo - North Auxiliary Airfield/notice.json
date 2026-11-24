@@ -1,5 +1,5 @@
 {
-  "noticeId": "9557b35afbeb4b51b30c9bad0d801d4e",
+  "noticeId": "b9d2968276c84ea2840d0631240eb54f",
   "solicitationNumber": "FA441827R0002",
   "title": "Repair Taxiway Alpha & Bravo - North Auxiliary Airfield",
   "naics": "237310",
@@ -22,6 +22,22 @@
     }
   ],
   "files": [
+    {
+      "name": "Attachment 14 - SWPPP NAAF.pdf",
+      "result": "1533 KB"
+    },
+    {
+      "name": "Attachment 13 - Transformer NAAF.png",
+      "result": "2013 KB"
+    },
+    {
+      "name": "Attachment 12 - Geotech Report NAAF.pdf",
+      "result": "11710 KB"
+    },
+    {
+      "name": "Solicitation Amendment FA441827R00020003.pdf",
+      "result": "393 KB"
+    },
     {
       "name": "Solicitation Amendment FA441827R00020002.pdf",
       "result": "416 KB"
@@ -92,6 +108,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Amendment 002 (19 Nov) \n\n The purpose of this amendment is to: \n\n (a) Incorporate Attachment 9 - Wage Determination - SC20260001. \n\n (b) Incorporate &quot;Estimated Quantity&quot; instead of &quot;Base Bid #&quot; on the descriptions of CLINS 0002-0007. \n\n (c) Incorporate Attachment 10 - Past Performance Questionnaire. \n\n (d) Incorporate Attachment 11 - JB Lindsey Graham Offeror Question and Answer Form. \n\n (e) All other terms and conditions remain unchanged. \n\n  \n",
-  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+  "description": " Amendment 003 (23 Nov) \n\n The purpose of this amendment is to: \n\n (a) Incorporate Attachment 12 - Geotech Report NAAF. \n\n (b) Incorporate Attachment 13 - Transformer NAAF. \n\n (c) Incorporate Attachment 14 - SWPPP NAAF. \n\n (d) All other terms and conditions remain unchanged. \n\n  \n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
 }

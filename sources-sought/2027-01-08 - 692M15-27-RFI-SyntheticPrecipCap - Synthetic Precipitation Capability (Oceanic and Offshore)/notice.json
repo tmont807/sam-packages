@@ -1,0 +1,28 @@
+{
+  "noticeId": "5a0ef95730f34d089eca1e4d2365c7ba",
+  "solicitationNumber": "692M15-27-RFI-SyntheticPrecipCap",
+  "title": "Synthetic Precipitation Capability (Oceanic and Offshore)",
+  "naics": "541330",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2027-01-08T17:00:00+00:00",
+  "state": "NJ",
+  "city": "Atlantic City",
+  "agency": "TRANSPORTATION, DEPARTMENT OF > FEDERAL AVIATION ADMINISTRATION > 692M15 ACQUISITION & GRANTS, AAQ600",
+  "contacts": [
+    {
+      "name": "Christine Yezzo",
+      "email": "christine.yezzo@faa.gov",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Synthetic Precipitation Capability_Market Survey_23NOV26_FINAL.docx",
+      "result": "44 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Federal Aviation Administration (FAA) relies on a land-based network of Next Generation Weather Radars (NEXRAD) to detect precipitation intensity and movement, delivering real-time weather mosaics directly to air traffic controllers&rsquo; displays. While land-based radar coverage is continuous across the contiguous United States (CONUS), radar performance degrades significantly in offshore and oceanic airspace. \n\n \n\t Beyond 124 nautical miles (nm), radar accuracy diminishes due to signal attenuation and beam broadening, and Earth&rsquo;s curvature elevates the radar beam above low-altitude precipitation (missing weather below 10,000 feet at 124 nm and below 40,000 feet at 248 nm). \n\t Beyond 248 nm, ground-based radar coverage ceases entirely. \n \n\n This surveillance gap limits air traffic controllers&#39; situational awareness during convective storm activity and forces Air Traffic Management to apply conservative aircraft spacing restrictions even in clear weather. \n\n To close this gap, the FAA requires a  Synthetic Precipitation Capability  that ingests and blends multi-source environmental data&mdash;including geostationary satellite imagery, lightning detection feeds, numerical weather prediction (NWP) models, and ground radar mosaics&mdash;using artificial intelligence/machine learning (AI/ML) models. The system must generate high-resolution synthetic precipitation and echo top grids over offshore and radar-sparse regions, merging them with existing land-based radar data to provide a continuous, seamless weather depiction across domestic, coastal, and oceanic airspace. \n\n  Purpose:  The FAA is conducting this market survey to assess industry capability, technical maturity, commercial availability, and/or potential technical approaches for generating and disseminating a synthetic precipitation capability in the NAS. Implement a scalable, resilient, cloud-native solution that meets FAA security requirements through zero-trust controls and automated DevSecOps. The FAA does not prescribe specific infrastructure, technology stacks, or architectural patterns; the contractor may propose the approach that best meets these objectives. \n\n  **See attached Market Survey document for specific details assoicated with this posting.  \n\n \n\t  Questions Due:  Submit all questions via email no later than  12:00 PM EST  December 7, 2026   \n\t  Responses Due:  Submit final capability statements via email no later than  12:00PM EST  January 08, 2027 .  \n\t  Contracting Officer:  Submit all questions and capability statements to Christine Yezzo, Contracting Officer, AAQ-630 at Christine.Yezzo@faa.gov. \n \n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

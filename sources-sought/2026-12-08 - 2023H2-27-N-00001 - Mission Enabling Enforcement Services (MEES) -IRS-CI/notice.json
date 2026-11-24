@@ -1,0 +1,33 @@
+{
+  "noticeId": "715697342234472185da32f932a97451",
+  "solicitationNumber": "2023H2-27-N-00001",
+  "title": "Mission Enabling Enforcement Services (MEES) -IRS-CI",
+  "naics": "541512",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-08T17:00:00+00:00",
+  "state": "DC",
+  "city": "",
+  "agency": "TREASURY, DEPARTMENT OF THE > INTERNAL REVENUE SERVICE > NORTHEAST REGION",
+  "contacts": [
+    {
+      "name": "Joseph Varoz",
+      "email": "joseph.a.varoz@irs.gov",
+      "phone": ""
+    },
+    {
+      "name": "Ke'Shae Perry",
+      "email": "Keshae.Perry@ci.irs.gov",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "MEES_Sources Sought - 2023H2-27-N-00001.pdf",
+      "result": "159 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": " The Mission Enabling Enforcement Services (MEES) will provide enterprise data engineering, advanced analytics, secure infrastructure, artificial intelligence, machine learning, investigative support, and platform integration services necessary to enable CI to execute its core criminal investigative mission and meet expanding operational requirements. \n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

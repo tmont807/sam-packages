@@ -1,0 +1,28 @@
+{
+  "noticeId": "2f760c98c71246b2b82224bd81910045",
+  "solicitationNumber": "SPE7L127T5981",
+  "title": "53--SLEEVED AFT BULKHEAD A",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA LAND > DLA LAND COLUMBUS > DLA LAND AND MARITIME",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "d83247bad9454dd6b8246cea58f9b1a1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5340015661849 SLEEVED AFT BULKHEAD A:\nLine 0001 Qty 19     UI EA  Deliver To: DLA DISTRIBUTION PUGET SOUND By: 0164 DAYS ADO\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available.  Digitized drawings and Military Specifications and Standards may be retrieved, or ordered, electronically.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

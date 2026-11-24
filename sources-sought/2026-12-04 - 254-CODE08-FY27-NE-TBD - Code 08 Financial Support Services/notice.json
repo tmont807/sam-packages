@@ -1,0 +1,40 @@
+{
+  "noticeId": "dc097bca428a438ca20b5e5ac94a16b7",
+  "solicitationNumber": "254-CODE08-FY27-NE-TBD",
+  "title": "Code 08 Financial Support Services",
+  "naics": "541611",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-04T21:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > ONR > ONR HQS > OFFICE OF NAVAL RESEARCH",
+  "contacts": [
+    {
+      "name": "Alejandro Moreno",
+      "email": "alejandro.moreno.civ@us.navy.mil",
+      "phone": "564-226-8778"
+    }
+  ],
+  "files": [
+    {
+      "name": "d8b4760aa8ad406e9e550fc387827f46",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "82cab6a2affa407ca9e3f9be98f9f887",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4b4d1e0291ca4d16adb49e2875070be5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d74c33a2d7ad4679b5404153118948d5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The Office of Naval Research (ONR) Comptroller Directorate (Code 08) requires contractor support to provide comprehensive financial management, accounting reconciliation, and administrative support services in support of Budget Submitting Office 14 (BSO 14). Support encompasses budget execution, accounting research, and fiduciary reporting for the Department of the Navy (DON) Science and Technology (S and T) and Research, Development, Test, and Evaluation (RDT and E) appropriations across the three Code 08 divisions: Execution/Fiscal Control, Accounting, and Operations/Financial Management. Key requirements include resolving unmatched transactions (UMTs) in Navy ERP, performing unliquidated obligation (ULO) reviews utilizing the Smart Tri-Annual Tool (STAT), compiling Key Supporting Documentation (KSD) for audit readiness, and managing financial record archiving and front-office operations on-site at ONR Headquarters in Arlington, VA. ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

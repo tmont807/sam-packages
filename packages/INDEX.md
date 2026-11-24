@@ -975,3 +975,102 @@
 |---|---|---|---|---|---|
 | 2026-12-18 | 15B20927Q00000006 | FY27 FCI MCKEAN TRASH REMOVING | PA | SBA | 3 |
 | 2027-01-08 | 36C24627Q0092 | J066--GRECC Preventive Maintenance Contract, Durham VAMC | Durham, NC | SBA | 3 |
+
+## 2026-11-24
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-23 | HQ003427RE007 | Information Management and Information Access Support Services |  | Unrestricted | 4 |
+| 2026-12-07 | A027066 | GSA OASIS 8(a) - RISK MANAGEMENT AND INTERNAL CONTROL PROGRAM INTEGRAT | VA | Unrestricted | 10 |
+| 2026-12-11 | 12443927Q0013 | Hoosier N.F. Hardin Ridge Recreation Area Bush Hogging | Bedford, IN | SBA | 6 |
+| 2026-12-12 | 1240LU27Q0001 | GAOA Powell Duplex Improvements, Nez Perce - Clearwater National Fores | Kamiah, ID | SBA | 8 |
+| 2026-12-04 | 140PP027Q0018 | Z--Rehab Kiosk Restrooms, NPS-ORCA | Cave Junction, OR | SBA | 13 |
+| 2026-12-08 | W50SLF26RA005 | Munitions Maintenance and Inspection Facility and Conventional Munitio |  | SBA | 4 |
+| 2027-01-19 | 47PB5126R0030 | General Contractor for the Seismic Retrofit Project at the Clemente Ru | San Juan, PR | NONE | 23 |
+| 2026-12-04 | 47PB5126R0018 | General Construction Services for Elevator Modernization at the Thurgo | New York, NY | NONE | 29 |
+| 2026-12-04 | W912DQ26RA060 | Veterans Affairs St. Louis Health Care System (VASTLHCS) John Cochran  |  | Unrestricted | 4 |
+| 2026-12-01 | N4008526R0178 | P084 NEXT GENERATION TORPEDO INTEGRATION LAB, NAVAL STATION NEWPORT, N | Newport, RI | Unrestricted | 49 |
+| 2026-12-10 | W50S8R27BA002 | B422 BREAKROOM, B300 BDOC | Mansfield, OH | SBA | 28 |
+| 2027-01-11 | 70US0927R70094253 | RFP - Maloney Canine Vet Clinic Addition | Laurel, MD | SBA | 6 |
+| 2026-12-08 | W912QR25RA013 | Design-Build Maintenance and Repair Army Reserve (MRAR) of Equipment C | Gatesville, TX | SBA | 8 |
+| 2026-12-05 | FA2396-27-9CTBD | AFRL RISE 2808a AOI Facility Alteration & Space Optimization – Bombers | OH | NONE | 4 |
+| 2026-12-01 | W912DW27QA006 | Mud Mountain Dam Sewage Lagoon Repair | Enumclaw, WA | SBA | 9 |
+| 2026-12-03 | W912QR27BA003 | Design-Bid-Build - Rough River Lake Axtel Wastewater Treatment Plant ( |  | Unrestricted | 5 |
+| 2027-01-06 | 36C25227B0008 | Z1DA--550-26-121 FY27 NRM Emergent Repairs North Water Tower 71 & Sout | Danville, IL | Unrestricted | 5 |
+| 2026-12-14 | 12445527Q0008 | Whiteface Campground Well Replacement | Makinen, MN | SBA | 5 |
+| 2027-01-13 | 693C73-27-R-000012 | VI DPC A34(1) – Veterans Drive Contract 2 Improvements to RTE 30 | VI | Unrestricted | 15 |
+| 2026-12-05 | 1240BJ27Q0009 | Cripple Creek Veg Management Roads Reconstruction | Anchorage, AK | SBA | 6 |
+| 2026-12-02 | FA441827R0002 | Repair Taxiway Alpha & Bravo - North Auxiliary Airfield | North, SC | SBA | 21 |
+| 2026-12-18 | 1240LT27Q0019 | Administrative Parking Lot Repairs | CO | SBA | 10 |
+| 2026-12-03 | 69056727B000002 | WA ERFO NPS OLYM 2022-1(3), OLYMPIC NPS ERFO REPAIRS 2022 Road 107 MP  | Forks, WA | NONE | 5 |
+| 2026-12-05 | W912PP279A001 | Progressive Design-Build (PDB) Other Transaction (OT) for FY28 High Sp |  | Unrestricted | 4 |
+| 2026-12-10 | W912HN27BA001 | Tybee Island Shoreline Protection Project | Tybee Island, GA | Unrestricted | 6 |
+| 2026-12-23 | W911KB27BA005 | Lowell Creek Tunnel Repairs, Seward, Alaska |  | Unrestricted | 4 |
+| 2026-12-02 | W912HP26RA033 | FY26 Clouter Creek Middle and Highway Cell Diking |  | SBA | 4 |
+| 2026-12-23 | W912DS27BA005 | DeLong Pier Repair at Pituffik Space Base, Greenland |  | Unrestricted | 4 |
+| 2026-12-04 | W9123726RA020 | Fishtrap Lake Intake Structure and Dam Rehabilitation; W91237-26-R-A02 |  | Unrestricted | 4 |
+| 2026-12-22 | W912PM27QA005 | Philpott Salthouse Electrical Upgrade |  | SBA | 4 |
+| 2026-12-04 | 36C25527Q0045 | Automatic Transfer Switch (ATS) Preventive Maintenance and Repair Serv | Leavenworth, KS | NONE | 2 |
+| 2026-12-01 | 1305M327Q0010 | J--HVAC Unit Replacement |  | SBA | 12 |
+| 2026-12-03 | 36C26027R0014 | Z1DA--CON-NRM-668-22-106 Correct Domestic Water System |  | Unrestricted | 18 |
+| 2026-12-07 | 70ZL14Q0000006 | REMOVE AND REPLACE 13 PROPANE REGULATORS, USCG STA FIRE ISLAND HOUSING | Babylon, NY | SBA | 5 |
+| 2026-12-01 | 124PCA27Q0008 | MSB Lab Floor Coating Repairs | Glenside, PA | Unrestricted | 9 |
+| 2026-12-10 | 1305M327Q0043 | S--JAX and TBW WFO CARPET REPLACEMENT | FL | SBA | 5 |
+| 2026-12-03 | 70ZL1727QCLEV0004 | USCG Station Saginaw River Galley Flooring | Essexville, MI | SBA | 7 |
+| 2026-12-11 | 140LL027Q0034 | Y--7 LAKES FENCE REPAIR |  | SBA | 10 |
+| 2026-12-08 | 1240LT27Q0029 | Lowline Area Burned Fence Construction Project | Gunnison, CO | SBA | 7 |
+| 2026-12-15 | 89503511102026 | SEPA PARKING LOT REPAVING AND REPAIRS | Elberton, GA | NONE | 11 |
+| 2026-12-03 | N3220527Q7044 | USNS LEROY GRUMMAN Clayton Boiler Coils |  | NONE | 2 |
+| 2026-12-04 | SPE7L127T5981 | 53--SLEEVED AFT BULKHEAD A |  | SBA | 1 |
+| 2026-12-08 | SPE4A627U0342 | 53--STUD,SHOULDERED |  | Unrestricted | 1 |
+| 2026-12-08 | SPE4A627Q0351 | 53--BOLT,EYE |  | Unrestricted | 1 |
+| 2026-12-07 | SPE4A527Q0082 | 66--TRANSDUCER,PRESSURE,FL |  | SBA | 1 |
+| 2026-12-02 | RFQ517540 | Mass Flow Controller for use in radioisotope production | Oak Ridge, TN | Unrestricted | 5 |
+| 2026-12-04 | SPE7L727T0795 | 61--BATTERY,NONRECHARGEABL |  | SBA | 1 |
+| 2026-12-09 | W911QY27RA008 | Warehousing Support CRSP | MA | SBA | 6 |
+| 2026-12-08 | 69056727Q000005 | Modular Buildings & Restroom Rental with Ancillary Services | WA | NONE | 10 |
+| 2027-01-11 | 70RFP326REH000002 | X-ray Lease |  | Unrestricted | 3 |
+| 2026-12-07 | N0018927RD003 | Undersea Program Analyses Support |  | SBA | 4 |
+| 2026-12-02 | 697DCK-27-R-00022A | Design Renovation, System Support Center (SSC), 3551 Combine St., Paso | Paso Robles, CA | SBA | 11 |
+| 2026-12-02 | N6660427Q0046 | Rotary Stepper Motor Calibrations | Newport, RI | NONE | 5 |
+| 2027-01-04 | 693C73-27-R-000006 | 2027 Construction Inspection Services Multiple Award Task Order Contra |  | Unrestricted | 2 |
+| 2026-12-15 | N0042127R1008 | NAWCAD (WOLF) Airborne Systems Integration (ASI ) Division Technical P | MD | SBA | 23 |
+| 2026-12-24 | 140PP027Q0040 | 12847 - FLAG, FIRE ALARM AND SIGNALING I |  | Unrestricted | 2 |
+| 2026-12-04 | FA300227RDSS4 | Pilot Training Transformation Device Support Services IV (PTT DSS IV) |  | SBA | 4 |
+| 2026-12-03 | CORHQ-26-Q-0369 | FedRAMP Webex Subscription Maintenance | Arlington, VA | NONE | 6 |
+| 2026-12-07 | 12443927Q0015 | Minerals Support Project - Superior NF | Duluth, MN | SBA | 3 |
+| 2026-12-03 | W900KK-26-R-A023 | Combined Synopsis Solicitation for Commercial Items Agile Professional | Orlando, FL | SBA | 21 |
+| 2026-12-14 | FA460027Q0009 | B304 Drive Fan Replacement | Offutt AFB, NE | SBA | 5 |
+| 2026-12-19 | EQPMBF-27-0019 | EQPMBF-27-0019, Fish and Wildlife Conference Rm Door Removal. Anchorag | Anchorage, AK | SBA | 1 |
+| 2026-12-22 | N6449827R0008 | N6449827R0008 |  | Unrestricted | 4 |
+| 2026-12-16 | N4008527R0009 | Pest Control Support Services at Naval Weapons Station Earle | Colts Neck, NJ | SBA | 12 |
+| 2026-12-01 | 1174190 | US Forest Service Plumas National Forest Pest Control | CA | SBA | 6 |
+| 2026-12-08 | 1305M327Q0040 | JANITORIAL SERVICES, NEGAUNEE, MI | NY | SBA | 3 |
+| 2026-12-07 | 1305M327Q0052 | JANITORIAL SERVICES, LINCOLN, IL | IL | SBA | 3 |
+| 2026-12-10 | 36C25227Q0054 | S208--TREE CARE MANAGEMENT SERVICE | WI | SBA | 2 |
+| 2026-12-10 | 15B41427Q00000004 | USMCFP SPRINGFIELD-TREE FELLING SOLICITATION | Springfield, MO | SBA | 3 |
+| 2026-12-02 | 140LL027Q0029 | S--WHB ADOPTION OFFICE-BLACKWATER CLEANUP |  | SBA | 3 |
+| 2026-12-02 | 2099AB27Q00003 | Group of Seven (G7) Host Year Integrated Event Management, Production, | DC | SBA | 3 |
+| 2026-12-02 | 36C24927Q0014 | R614--Tennessee Valley Healthcare Services Document Destruction Shredd |  | Unrestricted | 5 |
+| 2026-12-02 | N0018927QW019 | NAVSUP HQ & BSC On-site Shredding Services FY27 | Mechanicsburg, PA | SBA | 2 |
+| 2026-12-02 | 36C24227Q0072 | H165--FY27 SERVICE WALL TO WALL Inventory BASE + 4 |  | Unrestricted | 4 |
+| 2026-12-01 | HDTRA127Q0004 | Reston Non-Affixed Item Removal and Disposal |  | SBA | 4 |
+| 2026-12-09 | 70ZL3027QPORT0002 | TRASH & RECYCLING SERVICE FOR THREE LOACATIONS | Philadelphia, PA | SBA | 6 |
+| 2026-12-04 | 36C78627Q0019 | S205--Solicitation Marion National Cemetery Trash Services |  | Unrestricted | 1 |
+| 2026-12-18 | 15B20927Q00000006 | FY27 FCI MCKEAN TRASH REMOVING | PA | SBA | 3 |
+| 2026-12-08 | 70ZL3027QPORT0001 | TRASH COLLECTION & RECYCLING FOR USCG SECTOR DELAWARE BAY | Philadelphia, PA | SBA | 4 |
+| 2027-12-01 | H9225727RE003 | Porta John & Hand Washing | Sneads Ferry, NC | SBA | 3 |
+| 2026-12-01 | 89503427QWA001336 | U--NPFA 70E- Low Voltage Training Program |  | SBA | 1 |
+| 2026-12-18 | 70LGLY27RGLB00002 | Full Food Service for FLETC, Glynco, GA. | Brunswick, GA | NONE | 33 |
+| 2027-04-30 | FA825126R0012 | Repair of the Array Brazing Assembly |  | Unrestricted | 5 |
+| 2026-12-15 | FA825027QB005 | FA825027QB005 SOLICITATION |  | Unrestricted | 3 |
+| 2026-12-23 | FA825027Q0106 | JTE MAST Repair NSN 5985015985631FD |  | Unrestricted | 4 |
+| 2026-12-07 | W9124D27QA008 | USMEPCOM X-ray Maintenance, Repair, and Training Services |  | SBA | 4 |
+| 2026-12-11 | FA812527Q0013 | Serv C26-127 Repair Test Stands | Tinker AFB, OK | NONE | 4 |
+| 2026-12-08 | 75N98027Q00069 | Combined Synopsis Solicitation- |  | Unrestricted | 1 |
+| 2026-12-09 | 75N98027Q00074 | Combined Synopsis Solicitation- Acquire Preventati |  | Unrestricted | 1 |
+| 2026-12-08 | 75N98027Q00085 | Combined Synopsis Solicitation- Procure Priority C |  | Unrestricted | 1 |
+| 2026-12-07 | N3220527Q7045 | AS-39 TURBINES OPEN AND INSPECT |  | SBA | 4 |
+| 2026-12-03 | W519TC27T3011 | Blanket Purchase Agreement (BPA) for CNC Machine Repair, Parts, Progra | KY | SBA | 5 |
+| 2026-12-04 | 1284LL27Q0008 | Refurbishment of Existing Tree Cooler, St. Joe Ranger District, Idaho  | ID | SBA | 4 |
+| 2026-12-09 | 1284LL27Q0007 | Ammonia System Maintenance, Coeur d'Alene Nursery, Idaho Panhandle Nat | Coeur d Alene, ID | SBA | 4 |

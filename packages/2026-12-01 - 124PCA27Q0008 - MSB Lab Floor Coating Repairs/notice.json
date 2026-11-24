@@ -1,5 +1,5 @@
 {
-  "noticeId": "cf9968445de54e8aaa88d684a0744bdf",
+  "noticeId": "edaec52edc34480c8b49cb3f55572967",
   "solicitationNumber": "124PCA27Q0008",
   "title": "MSB Lab Floor Coating Repairs",
   "naics": "238330",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "C05_Sol_124PCA27Q0008_Amd_0002.pdf",
+      "result": "83 KB"
+    },
+    {
+      "name": "C05_Drain Location Drawings.pdf",
+      "result": "884 KB"
+    },
     {
       "name": "C05_Sol_124PCA27Q0008_Amd_0001.pdf",
       "result": "81 KB"
@@ -47,6 +55,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " The purpose of this amendment is to provide responses to RFIs received from the site visit.&nbsp; See attachment section for RFI responses. \n",
-  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+  "description": " The purpose of this amendment is to provide drawings for floor drain locations.&nbsp; See attachments \n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
 }

@@ -1,0 +1,28 @@
+{
+  "noticeId": "3c537493bdc749f98dc4e9617b4d5cc6",
+  "solicitationNumber": "SPE4A527Q0082",
+  "title": "66--TRANSDUCER,PRESSURE,FL",
+  "naics": "334513",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-07T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "c6e05c2a61af41779a0a3711959c9b35",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 6695015784803 TRANSDUCER,PRESSURE,FL:\nLine 0001 Qty 10     UI EA  Deliver To: W1A8 DLA DISTRIBUTION By: 0188 DAYS ADO\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes may be submitted electronically.\n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "noticeId": "ede98e60f1ce4295967cfebd37b6b772",
+  "noticeId": "d627ab06be0a475992e3f59e7e6b7a83",
   "solicitationNumber": "1305M327Q0010",
   "title": "J--HVAC Unit Replacement",
   "naics": "238220",
@@ -17,6 +17,18 @@
     }
   ],
   "files": [
+    {
+      "name": "Sol_1305M327Q0010_Amd_0003.pdf",
+      "result": "891 KB"
+    },
+    {
+      "name": "Appendix_A_0003.pdf",
+      "result": "2935 KB"
+    },
+    {
+      "name": "SOW_1305M327Q0010_v2_0003.pdf",
+      "result": "95 KB"
+    },
     {
       "name": "Sol_1305M327Q0010_Amd_0002.pdf",
       "result": "251 KB"
@@ -55,6 +67,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": "HVAC Unit Replacement Amendment 0002",
-  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+  "description": "HVAC Unit Replacement Amendment 0003",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
 }

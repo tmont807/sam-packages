@@ -1,0 +1,45 @@
+{
+  "noticeId": "410adbee96db4119a3a44e0fa600cf2c",
+  "solicitationNumber": "FA300227RDSS4",
+  "title": "Pilot Training Transformation Device Support Services IV (PTT DSS IV)",
+  "naics": "541519",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR EDUCATION AND TRAINING COMMAND > FA3002  338 ESS CC",
+  "contacts": [
+    {
+      "name": "Courtney Carter",
+      "email": "courtney.carter.6@us.af.mil",
+      "phone": "3804572092"
+    },
+    {
+      "name": "Gregory Olivar",
+      "email": "gregory.olivar.1@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "ae60b4c068d5454280587bb7a475cafb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f5009de4d6a14d2d82ab8500e34887c3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f62a34a7e72a4dd5b1c967b68ed9940f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "93b3a7cf1fa54d168a2c5e744a4d06c0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The purpose of amendment 0003 is to post Q and A responses------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------The purpose of amendment 0002 is to incorporate the following documents to solicitation FA300227RDSS4:Combined Synopsis Solicitation DSS IV, dated 18 Nov 26 // Attachment 1 - PWS DSS IV, dated 20 Nov 26 // Attachment 2 - Addenda to RFO 52.212-1 Instructions to Offerors, dated 18 Nov 26 // Attachment 3 - Addenda to RFO 52.212-2 Evaluation Criteria, dated 18 Nov 26 // Attachment 6 - DSS IV Pricing Matrix Spreadsheet, dated 18 Nov 26----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------The purpose of this requirement is to maintain and support PTT device solutions based on state- of-the-art commercial simulation environments, hardware solutions for the cockpit simulation environment, and ancillary software elements. The Contractor shall provide all services and equipment necessary to install, maintain, and support new and existing PTT devices. Devices currently fit into the following classifications: common Immersive Training Device (cITD), enhanced Immersive Training Devices (eITD), and Helicopter Immersive Training Device (HITD). Any new classifications will need to be defined and evaluated prior to inclusion in this scope. The Contractor shall support 142 ITDs and up to 17 Instructor Operating Stations (IOS) at the following locations: Joint Base San Antonio (JBSA) Randolph, TX; Columbus Air Force Base (AFB), MS; Laughlin AFB, TX; Vance AFB, OK, Sheppard AFB, TX; and Fort Rucker, AL. The Government has the right to modify the quantity of devices/locations pending contract modification and funding. The Contractor shall maintain a common software interface to integrate current and future PTT software and hardware components as required by program goals, hardware solutions for the cockpit simulation environment, and on-premises network and data architecture hardware and support, as appropriate for deployed training systems. ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "noticeId": "c8c596fdbfbb47d4ade4fc81d1706c0e",
+  "solicitationNumber": "W912PP279A001",
+  "title": "Progressive Design-Build (PDB) Other Transaction (OT) for FY28 High Speed Test Track (HSTT), Holloman Air Force Base, Otero County, New Mexico (NM)",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-05T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SPD > W075 ENDIST ALBUQUERQUE",
+  "contacts": [
+    {
+      "name": "Diana Keeran",
+      "email": "DIANA.M.KEERAN@USACE.ARMY.MIL",
+      "phone": "5053423263"
+    }
+  ],
+  "files": [
+    {
+      "name": "e5fca30f27f84ad884bf22e23c5ff827",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "64b94669a98e466fbb644ea840af8d47",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7dd70b679595451e8e9c5daa84867d17",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "297a5766a46844cfbbd4f89f4aa412f7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Progressive Design-Build (PDB) Other Transaction (OT) for FY28 High Speed Test Track (HSTT), Holloman Air Force Base, Otero County, New Mexico (NM)  ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "noticeId": "e75ed3657ceb45888059f7371035294f",
+  "solicitationNumber": "W911QY27RA008",
+  "title": "Warehousing Support CRSP",
+  "naics": "493110",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-09T17:00:00+00:00",
+  "state": "MA",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > ACC-CTRS > ACC-APG > W6QK ACC-APG NATICK",
+  "contacts": [
+    {
+      "name": "Michael Quinlan",
+      "email": "michael.j.quinlan3.civ@army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Michael Quinlan",
+      "email": "michael.j.quinlan3.civ@army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Attachment 0004 Technical Data PackageR1-CRSP-Natick.xlsx",
+      "result": "1445 KB"
+    },
+    {
+      "name": "Attachment 0005 Wage Determination.pdf",
+      "result": "4296 KB"
+    },
+    {
+      "name": "Solicitation - W911QY27RA008.pdf",
+      "result": "3165 KB"
+    },
+    {
+      "name": "Attachment 0003 CDRL-CRSP-Natick.xlsx",
+      "result": "55 KB"
+    },
+    {
+      "name": "Attachment 0002 Hours Worked Report-CRSP.xlsx",
+      "result": "14 KB"
+    },
+    {
+      "name": "Attachment 0001 - Pricing Schedule.xlsx",
+      "result": "11 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " Warehousing support in accordance with the Attached Solicitation. \n",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

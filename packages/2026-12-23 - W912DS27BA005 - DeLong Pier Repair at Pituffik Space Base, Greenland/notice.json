@@ -1,0 +1,45 @@
+{
+  "noticeId": "bf6e3e2844154031be236091d862a908",
+  "solicitationNumber": "W912DS27BA005",
+  "title": "DeLong Pier Repair at Pituffik Space Base, Greenland",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-23T07:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST NEW YORK",
+  "contacts": [
+    {
+      "name": "Adrian STAFFORD-BROWNE",
+      "email": "adrian.j.stafford-browne@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Nicholas Emanuel",
+      "email": "Nicholas.P.Emanuel@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "405fd8677ceb46619cbda15ee70f4c15",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "306a48fa2f784a16aab03aeee55000cf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ba43ba5927d0499a9971c6b106f61e7e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "333e2a29daa24ce589c345fc443fcdeb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The New York District of the U.S. Army Corps of Engineers (USACE) is issuing an Invitation for Bid (IFB) package seeking to award a Firm Fixed Price (FFP) contract for the DeLong Pier Repairs at Pituffik Space Base, Greenland. This procurement is restricted to Danish and Greenlandic firms only.  ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

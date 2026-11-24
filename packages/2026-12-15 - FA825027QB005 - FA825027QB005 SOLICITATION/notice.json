@@ -1,0 +1,36 @@
+{
+  "noticeId": "86d14253d2f246e996d4e30c756edfc4",
+  "solicitationNumber": "FA825027QB005",
+  "title": "FA825027QB005 SOLICITATION",
+  "naics": "811210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-15T01:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE SUSTAINMENT CENTER > FA8250  AFSC PZAAA",
+  "contacts": [
+    {
+      "name": "Richard Maynard",
+      "email": "richard.maynard.5@us.af.mil",
+      "phone": "8017776504"
+    }
+  ],
+  "files": [
+    {
+      "name": "f801e9999e2f4610ae249e2a0591a3f4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "d50247e82ea8474394b93eb83ddbb31a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "36a547104a5245d7abef7e1fbbc9ff6c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Login at https://piee.eb.mil and search for 'FA825027QB005' to obtain more details.*",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}

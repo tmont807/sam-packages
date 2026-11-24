@@ -1,0 +1,45 @@
+{
+  "noticeId": "33b32031319b476c831892fd06c9bb92",
+  "solicitationNumber": "N6449827R0008",
+  "title": "N6449827R0008",
+  "naics": "561210",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-22T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC PHILADELPHIA DIV",
+  "contacts": [
+    {
+      "name": "Destiny Speller",
+      "email": "destiny.l.speller.civ@us.navy.mil",
+      "phone": ""
+    },
+    {
+      "name": "Anthony Diplacido",
+      "email": "anthony.j.diplacido.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "64d8eddb4de04a93a06d8b09f83d115d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "13e47fceee59450facab4af6de940377",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "01a3428b302847e7b1487245c3f92246",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e7bf11c8d359406fbb5ca6060391cb62",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This solicitation has been released on 11/23/2026 and will close 12/22/2026 at 2:00 PM EST.  The solicitation and all documents are attached to this notice. If you have any questions, please contact Destiny Speller and Anthony Diplacido. Notice ID: N64498-26-RFPREQ-PD-60-0002 // Solicitation Number: N6449827R0008 ",
+  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+}
