@@ -1,5 +1,5 @@
 {
-  "noticeId": "2a70224c02a049208ef4cffb362eefe7",
+  "noticeId": "0161683af471483e8d777dce2851a770",
   "solicitationNumber": "1305M327Q0034",
   "title": "Seawater Pump Renovation",
   "naics": "236220",
@@ -23,16 +23,20 @@
   ],
   "files": [
     {
+      "name": "Sol_1305M327Q0034_Amd_0002.pdf",
+      "result": "147 KB"
+    },
+    {
+      "name": "Attachment 3 - RFI Tracker 1305M327Q0034 dated 11.24.2026.pdf",
+      "result": "43 KB"
+    },
+    {
       "name": "Sol_1305M327Q0034_Amd_0001.pdf",
       "result": "168 KB"
     },
     {
       "name": "Attachment 2 - Davis-Bacon Act WD CT20260023.pdf",
       "result": "66 KB"
-    },
-    {
-      "name": "Attachment 3 - RFI Tracker 1305M327Q0034 dated 11.12.2026.xlsx",
-      "result": "82 KB"
     },
     {
       "name": "Attachment 4 - Past-Performance-Questionnaire 1305M327Q0034.docx",
@@ -52,6 +56,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Amendment 0001 to Seawater pump renovation at the oyster breeding center, electrical and plumbing components present. See attached Statement of Work for details. \n",
-  "savedAt": "2026-11-13T12:07:20.614837+00:00"
+  "description": " Amendment 0002 to Seawater pump renovation at the oyster breeding center, electrical and plumbing components present. See attached Statement of Work for details. \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
 }

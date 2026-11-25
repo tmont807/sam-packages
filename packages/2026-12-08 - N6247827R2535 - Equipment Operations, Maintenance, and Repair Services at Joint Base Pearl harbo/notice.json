@@ -1,5 +1,5 @@
 {
-  "noticeId": "2d502cbbfc1d473c90ab902ab5f06a23",
+  "noticeId": "d9bb6102e23b4043848b17c63f856f0d",
   "solicitationNumber": "N6247827R2535",
   "title": "Equipment Operations, Maintenance, and Repair Services at Joint Base Pearl harbor Hickam, Hawaii (JBPHH).",
   "naics": "811310",
@@ -22,6 +22,18 @@
     }
   ],
   "files": [
+    {
+      "name": "27R2535 PPI Responses_24NOV2026.pdf",
+      "result": "120 KB"
+    },
+    {
+      "name": "27-2535 Commercial Tech Specs Amd 01.pdf",
+      "result": "84502 KB"
+    },
+    {
+      "name": "27-2535- OPS (Amd-0001).xlsx",
+      "result": "177 KB"
+    },
     {
       "name": "27R2535 Preliminary PPI Responses_19Nov2026.pdf",
       "result": "152 KB"
@@ -108,6 +120,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " The Government is posting the attached preliminary responses to PPI questions received to date for informational purposes. Additional questions and/or updated responses may be issued. These responses are not final and do not revise or supersede any solicitation requirement, term, condition, or provision. Only changes formally incorporated through a solicitation amendment are binding. \n",
-  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+  "description": " The Government is posting the attached updated OPS, responses to PPI questions, and amended Commercial Technical Specifications. Interested parties are encouraged to review the updated documents in their entirety. Additional information or revisions may be posted as necessary. Only changes formally incorporated through a solicitation amendment are binding. \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
 }

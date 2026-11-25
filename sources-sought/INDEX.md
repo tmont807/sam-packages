@@ -411,3 +411,48 @@
 | 2026-12-08 | 140RR027Q0060 | S--Navajo Dam Trash Services |  | Unrestricted | 2 |
 | 2026-12-22 | FDA-2027-133969 | Follow Up Request for Information for FDA Scientific Instrument Repair |  | NONE | 1 |
 | 2026-12-01 | 124PSA27Q0045 | 124PSA27Q0045 - Sources Sought for Autoclave and Washer Bi-Annual Main | Ames, IA | SBA | 0 |
+
+## 2026-11-25
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-11 | 15BNAS27-Torts | RFI Review of Medical Tort Claims | Washington, DC | SBA | 1 |
+| 2026-12-08 | 89233127NNA000155 | R--PM and TASS |  | SBA | 1 |
+| 2026-12-09 | W9123627X1AW1 | Sources Sought PLA Notice REFRESH for DB DBB MATOC Construction, USACE | Norfolk, VA | Unrestricted | 1 |
+| 2026-12-09 | MRKTSVY-26-GenIDIQ | General Construction Services IDIQ - MMAC | Oklahoma City, OK | SBA | 1 |
+| 2026-12-15 | W912DR27R1CEH | BATTALION OPERATIONS FACILITY II HUMPHREYS ENGINEER CENTER, ALEXANDRIA | Alexandria, VA | Unrestricted | 2 |
+| 2026-12-08 | HERO-FY27-Industry-Day | Hanscom’s Execution & Rapid Operations (HERO)- Industry Day | Hanscom AFB, MA | NONE | 1 |
+| 2026-12-09 | 75H70127R00012 | Dry Creek WTP Filtration Rehabilitation Design Build | Warm Springs, OR | Unrestricted | 1 |
+| 2026-12-07 | W912P627X1CZ7 | MARKET SURVEY SOURCES SOUGHT NOTICE FOR BARRIER IIB ATS SYSTEMS REPLAC |  | Unrestricted | 4 |
+| 2026-12-09 | MRKTSVY-26-ElecIDIQ | Electrical Construction Services IDIQ - MMAC | Oklahoma City, OK | SBA | 1 |
+| 2026-12-04 | 36C25927Q0063 | J045--Annual Boiler Maintenance RMR VAMC | Aurora | Unrestricted | 2 |
+| 2026-12-04 | BEP-WCF-POST15-SS-2026 | Patio Renovation and Sun Sail Installation | Fort Worth, TX | SBA | 0 |
+| 2026-12-08 | PANDTA27P0000041726 | Direct Procurement Method (DPM) Blanket Purchase Agreement (BPA) Recom | Warren, MI | SBA | 1 |
+| 2026-12-15 | 6973GH-27-RFI-00001 | 6973GH-27-RFI-00001 - Ultralife UBBL13-01 Lithium-Ion Batteries - RFI | Oklahoma City, OK | Unrestricted | 5 |
+| 2026-12-07 | N0001427RFI7002 | Consolidation of DON PMO and ONR SBIR STTR support with the Small Busi | VA | NONE | 2 |
+| 2026-12-18 | N6339427R0TBD-CSOSS | CSOSS CSTOM |  | Unrestricted | 4 |
+| 2026-11-30 | GUN_WEAPONS_SYSTEM | GUN WEAPON SYSTEMS (GWS) Request for Information |  | Unrestricted | 4 |
+| 2026-12-07 | W912P827SSA001 | PM Support Contract | New Orleans, LA | SBP | 0 |
+| 2026-12-09 | 36C10B27Q0144 | DA10--IT Control and Material Weakness Remediation [TSS Re-compete] (V |  | Unrestricted | 3 |
+| 2026-12-09 | 36C10B27Q0144 | DA10--IT Control and Material Weakness Remediation [TSS Re-compete] (V |  | Unrestricted | 3 |
+| 2026-12-01 | 36C10B27Q0134 | DE01--Enterprise Service Desk (ESD) Managed Services (VA-27-00019920) |  | Unrestricted | 4 |
+| 2026-12-08 | 89503511242026 | Records Management System Southeastern Power | Elberton, GA | NONE | 1 |
+| 2026-12-24 | 15DDHQ-27-RFI-FABT02 | Fountainhead |  | SBA | 1 |
+| 2026-12-02 | 36C10B27Q0147 | 7A21--Clinical Monitoring and Intervention Software Solution (VA-27-00 |  | Unrestricted | 3 |
+| 2026-12-03 | 36C10B27Q0129 | 7A21--Ensocare Automated Discharge Planning Software Licenses and Supp |  | Unrestricted | 2 |
+| 2026-12-21 | 36C10B27Q0141 | DA01--Appeals Innovation and Integration Services (AI2S) RFI (VA-27-00 |  | Unrestricted | 3 |
+| 2026-12-02 | 70US0927RFI0002 | Operational Video Capability (OVC) Support Services for the United Sta | DC | Unrestricted | 3 |
+| 2026-12-01 | 36C10B27Q0146 | 5831--Vocera Service Agreement (VA-27-00015995) |  | Unrestricted | 2 |
+| 2026-12-01 | W912DS27S0008 | Military construction management services |  | Unrestricted | 0 |
+| 2026-12-01 | W912DS27S0007 | Civil Works Construction Management Services |  | Unrestricted | 0 |
+| 2026-12-11 | 80KSC027R0001 | Spaceport Infrastructure Maintenance and Operations (SIMO) | FL | NONE | 18 |
+| 2026-12-08 | IHS1533339 | RN & LPN Services for the Outpatient Dept.-Rosebud Indian Health Servi | Rosebud, SD | BICiv | 1 |
+| 2026-12-03 | 36C26027Q0141 | Boise VAMC Fire Alarm System Maintenance | Boise, ID | NONE | 1 |
+| 2026-12-03 | 36C78627Q0046 | Snake River Canyon National Cemetery - Restroom Janitorial - S201 | Buhl, ID | Unrestricted | 1 |
+| 2026-12-01 | DOVER-AFB_Snow_Removal | Dover AFB - Snow Removal BPA | Dover AFB, DE | SBA | 1 |
+| 2026-12-16 | HT9427MCDMDisposal | Disposal Services for Medical Chemical Defense Materiel |  | NONE | 1 |
+| 2026-12-14 | PANMCC26P0000049542 | Military Occupation Specialties Improvement Training (MOSIT) for the 1 | TX | NONE | 2 |
+| 2026-12-04 | RFI-27-1002 | PTOEA RFI USPTO seeks Contractor for PTA transformation. | Alexandria, VA | NONE | 2 |
+| 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |
+| 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |
+| 2026-11-30 | 36C26227Q0107 | J041--VA Long Beach Healthcare System (VALBHS) Recurring Maintenance f | Long Beach | Unrestricted | 1 |

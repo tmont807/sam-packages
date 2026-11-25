@@ -1,0 +1,40 @@
+{
+  "noticeId": "f29fc3dac18e4882805bdc0b62bc1b99",
+  "solicitationNumber": "W912BV27QA003",
+  "title": "Sewage Ejector and Line Assessment Robert S. Kerr",
+  "naics": "562991",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-08T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST TULSA",
+  "contacts": [
+    {
+      "name": "Tyler Hastings",
+      "email": "tyler.a.hastings@usace.army.mil",
+      "phone": "9186694396"
+    }
+  ],
+  "files": [
+    {
+      "name": "506a1894a3d245ddb6ab025072f56520",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a5c770c3535e4c169765147f97f96ca2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "580b7c53a0194aaaba7dab424b3792ed",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3c53572758fa4f488c64d7b73a1b1d1d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The Tulsa Corp of Engineers is issuing a solicitation for the Robert S. Kerr Sewage Ejector and Line Assessment.  ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

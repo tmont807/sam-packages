@@ -1,0 +1,45 @@
+{
+  "noticeId": "96ca3418774849b0bcef071ff30c63bd",
+  "solicitationNumber": "W90VN727RA002",
+  "title": "(WP MATOC) Repair Runway Shoulder and Overruns, Kunsan AFB",
+  "naics": "237310",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-28T04:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > 0906 AQ CO     DET B CONTRACTI",
+  "contacts": [
+    {
+      "name": "KYONG KO",
+      "email": "kyong.o.ko.ln@army.mil",
+      "phone": "011-82-503-355-9315"
+    },
+    {
+      "name": "KILCHAE SONG",
+      "email": "kilchae.song.ln@army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "8d14ed1e9f084d36af555b980867396a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1201e868f1eb41eea01f30da96542ecd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7f28b95f169140d38675009055060caa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c791529ba41347649851cd401f71d7d9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "THIS IS RFP FOR WORK PLAN TASK ORDER FOR THE FOLLOWING MATOC WORK-PLAN CONTRACTORS ONLY.  W91QVN-24-D-0039, -0042, -0043, -0044, -0045, -0047, -0049, -0050, 0053, 0055, -0056, - 0058, -0081 AND -0110.PROJECT TITLE: REPAIR RUNWAY SHOULDER AND OVERRUNS, KUNSAN AFBPROJECTLOCATION: 8TH CES, KUNSAN AFB ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

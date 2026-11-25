@@ -1,0 +1,40 @@
+{
+  "noticeId": "03ca4607ed434658b7e6ae6a1c0076ea",
+  "solicitationNumber": "N6247327Q0001",
+  "title": "N6247327Q0001 Falconry Services aboard MCRD and NBPL NAVWAR OTC, San Diego, CA",
+  "naics": "561710",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-16T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "VEOLETTE NASRAWI",
+      "email": "veolette.t.nasrawi.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "a8abd5b2187647fe895893f379e9f340",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cb4d96574c084e63ac4d908dc5041af5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b4eb7d8b83814022a5f929828eacb818",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3307cbbdd2bf4d8aa43c8243579b5d27",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Naval Facilities Engineering Command (NAVFAC) Southwest (SW), Resident Officer in Charge of Construction (ROICC) Miramar has a requirement for Falconry Services to be performed at Marine Corps Recruit Depot (MCRD) and Naval Base Point Loma (NBPL) NAVWAR Old Town Campus (OTC) located in San Diego, California. The proposed acquisition will require the contractor to furnish labor, personnel, supervision, tool, materials, equipment, transportation and other non-personal services necessary to perform all the requirements described in the Performance Work Statement (PWS). ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

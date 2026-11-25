@@ -1,0 +1,57 @@
+{
+  "noticeId": "84d210a705594a3394fd575f6924f091",
+  "solicitationNumber": "FA487727R0002",
+  "title": "AE IDIQ 2027 Request for Qualifications Davis Monthan Air Force Base",
+  "naics": "541330",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2027-01-08T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR COMBAT COMMAND > FA4877  355 CONS PK",
+  "contacts": [
+    {
+      "name": "Jeffrey Sorensen",
+      "email": "jeffrey.sorensen.8@us.af.mil",
+      "phone": ""
+    },
+    {
+      "name": "Joshua Drawdy",
+      "email": "joshua.drawdy.2@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "2026.11.24_AE IDIQ Request for Qualifications.pdf",
+      "result": "470 KB"
+    },
+    {
+      "name": "Atch 1 - SF330 (blank).pdf",
+      "result": "1048 KB"
+    },
+    {
+      "name": "Atch 2 - Request for Qualifications QA.xlsx",
+      "result": "19 KB"
+    },
+    {
+      "name": "975571478629402195e60a7bacc9a97d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bac30174b57948a0ad4bdabef764ea18",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ebe6501836eb4da98097bc346a9294aa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ef0078ddca7a420bbb839310eeef52bc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The 355th Contracting Squadron (355 CONS) is seeking Architect-Engineer (A/E) firms to support the Air Forces Design and Construction mission. The Government intends to award approximately three multi-discipline, Indefinite-Delivery, Indefinite-Quantity (IDIQ) contracts. Each IDIQ Contract awarded will have an estimated ceiling of $7.5M. These contracts will deliver professional A/E services for Davis-Monthan Air Force Base in Tucson, Arizona, and may potentially support other Department of War (DoW) agencies within a 150-mile radius of the Tucson metropolitan area. Primary technical services must be performed by individuals who are credentialed members of architectural, planning, science, and engineering professions. Disciplines include, but are not limited to, architects, engineering disciplines typically associated with design and construction, fire protection engineers, landscape architects, interior designers, cost estimators, specification writers, Computer Assisted Design and Drafting (CADD) technicians, publication writers/editors, technical writers, graphic artists, Geographic Information System (GIS) analysts, planners, urban designers, economists, and financial analysts. Generally, a credentialed professional (a) is licensed (e.g., registered professional engineer) to practice in the state of Arizona and (b) commands the necessary expertise, in terms of knowledge and experience, to undertake the specified task to be identified at the task order level. This requirement is a 100% Small Business Set-Aside under NAICS 541330 with a size standard of $25.5M. A cover letter must be submitted to accompany the SF 330 that clearly identifies the Offerors size and socioeconomic status for NAICS 541330 with a size standard of $25.5M. SF 330 MUST be submitted electronically to the Procurement Integrated Enterprise Environment (PIEE) Solicitation application. Please see attached AE IDIQ Request for Qualifications for further instructions and selection criteria.  ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

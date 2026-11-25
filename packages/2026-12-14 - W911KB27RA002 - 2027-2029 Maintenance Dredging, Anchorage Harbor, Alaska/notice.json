@@ -1,0 +1,45 @@
+{
+  "noticeId": "61f054fab3bc46cabc42e244076aa4aa",
+  "solicitationNumber": "W911KB27RA002",
+  "title": "2027-2029 Maintenance Dredging, Anchorage Harbor, Alaska",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-14T23:00:00+00:00",
+  "state": "AK",
+  "city": "Anchorage",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST ALASKA",
+  "contacts": [
+    {
+      "name": "Jennifer Gosh",
+      "email": "jennifer.gosh@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "George Nasif",
+      "email": "george.g.nasif@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "449785c3f2e04e22a1deab35967849a5",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a523b98d748b45d294d56bf0715f45cc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0864e32f52fc4dd9972d93d150c65aba",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3e04ef6c31db4f99a3c76b479ccc193c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Perform surveying, dredging and disposal of approximately 900,000 cubic yards of fine-grained shoaled material annually for three (3) years at the Anchorage Harbor with an option to annually dredge 350,000 cubic yards of sandy material with some cobbles in Cook Inlet Navigation Channel. The dredging must be accomplished in a manner that keeps the Port of Alaska dock face and terminals accessible for shipping traffic at all times. The Cook Inlet Navigation Channel, which is the marked entrance through Knik Arm Shoal to Anchorage Harbor, may also require periodic maintenance dredging. The contractor is to furnish all labor, equipment, supplies, materials, supervision and other items and services necessary to accomplish the work.  Amendment 0001 published 24 Nov 2026. ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

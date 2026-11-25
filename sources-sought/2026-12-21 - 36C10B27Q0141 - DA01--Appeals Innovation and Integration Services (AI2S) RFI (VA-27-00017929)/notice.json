@@ -1,0 +1,36 @@
+{
+  "noticeId": "733942773e284c9b9efae3fe73b163f1",
+  "solicitationNumber": "36C10B27Q0141",
+  "title": "DA01--Appeals Innovation and Integration Services (AI2S) RFI  (VA-27-00017929)",
+  "naics": "541519",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-21T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+  "contacts": [
+    {
+      "name": "Vanessa Woodward",
+      "email": "vanessa.woodward@va.gov",
+      "phone": "848-377-5183"
+    }
+  ],
+  "files": [
+    {
+      "name": "RFI Vendor Response Workbook.xlsx",
+      "result": "29 KB"
+    },
+    {
+      "name": "AI2S Draft PWS for RFI.docx",
+      "result": "446 KB"
+    },
+    {
+      "name": "36C10B27Q0141.docx",
+      "result": "34 KB"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Request for Information \nAppeals Innovation and Integration Services (AI2S)\nVA-27-00017929\n\nIntroduction\n\n\nThis Request for Information (RFI) is for planning purposes only and shall not be considered an Invitation for Bid, Request for Task Execution Plan, Request for Quotation or a Request for Proposal.  Additionally, there is no obligation on the part of the Government to acquire any products or services described in this RFI.  Your response to this RFI will be treated only as information for the Government to consider.  You will not be entitled to payment for direct or indirect costs that you incur in responding to this RFI.  This request does not constitute a solicitation for proposals or the authority to enter into negotiations to award a contract.  No funds have been authorized, appropriated or received for this effort.  Interested parties are responsible for adequately marking proprietary, restricted or competition sensitive information contained in their response.  The Government does not intend to pay for the information submitted in response to this RFI.\n\nThe North American Industry Classification System (NAICS) for this requirement is 541519 with a size standard of $34 million.  \n\n2. Submittal Information:\n\nAll responsible sources may submit a response in accordance with the below information.  \n\nThere is a page limitation for this RFI of 15 pages.  The Government will not review any other information or attachments included, that are in excess of the 15 page limit. NO MARKETING MATERIALS ARE ALLOWED AS PART OF THIS RFI.  Generic capability statements will not be accepted or reviewed.  Your response must address capabilities specific to the services required in the attached PWS and must include the following:\n\nInterested Vendors shall at a minimum, provide the following information in the initial paragraph of the submission:\n\nName of Company\nAddress\nPoint of Contact\nPhone Number\nFax Number\nEmail address\nCompany Business Size and Status\nNAICS code(s)\nSocioeconomic data\nUnique Entity Identifier (UEI) Number\nExisting Contractual Vehicles (GWAC, FSS, or MAC)\n\nProvide a summary of your capability to meet the requirements contained within the draft PWS for the following areas:\n\nCan a single SaaS/COTS solution meet all PWS requirements across the five capabilities (Workflows, Document Review, Hearings, DCD, and BIR)? Would a single prime contract or modular acquisition yield better value and manageable integration risk?  What are the key benefits, risks, and trade-offs of integrating multiple SaaS/COTS solutions versus developing a single custom application, considering user experience, integration complexity, auditability, release coordination, testing, support, total cost of ownership, and end-to-end contractor accountability, while maximizing SaaS/COTS capabilities, minimizing custom development, and ensuring seamless integration without manual hand-offs, duplicate data entry, or a fragmented user experience for Board personnel? (PWS: 3.2; 5)\n\nCan all five capabilities be delivered as vendor-hosted SaaS without VA-provided hardware, VAEC compute/storage, or middleware? For any VA-hosted elements, identify sizing, hosting boundary, connectivity, security authorization, support ownership, and estimated Government costs. (PWS: 3.2; 5.2.1.1; 5.2.1.7; 6.1)\n\nWhat are the capabilities of workflows, routing rules, fields, templates, and reports that VA business administrators can configure or modify without vendor development or intervention? Identify any limitations, risks, training, or dependencies associated with administrator-managed changes, including governance and approval requirements, testing and validation, rollback capabilities, release lead times, support implications, and licensing constraints. (PWS: 3.3; 5.2.2.6; 5.2.5.1)\n\nCan the Document Review/Reader (eDiscovery) capability be deployed before other capabilities and without integration with the existing Caseflow system? If so, describe the interim approach for user access, case association, document retrieval, permissions, annotations, search, and navigation. Identify the earliest feasible deployment timeframe, prerequisites, risks, limitations, and potential rework required for future integration. (PWS: 4.2; 5.2.3; 5.3; 5.4)\n\nIdentify native capabilities and those requiring separate tools for OCR, handwriting recognition, duplicate detection, classification, annotation, relevance assessment, and summarization. Explain how existing OCR text and metadata can be ingested from third-party repositories to avoid unnecessary reprocessing. Address accuracy validation, source citations, human-in-the-loop controls, auditability, privacy protections, and per-page or per-transaction costs, distinguishing ingestion costs from new OCR processing costs. (PWS: 5.2.1.8; 5.2.3.5)\n\nWhat is a reasonable timeline to achieve full production deployment and migration of Caseflow and VACOLS? Is VA s target of within 12 months feasible? Assess the feasibility of an accelerated implementation, including integration, VA ATO, data migration, testing, training, and cutover. Provide a realistic timeline with key milestones, dependencies, risks, and opportunities to accelerate delivery. Identify the earliest achievable date for full operational capability and any factors that could delay implementation. If the 12-month target is not feasible, identify the limiting constraints and propose an alternative timeline, including key milestones and assumptions. (PWS: 4.1 4.2; 5.3 5.4)\n\nWhat milestone-based payment structure would you recommend? Discuss common commercial payment terms for implementation and deployment of an enterprise-wide solution of similar size and complexity for a federal agency.  Describe the proposed milestone-based payment schedule for building and deploying this solution, identifying the measurable deliverables and VA acceptance criteria that would trigger payment at each stage, including development, integration, migration, testing, and ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

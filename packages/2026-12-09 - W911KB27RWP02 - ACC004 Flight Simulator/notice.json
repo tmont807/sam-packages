@@ -1,0 +1,40 @@
+{
+  "noticeId": "5e06b207e59d4411ab6b80978e9b444b",
+  "solicitationNumber": "W911KB27RWP02",
+  "title": "ACC004 Flight Simulator",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-09T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > POD > W2SN ENDIST ALASKA",
+  "contacts": [
+    {
+      "name": "Kimberly Tripp",
+      "email": "Kimberly.D.Tripp@usace.army.mil",
+      "phone": "9077535690"
+    }
+  ],
+  "files": [
+    {
+      "name": "3ef34b7b140840fb8a73c7a4d00488fe",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "53e5833184564a0f83a8e13f7290401b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f20add45e4934b0296678237b92854df",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "8cda5072c7df44a0aee7ad50375df858",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers USACE, Alaska District, is seeking to identify a Design-Build Team or Design-Builder for ACC004 Flight Simulator a project in support of the Fighter Town Recapitalization FTR Program at Joint Base Elmendorf-Richardson JBER, Alaska. The FTR Program is a multiphase initiative to redevelop a significant portion of JBER with modern, resilient, and expanded infrastructure while maintaining mission continuity for active base and airfield operations throughout all phases of construction and facility turnover. ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

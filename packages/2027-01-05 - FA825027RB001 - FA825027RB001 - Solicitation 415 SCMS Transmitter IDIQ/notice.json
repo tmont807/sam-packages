@@ -1,0 +1,40 @@
+{
+  "noticeId": "03c43b1349474b8dba7df8c04ab53a05",
+  "solicitationNumber": "FA825027RB001",
+  "title": "FA825027RB001 - Solicitation 415 SCMS Transmitter IDIQ",
+  "naics": "811210",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-05T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE MATERIEL COMMAND > AIR FORCE SUSTAINMENT CENTER > FA8250  AFSC PZAAA",
+  "contacts": [
+    {
+      "name": "Cydnee Simpson",
+      "email": "cydnee.simpson@us.af.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "1b122a43512e47a492de65d7a982c113",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "68bba8be90b143aebc1bcd0a7b4978f4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ac8060dedfef4ebe9a5aed288b4449e6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c706e33681c7402ba8d226b649ab889e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "SOLE SOURCE AUTHORITY: RFO FAR 6.103-1 Only one responsible source and no other supplies or services will satisfy agency requirements. The Department of the Air Force (USAF) hereby publicizes its intent to solicit, negotiate and award a sole-source, Five (5) Year Indefinite Delivery, Indefinite Quantity (IDIQ), Firm-Fixed-Price (FFP) contract to Applied System Engineering, Inc. (ASE) (CAGE: 3Z966), located at 7510 Benbrook Parkway Fort Worth, Texas 76126 for the repair of various Transmitters. This acquisition is being conducted under the authority of RFO FAR 6.103-1 (Only one responsible source and no other supplies or services will satisfy agency requirements). Applied System Engineering, Inc. (ASE) (CAGE: 3Z966) is the original equipment manufacturer (OEM) and the only source with the proprietary technical data, specialized tooling, and engineering expertise required to perform these services without causing unacceptable delays or duplication of costs. SCOPE OF WORK: For the end item, the contractor shall furnish all facilities, parts, materials, equipment and services required to inspect and, if necessary, restore to serviceable condition. TEST, TEARDOWN, AND EVALUATION (TTandE): The contractor shall perform visual, mechanical and electrical testing of the end item, reusable or replacement component parts, and materials according to the schedule in the contract to determine the condition of the end item. Upon completion of this task, all of the components of the end item requiring repair or replacement will be identified by part number, NSN (if applicable), nomenclature, and location in the assembly.  This information will be reported in writing to the Procurement Contracting Officer (PCO)/ Defense Contract Management Agency (DCMA) Administrative Contracting Officer (ACO) and, if necessary, approval to repair will be negotiated.  If no further repair is required, the asset must be returned in serviceable like new condition. REPAIR: The contractor shall perform the repair or replacement of all failed parts and components.  Each end item must be cleaned, configured, refinished, and tested to meet the original specifications of the end item.  The end item shall be returned in serviceable like new condition. Item Description(s), National Stock Number(s) (NSNs), and Part Number(s): Transmitter, Radar (AN/MST-T1(V) MINI-MUTES)5840-01-475-231963804-1HTransmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-644-8215105103-1Transmitter, Radar (AN/TPT-T1 Unmanned Threat Emitter)5840-01-505-251974501-1Transmitter, Radar (AN/TPT-T1 Unmanned Threat Emitter)5840-01-508-103275502-2Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-656-4618125606-2Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-657-1845101702-1Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-657-1847115206-3Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-657-1848115306-2Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-657-2806103802-1Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-659-085091101-01Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-659-254291101-2Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-659-449991102-1Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-659-450091102-2Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-659-301091103-1Transmitter, Radar (AN/TPT-T1 Unmanned Threat Emitter)5840-01-617-014662704-1Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-598-640887001-2Transmitter, Radar (AN/TSQ-T10 Joint Threat Emitter)5840-01-599-908179106-1One or more of the items under this acquisition are subject to Free Trade Agreements. IAW DAFMAN 16-201, there are no restrictions on foreign participation. ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

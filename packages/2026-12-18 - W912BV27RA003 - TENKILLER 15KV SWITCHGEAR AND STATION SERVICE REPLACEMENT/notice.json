@@ -1,0 +1,44 @@
+{
+  "noticeId": "91326356f9e64ee2b78249474ec1369a",
+  "solicitationNumber": "W912BV27RA003",
+  "title": "TENKILLER 15KV SWITCHGEAR AND STATION SERVICE REPLACEMENT",
+  "naics": "238210",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-18T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SWD > W076 ENDIST TULSA",
+  "contacts": [
+    {
+      "name": "Tyler Godwin",
+      "email": "tyler.l.godwin@usace.army.mil",
+      "phone": "9186697281"
+    }
+  ],
+  "files": [
+    {
+      "name": "Site Visit Sign In Sheet - W912BV27RA003_17 NOV 2026.pdf",
+      "result": "53 KB"
+    },
+    {
+      "name": "d5b2594462e8416bb2a5426a199e3730",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "66d0c76718d349e1bc7cdb770798ddd6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "baf39220bf8749cfa3bd10b2c108cd3a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3a0bbb54883b42cab10c15ee15283ad8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " TENKILLER 15KV SWITCHGEAR AND STATION SERVICE REPLACEMENT \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

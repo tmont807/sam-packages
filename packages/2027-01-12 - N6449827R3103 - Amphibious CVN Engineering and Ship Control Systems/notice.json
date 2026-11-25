@@ -1,0 +1,45 @@
+{
+  "noticeId": "0f8472d6b51a4a6488205e7226f39caf",
+  "solicitationNumber": "N6449827R3103",
+  "title": "Amphibious/CVN Engineering and Ship Control Systems",
+  "naics": "541330",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-12T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC PHILADELPHIA DIV",
+  "contacts": [
+    {
+      "name": "Melissa Ford",
+      "email": "melissa.e.ford3.civ@us.navy.mil",
+      "phone": "445-942-2589"
+    },
+    {
+      "name": "Matthew Parlett",
+      "email": "matthew.d.parlett.civ@us.navy.mil",
+      "phone": "267-990-5870"
+    }
+  ],
+  "files": [
+    {
+      "name": "bc4d0f5f7c424239bf44f4a314e5a01b",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "25f0907597384bf98fdf69c790892c8f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "35a401bc491c4eb9a691110f941839de",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e4dd5ed8072048e9be1f8da14f7dacf1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "NSWCPD is the Program Lead and In-Service Engineering Agent (ISEA) for the LHD/LHA/LCC Ship Control System Government, LHD 8/LHA 6-7 Automated Bridge System, LHD 1-6 Legacy Analog Ship Control System, LHA 8 Ship Control System and MCM 1 Ship Control System. Due to the required technical refresh of hardware and software, other technical advancements to SCS-Gov, and global ship homeports; NSWCPD requires contract support for engineering, technical, installation and testing support services on Naval vessels. These services to be provided to Division 52 include the engineering, technical personnel and facilities required to maintain the operational readiness and integrate technological improvements of in-service and new construction system configurations in coordination with logistics, program management, and hardware/software developers and cybersecurity personnel. This is a SeaPort -NxG requirement. ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "noticeId": "55a0e3186ece41f38167ca4e3f90ee3a",
+  "noticeId": "fc507c18cf2a4d029644e5739049d530",
   "solicitationNumber": "W912EF27BA001",
   "title": "Dworshak Powerhouse Roof Replacement",
   "naics": "238160",
@@ -23,6 +23,10 @@
   ],
   "files": [
     {
+      "name": "27BA001 Tech Specs.pdf",
+      "result": "11314 KB"
+    },
+    {
       "name": "Solicitation - DWA Powerhouse Roof Replacement_W912EF27BA001 released.pdf",
       "result": "6457 KB"
     },
@@ -36,6 +40,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " 11/20/2026:&nbsp; \n\n See attached Solicitation and associated technical package for details \n",
-  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+  "description": " 11/24/2026:&nbsp; \n\n Adding Solicitation Technical Specifications for W912EF27BA001 \n\n ____________________________________ \n\n 11/20/2026:&nbsp; \n\n See attached Solicitation and associated technical package for details \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
 }

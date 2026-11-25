@@ -1,0 +1,45 @@
+{
+  "noticeId": "0a2f753fe92c4ad98dd6165b0e16ce63",
+  "solicitationNumber": "W912ER27RA010",
+  "title": "Space Campus Synopsis - Qatar Development of Al Udeid",
+  "naics": "541330",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-08T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > OTHER_DIVISION > W31R ENDIS MIDDLE EAST",
+  "contacts": [
+    {
+      "name": "Mikayla Shanholtzer",
+      "email": "Mikayla.B.Shanholtzer@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Tracy Gusukuma",
+      "email": "Tracy.M.Gusukuma@usace.army.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "68c939ee6b414149919a81ee291939a6",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "db22d751890f4e7ea927dfdd3ff95607",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "3f89f9a422ee44cfa9b643523dd8c355",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f0d112014d9841d9b848b3f34c323c07",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " The United States Air Force (USAF) has an operational requirement for the development of a new Space Campus at Al Udeid Air Base (AUAB), Qatar. To support this initiative, this SATOC will encompass comprehensive planning, design, and construction phase services. The required infrastructure consists of highly secure facilities mandated to meet Intelligence Community Directive (ICD) 705 compliance standards. \n\n The U.S. Army Corps of Engineers (USACE), Southwestern Middle East District (SWM), intends to award a single unrestricted Architect-Engineer (A-E) Indefinite Delivery Contract (IDC) which will be awarded as a Single Award Task Order Contract (SATOC). This procurement is conducted under 40 USC Chapter 11 (Selection of Architects and Engineers Statute, formerly Public Law 92-582 Brooks Architect-Engineer Act), as implemented by Revolutionary Federal Acquisition Regulation Overhaul (RFO) Part 36 and RFO Defense FAR Supplement (RFO DFARS) Part 36. The A-E firm selected will provide A-E services including site studies and investigations, planning, design, and construction phase support services and will be selected based on demonstrated competence and qualifications for these types of A-E services. This announcement constitutes the only solicitation that will be issued for this requirement; no further written solicitations will be issued. \n\n The SATOC will have a five-year base ordering period and a single two-year option period with a capacity of $150,000,000. Individual task orders will be issued on a negotiated firm-fixed-price (FFP) basis. The contract award is anticipated in December 2027 and in conjunction with an Integrated Design and Construction (IDaC) contract to be solicited and awarded after planning activities are complete. \n\n The minimum guarantee is $5,000 for the base period. There will not be any separate minimum guarantee paid for the option period. The North American Industrial Classification System (NAICS) code for this requirement is 541330 Engineering Services with a small business size standard of $25,500,000.&nbsp; \n \nView the full synopsis on the Procurement Integrated Environment Enterprise (PIEE). SF330s in response to this synopsis/solicitation must be submitted through PIEE. \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

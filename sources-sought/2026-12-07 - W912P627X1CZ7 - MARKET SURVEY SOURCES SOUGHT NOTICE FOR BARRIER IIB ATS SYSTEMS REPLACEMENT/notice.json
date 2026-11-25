@@ -1,0 +1,40 @@
+{
+  "noticeId": "d13db3ad548f4e1cb0a6bc7bef73a313",
+  "solicitationNumber": "W912P627X1CZ7",
+  "title": "MARKET SURVEY SOURCES SOUGHT NOTICE FOR BARRIER IIB ATS SYSTEMS REPLACEMENT",
+  "naics": "238210",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-07T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST CHICAGO",
+  "contacts": [
+    {
+      "name": "Stephanie Boyd",
+      "email": "stephanie.l.boyd@usace.army.mil",
+      "phone": "312-846-5370"
+    }
+  ],
+  "files": [
+    {
+      "name": "b3ab43f05a73414c97e89bfa57828d2a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cb68e4efae184e52b12d7336c0636fb4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bfba9e5c6f2c4411b5187bdb030fb50c",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fd3cd18b275e4fd2a0354d0562208461",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "SOURCES SOUGHT NOTICE / MARKET SURVEY Project Title: Barrier IIB Automatic Transfer Switch (ATS) System Replacement************** Procurement Identification: PANGLR -26 -034692**************NAICS Code: 238210  Electrical Contractors and Other Wiring Installation Contractors (Small Business Size Standard: $19.0 Million)**************PSC Code: Z2BG Repair or Alteration of Electronic and Communications Facilities**************Estimated Project Magnitude / Cost: Between $250,000 and $500,000**************  Primary Performance Location: Chicago Sanitary and Ship Canal Electric Dispersal Barrier Facility (USGS / USACE Facility), 790 East Old Romeo Rd., Lockport/Romeoville, IL 60441*****************By way of this Market Survey/Sources Sought Notice, the USACE-Chicago District intends to determine the extent of firms that are engaged in providing the services described hereunder for the Barrier IIB Automatic Transfer Switch (ATS) System Replacement. The responses to this Notice will be used for planning purposes for an upcoming procurement. Therefore, this Notice does not constitute a Request for Proposal (RFP); it does not guarantee the future issue of an RFP; nor does it commit the government to contract for any supply or service whatsoever. Further, this Agency will not accept unsolicited proposals. Respondents are advised that this Agency will not pay for any information or administrative cost incurred in response to this Notice; all costs associated with responding to this Notice will be solely at the responding party expense.***************t this time, proprietary information is not being requested, and respondents shall refrain from providing proprietary information in response to this Notice. Responses to this Notice will not be returned. Please be advised that all submissions become Government property and will not be returned. Not responding to this Notice does not preclude participation in any future RFQ. Responses to this notice are not offers and cannot be accepted by the U.S Government to form a binding contract. It is the responsibility of the interested parties to monitor this site for additional information pertaining to this Notice.*******GOVERNMENT REQUIREMENTS Under the proposed contract, the contractor will be required to provide turnkey engineering, procurement, programming, fabrication, removal, installation, testing, and commissioning services for the controls modernization of the Barrier IIB Automatic Transfer Switch (ATS) and Emergency Generator Paralleling Switchgear line-up (originally installed circa 2010).*********Scope Summary:************The project requires the complete replacement and modernization of obsolete proprietary electronic control modules, network processors, transducers, and human-machine interface (HMI) touchscreens with modern, open-architecture, commercial-off-the-shelf (COTS) industrial control components.************The contractor shall provide a complete, non-proprietary functional solution meeting the following performance characteristics without relying on single-source, dealer-locked software or hardware:**************1.\tMaster, Utility, Tie, and Generator Control Processors:************Furnish and program modular, open-architecture Programmable Logic Controllers (PLCs) or purpose-built Digital Generator Paralleling Controllers with industrial Ethernet communications.**************\tProvide dedicated processing hardware for:*************\tMaster Switchgear Control (redundant processors AP1 and AP2)********\tGenerator Breaker Controls (dedicated controller per generator breaker)**********Utility Incoming Breaker Control (dedicated controller per utility breaker)*********Tie Breaker Control (dedicated controller per tie breaker)**********The control logic must automatically perform utility sensing, automatic transfer, generator start sequencing, dead-bus closing, auto-synchronization, isochronous kW and kVAR load sharing, soft-load open/closed-transition utility return, and load shed/add management.*********Programming must utilize non-proprietary, standard industrial software (e.g., standard IEC 61131-3 logic platforms).**************2.\tPower Sensing and Synchronization:*********\tSupply and install modern digital multi-function power transducers and automatic synchronizer / sync-check relays (Device 25) for each generator breaker, tie breaker, and utility source.*************3.\tOperator Interface (HMI) Visualization:***********Supply and install an industrial widescreen touchscreen display panel (minimum 15-inch diagonal) and dedicated processor running an industrial operating system.************The HMI software must display dynamic animated single-line electrical diagrams, breaker metering and status, alarm logging and management, mode selection (Auto/Manual/Test), and system diagnostics.***********Interface drivers must communicate natively via standard industrial protocols (Ethernet/IP, Modbus TCP, PROFINET, or OPC UA).**************4.\tNetwork and Communications:*********Furnish industrial managed Ethernet switches configured in a fault-tolerant ring communications architecture (replacing obsolete serial/proprietary network topologies).***********Provide protocol data gateways where necessary to output system data points (Modbus RTU/TCP or BACnet/Ethernet) to site supervisory networks.**************5.\tSimulation and Pre-Testing:***********All PLC and HMI programming must be factory bench-tested and verified using a static simulator reproducing the site sequence of operations prior to mobilization.**************6.\tOn-Site Installation, Commissioning, and Constraints:************Perform on-site removal of legacy controllers, field wiring, mounting, terminations, calibrations, engine startup assistance, and full-load validation.*************\tOutage Limitation: On-site replacement and cutover must be accomplished within an aggressive coordinated window (estimated up to six (6) consecutive calendar days).************Life-Safety Operational Continui",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

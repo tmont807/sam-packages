@@ -1,0 +1,40 @@
+{
+  "noticeId": "57d95e88e0ae4620971e90b4c5a6fa21",
+  "solicitationNumber": "W912QR279A005",
+  "title": "United States Space Force Integration Facility",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-24T06:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST LOUISVILLE",
+  "contacts": [
+    {
+      "name": "Stephanie Drees",
+      "email": "stephanie.n.drees@usace.army.mil",
+      "phone": "5023153270"
+    }
+  ],
+  "files": [
+    {
+      "name": "44fa669344194133a81eea9fd2302bb9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "24d7c9ad5fdb44cf80b46310a0d803c3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "80a024516fb34077ab362aae37a369c0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "fb06481fc9194a74bd49caa9eac50bff",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "USACE Louisville District issues this Request for Qualifications (RFQ) to identify and select the single most highly qualified Design-Build Team to execute the United States Space Force (USSF) Integration Facility (UIF) project at Wright-Patterson Air Force Base (WPAFB), Ohio.The project provides a new, multi-floor, approximately 333,700-square-foot secure USSF Integration Facility and a physical connection to active Building F/10854. The project includes site work; utility distribution integration; high-efficiency HVAC and other MEP systems designed for continuous operations; replacement of two (2) existing end-of-life 2000 kW backup generators; high-security electrical switchgear; a secure structural and envelope system; specialized controlled spaces, commissioning, and accreditation activities.The Government will provide available concept design information, programmed requirements, and initial planning data as the initial technical baseline. During Phase 1, the selected Design-Builder will validate that baseline and may recommend refinements. Any material deviation from the Government baseline requires Government review and approval.Sustained Mission Readiness: Building F/10854 will remain fully occupied and operational throughout construction. The Design-Builder must plan and execute all work to avoid unscheduled interruption of 24/7 mission operations, utilities, communications, and existing secure-facility accreditation. ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

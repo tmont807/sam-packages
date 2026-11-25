@@ -1,0 +1,28 @@
+{
+  "noticeId": "c400ab07fa7a41e39251131cd7f8ce3c",
+  "solicitationNumber": "89233127NNA000155",
+  "title": "R--PM and TASS",
+  "naics": "541611",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2026-12-08T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > NNSA NON-MO CNTRCTNG OPS DIV",
+  "contacts": [
+    {
+      "name": "Ramos, Odini N.",
+      "email": "ODININIKOLAI.RAMOS@NNSA.DOE.GOV",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "7a7a293f261e434e8cde1d08d537b499",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Program Management, Technical, and Analytical Support Services",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "noticeId": "245b3b335d924a9dbd733183276f140e",
+  "solicitationNumber": "W9123827RA005",
+  "title": "$465M SPK SMALL BUSINESS MATOC FOR DBB/DB CONSTRUCTION",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-21T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SPD > W075 ENDIST SACRAMENTO",
+  "contacts": [
+    {
+      "name": "Trina Davis",
+      "email": "Trina.J.Davis@usace.army.mil",
+      "phone": "9165575178"
+    },
+    {
+      "name": "Amber Scyoc",
+      "email": "amber.l.scyoc@usace.army.mil",
+      "phone": "916-557-7040"
+    }
+  ],
+  "files": [
+    {
+      "name": "50718493811241e989c0d1b7166855e2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4d13f63e85324ca4b773de3cab7aafaf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "449b25b1092a4f92911a697ae000c141",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "95e92968aa6b46c390787461d2593409",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "PROJECT TITLE: $465M SPK SMALL BUSINESS MATOC FOR DBB/DB CONSTRUCTION USACE SACRAMENTO DISTRICT ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

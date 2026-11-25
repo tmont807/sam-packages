@@ -1,0 +1,45 @@
+{
+  "noticeId": "2f1784ffc05048438ac74897d7f4d8d0",
+  "solicitationNumber": "FA462627R0001",
+  "title": "Vertical Construction Multiple Award Contract (MAC)",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2027-01-12T21:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE AIR FORCE > AIR FORCE GLOBAL STRIKE COMMAND > FA4626  341 CONS  LGC",
+  "contacts": [
+    {
+      "name": "Cody Babinecz",
+      "email": "cody.babinecz@us.af.mil",
+      "phone": "(406)731-4608"
+    },
+    {
+      "name": "Colleen T. Goad",
+      "email": "colleen.goad.1@us.af.mil",
+      "phone": "4067313473"
+    }
+  ],
+  "files": [
+    {
+      "name": "43632115e37e428396e52c4ada63d663",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "ae5a1a21cc114c839e47d475e91d34ee",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9d99044c92844f3f8b7d71a2394190ec",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "aa3d3a7e0c4b4c498cdde779eabf4fbc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "This requirement is for the Vertical Construction Multiple Award Contract (MAC) at Malmstrom AFB, MT. The Vertical Construction MAC will be used to satisfy a multitude of vertical construction projects in support of the Malmstrom AFB installation and its missile alert/launch facilities. ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "noticeId": "19b8da99145f4800bd801edfd08b6fad",
+  "noticeId": "17b3df01b5224c9b835e3924fd735e14",
   "solicitationNumber": "140PP027Q0036",
   "title": "F--19636 COLO INVASIVES TREATMENT",
   "naics": "561730",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "Sol_140PP027Q0036_Amd_0004.pdf",
+      "result": "202 KB"
+    },
+    {
+      "name": "B11-Invasive_Treatment_Site_Visit_Roster_0004.pdf",
+      "result": "103 KB"
+    },
     {
       "name": "Sol_140PP027Q0036_Amd_0003.pdf",
       "result": "202 KB"
@@ -84,5 +92,5 @@
   ],
   "kind": "solicitation",
   "description": "Colonial National Historic Park (COLO) Remove Invasive Species & Herbicidal Treatment to Maintain Interpreted Viewsheds and Protect Cultural Resources Yorktown.  The National Park Service, Northeast Region, New England Major Acquisition Buying Office, issues this Request for Quote (RFQ) for the clearing and treating 2.54 acres of live and dead mature invasive species at the Colonial Parkway & Route 238 site, adjacent to the American Revolution Museum. Item Two (2) Herbicidal treatment only of 8.76 acres previously infested with live and dead mature invasive species in four (4) locations within Colonial National Historical Park, within the Village of Yorktown in Yorktown, Virginia.  All interested parties shall meet at Yorktown Visitor Center Parking Lot. Address is 1000 Colonial Parkway, Yorktown VA 23690. Contractors to meet in front of the Visitors Center. The site visit POC is Philip Fortuna.",
-  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
 }

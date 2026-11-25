@@ -1,0 +1,28 @@
+{
+  "noticeId": "7fd7685d19614935965412f26e5744ed",
+  "solicitationNumber": "89243327QEX000008",
+  "title": "Brand-Name or Equal TELEDYNE FLIR Camera",
+  "naics": "334513",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-09T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > NATIONAL ENERGY TECHNOLOGY LABORATORY",
+  "contacts": [
+    {
+      "name": "Manantan Jr., Arturo B.",
+      "email": "arturo.manantan@netl.doe.gov",
+      "phone": "304-285-4136"
+    }
+  ],
+  "files": [
+    {
+      "name": "3615a8852cf44654b7975467ace01431",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Brand-Name or Equal TELEDYNE FLIR COMMERCIAL SYSTEMS INC. - FLIR A6261 InGaAs (0.901.7um), 640x512, no lens, GigE, 180Hz Camera (29437-261) per the attached specifications ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

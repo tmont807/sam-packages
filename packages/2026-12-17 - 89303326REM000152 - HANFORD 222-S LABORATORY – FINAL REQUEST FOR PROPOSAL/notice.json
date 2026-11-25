@@ -1,0 +1,36 @@
+{
+  "noticeId": "8090324bef8c432c9f5f772dcfc3e681",
+  "solicitationNumber": "89303326REM000152",
+  "title": "HANFORD 222-S LABORATORY \u2013 FINAL REQUEST FOR PROPOSAL",
+  "naics": "562910",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-17T22:00:00+00:00",
+  "state": "WA",
+  "city": "Richland",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > EM-ENVIRONMENTAL MGMT CON BUS CTR",
+  "contacts": [
+    {
+      "name": "Ortiz Delgado, Jose E.",
+      "email": "jose.ortiz@emcbc.doe.gov",
+      "phone": "5133102361"
+    }
+  ],
+  "files": [
+    {
+      "name": "89303326REM000152_0001.zip",
+      "result": "5349 KB"
+    },
+    {
+      "name": "Final Request for Proposals (Hanford 222-S Laboratory).zip",
+      "result": "28653 KB"
+    },
+    {
+      "name": "https www.emcbc.doe.gov SEB Hanford222S",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " The Department of Energy (DOE) is releasing the Final Request for Proposal (RFP), Solicitation Number (No.) 89303326REM000152, for the Hanford 222-S Laboratory procurement. The Final RFP can be found on the Environmental Management Consolidated Business Center (EMCBC) Hanford 222-S Laboratory&rsquo;s procurement website at https://www.emcbc.doe.gov/SEB/Hanford222S. \n\n Amendment 0001 to the Final Request for Proposal under Solicitation Number 89303326REM000152 has been posted. Offerors are responsible for reviewing these changes to ensure understanding of the requirements identified. \n\n  \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

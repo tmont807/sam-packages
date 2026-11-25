@@ -1,0 +1,40 @@
+{
+  "noticeId": "171d168a3f8c4917b2d543a41362b06b",
+  "solicitationNumber": "N0016727Q0002",
+  "title": "Building 19 Crane Rail Assessment",
+  "naics": "811310",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-08T17:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSEA > NAVSEA WARFARE CENTER > NSWC CARDEROCK",
+  "contacts": [
+    {
+      "name": "Tanika Banks",
+      "email": "tanika.banks.civ@us.navy.mil",
+      "phone": "7574780209"
+    }
+  ],
+  "files": [
+    {
+      "name": "b66562465b454261b6d3243a92e090c9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "19575c57af0d44709feb652cee6c1d6f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "1436aea51cfd4e1783b850d283066aaf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c1d87d4f72e14e5dae289d2afc811911",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Building 19 Crane Rail Assessment ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

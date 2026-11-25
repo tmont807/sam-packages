@@ -1,0 +1,45 @@
+{
+  "noticeId": "1a8f8baa8c8d4c87b08c1c3601368eac",
+  "solicitationNumber": "W912PM27BA011",
+  "title": "Thimble Shoal Channel Maintenance Dredging",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-05T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > W074 ENDIST WILMINGTON",
+  "contacts": [
+    {
+      "name": "Rosalind Shoemaker",
+      "email": "rosalind.m.shoemaker@usace.army.mil",
+      "phone": "9102514436"
+    },
+    {
+      "name": "Ruth Rodriguez",
+      "email": "ruth.c.rodriguez@usace.army.mil",
+      "phone": "9042324522"
+    }
+  ],
+  "files": [
+    {
+      "name": "354c85a9cfc747978104ce0ee239ae49",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2aadf639a02e439eb3ae0b7fedcb5ffd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a1b9a629bbfd4816acd04455fd0152bd",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "42d20fc60c0c453897a17e6f427afcb0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers, Enterprise Dredge Delivery Center (EDDC) requires a contract to provide maintenance dredging for Thimble Shoal Channel.  The work at Thimble Shoal Channel consists of maintenance dredging the Channel to a required depth of -57 feet MLLW. One (1) foot of overdepth dredging will be allowed as part of the contract dredging pay prism. Dredged material placement is within Dam Neck Ocean Disposal Site (DNODS) or Craney Island Dredged Material Management Area (CIDMMA) based upon channel stationing. Work may be performed by a hopper dredge, a mechanical dredge and scows, or a combination of the two. The following will be the performance period:05 March 2027 to 02 August 2027.  No hopper dredging from 01 September to 14 November. This solicitation is unrestricted. The contract issued will be Firm Fixed Price. The bid opening date will be January 05, 2027, as specified in the solicitation. No additional media (CD-ROM, floppy disks, facsimiles, etc.) will be provided. Paper copies of this solicitation will not be available. Other methods of requesting a package will not be honored.  The North American Industry Classification System (NAICS) code is 237990 - Other Heavy and Civil Engineering Construction and the size standard is $37,000,000.00.  Offerors must be registered in the System for Award Management (SAM) in order to be eligible to receive an award from any Government solicitation. Call 1-866-606-8220 for more information or visit the SAM website at www.sam.gov. After completing SAM, in order to download documents contractors and their subcontractors must register at www.sam.gov. In order to locate solicitation, Contractors can go to www. sam.gov and search for the solicitation number. Contractors can register to be put on a plan holders list that others can access through the www.sam.gov website. It is the Offerors responsibility to check the Internet address provided as necessary for any posted changes to this solicitation and all amendments. For additional information or assistance, please contact Ruth Rodriguez, Contract Specialist, email ruth.c.rodriguez@usace.army.mil or Rosalind Shoemaker, Contracting Officer, email rosalind.m.shoemaker@usace.army.mil.  ",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

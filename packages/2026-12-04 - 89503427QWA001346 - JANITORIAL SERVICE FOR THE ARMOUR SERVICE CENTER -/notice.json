@@ -1,0 +1,28 @@
+{
+  "noticeId": "afdfd15206b94beea6decd42d2f6d892",
+  "solicitationNumber": "89503427QWA001346",
+  "title": "JANITORIAL SERVICE FOR THE ARMOUR SERVICE CENTER -",
+  "naics": "561720",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > WESTERN-UPPER GREAT PLAINS REGION",
+  "contacts": [
+    {
+      "name": "Dittmer, Jonathan D.",
+      "email": "dittmer@wapa.gov",
+      "phone": "605-353-2641"
+    }
+  ],
+  "files": [
+    {
+      "name": "fc7d3f4bc02848918231c2042130eccc",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "JANITORIAL SERVICE FOR THE ARMOUR SERVICE CENTER - BASE YEAR OF 12 MONTHS - 1/01/27 through 12/31/27 WITH UP TO TWO OPTION YEARS. EO, 14398",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+}

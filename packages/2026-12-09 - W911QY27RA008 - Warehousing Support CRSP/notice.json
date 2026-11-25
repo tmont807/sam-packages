@@ -1,5 +1,5 @@
 {
-  "noticeId": "e75ed3657ceb45888059f7371035294f",
+  "noticeId": "ee8805f067694fe5afe7476756931a96",
   "solicitationNumber": "W911QY27RA008",
   "title": "Warehousing Support CRSP",
   "naics": "493110",
@@ -23,12 +23,24 @@
   ],
   "files": [
     {
-      "name": "Attachment 0004 Technical Data PackageR1-CRSP-Natick.xlsx",
-      "result": "1445 KB"
+      "name": "Attachment 0005 Wage Determination rev 37.pdf",
+      "result": "4250 KB"
     },
     {
-      "name": "Attachment 0005 Wage Determination.pdf",
-      "result": "4296 KB"
+      "name": "Questions and Answers 24NOV.docx",
+      "result": "17 KB"
+    },
+    {
+      "name": "Solicitation Conform - W911QY27RA0080001.pdf",
+      "result": "3165 KB"
+    },
+    {
+      "name": "Solicitation Amendment W911QY27RA0080001 SF 30.pdf",
+      "result": "3826 KB"
+    },
+    {
+      "name": "Attachment 0004 Technical Data PackageR1-CRSP-Natick.xlsx",
+      "result": "1445 KB"
     },
     {
       "name": "Solicitation - W911QY27RA008.pdf",
@@ -48,6 +60,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Warehousing support in accordance with the Attached Solicitation. \n",
-  "savedAt": "2026-11-24T12:16:35.025725+00:00"
+  "description": " Warehousing support in accordance with the Attached Solicitation and amendment. \n",
+  "savedAt": "2026-11-25T12:19:30.411766+00:00"
 }
