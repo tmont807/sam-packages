@@ -456,3 +456,23 @@
 | 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |
 | 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |
 | 2026-11-30 | 36C26227Q0107 | J041--VA Long Beach Healthcare System (VALBHS) Recurring Maintenance f | Long Beach | Unrestricted | 1 |
+
+## 2026-11-26
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-07 | 36C26127R0012 | Z2PZ--FY27 NRM - VISN Base - Design-Build to Replace Damaged Sidewalks | Fresno | Unrestricted | 3 |
+| 2026-12-03 | 140RR027Q0064 | Z--Elevator Inspection and Certification Services |  | Unrestricted | 1 |
+| 2026-12-09 | REQUIREMENTS-27-0082-2 | Facility Inspection and Certification Services for NOAA's Southeast Fi | Galveston, TX | Unrestricted | 1 |
+| 2026-12-09 | 36C10B27Q0144 | DA10--IT Control and Material Weakness Remediation [TSS Re-compete] (V |  | Unrestricted | 3 |
+| 2026-12-04 | DOIASAM270018 | D--Rapid Deployment, Operations & Sustainment Support |  | Unrestricted | 1 |
+| 2027-01-06 | FA714627RMLMA | Multi-Layered Market, Technology, and Business Analysis Services |  | NONE | 0 |
+| 2026-12-09 | REQUIREMENTS-27-0082-3 | Facility Janitorial, Grounds, and Pest Management Services for NOAA's  | Galveston, TX | Unrestricted | 1 |
+| 2026-12-09 | REQUIREMENTS-27-0082-1 | Facility Operations, Maintenance, and Repairs for NOAA's Southeast Fis | Galveston, TX | Unrestricted | 1 |
+| 2027-01-06 | HNCBASEOPSJAN2027SS | Base Operations Maintenance Services Requirements |  | SBA | 4 |
+| 2026-12-08 | IHS1533339 | RN & LPN Services for the Outpatient Dept.-Rosebud Indian Health Servi | Rosebud, SD | BICiv | 1 |
+| 2026-12-04 | 140GG027Q0038 | J--Sources sought maintenance for Nexion2000C |  | Unrestricted | 1 |
+| 2026-12-08 | 36C25627Q0179 | J074--Ricoh Maintenance Service and Supplies | Little Rock | Unrestricted | 2 |
+| 2026-12-03 | 36C26327Q0137 | H266--Sources Sought - Equipment Testing and Program Monitoring Servic | FORT MEADE | Unrestricted | 1 |
+| 2026-12-03 | 36C24227Q0163 | J030--Diesel Generator Service | Bronx, NY | Unrestricted | 2 |
+| 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |

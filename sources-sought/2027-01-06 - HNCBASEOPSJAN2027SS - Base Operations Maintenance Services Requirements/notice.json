@@ -1,0 +1,45 @@
+{
+  "noticeId": "0240026fd48e450db6772e018a1e846c",
+  "solicitationNumber": "HNCBASEOPSJAN2027SS",
+  "title": "Base Operations Maintenance Services Requirements",
+  "naics": "561210",
+  "type": "Sources Sought",
+  "setAside": "SBA",
+  "due": "2027-01-06T23:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > OTHER_DIVISION > W2V6 USA ENG SPT CTR HUNTSVIL",
+  "contacts": [
+    {
+      "name": "Cynthia Oxley",
+      "email": "Cynthia.A.Oxley@usace.army.mil",
+      "phone": "2568951598"
+    },
+    {
+      "name": "Tamikah DuboseFreeman",
+      "email": "Tamikah.M.DuboseFreeman@usace.army.mil",
+      "phone": "2568951360"
+    }
+  ],
+  "files": [
+    {
+      "name": "ab4a29f1ffa143398207a42c227d499d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "cd41abc10e074c618f7052bcf09dcb83",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "76cde43061a7486d8070449f87c38a81",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "da5117e2792946f283f52773ba71fc57",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "The U.S. Army Corps of Engineers, Engineering and Support Center, Huntsville (HNC), is conducting programmatic market research concerning several anticipated Base Operations maintenance and services requirements at Department of Defense installations. This notice is intended to identify interested and capable businesses, assess commercial and small-business market capacity, and obtain industry input to inform acquisition planning for each project.  Submit responses electronically to: CEHNC-BaseOps@usace.army.mil. ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

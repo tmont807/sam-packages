@@ -1,5 +1,5 @@
 {
-  "noticeId": "b2665b8b4aa943d3ae3fcc2e7bd26f05",
+  "noticeId": "f8ebb031a775427095b791832342f79b",
   "solicitationNumber": "W912CN-27-Q-A008",
   "title": "Preventive Maintenance and Repair Services - Kahuku Training Area (KTA)",
   "naics": "561210",
@@ -23,8 +23,20 @@
   ],
   "files": [
     {
+      "name": "Solicitation Amendment W912CN27QA0080002 SF 30.pdf",
+      "result": "3961 KB"
+    },
+    {
       "name": "Solicitation Amendment W912CN27QA0080001 SF 30.pdf",
       "result": "3928 KB"
+    },
+    {
+      "name": "Kahuku Q and A Worksheet W912CN27QA008 11.25.26.pdf",
+      "result": "113 KB"
+    },
+    {
+      "name": "Solicitation Amendment W912CN27QA0080002.pdf",
+      "result": "3421 KB"
     },
     {
       "name": "Solicitation Amendment - W912CN27QA0080001.pdf",
@@ -63,5 +75,7 @@
       "result": "47 KB"
     }
   ],
-  "savedAt": "2026-11-07T00:57:50.718000+00:00"
+  "kind": "solicitation",
+  "description": " The Regional Contracting Office Hawaii (RCO-HI) has a requirement for preventive maintenance, inspection, testing, unscheduled assessment/trouble-call, and repair services for HVAC; fire alarm and mass notification; emergency lighting and exit signs; and lightning protection systems at Kahuku Training Area, Oahu, Hawaii. The contractor shall provide all personnel, equipment, tools, materials, transportation, supervision, and other resources necessary to perform the requirement in accordance with the solicitation and Performance Work Statement. \n\n This solicitation is issued as Request for Quotations (RFQ) No.  W912CN27QA008  and is a  100 percent Total Small Business Set-Aside  under North American Industry Classification System (NAICS) code  561210 . The Government contemplates award of one firm-fixed-price requirements contract consisting of a base period and four 12-month option periods, with evaluation of the six-month option to extend services under FAR 52.217-8. The solicitation is conducted under the provisions of Federal Acquisition Regulation (FAR) Part 12,  Acquisition of Commercial Products and Commercial Services . \n\n To be eligible for award, quoters must maintain an active registration in the System for Award Management (SAM), including current and complete representations and certifications, at the time of quote submission and at the time of award. Quoters are responsible for monitoring SAM.gov for amendments and other solicitation information through the closing date. \n\n Refer to  Section L, pages 113&ndash;116 , for quote-submission instructions and required submission content, and  Section M, pages 120&ndash;121 , for evaluation criteria. Quoters must submit all required documents, including the signed SF 1449 and acknowledgement of all amendments, completed pricing documents for all applicable priced CLINs, and the technical capability submission. Do  not  price Repair Services CLIN 0006 or its option-year counterparts; repair services will be ordered and priced after award through Contracting Officer-issued firm-fixed-price task orders. \n\n Written questions are due no later than  10:00 a.m. Hawaii Standard Time (HST), Thursday, 19 November 2026 . Questions shall be submitted to both: \n\n \n\t \n\t  Travis Tonini, Contract Specialist:  travis.c.tonini.civ@army.mil \n\t \n\t \n\t  Keely K. Pool, Contracting Officer:  keely.k.pool.civ@army.mil \n\t \n \n\n Completed quotations and all supporting documentation must be submitted electronically by email to  Travis Tonini  at  travis.c.tonini.civ@army.mil  no later than  10:00 a.m. HST, Tuesday, 8 December 2026 . Faxed quotations will not be accepted. \n\n A site visit at Kahuku Training Area is scheduled for  Tuesday, 17 November 2026 . Attendance is strongly encouraged but not mandatory. Offerors intending to attend must submit required visit-request information no later than  12:00 p.m. HST, Tuesday, 10 November 2026 , to Travis Tonini for further instructions. (Solit file states 10:00 AM, but 12:00 p.m. is the official cut off). \n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
 }

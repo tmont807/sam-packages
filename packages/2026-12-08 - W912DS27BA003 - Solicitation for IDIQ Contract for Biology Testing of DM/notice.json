@@ -1,0 +1,40 @@
+{
+  "noticeId": "ad470dadb4fc4cd397aa7ea9f83ab393",
+  "solicitationNumber": "W912DS27BA003",
+  "title": "Solicitation for IDIQ Contract for Biology Testing of DM",
+  "naics": "541519",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-08T19:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > NAD > W2SD ENDIST NEW YORK",
+  "contacts": [
+    {
+      "name": "Denisse Soto",
+      "email": "Denisse.M.Soto@usace.army.mil",
+      "phone": "917-790-8177"
+    }
+  ],
+  "files": [
+    {
+      "name": "c1b80a260fd742179a0caa021e82300d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "789c5528764d4616a36144901f3f8eb9",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "82aad97380d14a06afea1e02e6d0301d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "834a04cca3ef47449ddc9f32e8b8d797",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "SOLICITATION FOR IDIQ Contract for Biology Testing of DM ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

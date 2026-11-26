@@ -1,0 +1,28 @@
+{
+  "noticeId": "121c7e8786b44b438d1fbacb02139b61",
+  "solicitationNumber": "89503427QWA001343",
+  "title": "100 KVA STATION SERVICE TRANSFORMER REFURBISHMENT",
+  "naics": "811310",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T20:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "ENERGY, DEPARTMENT OF > ENERGY, DEPARTMENT OF > WESTERN-UPPER GREAT PLAINS REGION",
+  "contacts": [
+    {
+      "name": "Pfeifle, Mary K.",
+      "email": "pfeifle@wapa.gov",
+      "phone": "605-566-6964"
+    }
+  ],
+  "files": [
+    {
+      "name": "e7289fd780e74c0db3faa8920455b397",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "100 KVA STATION SERVICE TRANSFORMER REFURBISHMENT",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

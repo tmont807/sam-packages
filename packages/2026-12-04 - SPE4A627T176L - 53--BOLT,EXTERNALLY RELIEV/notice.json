@@ -1,0 +1,28 @@
+{
+  "noticeId": "af8fc72180604d48a0a281ac50944386",
+  "solicitationNumber": "SPE4A627T176L",
+  "title": "53--BOLT,EXTERNALLY RELIEV",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "d4c5e763eccf4d59ba80e498c4cdedcf",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5306011487456 BOLT,EXTERNALLY RELIEV:\nLine 0001 Qty 86     UI EA  Deliver To: DLA DISTRIBUTION BARSTOW By: 0143 DAYS ADO\nLine 0002 Qty 4466   UI EA  Deliver To: DLA DISTRIBUTION BARSTOW By: 0143 DAYS ADO\nLine 0003 Qty 16672  UI EA  Deliver To: DLA DISTRIBUTION BARSTOW By: 0143 DAYS ADO\nApproved sources are 7E548 14077193; 7X677 14077193.\nThe solicitation is an RFQ and will be available at the link provided in this notice.  Hard copies of this solicitation are not available. Specifications, plans, or drawings are not available.\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

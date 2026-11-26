@@ -1,5 +1,5 @@
 {
-  "noticeId": "c0c466b4a7504d0e8473cfbf8e248de1",
+  "noticeId": "3c81ba2247564253bb04b94848b58cb4",
   "solicitationNumber": "7571PS27Q00030",
   "title": "IHS Evaluation Services IDIQ",
   "naics": "541611",
@@ -22,6 +22,10 @@
     }
   ],
   "files": [
+    {
+      "name": "SF_30_Amendment_1_7571PD27Q00030.pdf",
+      "result": "515 KB"
+    },
     {
       "name": "7571PS27Q00030 IHS_IDIQ_RFQ.pdf",
       "result": "306 KB"
@@ -52,6 +56,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Plese see attached documentation. \n",
-  "savedAt": "2026-11-20T12:13:00.516986+00:00"
+  "description": " Plese see attached documentation. \n\n ------------------------------------------------------------------------ \n\n Amendment 1 posted, please see attached documentation. \n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
 }

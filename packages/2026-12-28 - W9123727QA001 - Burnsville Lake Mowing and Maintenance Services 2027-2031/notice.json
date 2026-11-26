@@ -1,0 +1,45 @@
+{
+  "noticeId": "1edd223d2efe4aa99a6508ff15c892e8",
+  "solicitationNumber": "W9123727QA001",
+  "title": "Burnsville Lake Mowing and Maintenance Services 2027-2031",
+  "naics": "561730",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-28T16:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST HUNTINGTON",
+  "contacts": [
+    {
+      "name": "TATUM BOCK",
+      "email": "tatum.a.bock@usace.army.mil",
+      "phone": "3043996966"
+    },
+    {
+      "name": "Bret Foley",
+      "email": "bret.r.foley@usace.army.mil",
+      "phone": "304-399-5169"
+    }
+  ],
+  "files": [
+    {
+      "name": "161774406b744b79a559efcf8478b077",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4fcbd68144a141b1804b84afb3f0aa44",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e336c259bb974874b6ec4a586f2dab8f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "dcab6adab789452da6b2a2b72794e32a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Mowing and Maintenance Service IDIQ Contract for Burnsville Lake, Burnsville WV 2027-2031 US Army Corps of Engineers, Huntington District  ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

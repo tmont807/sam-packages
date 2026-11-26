@@ -1,0 +1,36 @@
+{
+  "noticeId": "d84f1f7bb4b24ed89d637c60235e1543",
+  "solicitationNumber": "N6247327R0019",
+  "title": "IDIQ JOC Specialty Trade Projects for 29 Palms",
+  "naics": "238990",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-29T01:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "Esmeralda Raggio",
+      "email": "esmeralda.l.raggio.civ@us.navy.mil",
+      "phone": "N/A"
+    }
+  ],
+  "files": [
+    {
+      "name": "cbdad1add66e4e70b1b3324520ee1382",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "121f083dbaf84b748ee97c604a46666a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "a90c82e42a8e444e83310897cc36559a",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Login at https://piee.eb.mil and search for 'N6247327R0019' to obtain more details.*",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

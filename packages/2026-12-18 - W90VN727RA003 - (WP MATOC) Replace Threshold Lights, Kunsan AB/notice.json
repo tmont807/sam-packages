@@ -1,0 +1,45 @@
+{
+  "noticeId": "2189d7f1a1814c4a8e4b9a3338c65f0e",
+  "solicitationNumber": "W90VN727RA003",
+  "title": "(WP MATOC) Replace Threshold Lights, Kunsan AB",
+  "naics": "238210",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-18T04:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > 0906 AQ CO     DET B CONTRACTI",
+  "contacts": [
+    {
+      "name": "KYONG KO",
+      "email": "kyong.o.ko.ln@army.mil",
+      "phone": "011-82-503-355-9315"
+    },
+    {
+      "name": "KILCHAE SONG",
+      "email": "kilchae.song.ln@army.mll",
+      "phone": "011-82-503-355-9310"
+    }
+  ],
+  "files": [
+    {
+      "name": "5ba368ead2c846a8a4638780c9b4c5b2",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "f8bd9460173c448e87dbc9e033c4acf4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "299ec701cee940e4a81b7e2fee8a5ed7",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "b86e90825034451c913710390129c3db",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "THIS IS RFP FOR WORK PLAN TASK ORDER FOR THE FOLLOWING MATOC WORK-PLAN CONTRACTORS ONLYW91QVN-24-D-0039, -0042, -0043, -0044, -0045, -0047, -0049, -0050, 0053, 0055, -0056, - 0058, -0081 AND -0110.PROJECT TITLE: REPLACE THRESHOLD LIGHTS, KUNSAN ABPROJECT LOCATION: 8TH CES, KUNSAN AFB ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "noticeId": "57b3adf00301498d86d57fc469b16554",
+  "solicitationNumber": "W912P427RA004",
+  "title": "Veterans Affairs Medical Center - Canandaigua, NY Design-Build Project",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-11T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > LRD > W072 ENDIST BUFFALO",
+  "contacts": [
+    {
+      "name": "Nathaniel Dent",
+      "email": "Nathaniel.M.Dent@usace.army.mil",
+      "phone": ""
+    },
+    {
+      "name": "Tyrone Palaganas",
+      "email": "Tyrone.B.Palaganas@usace.army.mil",
+      "phone": "716-879-4126"
+    }
+  ],
+  "files": [
+    {
+      "name": "6a16c3184b0e406385a04f2471738077",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e174e046a93f48c699a42ebcc75546ee",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "350f5c7cf5b942edbd236f85de46bf68",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "2e87cd6db84243138b7d951bd2ce0484",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "The U.S. Army Corps of Engineers USACE, Buffalo District, is seeking to identify a Design-Build Team or Design-Builder for the Veterans Affairs Medical Center Phase III construction and renovation project located in Canandaigua, NY. This project is Phase III of III and consists of work that will include BLDG 1 exterior restorations and interior demolition with abatement and BLDG 3 interior build-out for new relocated Pharmacy. Building 1, after Phase III, will be left in a make safe condition shoring up structural and physical security conditions that will allow for future development. The Pharmacy will serve the medical campus and outside community. This is a competitive acquisition for the single award of a stand-alone contract. The Government will award a firm-fixed-price contract to the responsible offeror whose proposal is fair and reasonable and has been determined to be the most advantageous to the Government, technical, price and other factors considered. The basis of award is two-phase negotiated selection procedures in accordance with RFO 15.103-1, 15.104, and 36.101-2; therefore, the Government has the right to accept other than the lowest offer. The right is also reserved to reject any and all offers. The estimated magnitude for contract award is $40,000,000 to $75,000,000.  ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

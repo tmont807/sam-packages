@@ -1,5 +1,5 @@
 {
-  "noticeId": "d9bb6102e23b4043848b17c63f856f0d",
+  "noticeId": "a0e8b10db274421fa3d76df08dfc7b19",
   "solicitationNumber": "N6247827R2535",
   "title": "Equipment Operations, Maintenance, and Repair Services at Joint Base Pearl harbor Hickam, Hawaii (JBPHH).",
   "naics": "811310",
@@ -22,6 +22,10 @@
     }
   ],
   "files": [
+    {
+      "name": "27R2535 AMD 0001.pdf",
+      "result": "590 KB"
+    },
     {
       "name": "27R2535 PPI Responses_24NOV2026.pdf",
       "result": "120 KB"
@@ -120,6 +124,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " The Government is posting the attached updated OPS, responses to PPI questions, and amended Commercial Technical Specifications. Interested parties are encouraged to review the updated documents in their entirety. Additional information or revisions may be posted as necessary. Only changes formally incorporated through a solicitation amendment are binding. \n",
-  "savedAt": "2026-11-25T12:19:30.411766+00:00"
+  "description": " The Government is posting the attached amendment 0001. Additional information or revisions may be posted as necessary. Only changes formally incorporated through a solicitation amendment are binding. \n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
 }

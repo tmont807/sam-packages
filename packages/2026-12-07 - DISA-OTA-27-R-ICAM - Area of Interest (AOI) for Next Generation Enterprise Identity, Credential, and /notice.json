@@ -1,0 +1,52 @@
+{
+  "noticeId": "b1dc0f7d1e2f4525a271f894957de949",
+  "solicitationNumber": "DISA-OTA-27-R-ICAM",
+  "title": "Area of Interest (AOI) for Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) Prototype Other Transaction (OT)",
+  "naics": "541519",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-07T18:00:00+00:00",
+  "state": "MD",
+  "city": "Fort George G Meade",
+  "agency": "DEPT OF DEFENSE > DEFENSE INFORMATION SYSTEMS AGENCY (DISA) > IT CONTRACTING DIVISION - PL84",
+  "contacts": [
+    {
+      "name": "DITCO OTA Mailbox",
+      "email": "disa.scott.ditco.mbx.ps84-other-transaction-authority@mail.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "Final_AOI_Questions - Public - Part 1 and 2.xlsx",
+      "result": "30 KB"
+    },
+    {
+      "name": "Final_AOI_Questions - Controlled - Part 1 and 2.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "AOI - NG E-ICAM - Amendment 0003.pdf",
+      "result": "311 KB"
+    },
+    {
+      "name": "Attachment 1 - Desired Solution Attributes.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Attachment 2 Affirmation_of_Business_Status_Certification.pdf",
+      "result": "258 KB"
+    },
+    {
+      "name": "Appendix A - DoW ICAM Governing Authorities List - Updated.pdf",
+      "result": "198 KB"
+    },
+    {
+      "name": "Appendix B - DoD_Enterprise_ICAM_Reference_Design.pdf",
+      "result": "2280 KB"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "  Amendment 0004 -&nbsp; The purpose of this amendment is to provide the Government&#39;s combined Parts 1 and 2 Responses to questions submitted. Access requests to the controlled attachment containing Government responses should be submitted by the Data Custodian and contain a JCP certification number.&nbsp; \n\n Additionally, the AOI and Appendix A have been updated to include clarifying details based on questions received.&nbsp; \n\n The Phase I - Solution Brief submission deadline has been extended. Responses to this AOI are now due December 7, 2026 by 12:00PM CST in accordance with the updated AOI.&nbsp; \n\n  Amendment 0003 -&nbsp; The purpose of this amendment is to provide the Government&#39;s Part 1 Responses to questions submitted. The Government will post a Part 2 of responses within a reasonable timeframe. Access requests to the controlled attachment containing Government responses should be submitted by the Data Custodian and contain a JCP certification number. \n\n  Amendment 0002 -&nbsp; The purpose of this amendment is to update the Area of Interest (AOI) requirements due to the large number of questions received. DITCO will post the Government responses to questions received within a reasonable timeframe. Additionally, minor typographical errors were corrected.&nbsp; \n\n  Amendment 0001 -&nbsp; The purpose of this amendment is to clarify the Area of Interest (AOI) requirements for accessing the controlled Attachment 1 - Desired Solution Attributes.&nbsp; \n\n The Defense Information Systems Agency (DISA) seeks solutions to prototype a Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) capability for the Department of War. This effort will modernize legacy identity infrastructure with a modular, cloud-hosted commercial off-the-shelf/software-as-a-service solution operating across IL5 and IL6 environments. The prototype must address the Federated Identity Provider, Automated Account Provisioning, Master Entitlement Record, and Federation Hub core capabilities. \n\n Interested parties are encouraged to review the full Area of Interest solicitation for detailed requirements. \n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

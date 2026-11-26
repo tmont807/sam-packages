@@ -1,0 +1,220 @@
+{
+  "noticeId": "bf7e0d1033364ee6a1c68b6a71fda623",
+  "solicitationNumber": "47PB5427R0003",
+  "title": "Department Of Energy - National Nuclear Security Administration Joint Cyber Facility Construction Solicitation",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "NONE",
+  "due": "2026-12-21T18:00:00+00:00",
+  "state": "CO",
+  "city": "Lakewood",
+  "agency": "",
+  "contacts": [
+    {
+      "name": "Jamie (James) Potter",
+      "email": "jamie.potter@gsa.gov",
+      "phone": "3035889153"
+    }
+  ],
+  "files": [
+    {
+      "name": "Solicitation Amendment 47PB5427R0003_0001.pdf",
+      "result": "602 KB"
+    },
+    {
+      "name": "08_Department Of Energy - National Nuclear Security Administration Joint Cyber Facility Request for Information Log - RFI Log.pdf",
+      "result": "179 KB"
+    },
+    {
+      "name": "47PB5427R0003 Form.pdf",
+      "result": "1306 KB"
+    },
+    {
+      "name": "DOE NNSA JCF_Pre-bid Sign-in Sheet_20261112.pdf",
+      "result": "540 KB"
+    },
+    {
+      "name": "0.6.4_1a_BIM Submission QC Checklist_v2025.1.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_2a_DOE NNSA JCF_ ADDENDUM 1_20261125.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.3_2_DOE NNSA JCF_Owners Project Requirements_AMD-1_20261124.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "0.6.4_2a_GSA, CDX, and COBie Data Standard_v2025.1.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "01_Solicitation Department Of Energy - National Nuclear Security Administration Joint Cyber Facility.pdf",
+      "result": "618 KB"
+    },
+    {
+      "name": "02_47PB5427R0003.pdf",
+      "result": "1306 KB"
+    },
+    {
+      "name": "03_Draft Agreement.docx",
+      "result": "54 KB"
+    },
+    {
+      "name": "04_CUI Building Information Request Form.pdf",
+      "result": "91 KB"
+    },
+    {
+      "name": "05_Sample Proprietary Information Agreement.docx",
+      "result": "8 KB"
+    },
+    {
+      "name": "06_Department Of Energy - National Nuclear Security Administration Joint Cyber Facility SOW_20261029.pdf",
+      "result": "622 KB"
+    },
+    {
+      "name": "07_Price Proposal Form.xlsx",
+      "result": "117 KB"
+    },
+    {
+      "name": "Wage Determination Davis-Bacon Act WD CO20260023.pdf",
+      "result": "40 KB"
+    },
+    {
+      "name": "06.1_1_DOE NNSA JCF_Narrative Memo_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_2_DOE NNSA JCF_CD-100% IFC Combined Set_20261023_.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_3_DOE NNSA JCF_Project Manual Volume 1_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_4_DOE NNSA JCF_Project Manual Volume 2_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_5_DOE NNSA JCF_APPENDIX A - BUILDING 810 SOUTHWATCH.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_6_DOE NNSA JCF_APPENDIX B - Graphics_Signage_CD-100 IFC.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_7_DOE NNSA JCF_APPENDIX C - ARCH-03GSAA-IA_LIGHTING CALCULATION REPORT_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_8_DOE NNSA JCF_APPENDIX D - FP Calculations_CD-100 IFC_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_9_APPENDIX E - Mechanical Calculations_CD-100 IFC_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_10_DOE NNSA JCF_Final Existing Conditions Survey_Hazardous Materials Survey_260723.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_11_DOE NNSA JCF_BIM Execution Plan BEP & COBIE Integrated Design Process IDP_20.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.1_12_DOE NNSA JCF_COBie Spreadsheet_IA & CMTA_20261023.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.2_1_ICD-ICS-705_v1.5.1_20210726.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.2_2_ICS-705-1_Construction Security Plan (CSP)_20261026.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.2_3_Watch Floor Furniture Design_Rev D_20260617.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.2_3a_Watch Floor Furniture Power Whip_PowerLinc Brochure 2024-LR.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.2_4_Watch Floor_Planar Video Wall Design_20260806.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.2_5_Conference Rooms_GDIT AV Design_Rev 7_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.3_1_Commissioning Plan_20261023.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.3_2_Owners Project Requirements_20261027.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.3_3_FFE Responsibility Matrix_20261027.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.3_4_Site Logistics Plan_20261028.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_1_GSA BIM, CDX & COBie Standard_v2025.1.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_2_ CDX Implementation Guide_V2025.1.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_3_DOE NNSA JCF_Security ROCAL_YYYYMMDD.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_4_CD_Waste_Management_Plan__Reporting_Template.xlsx",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_5_NDA_Document_Security.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_6_GSA Data Normalization for Building Automation Systems_v25.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_7_2022-0017-Niagara-Information-and-Conformation-Statement-NICS.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_8_BAS Graphic Guideline Rev A.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "06.4_9_FPS_Escort-After-Hours-Form_20260430.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "Department Of Energy - National Nuclear Security Administration Joint Cyber Facility, Past Performance Questionnaire Google Form [GC]",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "Pre-Proposal Conference Site Visit",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "  Amendment 0001 &ndash; Government Responses to RFIs, Revised Solicitation Documents, and Proposal Submission Deadline Extension  \n\n The purpose of this amendment is to provide the Government&rsquo;s responses to Requests for Information (RFIs), incorporate revised and supplemental solicitation documents, and extend the proposal submission deadline. \n\n 1. Attachment 8, &ldquo;Department of Energy &ndash; National Nuclear Security Administration Joint Cyber Facility Request for Information Log,&rdquo; dated November 25, 2026, has been incorporated into the solicitation. \n\n 2. In connection with the Government&rsquo;s responses to the RFIs, the following revised and supplemental documents have been incorporated into the solicitation and, where applicable, supersede their previously issued versions: \n\n \n\t RFI-020: 06.3_2_DOE NNSA JCF_Owners Project Requirements_AMD-1_20261124 \n\t RFI-036, RFI-038, RFI-065, RFI-066, RFI-093, and RFI-103: 06.1_2a_DOE NNSA JCF_ADDENDUM 1_20261125 \n\t RFI-060:\n\t \n\t\t 0.6.4_1a_BIM Submission QC Checklist_v2025.1 \n\t\t 0.6.4_2a_GSA, CDX, and COBie Data Standard_v2025.1 \n\t \n\t \n \n\n  3. The proposal submission deadline has been extended from December 7, 2026, at 11:00 a.m. (Mountain Time) to December 21, 2026, at 11:00 a.m. (Mountain Time).  \n\n 4. A forthcoming solicitation amendment, anticipated to be issued during the week of November 30, 2026, will incorporate additional revisions to the applicable specifications and drawings. RFIs associated with these revisions are identified in Attachment 8 as &ldquo;To Be Addressed in a Forthcoming Amendment.&rdquo; No further extension of the proposal submission deadline is anticipated. \n\n 5. Offerors shall review the documents associated with this amendment and acknowledge receipt in accordance with Block 11 of the SF 30. \n\n 6. The Site Visit Attendance Log is also being made available for informational purposes and has been uploaded to the Attachments/Links section of this solicitation notice. \n\n 7.&nbsp;A revised Standard Form (SF) 1442 reflecting the extended proposal submission deadline has been uploaded for administrative convenience. Offerors should utilize the revised SF 1442 when preparing and submitting their proposals. Offerors remain responsible for acknowledging receipt of all solicitation amendments. \n\n Except as expressly amended herein, all other terms, conditions, and requirements of the solicitation remain unchanged. \n\n ______________________________________________________ \n\n  Project Title:  Department Of Energy - National Nuclear Security Administration Joint Cyber Facility \n\n  Project Location:  Building 810, Denver Federal Center, Lakewood, Colorado 80225&nbsp; \n\n  NAICS:  236220, Commercial &amp; Institutional Building Construction \n\n  Estimated Price Range : Between $10 and $20 million \n\n  1. Project Summary:  The U.S. General Services Administration (GSA), intends to procure construction services for a design-bid-build project for the development of a Joint Cyber Facility (JCF) for the U.S. Department of Energy (DOE) National Nuclear Security Administration (NNSA) at the Denver Federal Center in Lakewood, Colorado. \n\n This requirement for a new turnkey JCF consists of approximately 23,688 square feet of combined office and support space, including approximately 16,000 square feet of finished office workspace and 7,688 square feet of existing mechanical and electrical rooms supporting the space. The project includes integration of existing equipment from a prior data center installation. The finished space includes a reception area, offices, conference rooms, hoteling cubicles, pantry, server room, and a large video conferencing room. \n\n Construction and tenant build-out will occur within an occupied facility, necessitating careful coordination with active surrounding tenants. Work includes, demolition, architectural, mechanical, electrical, plumbing, fire protection, telecommunications, audio visual system infrastructure, security infrastructure, equipment, and coordinating installation of system furniture components, all of which must strictly adhere to accreditation requirements and standards. \n\n  2. Solicitation Documents and Access Requirements  \n\n  NOTICE: Project-related documents, including drawings, specifications, and other supporting technical information, are available. To receive a copy of the scope of work documents, offerors must first complete the provided CUI Information Request Form (Request for Controlled Unclassified Information (CUI)) and any required Business License Form and submit the completed/signed forms to the Contracting Officer at    jamie.potter@gsa.gov   .  \n\n  After submitting the required forms, offerors must request access to the controlled documents through    SAM.gov   . Access will be granted through    SAM.gov    to offerors that have submitted properly completed forms and requested access to the controlled documents.  \n\n  3. Pre-Proposal Conference / Site Visit  \n\n  Date:  Thursday, November 12, 2026 \n\n  Location:  Building 810 Lobby, Denver Federal Center, Lakewood, Colorado \n\n  RSVP Deadline:  Tuesday, November 10, 2026, at 11:00 a.m. (Mountain Time) \n\n  RSVP Registration Link:&nbsp; https://forms.gle/SL5GCKVBnby2Bb7j6      \n\n Interested offerors planning to attend the site visit  must RSVP using the registration link provided above  no later than the specified deadline. \n\n 4.  Questions and Clarifications  \n\n All questions regarding the solicitation shall be submitted in writing via email to the Contracting Officer no later than  Thursday, November 19, 2026, at 11:00 a.m. Mountain Time . \n\n Questions received after the deadline may not be considered. The Government anticipates issuing responses to timely submitted questions through a solicitation amendment. \n\n  5. Proposal Submission  \n\n  Proposal Due Date:  Monday, December 7, 2026 \n\n  Proposal Due Time:  11:00 a.m. Mountain Time \n\n Offerors shall submit proposals in accordance with the instructions and require",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "noticeId": "4c0b10c8de02420aacd1b544bd9f1633",
+  "solicitationNumber": "SPE4A527T4019",
+  "title": "53--STUD,BONDED",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "cd47dd2b1e5f4e6c8568bda0b98ceb8f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5307011696803 STUD,BONDED:\nLine 0001 Qty 134    UI EA  Deliver To: DLA DISTRIBUTION DEPOT HILL By: 0383 DAYS ADO\nLine 0002 Qty 1      UI EA  Deliver To: DLA DISTRIBUTION DEPOT HILL By: 0120 DAYS ADO\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes must be submitted electronically.\n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

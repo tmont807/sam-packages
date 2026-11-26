@@ -1,5 +1,5 @@
 {
-  "noticeId": "2dae45ee515045498b227da435d36b23",
+  "noticeId": "2f704245cfb84060ad8be02247e9f18e",
   "solicitationNumber": "36C24227B0006",
   "title": "Z1DA--528A8-22-814 Consolidate Primary Care Reception",
   "naics": "236220",
@@ -17,6 +17,14 @@
     }
   ],
   "files": [
+    {
+      "name": "Walk Through Sign in Sheet.pdf",
+      "result": "375 KB"
+    },
+    {
+      "name": "36C24227B0006 0003.docx",
+      "result": "27 KB"
+    },
     {
       "name": "36C24227B0006 0002.docx",
       "result": "123 KB"
@@ -59,6 +67,6 @@
     }
   ],
   "kind": "solicitation",
-  "description": " Amendment 0002 answers vendor questions. \n\n Due to a transmission error, the solicitation document has been manually replaced, this amendment describes the changes in the new document. \n",
-  "savedAt": "2026-11-21T11:59:34.290119+00:00"
+  "description": " Amendment 0003 answers vendor questions and posts site visit sign in sheet. \n\n Amendment 0002 answers vendor questions. \n\n Due to a transmission error, the solicitation document has been manually replaced, this amendment describes the changes in the new document. \n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
 }

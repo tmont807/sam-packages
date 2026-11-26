@@ -1,0 +1,40 @@
+{
+  "noticeId": "f58c89ded61c4886a1a945a6db824702",
+  "solicitationNumber": "W912PM27RA008",
+  "title": "Enterprise Dredge Delivery Center (EDDC) Scope Dredge to Budget (SDtB) Shallow Draft Maintenance Dredging - Galveston District",
+  "naics": "237990",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-14T18:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > USACE > SAD > W074 ENDIST WILMINGTON",
+  "contacts": [
+    {
+      "name": "Terri Adams",
+      "email": "terri.m.adams@usace.army.mil",
+      "phone": "910-251-4915"
+    }
+  ],
+  "files": [
+    {
+      "name": "c981469eafcc4027b9538052a09e1ebe",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "549276ad52bb4fbf9ff0813f637f89a8",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "145ce7485e30426faf9c2114d2b448b3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "bfb1a920f2a7448183c4d86827ed71f4",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Enterprise Dredge Delivery Center (EDDC) Scope Dredge to Budget (SDtB) Shallow Draft Maintenance Dredging - Galveston District ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

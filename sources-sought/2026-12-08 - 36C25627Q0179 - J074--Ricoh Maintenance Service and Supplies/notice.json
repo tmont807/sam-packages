@@ -1,0 +1,32 @@
+{
+  "noticeId": "956cc6135d3d48c2991b279702e7a0e9",
+  "solicitationNumber": "36C25627Q0179",
+  "title": "J074--Ricoh Maintenance Service and Supplies",
+  "naics": "811210",
+  "type": "Sources Sought",
+  "setAside": "Unrestricted",
+  "due": "2026-12-08T18:00:00+00:00",
+  "state": "",
+  "city": "Little Rock",
+  "agency": "VETERANS AFFAIRS, DEPARTMENT OF > VETERANS AFFAIRS, DEPARTMENT OF > 256-NETWORK CONTRACT OFFICE 16 (36C256)",
+  "contacts": [
+    {
+      "name": "Joseph Warren",
+      "email": "joseph.warren@va.gov",
+      "phone": "479-444-5011"
+    }
+  ],
+  "files": [
+    {
+      "name": "36C25627Q0179.docx",
+      "result": "29 KB"
+    },
+    {
+      "name": "fbbf6b20ae3b411e91c9271a6860f6f3",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "sources_sought",
+  "description": "Ricoh Service & Supply Contract\n",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

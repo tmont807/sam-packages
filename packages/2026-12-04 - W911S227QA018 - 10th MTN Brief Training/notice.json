@@ -1,0 +1,40 @@
+{
+  "noticeId": "ef1c34bdf18c4247a0c5cbe95ed5cc45",
+  "solicitationNumber": "W911S227QA018",
+  "title": "10th MTN Brief Training",
+  "naics": "611430",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-04T15:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE ARMY > AMC > ACC > MISSION & INSTALLATION CONTRACTING COMMAND > 419TH CSB > W6QM MICC-FT DRUM",
+  "contacts": [
+    {
+      "name": "Micah White",
+      "email": "micah.white3.mil@army.mil",
+      "phone": "3157726523"
+    }
+  ],
+  "files": [
+    {
+      "name": "cc59b063cade44e0b5fd5704a8b24cd0",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "0676eeb9e9334a988344376df9793e77",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "6666e5e7ac604c92a8dc439d14baed81",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "e8de6aa3af0f410e85f9292af0753c33",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "10th MTN Brief Training ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

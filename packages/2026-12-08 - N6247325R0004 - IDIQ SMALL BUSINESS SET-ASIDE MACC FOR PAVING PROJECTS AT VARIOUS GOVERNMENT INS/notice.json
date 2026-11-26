@@ -1,0 +1,40 @@
+{
+  "noticeId": "7aee513b670c4568b172f27fee5ed789",
+  "solicitationNumber": "N6247325R0004",
+  "title": "IDIQ SMALL BUSINESS SET-ASIDE MACC FOR PAVING PROJECTS AT VARIOUS GOVERNMENT INSTALLATIONS LOCATED IN CA, AZ, NV, UT, CO, AND NM",
+  "naics": "237310",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-08T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC SOUTHWEST SW > NAVFACSYSCOM SOUTHWEST",
+  "contacts": [
+    {
+      "name": "Kansas Hanneken",
+      "email": "kansas.l.hanneken.civ@us.navy.mil",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "78f969fdc0b747b3b7b5137353c2cfee",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "76a43a0c25504ac8b54790c9d68e15fa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "4f7e833bc7e34d4fae3e45701e2d86aa",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "7cd7888941d048a295585c1b1d23bd7f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Government responses to RFIs dated November 25, 2026. ",
+  "savedAt": "2026-11-26T12:19:29.368697+00:00"
+}

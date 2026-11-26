@@ -1178,3 +1178,96 @@
 | 2026-12-08 | 36C25027Q0078 | J012--Fire Suppression System Maintenance and |  | Unrestricted | 14 |
 | 2026-12-08 | 31040RFQ270000084 | Provide service for main switch gear cleaning, visual inspection, brea | Portsmouth, VA | SBA | 5 |
 | 2026-12-04 | N0016427Q0013 | ON GOING MAINTENANCE | Crane, IN | SBA | 4 |
+
+## 2026-11-26
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-08 | 7571PS27Q00030 | IHS Evaluation Services IDIQ | Rockville, MD | BICiv | 8 |
+| 2027-01-04 | W912PL279A001 | Sentinel Re-Entry Vehicle Facility (RSRV) Construction Manager at Risk |  | Unrestricted | 4 |
+| 2026-12-04 | 6973GH-26-R-00082 | Headquarters Building (HQB) Mechanical and Electrical Upgrades at the  | Oklahoma City, OK | NONE | 40 |
+| 2026-12-21 | 47PB5427R0003 | Department Of Energy - National Nuclear Security Administration Joint  | Lakewood, CO | NONE | 49 |
+| 2027-01-08 | 36C25626R0114 | Z2DZ--520-27-102 Install Catwalks and Safety Railings for Aboveground  |  | Unrestricted | 14 |
+| 2026-12-10 | W912QR27BA004 | Renovate Building 1203-DOAS AHU and Fire Suppression Water System, Mar |  | SBA | 4 |
+| 2026-12-08 | 36C24227B0006 | Z1DA--528A8-22-814 Consolidate Primary Care Reception | Albany, NY | Unrestricted | 12 |
+| 2026-12-04 | N4008527R9006 | NH100 Engine Control Unit Replacement | Camp Lejeune, NC | SBA | 7 |
+| 2027-01-11 | W912P427RA004 | Veterans Affairs Medical Center - Canandaigua, NY Design-Build Project |  | Unrestricted | 4 |
+| 2026-12-22 | 36C24726R0137_1 | Z2DA--FY27 NRM 557-23-104 Replace Boiler Plant Steam Boilers Construct |  | Unrestricted | 9 |
+| 2026-12-09 | 385515GMK | Wilson Hall Floor 16 Electric and Elevator Machine Rooms Fire Rating a | IL | SBA | 9 |
+| 2027-01-08 | 140PP027R0005 | Y--GRCA 318719 North Rim & Springs Rehabilitation Pro |  | Unrestricted | 54 |
+| 2026-12-08 | N6247325R0004 | IDIQ SMALL BUSINESS SET-ASIDE MACC FOR PAVING PROJECTS AT VARIOUS GOVE |  | SBA | 4 |
+| 2026-12-08 | 69056726R000009 | ID FLAP CLEAR 4783(1), Dent Bridge Road Improvements | Orofino, ID | Unrestricted | 9 |
+| 2026-12-03 | 6982AF27B000005 | UT NP ARCH 100(2) Bridges on Delicate Arch Road | Moab, UT | NONE | 17 |
+| 2026-12-09 | W9127N27BA010 | NAVIGATION LOCK TAINTER VALVE (TV) REPAIR, TV1 |  | Unrestricted | 4 |
+| 2026-12-09 | W9127N27BA009 | JOHN DAY DAM NAVIGATION LOCK TAINTER VALVE (TV) REPAIRS TV3 AND TV4 |  | Unrestricted | 4 |
+| 2026-12-14 | W912PM27RA008 | Enterprise Dredge Delivery Center (EDDC) Scope Dredge to Budget (SDtB) |  | SBA | 4 |
+| 2026-12-14 | W912PM27BA002 | Calcasieu Bar River Channel, Pascagoula Harbor, and Panama City Harbor |  | Unrestricted | 4 |
+| 2026-12-10 | 140PP027R0004 | Y--JELA 325250 335621 - Rehabilitate Cemetery |  | SBA | 15 |
+| 2026-12-04 | 1240LT27Q0003  | GAOA Mesa Falls VC Roof Repairs in Caribou-Targhee National Forest, Id | Idaho Falls, ID | SBA | 10 |
+| 2026-12-28 | 36C24826R0132_1 | Bid-Build (BB) Replace Miami VAHCS BLDG1 Roof |  | Unrestricted | 9 |
+| 2026-12-18 | W90VN727RA003 | (WP MATOC) Replace Threshold Lights, Kunsan AB |  | Unrestricted | 4 |
+| 2026-12-10 | 15BBNF27Q50100001 | Install Generator- FCI Bastrop | Bastrop, TX | SBA | 8 |
+| 2026-12-10 | 140FF027Q0080 | J--AK-AK MARITIME NWR-LEAK REPAIR |  | SBA | 6 |
+| 2026-12-03 | 36C24627Q0088 | J048--Clinical Lab Bypass Loop System Install |  | Unrestricted | 2 |
+| 2026-12-18 | 15BBNF26Q20100004 | FCC Allenwood - Replace HVAC Units - Project 26Z2BE3 | Allenwood, PA | SBA | 10 |
+| 2026-12-04 | 36C25927Q0048 | Radiant Heating Panel Replacement | Aurora, CO | SBA | 6 |
+| 2026-12-07 | 70Z02426Q00000005 | Water treatment installation | Boston, MA | NONE | 4 |
+| 2026-12-07 | N0018926QL038 | Carpet Installation, LED light installation, and Painting | Norfolk, VA | SBA | 6 |
+| 2026-12-18 | 20150PR270000020 | Carpet Replacement at USCG Air Station Clearwater | Clearwater, FL | SBA | 3 |
+| 2026-12-07 | 385439GMK | UTILITY EXCAVATION AND REPAIR SERVICES IDIQ | Batavia, IL | SBA | 2 |
+| 2026-12-29 | N6247327R0019 | IDIQ JOC Specialty Trade Projects for 29 Palms |  | Unrestricted | 3 |
+| 2026-12-07 | 140EE127Q0003 | N--OHMSETT FUNCTIONAL CLASSROOM UPGRADE |  | Unrestricted | 8 |
+| 2026-12-07 | SPE8E827T0790 | 44--COOLER,FLUID,INDUSTRIA |  | SBA | 1 |
+| 2026-12-07 | SPE8E927T0673 | 44--CORE ASSEMBLY,FLUID HE |  | SBA | 1 |
+| 2026-12-11 | SPE7L327U0440 | 53--PACKING,PREFORMED |  | Unrestricted | 1 |
+| 2026-12-04 | SPE4A527T4019 | 53--STUD,BONDED |  | SBA | 1 |
+| 2026-12-11 | SPE4A627U0372 | 53--RING,RETAINING |  | SBA | 1 |
+| 2026-12-11 | SPE7L327U0403 | 53--STANDOFF,PLAIN,SNAP-IN |  | SBA | 1 |
+| 2026-12-11 | SPE4A627U0383 | 53--FASTENER ASSEMBLY,TURN |  | Unrestricted | 1 |
+| 2026-12-11 | SPE7L327U0421 | 53--PARTS KIT,SEAL REPLACE |  | Unrestricted | 1 |
+| 2026-12-11 | SPE7L327U0431 | 53--SEAL,NONMETALLIC STRIP |  | Unrestricted | 1 |
+| 2026-12-11 | SPE4A627U0379 | 53--RING,RETAINING |  | Unrestricted | 1 |
+| 2026-12-11 | SPE7L327U0433 | 53--SEAL,NONMETALLIC SPECI |  | SBA | 1 |
+| 2026-12-11 | SPE7L327U0444 | 53--HANDWHEEL |  | Unrestricted | 1 |
+| 2026-12-11 | SPE7L327U0284 | 53--STRAP,WEBBING |  | Unrestricted | 1 |
+| 2026-12-11 | SPE4A627U0375 | 53--PIN-RIVET |  | Unrestricted | 1 |
+| 2026-12-11 | SPE7L327U0442 | 53--COVER,ACCESS |  | Unrestricted | 1 |
+| 2026-12-11 | SPE4A627U0370 | 53--RIVET,BLIND |  | SBA | 1 |
+| 2026-12-11 | SPE7L327U0161 | 53--O-RING |  | SBA | 1 |
+| 2026-12-11 | SPE4A627U0369 | 53--NUT,SELF-LOCKING,HEXAG |  | SBA | 1 |
+| 2026-12-04 | SPE4A627T176L | 53--BOLT,EXTERNALLY RELIEV |  | SBA | 1 |
+| 2026-12-11 | SPE4A627U0378 | 53--WASHER,FLAT |  | Unrestricted | 1 |
+| 2026-12-11 | SPE7L327U0181 | 53--CLAMP,LOOP |  | SBA | 1 |
+| 2026-12-08 | N0010426QFF64 | STUD,CONTINUOUS THD |  | Unrestricted | 5 |
+| 2026-12-08 | SPMY327Q2010 | CAPSCREWS | Kittery, ME | SBA | 4 |
+| 2026-12-11 | SPE7L327U0209 | 66--PANEL,INDICATOR |  | SBA | 1 |
+| 2026-12-28 | N0010427QBD24 | GAGE,DP,4.5 IN,0-30 |  | Unrestricted | 1 |
+| 2026-12-03 | ITPS270019 | Intent to Sole Source – Ricoh OEM Printer Ink (P N 12X8201) | Ogden, UT | NONE | 2 |
+| 2026-12-07 | FA440727QTW04 | FY27 Scott AFB Air Show Audio Service | Scott AFB, IL | SBA | 4 |
+| 2026-12-04 | RFQ_481463 | A-E Cost Estimation Services | Upton, NY | NONE | 8 |
+| 2026-12-14 | W15P7T-26-R-A006 | Marketplace for Acquisition of Professional Services (MAPS) | Aberdeen Proving Ground, MD | Unrestricted | 27 |
+| 2026-12-18 | N0003926RG004 | Portfolio Acquisition Executive (PAE) Mission Systems (MS) PLANNING, A |  | SBA | 4 |
+| 2026-12-04 | 15DDHQ27R00000001 | Aviation Operations Center (AOC)- Building Engineer Report (BER) | Fort Worth, TX | SBA | 3 |
+| 2026-12-09 | 75H71027Q00004 | Pharmacy Patient Workflow Tracking System | Gallup, NM | SBA | 2 |
+| 2026-12-07 | DISA-OTA-27-R-ICAM | Area of Interest (AOI) for Next Generation Enterprise Identity, Creden | Fort George G Meade, MD | Unrestricted | 7 |
+| 2026-12-08 | W912DS27BA003 | Solicitation for IDIQ Contract for Biology Testing of DM |  | Unrestricted | 4 |
+| 2026-12-20 | 140DWF27QL016 | HIDDEN HILLS WEST - CULTURAL INVENTORY |  | SBA | 1 |
+| 2026-12-19 | N6274227R1801 | Marine Resource Technical Services Throughout the Naval Facilities Eng |  | SBP | 20 |
+| 2027-09-02 | FA7146-20-S-0001(CERI) | Commercial and Economic Research and Innovation (CERI) |  | Unrestricted | 1 |
+| 2026-12-04 | 75N98027Q00111 | Metabolic Kitchen Cook Services—Base Period and Two Option Years | Bethesda, MD | Unrestricted | 1 |
+| 2026-12-08 | W912CN-27-Q-A008 | Preventive Maintenance and Repair Services - Kahuku Training Area (KTA | Kahuku, HI | SBA | 13 |
+| 2026-12-09 | 140FF027Q0104 | MT-CRESTON NWR - Bat Exclusion |  | SBA | 3 |
+| 2026-12-07 | W9123727QA005 | W9123727QA005 Walhonding Mowing and Maintenance IDIQ 2027-2031 |  | SBA | 4 |
+| 2026-12-28 | W9123727QA001 | Burnsville Lake Mowing and Maintenance Services 2027-2031 |  | SBA | 4 |
+| 2026-12-28 | W9123727QA006 | W9123727QA006 Bluestone Mowing and Maintenance IDIQ 2027-2031 |  | SBA | 4 |
+| 2026-12-09 | W9123727QA017 | W91237-27-Q-A017 Dumpster Services for East Lynn Lake |  | Unrestricted | 4 |
+| 2026-12-04 | 36C78627Q0019 | S205--Solicitation Marion National Cemetery Trash Services |  | Unrestricted | 2 |
+| 2026-12-07 | 36C78627Q0039 | 36C78627Q0039 Universal Waste Services for Ft Sam Houston National Cem |  | Unrestricted | 1 |
+| 2026-12-11 | N0060427Q4008 | TOTAL SAILOR FIT TO FIGHT (TSFTF) WORKSHOPS RESILIENCE KEYNOTE SPEAKER | JBPHH, HI | SBA | 3 |
+| 2026-12-04 | W911S227QA018 | 10th MTN Brief Training |  | SBA | 4 |
+| 2026-12-09 | HT941027QE007 | Hemodialysis and Reverse Osmosis (RO) System Maintenance Services at T | Tripler Army Medical Center, HI | NONE | 3 |
+| 2026-12-04 | 75N98027Q00123 | Hardware Software Upgrades for Zeiss Confocal Microscopy Systems | Bethesda, MD | Unrestricted | 1 |
+| 2026-12-04 | FA812627Q0009 | Arc Spark Optical Emission Spectrometer | Tinker AFB, OK | NONE | 5 |
+| 2026-12-04 | 89503427QWA001343 | 100 KVA STATION SERVICE TRANSFORMER REFURBISHMENT |  | SBA | 1 |
+| 2026-12-08 | N6247827R2535 | Equipment Operations, Maintenance, and Repair Services at Joint Base P |  | SBA | 25 |
+| 2026-12-14 | FA460826QS053 | Gate Valve Frame Replacement | Barksdale AFB, LA | NONE | 3 |
