@@ -1271,3 +1271,11 @@
 | 2026-12-04 | 89503427QWA001343 | 100 KVA STATION SERVICE TRANSFORMER REFURBISHMENT |  | SBA | 1 |
 | 2026-12-08 | N6247827R2535 | Equipment Operations, Maintenance, and Repair Services at Joint Base P |  | SBA | 25 |
 | 2026-12-14 | FA460826QS053 | Gate Valve Frame Replacement | Barksdale AFB, LA | NONE | 3 |
+
+## 2026-11-27
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2027-01-26 | N4008427R1027 | N4008427R1027 FY27 SPECIAL PROJECT USNH AMENDMENT 0003 |  | Unrestricted | 4 |
+| 2026-12-04 | 6973GH-27-R-00005 | Mike Monroney Aeronautical Center (MMAC) Industrial Waste Water Treatm | Oklahoma City, OK | SBA | 30 |
+| 2026-12-30 | N0010426QYAHV | 53--SCREW,MACHINE |  | Unrestricted | 3 |

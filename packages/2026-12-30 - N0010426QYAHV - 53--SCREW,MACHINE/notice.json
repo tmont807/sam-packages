@@ -1,0 +1,36 @@
+{
+  "noticeId": "774dad9ee8f34901a67e043168627755",
+  "solicitationNumber": "N0010426QYAHV",
+  "title": "53--SCREW,MACHINE",
+  "naics": "332722",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2026-12-30T20:30:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVSUP > NAVSUP WEAPON SYSTEMS SUPPORT > NAVSUP WSS MECHANICSBURG > NAVSUP WEAPON SYSTEMS SUPPORT MECH",
+  "contacts": [
+    {
+      "name": "Electronic Mail: BRITTANY.A.LANGLETZ.CIV@US.NAVY.MIL",
+      "email": "BRITTANY.A.LANGLETZ.CIV@US.NAVY.MIL",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "010877548-N0010426QYAHV-DWG-10-30-26.pdf",
+      "result": "failed: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "9692df4d8d8141549d465d88c0b7ac9f",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "9597f4283b50419fb0b877d37d58abb1",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "CONTACT INFORMATION|4|N741.P08|ER4|N/A|jessica.t.grzywna.civ@us.navy.mil|\rITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19||||||||||||||||||||\rINSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2|||\rGENERAL INFORMATION-FOB-DESTINATION|1|B|\rWIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (JAN 2023)|16|Invoice and receiving reports (combo)||Cognizant DFAS|N00104|COGNIZANT DCMA|COGNIZANT DCMA|SEE SCHEDULE|SOURCE|||TBD||||||\rNAVY USE OF ABILITYONE SUPPORT CONTRACTOR - RELEASE OF OFFEROR INFORMATION (3-18))|1|WSS MECHANICSBURG|\rMANDATORY USE OF WORKFLOW PRO (WFP) MOD ASSIST MODULE|1||\rBUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM-BASIC (FEB 2024)|11||||||||||||\rSMALL BUSINESS SUBCONTRACTING PLAN (DOD CONTRACTS)-BASIC (DEV 2026-O0037)(FEB 2026))|2|||\rOPTION FOR INCREASED QUANTITY (MAR 1989)|1|365 DAYS|\rNOTICE OF TOTAL SMALL BUSINESS SET-ASIDE (DEV 2026-O0037)(FEB 2026)|1||\rSECURITY PROHIBITIONS AND EXCLUSIONS (CLASS DEVIATION 2026-O0025)(FEB 2026)|7||||||||\rBUY AMERICAN-FREE TRADE AGREEMENTS-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024))|5||||||\rBUY AMERICAN-BALANCE OF PAYMENTS PROGRAM CERTIFICATE-BASIC (FEB 2024)|1||\rALTERNATE A, ANNUAL REPRESENTATIONS AND CERTIFICATIONS (DEVIATION 2026-O0043)(FEB 2026))|13||||||||||||||\rNOTICE OF PRIORITY RATING FOR NATIONAL DEFENSE, EMERGENCY PERPARDENESS, AND ENRGY PROGAM USE (APRIL 2008))|2||X|\rThis is a EAF Spares requirement for the items listed in this solicitation.\r All contractual documents (i.e. contracts, purchase orders, task orders,\rdelivery orders and modifications) related to the instant procurement\rare considered to be \"issued\" by the Government when copies are\reither deposited in the mail, transmitted by facsimile, or sent by other\relectronic commerce methods, such as email. The Government's\racceptance of the contractor's proposal constitutes bilateral agreement\rto \"issue\" contractual documents as detailed herein.\rregarding evaluation from being inserted under Section M in this Request for\rQuotation. Nevertheless, the provision is deemed to be a part of Section M.\r Evaluation Utilizing Simplified Acquisition Procedures\rThe Government will issue an order resulting from this Request for\rQuotation to the responsible offeror whose quotation, conforming to the\rsolicitation, results in the best value to the Government, considering both\rprice and a non-price factor. The following factors will be used to evaluate\rquotations:\r(1) Past Performance. The offeror?s past performance on related contracts\rwill be evaluated to determine, as appropriate, successful performance of\rcontract requirements, quality and timeliness of delivery of goods and\rservices, cost management, communications between contracting parties,\rproactive management, and customer satisfaction.\r (2) Price.\r(End of provision)\r\\\r1.  SCOPE\r1.1    ;This procurement specification contains the requirements for manufacture and the contract quality requirements for ;Screw, Flat Head; for use on Navy submarines.;\r2.  APPLICABLE DOCUMENTS\r2.1   Applicable Documents - The document(s) listed below form a part of this contract/purchase order including modifications or exclusions.\r2.1.1   Documents, drawings, and publications supplied are listed under \"Drawing Number\".  These items should be retained until an award is made.\r2.1.2   \"Document References\" listed below must be obtained by the Contractor. Ordering information is included as an attachment to this contract/purchase order.\r2.1.3   The \"Document Changes\" section provides supersessions/changes to referenced documents.\r2.2   Order of Precedence - In the event of a conflict between the text of this contract/purchase order and the references and/or drawings cited herein, the text of this contract/purchase order shall take precedence.  Nothing in this contract/purchase order,\rhowever, shall supersede applicable laws and regulations unless a specific exemption has been obtained.\rDRAWING DATA=4491149                                 |53711| V|   |D|0001        |  |49998|0461104\rDOCUMENT REF DATA=FF-S-86J                      |    |  |   |250401|A|  |  |\rDOCUMENT REF DATA=MIL-STD-973                   |    |  |   |950113|A|  |03|\rDOCUMENT REF DATA=MIL-STD-130N                  |    |  |   |121116|A|  |01|\rDOCUMENT REF DATA=QQ-N-281D                     |    |  |   |851023|A|2 |  |\rDOCUMENT REF DATA=ISO 9001                      |    |  |   |150915|A|  |  |\rDOCUMENT REF DATA=ISO 10012                     |    |  |   |030415|A|  |  |\rDOCUMENT REF DATA=NCSL Z540.3                   |    |  |   |060903|A|  |  |\rDOCUMENT REF DATA=MIL-DTL-18240F                |    |  |   |000313|A|1 |  |\rDOCUMENT REF DATA=FED-STD-H28/20B               |    |  |   |941221|A|  |01|\rDOCUMENT REF DATA=MIL-I-45208A                  |    |  |   |810724|A|1 |  |\rDOCUMENT REF DATA=ASME B1.3-2007                |    |  |   |      |A|  |  |\rDOCUMENT REF DATA=ASME B46.1-2019               |    |  |   |      |A|  |  |\rDOCUMENT REF DATA=EIA-649C 2/19                 |    |  |   |      |A|  |  |\rDOCUMENT CHANGE DATA=MIL-F-18240E                       |MIL-DTL-18240F\r3.  REQUIREMENTS\r3.1    ;Design and Manufacturing - The ;Screw, Flat Head, Type IV; furnished under this contract/ purchase order shall meet the material, physical and mechanical requirements as specified on Drawing 4491149, Item No. 9 including associated specifications\rmentioned in this procurement. ;\r3.1.1    ;The Self-Locking Element Nylok (Configuration ?A?) shall be in accordance with Drawing 4491149 and MIL-DTL-18240.;\r3.2    ;Qualified Products List - The Self-Locking Element (Nylok, Configuration A) furnished under this order shall be in accordance with MIL-DTL-18240 and shall be products which are qualified on the applicable qualified products list (QPL).;\r3.3    ;Marking Requirements - The supplier shall permanently mark and identify each production lot unit ;Screw, Flat Head; on the top surface with manufacture?s symbol and material identification ?NICU? as required by FF-S-86 per MIL-STD-13",
+  "savedAt": "2026-11-27T12:14:24.549778+00:00"
+}

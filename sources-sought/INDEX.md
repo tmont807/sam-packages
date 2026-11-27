@@ -476,3 +476,10 @@
 | 2026-12-03 | 36C26327Q0137 | H266--Sources Sought - Equipment Testing and Program Monitoring Servic | FORT MEADE | Unrestricted | 1 |
 | 2026-12-03 | 36C24227Q0163 | J030--Diesel Generator Service | Bronx, NY | Unrestricted | 2 |
 | 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |
+
+## 2026-11-27
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-09 | 36C10B27Q0144 | DA10--IT Control and Material Weakness Remediation [TSS Re-compete] (V |  | Unrestricted | 3 |
+| 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |

@@ -1,0 +1,40 @@
+{
+  "noticeId": "9df7cd2393e349028dd312d9545f4713",
+  "solicitationNumber": "N4008427R1027",
+  "title": "N4008427R1027 FY27 SPECIAL PROJECT USNH AMENDMENT 0003",
+  "naics": "236220",
+  "type": "Solicitation",
+  "setAside": "Unrestricted",
+  "due": "2027-01-26T06:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEPT OF THE NAVY > NAVFAC > NAVFAC PACIFIC CMD > NAVFAC FAR EAST > NAVFACSYSCOM FAR EAST",
+  "contacts": [
+    {
+      "name": "Teresa Aguon",
+      "email": "teresa.f.aguon.civ@us.navy.mil",
+      "phone": "3152432875"
+    }
+  ],
+  "files": [
+    {
+      "name": "b513042968824d039d2efe9fda9c70fb",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "c484f2bbd48b4172ad49573b33f85187",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "12941fd4da264501b3b5bed03dafd305",
+      "result": "failed: HTTP Error 400: Bad Request"
+    },
+    {
+      "name": "af9bae09830d4aeb983e59934a7bc93e",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Amendment 0003 with six (6) enclosures is posted on 27 November 2026. The proposal due date is extended from 08 December 2026 to 26 January 2027 at 3:00 p.m. JST. Offeror shall acknowledge this amendment in Block 19 of the SF1442 submitted with their proposals. ",
+  "savedAt": "2026-11-27T12:14:24.549778+00:00"
+}
