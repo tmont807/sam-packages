@@ -1279,3 +1279,16 @@
 | 2027-01-26 | N4008427R1027 | N4008427R1027 FY27 SPECIAL PROJECT USNH AMENDMENT 0003 |  | Unrestricted | 4 |
 | 2026-12-04 | 6973GH-27-R-00005 | Mike Monroney Aeronautical Center (MMAC) Industrial Waste Water Treatm | Oklahoma City, OK | SBA | 30 |
 | 2026-12-30 | N0010426QYAHV | 53--SCREW,MACHINE |  | Unrestricted | 3 |
+
+## 2026-11-28
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-17 | W912P427BA001 | FY27 Euclid Creek Fishway Construction |  | SBA | 5 |
+| 2026-12-07 | 70Z02426Q00000005 | Water treatment installation | Boston, MA | NONE | 4 |
+| 2026-12-07 | N0018926QL038 | Carpet Installation, LED light installation, and Painting | Norfolk, VA | SBA | 6 |
+| 2026-12-31 | SPE4A627Q0367 | 53--COLLAR,PIN-RIVET |  | SBA | 1 |
+| 2026-12-10 | N0040627R0002 | Region - OCONUS JAPAN Support Services |  | Unrestricted | 4 |
+| 2026-12-11 | 36C25627Q0151 | H912--Fire Dampers Inspection and Testing Services |  | Unrestricted | 7 |
+| 2026-12-30 | W9127827RA002 | Fiscal Year (FY) 2027 Florida Panhandle Optimized Remediation Contract | FL | SBA | 15 |
+| 2026-12-09 | 28321327Q00000019 | Chicago Parking Space Rental |  | SBA | 1 |

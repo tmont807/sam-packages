@@ -1,0 +1,28 @@
+{
+  "noticeId": "d0bdeed2d2d043c2b27c2743d25809e9",
+  "solicitationNumber": "28321327Q00000019",
+  "title": "Chicago Parking Space Rental",
+  "naics": "812930",
+  "type": "Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-09T22:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "SOCIAL SECURITY ADMINISTRATION > SOCIAL SECURITY ADMINISTRATION > SSA OFC OF ACQUISITION  GRANTS",
+  "contacts": [
+    {
+      "name": "BELL, NATHANIEL",
+      "email": "NATHANIEL.BELL@SSA.GOV",
+      "phone": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "Click here to see more information about this opportunity on FedConnect",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": " The Social Security Administration (SSA) Office of the Inspector General (OIG), Chicago Field Division, requires secure, continuously accessible indoor parking for Government-leased vehicles. The Contractor shall provide indoor parking spaces, access controls, facility security, and related parking services for authorized Government-leased vehicles. The Contractor shall make the required spaces available throughout the period of performance and provide: \nReserved spaces: Three (3) spaces, assigned to SSA or designated users and marked or otherwise identified for their exclusive use; \nUnreserved spaces: Four (4) spaces, available to designated users on a first-come, first-served basis subject to availability and Garage capacity. \nThis is a total small business set aside under NAICS 812930. \n",
+  "savedAt": "2026-11-28T12:03:46.916193+00:00"
+}

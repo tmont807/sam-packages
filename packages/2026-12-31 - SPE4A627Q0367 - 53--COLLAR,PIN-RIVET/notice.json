@@ -1,0 +1,28 @@
+{
+  "noticeId": "9c9233d15ab44cf3b5d20b11ffc33299",
+  "solicitationNumber": "SPE4A627Q0367",
+  "title": "53--COLLAR,PIN-RIVET",
+  "naics": "332722",
+  "type": "Combined Synopsis/Solicitation",
+  "setAside": "SBA",
+  "due": "2026-12-31T00:00:00+00:00",
+  "state": "",
+  "city": "",
+  "agency": "DEPT OF DEFENSE > DEFENSE LOGISTICS AGENCY > DLA AVIATION > DLA AV RICHMOND > DLA AVIATION",
+  "contacts": [
+    {
+      "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
+      "email": "DibbsBSM@dla.mil",
+      "phone": null
+    }
+  ],
+  "files": [
+    {
+      "name": "8f6b5278713b47ef855a1359e97bd33d",
+      "result": "failed: HTTP Error 400: Bad Request"
+    }
+  ],
+  "kind": "solicitation",
+  "description": "Proposed procurement for NSN 5320005797819 COLLAR,PIN-RIVET:\nLine 0001 Qty 45703  UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0300 DAYS ADO\nLine 0002 Qty 1      UI EA  Deliver To: DLA DISTRIBUTION DEPOT OKLAHOMA By: 0180 DAYS ADO\nAll responsible sources may submit a quote which, if timely received, shall be considered.\nQuotes may be submitted electronically.\n",
+  "savedAt": "2026-11-28T12:03:46.916193+00:00"
+}

@@ -483,3 +483,13 @@
 |---|---|---|---|---|---|
 | 2026-12-09 | 36C10B27Q0144 | DA10--IT Control and Material Weakness Remediation [TSS Re-compete] (V |  | Unrestricted | 3 |
 | 2026-12-07 | 36C25027Q0125 | J061--Emergency Switchgear Repairs PWS 539 |  | Unrestricted | 13 |
+
+## 2026-11-28
+
+| Due | Notice | Title | Place | Set-aside | Files |
+|---|---|---|---|---|---|
+| 2026-12-11 | 70FA3127I00000002  | FIID Advanced Anti-Fraud and Risk-Modeling Proof of Concept | Washington, DC | Unrestricted | 5 |
+| 2026-12-02 | 36C10B27Q0010 | DA10--Enterprise Database Vulnerability Scanning Solution Request For  |  | Unrestricted | 12 |
+| 2026-12-02 | 140PP027Q0045 | 53--Supply Keys and Cores Parkwide - Lake Mead National Recreation Are |  | Unrestricted | 0 |
+| 2026-12-04 | 140PP027Q0060 | S--Trash and Recycling Collection Services Lake Mead National Recreati |  | Unrestricted | 1 |
+| 2026-12-02 | N42158-27-RFPREQ-NNSY-900-0007 | Diesel Tank Part Cleanings | Portsmouth, VA | NONE | 1 |
